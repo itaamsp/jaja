@@ -298,6 +298,7 @@
       "pumpkin_pie": "2024-12-20 00:30:36 +0000",
       "bread": "2024-12-18 21:43:29 +0000",
       "cookie": "2024-12-24 23:40:14 +0000",
+      "rotten_flesh": "2024-12-27 22:49:08 +0000",
       "golden_carrot": "2024-12-24 02:50:52 +0000"
     },
     "done": false
@@ -1657,6 +1658,12 @@
   "minecraft:recipes/transportation/rail": {
     "criteria": {
       "has_minecart": "2024-12-20 01:00:21 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stripped_spruce_wood": {
+    "criteria": {
+      "has_log": "2024-12-27 22:46:53 +0000"
     },
     "done": true
   },
