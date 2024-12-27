@@ -297,3 +297,9 @@
 [27Dec2024 23:11:31.964] [User Authenticator #12/INFO] [net.minecraft.network.login.ServerLoginNetHandler/]: UUID of player Tontuex is c116b748-fcf7-310a-8879-08ba63865e69
 [27Dec2024 23:11:34.512] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.advancements.PlayerAdvancements@67a5cb83
 [27Dec2024 23:11:34.518] [Server thread/INFO] [net.minecraft.server.management.PlayerList/]: Tontuex[/127.72.193.197:52533] logged in with entity id 14305 at (387.6256286024869, 68.0, 18.33016190525249)
+[27Dec2024 23:20:20.209] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: Tontuex lost connection: Timed out
+[27Dec2024 23:20:20.214] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Tontuex left the game
+[27Dec2024 23:20:20.262] [Server thread/WARN] [net.minecraft.network.NetworkManager/]: handleDisconnection() called twice
+[27Dec2024 23:26:15.987] [Server thread/INFO] [Console/]: <Crying_Prophet> soy estupido
+[27Dec2024 23:26:21.240] [Server thread/INFO] [Console/]: <Dylan_HHH> zi
+[27Dec2024 23:26:26.177] [Server thread/INFO] [Console/]: <Crying_Prophet> hice placas de presiom XDDDDDDDDDDD
