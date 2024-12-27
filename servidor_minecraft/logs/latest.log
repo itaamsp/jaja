@@ -215,3 +215,18 @@
 [27Dec2024 22:31:18.090] [User Authenticator #8/INFO] [net.minecraft.network.login.ServerLoginNetHandler/]: UUID of player Tontuex is c116b748-fcf7-310a-8879-08ba63865e69
 [27Dec2024 22:31:20.066] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.advancements.PlayerAdvancements@586d1dd5
 [27Dec2024 22:31:20.071] [Server thread/INFO] [net.minecraft.server.management.PlayerList/]: Tontuex[/127.138.193.100:33329] logged in with entity id 4897 at (341.42560738077333, 68.0, -2.0690006063217035)
+[27Dec2024 22:37:35.621] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: Tontuex lost connection: Timed out
+[27Dec2024 22:37:35.646] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Tontuex left the game
+[27Dec2024 22:37:35.715] [Server thread/WARN] [net.minecraft.network.NetworkManager/]: handleDisconnection() called twice
+[27Dec2024 22:37:36.287] [User Authenticator #9/INFO] [net.minecraft.network.login.ServerLoginNetHandler/]: UUID of player Tontuex is c116b748-fcf7-310a-8879-08ba63865e69
+[27Dec2024 22:37:39.417] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.advancements.PlayerAdvancements@4b34d5d2
+[27Dec2024 22:37:39.424] [Server thread/INFO] [net.minecraft.server.management.PlayerList/]: Tontuex[/127.138.193.100:34945] logged in with entity id 6266 at (380.33592462039604, 71.0, 5.993931163983714)
+[27Dec2024 22:44:48.955] [User Authenticator #10/INFO] [net.minecraft.network.login.ServerLoginNetHandler/]: UUID of player Dylan_HHH is 7bf25c75-cb42-3eb9-bc7e-9109e9e259b5
+[27Dec2024 22:44:50.418] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.advancements.PlayerAdvancements@534b47f5
+[27Dec2024 22:44:50.424] [Server thread/INFO] [net.minecraft.server.management.PlayerList/]: Dylan_HHH[/127.161.163.130:53235] logged in with entity id 7544 at (345.76758107113915, 68.0, -40.75680936392765)
+[27Dec2024 22:45:05.597] [Server thread/INFO] [Console/]: <Dylan_HHH> hola
+[27Dec2024 22:45:08.513] [Server thread/INFO] [Console/]: <Crying_Prophet> OLA
+[27Dec2024 22:45:17.274] [Server thread/INFO] [Console/]: <Tontuex> ola
+[27Dec2024 22:45:30.385] [Server thread/INFO] [Console/]: <Dylan_HHH> pvp o q
+[27Dec2024 22:45:34.842] [Server thread/INFO] [Console/]: <Crying_Prophet> na
+[27Dec2024 22:45:38.826] [Server thread/INFO] [Console/]: <Crying_Prophet> estoy con la granja
