@@ -195,3 +195,23 @@
 [27Dec2024 22:24:27.860] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: Tontuex lost connection: Timed out
 [27Dec2024 22:24:27.871] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Tontuex left the game
 [27Dec2024 22:24:27.926] [Server thread/WARN] [net.minecraft.network.NetworkManager/]: handleDisconnection() called twice
+[27Dec2024 22:25:31.761] [Server thread/INFO] [net.minecraft.entity.Entity/]: Villager VillagerEntity['Villager'/291, l='ServerLevel[world]', x=311.59, y=68.00, z=-16.90] died, message: 'Villager tried to swim in lava'
+[27Dec2024 22:25:48.606] [Server thread/INFO] [net.minecraft.entity.Entity/]: Villager VillagerEntity['Mason'/294, l='ServerLevel[world]', x=304.50, y=68.05, z=-21.35] died, message: 'Mason tried to swim in lava to escape Crying_Prophet'
+[27Dec2024 22:27:26.996] [User Authenticator #6/INFO] [net.minecraft.network.login.ServerLoginNetHandler/]: UUID of player Tontuex is c116b748-fcf7-310a-8879-08ba63865e69
+[27Dec2024 22:27:28.972] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.advancements.PlayerAdvancements@6b773b7e
+[27Dec2024 22:27:28.980] [Server thread/INFO] [net.minecraft.server.management.PlayerList/]: Tontuex[/127.144.18.75:58503] logged in with entity id 2763 at (375.9401426530405, 72.0, 3.6517230600400112)
+[27Dec2024 22:27:44.067] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: Tontuex lost connection: Timed out
+[27Dec2024 22:27:44.090] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Tontuex left the game
+[27Dec2024 22:27:44.132] [Server thread/WARN] [net.minecraft.network.NetworkManager/]: handleDisconnection() called twice
+[27Dec2024 22:28:05.473] [User Authenticator #7/INFO] [net.minecraft.network.login.ServerLoginNetHandler/]: UUID of player Tontuex is c116b748-fcf7-310a-8879-08ba63865e69
+[27Dec2024 22:28:09.415] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.advancements.PlayerAdvancements@5f4a0c37
+[27Dec2024 22:28:09.423] [Server thread/INFO] [net.minecraft.server.management.PlayerList/]: Tontuex[/127.72.193.197:32817] logged in with entity id 3428 at (375.9401426530405, 72.0, 3.6517230600400112)
+[27Dec2024 22:30:39.738] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: Crying_Prophet moved too quickly! 4.169873147572774,0.7531999805212024,9.7073082562259
+[27Dec2024 22:30:39.739] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2034ms or 40 ticks behind
+[27Dec2024 22:31:09.511] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: Tontuex was kicked for floating too long!
+[27Dec2024 22:31:09.512] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: Tontuex lost connection: Flying is not enabled on this server
+[27Dec2024 22:31:09.524] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Tontuex left the game
+[27Dec2024 22:31:09.569] [Server thread/WARN] [net.minecraft.network.NetworkManager/]: handleDisconnection() called twice
+[27Dec2024 22:31:18.090] [User Authenticator #8/INFO] [net.minecraft.network.login.ServerLoginNetHandler/]: UUID of player Tontuex is c116b748-fcf7-310a-8879-08ba63865e69
+[27Dec2024 22:31:20.066] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.advancements.PlayerAdvancements@586d1dd5
+[27Dec2024 22:31:20.071] [Server thread/INFO] [net.minecraft.server.management.PlayerList/]: Tontuex[/127.138.193.100:33329] logged in with entity id 4897 at (341.42560738077333, 68.0, -2.0690006063217035)
