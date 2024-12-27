@@ -2756,3 +2756,28 @@ java.lang.UnsatisfiedLinkError: no netty_transport_native_epoll_x86_64 in java.l
 [27Dec2024 22:55:33.275] [Server thread/INFO] [Console/]: <Crying_Prophet> listo w
 [27Dec2024 22:55:40.080] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: Gathering id map for writing to world save world
 [27Dec2024 22:55:40.092] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: ID Map collection complete world
+[27Dec2024 22:55:55.532] [Server thread/INFO] [Console/]: <Crying_Prophet> mira no tenemos bambu verdad?
+[27Dec2024 22:56:00.783] [Server thread/INFO] [Console/]: <Dylan_HHH> no
+[27Dec2024 22:56:21.683] [Server thread/INFO] [Console/]: <Crying_Prophet> vamos pue ya tengo tow
+[27Dec2024 22:56:30.824] [Server thread/INFO] [Console/]: <Dylan_HHH> vamo p
+[27Dec2024 22:57:26.968] [Server thread/INFO] [Console/]: <Crying_Prophet> [name:"Bioma granja de oro", x:-168, y:128, z:-425, dim:minecraft:the_nether]
+[27Dec2024 22:57:35.991] [Server thread/INFO] [Console/]: <Crying_Prophet> ve a esas coordenadas
+[27Dec2024 22:57:39.522] [Server thread/INFO] [Console/]: <Crying_Prophet> ten
+[27Dec2024 22:58:10.624] [Server thread/INFO] [Console/]: <Crying_Prophet> ve a esas coords
+[27Dec2024 22:58:15.675] [Server thread/INFO] [Console/]: <Dylan_HHH> oki
+[27Dec2024 22:58:23.565] [Server thread/INFO] [Console/]: <Crying_Prophet> falta como un stack de magma blocks
+[27Dec2024 22:58:28.846] [Server thread/INFO] [Console/]: <Crying_Prophet> pero eso es rapido
+[27Dec2024 22:59:26.013] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Dylan_HHH has completed the challenge [Hot Tourist Destinations]
+[27Dec2024 22:59:36.133] [Server thread/INFO] [Console/]: <Dylan_HHH> xd
+[27Dec2024 22:59:39.656] [Worker-Main-2/DEBUG] [Implementer/SWITCH_TABLE]: Candidate switch enum method <clinit>()V class net/minecraft/block/RotatedPillarBlock$1
+[27Dec2024 22:59:39.984] [Worker-Main-2/DEBUG] [Implementer/SWITCH_TABLE]: Candidate switch enum method <clinit>()V class net/minecraft/block/FourWayBlock$1
+[27Dec2024 23:00:04.562] [Server thread/DEBUG] [Implementer/SWITCH_TABLE]: Filling switch table for class org.bukkit.entity.EntityType
+[27Dec2024 23:00:05.763] [Server thread/INFO] [Console/]: <Dylan_HHH> ya llegue
+[27Dec2024 23:00:14.368] [Server thread/INFO] [Console/]: <Crying_Prophet> ya voy
+[27Dec2024 23:00:40.119] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: Gathering id map for writing to world save world
+[27Dec2024 23:00:40.125] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: ID Map collection complete world
+[27Dec2024 23:02:24.524] [Server thread/INFO] [Console/]: <Crying_Prophet> voy
+[27Dec2024 23:05:36.414] [Server thread/INFO] [Console/]: <Crying_Prophet> ya va
+[27Dec2024 23:05:39.831] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: Gathering id map for writing to world save world
+[27Dec2024 23:05:39.835] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: ID Map collection complete world
+[27Dec2024 23:05:42.364] [Server thread/INFO] [Console/]: <Crying_Prophet> ando viendo el video

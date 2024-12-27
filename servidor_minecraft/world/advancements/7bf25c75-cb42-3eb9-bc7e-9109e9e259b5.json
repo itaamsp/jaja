@@ -1127,11 +1127,13 @@
   },
   "minecraft:nether/explore_nether": {
     "criteria": {
+      "minecraft:crimson_forest": "2024-12-27 22:59:26 +0000",
       "minecraft:soul_sand_valley": "2024-12-24 02:17:01 +0000",
       "minecraft:nether_wastes": "2024-12-26 03:20:14 +0000",
-      "minecraft:basalt_deltas": "2024-12-18 21:51:52 +0000"
+      "minecraft:basalt_deltas": "2024-12-18 21:51:52 +0000",
+      "minecraft:warped_forest": "2024-12-27 22:58:58 +0000"
     },
-    "done": false
+    "done": true
   },
   "minecraft:recipes/decorations/sandstone_wall": {
     "criteria": {
