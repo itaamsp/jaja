@@ -101,3 +101,5 @@
 [28Dec2024 02:34:31.896] [User Authenticator #20/INFO] [net.minecraft.network.login.ServerLoginNetHandler/]: UUID of player Crying_Prophet is 5113c246-f851-365d-ae5f-8beea591f8fd
 [28Dec2024 02:34:33.418] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.advancements.PlayerAdvancements@245898c2
 [28Dec2024 02:34:33.424] [Server thread/INFO] [net.minecraft.server.management.PlayerList/]: Crying_Prophet[/127.72.193.197:56565] logged in with entity id 53894 at (-166.43777979869907, 181.0, -401.2166296336301)
+[28Dec2024 03:06:31.465] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: Dylan_HHH lost connection: Disconnected
+[28Dec2024 03:06:31.471] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Dylan_HHH left the game
