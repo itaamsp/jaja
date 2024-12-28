@@ -3402,3 +3402,16 @@ java.lang.UnsatisfiedLinkError: no netty_transport_native_epoll_x86_64 in java.l
 [28Dec2024 01:25:39.842] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: Gathering id map for writing to world save world
 [28Dec2024 01:25:39.846] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: ID Map collection complete world
 [28Dec2024 01:26:32.951] [Server thread/DEBUG] [Implementer/SWITCH_TABLE]: Candidate switch enum method $SWITCH_TABLE$net$minecraft$world$entity$player$EntityHuman$EnumBedResult()[I class org/bukkit/craftbukkit/v1_16_R3/event/CraftEventFactory$1
+[28Dec2024 01:30:39.918] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: Gathering id map for writing to world save world
+[28Dec2024 01:30:39.921] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: ID Map collection complete world
+[28Dec2024 01:35:24.976] [Server thread/INFO] [Console/]: <Crying_Prophet> ola
+[28Dec2024 01:35:28.716] [Server thread/INFO] [Console/]: <Crying_Prophet> toy en la granja
+[28Dec2024 01:35:32.567] [Server thread/INFO] [Console/]: <Crying_Prophet> afk
+[28Dec2024 01:35:40.041] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: Gathering id map for writing to world save world
+[28Dec2024 01:35:40.044] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: ID Map collection complete world
+[28Dec2024 01:35:41.566] [Server thread/INFO] [Console/]: <Crying_Prophet> ya genero 24 lingotes
+[28Dec2024 01:35:43.965] [Server thread/INFO] [Console/]: <Crying_Prophet> 34
+[28Dec2024 01:35:55.143] [Server thread/INFO] [Console/]: <Crying_Prophet> 35
+[28Dec2024 01:36:06.030] [Server thread/INFO] [Console/]: <Crying_Prophet> tienes que venir a verla w
+[28Dec2024 01:37:15.422] [Server thread/INFO] [Console/]: <Dylan_HHH> voy
+[28Dec2024 01:38:24.376] [Server thread/INFO] [Console/]: <Crying_Prophet> oki
