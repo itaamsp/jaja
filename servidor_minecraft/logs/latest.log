@@ -1,105 +1,182 @@
-[28Dec2024 00:08:24.164] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Crying_Prophet fell from a high place
-[28Dec2024 00:52:36.162] [User Authenticator #16/INFO] [net.minecraft.network.login.ServerLoginNetHandler/]: UUID of player Dylan_HHH is 7bf25c75-cb42-3eb9-bc7e-9109e9e259b5
-[28Dec2024 00:52:37.578] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.advancements.PlayerAdvancements@365845e8
-[28Dec2024 00:52:37.588] [Server thread/INFO] [net.minecraft.server.management.PlayerList/]: Dylan_HHH[/127.8.167.22:47835] logged in with entity id 29635 at (-167.53556266276726, 180.0, -421.4158971761214)
-[28Dec2024 00:52:52.710] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: Dylan_HHH lost connection: Timed out
-[28Dec2024 00:52:52.719] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Dylan_HHH left the game
-[28Dec2024 00:52:52.758] [Server thread/WARN] [net.minecraft.network.NetworkManager/]: handleDisconnection() called twice
-[28Dec2024 00:53:10.422] [User Authenticator #17/INFO] [net.minecraft.network.login.ServerLoginNetHandler/]: UUID of player Dylan_HHH is 7bf25c75-cb42-3eb9-bc7e-9109e9e259b5
-[28Dec2024 00:53:12.015] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.advancements.PlayerAdvancements@65cc1fd4
-[28Dec2024 00:53:12.020] [Server thread/INFO] [net.minecraft.server.management.PlayerList/]: Dylan_HHH[/127.87.34.104:45739] logged in with entity id 29740 at (-167.55586480147218, 142.10078082617926, -421.37807229112576)
-[28Dec2024 00:54:23.338] [Server thread/INFO] [Console/]: <Dylan_HHH> hola
-[28Dec2024 01:10:39.515] [Server thread/INFO] [net.minecraft.entity.Entity/]: Villager VillagerEntity['Villager'/296, l='ServerLevel[world]', x=262.76, y=65.00, z=-23.85] died, message: 'Villager was slain by Zombie'
-[28Dec2024 01:35:24.976] [Server thread/INFO] [Console/]: <Crying_Prophet> ola
-[28Dec2024 01:35:28.716] [Server thread/INFO] [Console/]: <Crying_Prophet> toy en la granja
-[28Dec2024 01:35:32.567] [Server thread/INFO] [Console/]: <Crying_Prophet> afk
-[28Dec2024 01:35:41.566] [Server thread/INFO] [Console/]: <Crying_Prophet> ya genero 24 lingotes
-[28Dec2024 01:35:43.965] [Server thread/INFO] [Console/]: <Crying_Prophet> 34
-[28Dec2024 01:35:55.143] [Server thread/INFO] [Console/]: <Crying_Prophet> 35
-[28Dec2024 01:36:06.030] [Server thread/INFO] [Console/]: <Crying_Prophet> tienes que venir a verla w
-[28Dec2024 01:37:15.422] [Server thread/INFO] [Console/]: <Dylan_HHH> voy
-[28Dec2024 01:38:24.376] [Server thread/INFO] [Console/]: <Crying_Prophet> oki
-[28Dec2024 01:38:44.161] [Server thread/INFO] [Console/]: <Crying_Prophet> tengo los chunks al minimo para maximizar la granja
-[28Dec2024 01:39:03.676] [Server thread/INFO] [Console/]: <Crying_Prophet> jaskdjaskd
-[28Dec2024 01:39:13.808] [Server thread/INFO] [Console/]: <Crying_Prophet> eh
-[28Dec2024 01:39:15.776] [Server thread/INFO] [Console/]: <Crying_Prophet> ven
-[28Dec2024 01:39:17.382] [Server thread/INFO] [Console/]: <Crying_Prophet> vej
-[28Dec2024 01:39:19.560] [Server thread/INFO] [Console/]: <Crying_Prophet> vem
-[28Dec2024 01:39:40.498] [Server thread/INFO] [Console/]: <Dylan_HHH> ta fina
-[28Dec2024 01:39:56.939] [Server thread/INFO] [Console/]: <Dylan_HHH> hacemos los dos niveles mas?
-[28Dec2024 01:40:11.343] [Server thread/INFO] [Console/]: <Crying_Prophet> yo creo que si
-[28Dec2024 01:40:15.992] [Server thread/INFO] [Console/]: <Crying_Prophet> tenemos 2 huevos mas
-[28Dec2024 01:40:45.613] [Server thread/INFO] [Console/]: <Dylan_HHH> vamo pues
-[28Dec2024 01:45:18.942] [Server thread/INFO] [Console/]: <Crying_Prophet> si estamos 2 se generan mas
-[28Dec2024 01:46:19.749] [Server thread/INFO] [Console/]: <Crying_Prophet> mira esa vaina mi loco
-[28Dec2024 01:46:33.052] [Server thread/INFO] [Console/]: <Dylan_HHH> me tiro
-[28Dec2024 01:46:38.709] [Server thread/INFO] [Console/]: <Crying_Prophet> te mueres
-[28Dec2024 01:46:44.525] [Server thread/INFO] [Console/]: <Crying_Prophet> ya me cai
-[28Dec2024 01:46:51.475] [Server thread/INFO] [Console/]: <Crying_Prophet> a pero era al piso
-[28Dec2024 01:47:01.925] [Server thread/INFO] [Console/]: <Crying_Prophet> no a la platadorma
-[28Dec2024 01:47:06.125] [Server thread/INFO] [Console/]: <Crying_Prophet> quitate
-[28Dec2024 01:47:12.060] [Server thread/INFO] [Console/]: <Crying_Prophet> ya no spawnean
-[28Dec2024 01:47:18.842] [Server thread/INFO] [Console/]: <Crying_Prophet> aweonao
-[28Dec2024 01:48:17.684] [Server thread/INFO] [Console/]: <Dylan_HHH> volvi
-[28Dec2024 01:50:33.292] [Server thread/INFO] [Console/]: <Crying_Prophet> a veo
-[28Dec2024 01:52:55.963] [Server thread/INFO] [Console/]: <Crying_Prophet> te fuiste w
-[28Dec2024 01:52:58.648] [Server thread/INFO] [Console/]: <Crying_Prophet> ?
-[28Dec2024 01:53:06.175] [Server thread/INFO] [Console/]: <Dylan_HHH> no
-[28Dec2024 01:53:08.211] [Server thread/INFO] [Console/]: <Crying_Prophet> vamso a hacer las otras plataformas?
-[28Dec2024 01:53:13.598] [Server thread/INFO] [Console/]: <Dylan_HHH> va
-[28Dec2024 01:55:16.474] [Server thread/INFO] [Console/]: <Crying_Prophet> ven
-[28Dec2024 01:58:13.996] [Server thread/INFO] [Console/]: <Crying_Prophet> se acabo
-[28Dec2024 01:58:19.623] [Server thread/INFO] [Console/]: <Crying_Prophet> a buscar otr
-[28Dec2024 01:58:39.190] [Server thread/INFO] [Console/]: <Crying_Prophet> ven
-[28Dec2024 01:58:49.990] [Server thread/INFO] [Console/]: <Crying_Prophet> bingo
-[28Dec2024 01:59:52.648] [Server thread/INFO] [Console/]: <Dylan_HHH> w
-[28Dec2024 01:59:55.440] [Server thread/INFO] [Console/]: <Crying_Prophet> perdon
-[28Dec2024 02:00:16.558] [Server thread/INFO] [Console/]: <Crying_Prophet> se cabo
-[28Dec2024 02:00:50.664] [Server thread/INFO] [Console/]: <Crying_Prophet> ven
-[28Dec2024 02:01:07.649] [Server thread/INFO] [Console/]: <Dylan_HHH> encontre
-[28Dec2024 02:01:12.215] [Server thread/INFO] [Console/]: <Crying_Prophet> yo tambien
-[28Dec2024 02:07:28.495] [Server thread/INFO] [Console/]: <Dylan_HHH> mas?
-[28Dec2024 02:07:34.788] [Server thread/INFO] [Console/]: <Crying_Prophet> cuanto tieens
-[28Dec2024 02:07:59.759] [Server thread/INFO] [Console/]: <Dylan_HHH> 8 stack y medio
-[28Dec2024 02:09:47.794] [Server thread/INFO] [Console/]: <Crying_Prophet> aun falta
-[28Dec2024 02:11:30.198] [Server thread/INFO] [Console/]: <Dylan_HHH> ya no tengo espacio
-[28Dec2024 02:11:40.758] [Server thread/INFO] [Console/]: <Crying_Prophet> dAMELO
-[28Dec2024 02:11:44.694] [Server thread/INFO] [Console/]: <Crying_Prophet> damelos a mi
-[28Dec2024 02:11:46.503] [Server thread/INFO] [Console/]: <Dylan_HHH> y el pico se me va reventar
-[28Dec2024 02:11:53.209] [Server thread/INFO] [Console/]: <Crying_Prophet> yo te aviso
-[28Dec2024 02:12:02.671] [Server thread/INFO] [Console/]: <Crying_Prophet> ya
-[28Dec2024 02:12:10.072] [Server thread/INFO] [Console/]: <Crying_Prophet> cuanto te queda
-[28Dec2024 02:12:13.588] [Server thread/INFO] [Console/]: <Crying_Prophet> de espacio?
-[28Dec2024 02:12:42.535] [Server thread/INFO] [Console/]: <Dylan_HHH> 5 slots
-[28Dec2024 02:12:49.613] [Server thread/INFO] [Console/]: <Crying_Prophet> alla hay mas
-[28Dec2024 02:13:08.371] [Server thread/INFO] [Console/]: <Crying_Prophet> faltan 12 stacks xddd
-[28Dec2024 02:13:24.312] [Server thread/INFO] [Console/]: <Crying_Prophet> cuandot tieens tu=
-[28Dec2024 02:13:26.704] [Server thread/INFO] [Console/]: <Crying_Prophet> ?
-[28Dec2024 02:14:05.935] [Server thread/INFO] [Console/]: <Dylan_HHH> 8 stcks y medio
-[28Dec2024 02:14:43.438] [Server thread/INFO] [Console/]: <Crying_Prophet> faltan 5
-[28Dec2024 02:19:17.870] [Server thread/INFO] [Console/]: <Dylan_HHH> 17 stacks
-[28Dec2024 02:23:16.647] [Server thread/INFO] [Console/]: <Crying_Prophet> vamosnos
-[28Dec2024 02:23:55.120] [Server thread/INFO] [Console/]: <Crying_Prophet> pap?
-[28Dec2024 02:26:15.597] [Server thread/INFO] [Console/]: <Dylan_HHH> llegue a la granja
-[28Dec2024 02:26:27.419] [Server thread/INFO] [Console/]: <Crying_Prophet> yo voy pa alla
-[28Dec2024 02:28:53.252] [Server thread/INFO] [Console/]: <Crying_Prophet> dc
-[28Dec2024 02:29:08.526] [User Authenticator #18/INFO] [net.minecraft.network.login.ServerLoginNetHandler/]: UUID of player Tontuex is c116b748-fcf7-310a-8879-08ba63865e69
-[28Dec2024 02:29:10.616] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.advancements.PlayerAdvancements@353455e2
-[28Dec2024 02:29:10.623] [Server thread/INFO] [net.minecraft.server.management.PlayerList/]: Tontuex[/127.153.92.144:52861] logged in with entity id 52478 at (43.69999998807907, 116.0, -6.354981061465359)
-[28Dec2024 02:29:33.518] [Server thread/INFO] [Console/]: <Crying_Prophet> no se pq subimos
-[28Dec2024 02:29:39.869] [Server thread/INFO] [Console/]: <Crying_Prophet> entra a dc
-[28Dec2024 02:30:01.511] [Server thread/INFO] [Console/]: <Crying_Prophet> vente
-[28Dec2024 02:32:30.661] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: Crying_Prophet lost connection: Timed out
-[28Dec2024 02:32:30.668] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Crying_Prophet left the game
-[28Dec2024 02:32:30.710] [Server thread/WARN] [net.minecraft.network.NetworkManager/]: handleDisconnection() called twice
-[28Dec2024 02:34:08.471] [User Authenticator #19/INFO] [net.minecraft.network.login.ServerLoginNetHandler/]: UUID of player Crying_Prophet is 5113c246-f851-365d-ae5f-8beea591f8fd
-[28Dec2024 02:34:10.318] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.advancements.PlayerAdvancements@54822230
-[28Dec2024 02:34:10.322] [Server thread/INFO] [net.minecraft.server.management.PlayerList/]: Crying_Prophet[/127.37.18.41:53727] logged in with entity id 53831 at (-167.36613228398062, 177.37178782539448, -401.51249998807907)
-[28Dec2024 02:34:25.411] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: Crying_Prophet lost connection: Timed out
-[28Dec2024 02:34:25.418] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Crying_Prophet left the game
-[28Dec2024 02:34:25.462] [Server thread/WARN] [net.minecraft.network.NetworkManager/]: handleDisconnection() called twice
-[28Dec2024 02:34:31.896] [User Authenticator #20/INFO] [net.minecraft.network.login.ServerLoginNetHandler/]: UUID of player Crying_Prophet is 5113c246-f851-365d-ae5f-8beea591f8fd
-[28Dec2024 02:34:33.418] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.advancements.PlayerAdvancements@245898c2
-[28Dec2024 02:34:33.424] [Server thread/INFO] [net.minecraft.server.management.PlayerList/]: Crying_Prophet[/127.72.193.197:56565] logged in with entity id 53894 at (-166.43777979869907, 181.0, -401.2166296336301)
-[28Dec2024 03:06:31.465] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: Dylan_HHH lost connection: Disconnected
-[28Dec2024 03:06:31.471] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Dylan_HHH left the game
+[08Jan2025 01:44:35.283] [main/INFO] [Arclight/]: 
+
+       ___           ___     __   /\
+      /   | ________/ (_)__ / /  / /
+     / /| |/ __/ __/ / / _ / _ \/__/
+    / ___ / / / /_/ / / / / // / /
+   /_/  |/_/  \__/_/_/\_ /_//_/ /
+                     /__/     \/
+
+    运行版本 arclight-1.16.5-1.0.25-7cf92be3
+    构建日期 2023-10-22 03:52:29
+
+[08Jan2025 01:44:35.375] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher running: args [--gameDir, ., --launchTarget, fmlserver, --fml.forgeVersion, 36.2.39, --fml.mcpVersion, 20210115.111550, --fml.mcVersion, 1.16.5, --fml.forgeGroup, net.minecraftforge, nogui]
+[08Jan2025 01:44:35.377] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher 8.1.3+8.1.3+main-8.1.x.c94d18ec starting: java version 11.0.25 by Ubuntu
+[08Jan2025 01:44:35.924] [main/INFO] [net.minecraftforge.fml.loading.FixSSL/CORE]: Added Lets Encrypt root certificates as additional trust
+[08Jan2025 01:44:36.040] [main/INFO] [mixin/]: SpongePowered MIXIN Subsystem Version=0.8.4 Source=file:/workspaces/jaja/servidor_minecraft/libraries/org/spongepowered/mixin/0.8.4/mixin-0.8.4.jar Service=ModLauncher Env=SERVER
+[08Jan2025 01:44:36.869] [main/INFO] [STDERR/]: [jdk.nashorn.api.scripting.NashornScriptEngine:<init>:143]: Warning: Nashorn engine is planned to be removed from a future JDK release
+[08Jan2025 01:44:37.053] [main/INFO] [STDERR/]: [jdk.nashorn.api.scripting.NashornScriptEngine:<init>:143]: Warning: Nashorn engine is planned to be removed from a future JDK release
+[08Jan2025 01:44:37.066] [main/INFO] [STDERR/]: [jdk.nashorn.api.scripting.NashornScriptEngine:<init>:143]: Warning: Nashorn engine is planned to be removed from a future JDK release
+[08Jan2025 01:44:39.282] [main/INFO] [mixin/]: Successfully loaded Mixin Connector [io.izzel.arclight.impl.ArclightConnector_Forge]
+[08Jan2025 01:44:39.390] [main/INFO] [Arclight/]: 核心 Mixin 配置已加载
+[08Jan2025 01:44:39.415] [main/INFO] [Arclight/]: 服务端优化 Mixin 配置已加载
+[08Jan2025 01:44:39.434] [main/INFO] [cpw.mods.modlauncher.LaunchServiceHandler/MODLAUNCHER]: Launching target 'fmlserver' with arguments [--gameDir, ., nogui]
+[08Jan2025 01:44:58.043] [modloading-worker-1/INFO] [net.minecraftforge.common.ForgeMod/FORGEMOD]: Forge mod loading, version 36.2.39, for MC 1.16.5 with MCP 20210115.111550
+[08Jan2025 01:44:58.062] [modloading-worker-0/INFO] [Arclight/]: Arclight Mod 已加载
+[08Jan2025 01:44:58.071] [modloading-worker-1/INFO] [net.minecraftforge.common.MinecraftForge/FORGE]: MinecraftForge v36.2.39 Initialized
+[08Jan2025 01:44:58.342] [modloading-worker-0/INFO] [Arclight/]: Arclight 事件系统已注册
+[08Jan2025 01:44:58.355] [modloading-worker-0/WARN] [net.minecraftforge.server.permission.PermissionAPI/]: Replacing net.minecraftforge.server.permission.DefaultPermissionHandler with io.izzel.arclight.common.mod.server.ArclightPermissionHandler
+[08Jan2025 01:44:58.656] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [forge] Starting version check at https://files.minecraftforge.net/net/minecraftforge/forge/promotions_slim.json
+[08Jan2025 01:44:59.569] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [forge] Found status: OUTDATED Current: 36.2.39 Target: 36.2.42
+[08Jan2025 01:45:02.629] [main/INFO] [com.mojang.authlib.yggdrasil.YggdrasilAuthenticationService/]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
+[08Jan2025 01:45:04.277] [main/WARN] [net.minecraft.command.Commands/]: Ambiguity between arguments [teleport, destination] and [teleport, targets] with inputs: [Player, 0123, @e, dd12be42-52a9-4a91-a8a1-11c01849e498]
+[08Jan2025 01:45:04.286] [main/WARN] [net.minecraft.command.Commands/]: Ambiguity between arguments [teleport, location] and [teleport, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
+[08Jan2025 01:45:04.290] [main/WARN] [net.minecraft.command.Commands/]: Ambiguity between arguments [teleport, location] and [teleport, targets] with inputs: [0.1 -0.5 .9, 0 0 0]
+[08Jan2025 01:45:04.292] [main/WARN] [net.minecraft.command.Commands/]: Ambiguity between arguments [teleport, targets] and [teleport, destination] with inputs: [Player, 0123, dd12be42-52a9-4a91-a8a1-11c01849e498]
+[08Jan2025 01:45:04.299] [main/WARN] [net.minecraft.command.Commands/]: Ambiguity between arguments [teleport, targets, location] and [teleport, targets, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
+[08Jan2025 01:45:04.317] [main/INFO] [net.minecraft.resources.SimpleReloadableResourceManager/]: Reloading ResourceManager: Default, forge-1.16.5-36.2.39-universal.jar, arclight.jar
+[08Jan2025 01:45:06.657] [Worker-Main-2/INFO] [net.minecraft.item.crafting.RecipeManager/]: Loaded 7 recipes
+[08Jan2025 01:45:07.944] [Worker-Main-2/INFO] [net.minecraft.advancements.AdvancementList/]: Loaded 927 advancements
+[08Jan2025 01:45:11.575] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Starting minecraft server version 1.16.5
+[08Jan2025 01:45:11.583] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Loading properties
+[08Jan2025 01:45:11.584] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Default game type: SURVIVAL
+[08Jan2025 01:45:11.585] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Generating keypair
+[08Jan2025 01:45:11.956] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Starting Minecraft server on *:25565
+[08Jan2025 01:45:11.989] [Server thread/INFO] [net.minecraft.network.NetworkSystem/]: Using epoll channel type
+[08Jan2025 01:45:12.123] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[08Jan2025 01:45:12.124] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: The server will make no attempt to authenticate usernames. Beware.
+[08Jan2025 01:45:12.124] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[08Jan2025 01:45:12.125] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: To change this, set "online-mode" to "true" in the server.properties file.
+[08Jan2025 01:45:13.694] [Server thread/INFO] [Minecraft/]: This server is running Arclight version arclight-1.16.5-1.0.25-7cf92be3 (MC: 1.16.5) (Implementing API version 1.16.5-R0.1-SNAPSHOT)
+[08Jan2025 01:45:13.966] [Server thread/INFO] [Arclight/]: 正在向 Bukkit 注册 ...
+[08Jan2025 01:45:15.301] [Server thread/INFO] [Arclight/]: 注册了 0 个材料，其中 0 个方块 0 个物品
+[08Jan2025 01:45:15.316] [Server thread/INFO] [Arclight/]: 注册了 1 个新的药水效果
+[08Jan2025 01:45:15.347] [Server thread/INFO] [Arclight/]: 注册了 38 个新的附魔
+[08Jan2025 01:45:15.349] [Server thread/INFO] [Arclight/]: 注册了 0 个新的生物类型
+[08Jan2025 01:45:15.351] [Server thread/INFO] [Arclight/]: 注册了 0 个新的村民职业
+[08Jan2025 01:45:15.355] [Server thread/INFO] [Arclight/]: 注册了 0 个新的生物群系
+[08Jan2025 01:45:15.398] [Server thread/INFO] [Minecraft/]: Debug logging is enabled
+[08Jan2025 01:45:15.399] [Server thread/INFO] [STDOUT/]: [org.spigotmc.SpigotConfig:playerSample:287]: Server Ping Player Sample Count: 12
+[08Jan2025 01:45:15.413] [Server thread/INFO] [Minecraft/]: Using 4 threads for Netty based IO
+[08Jan2025 01:45:15.814] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Preparing level "world"
+[08Jan2025 01:45:15.852] [Server thread/INFO] [Arclight/]: 注册了 1 个新的世界类型
+[08Jan2025 01:45:15.857] [Server thread/INFO] [Minecraft/]: -------- World Settings For [world] --------
+[08Jan2025 01:45:15.859] [Server thread/INFO] [Minecraft/]: Hopper Transfer: 8 Hopper Check: 1 Hopper Amount: 1
+[08Jan2025 01:45:15.864] [Server thread/INFO] [Minecraft/]: Custom Map Seeds:  Village: 10387312 Desert: 14357617 Igloo: 14357618 Jungle: 14357619 Swamp: 14357620 Monument: 10387313 Ocean: 14357621 Shipwreck: 165745295 End City: 10387313 Slime: 987234911 Bastion: 30084232 Fortress: 30084232 Mansion: 10387319 Fossil: 14357921 Portal: 34222645
+[08Jan2025 01:45:15.865] [Server thread/INFO] [Minecraft/]: Max TNT Explosions: 100
+[08Jan2025 01:45:15.866] [Server thread/INFO] [Minecraft/]: Tile Max Tick Time: 50ms Entity max Tick Time: 50ms
+[08Jan2025 01:45:15.867] [Server thread/INFO] [Minecraft/]: Item Merge Radius: 2.5
+[08Jan2025 01:45:15.868] [Server thread/INFO] [Minecraft/]: Experience Merge Radius: 3.0
+[08Jan2025 01:45:15.869] [Server thread/INFO] [Minecraft/]: Mob Spawn Range: 6
+[08Jan2025 01:45:15.870] [Server thread/INFO] [Minecraft/]: Arrow Despawn Rate: 1200 Trident Respawn Rate:1200
+[08Jan2025 01:45:15.871] [Server thread/INFO] [Minecraft/]: Zombie Aggressive Towards Villager: true
+[08Jan2025 01:45:15.872] [Server thread/INFO] [Minecraft/]: Allow Zombie Pigmen to spawn from portal blocks: true
+[08Jan2025 01:45:15.873] [Server thread/INFO] [Minecraft/]: Cactus Growth Modifier: 100%
+[08Jan2025 01:45:15.882] [Server thread/INFO] [Minecraft/]: Cane Growth Modifier: 100%
+[08Jan2025 01:45:15.884] [Server thread/INFO] [Minecraft/]: Melon Growth Modifier: 100%
+[08Jan2025 01:45:15.885] [Server thread/INFO] [Minecraft/]: Mushroom Growth Modifier: 100%
+[08Jan2025 01:45:15.886] [Server thread/INFO] [Minecraft/]: Pumpkin Growth Modifier: 100%
+[08Jan2025 01:45:15.887] [Server thread/INFO] [Minecraft/]: Sapling Growth Modifier: 100%
+[08Jan2025 01:45:15.889] [Server thread/INFO] [Minecraft/]: Beetroot Growth Modifier: 100%
+[08Jan2025 01:45:15.890] [Server thread/INFO] [Minecraft/]: Carrot Growth Modifier: 100%
+[08Jan2025 01:45:15.892] [Server thread/INFO] [Minecraft/]: Potato Growth Modifier: 100%
+[08Jan2025 01:45:15.895] [Server thread/INFO] [Minecraft/]: Wheat Growth Modifier: 100%
+[08Jan2025 01:45:15.897] [Server thread/INFO] [Minecraft/]: NetherWart Growth Modifier: 100%
+[08Jan2025 01:45:15.898] [Server thread/INFO] [Minecraft/]: Vine Growth Modifier: 100%
+[08Jan2025 01:45:15.900] [Server thread/INFO] [Minecraft/]: Cocoa Growth Modifier: 100%
+[08Jan2025 01:45:15.901] [Server thread/INFO] [Minecraft/]: Bamboo Growth Modifier: 100%
+[08Jan2025 01:45:15.902] [Server thread/INFO] [Minecraft/]: SweetBerry Growth Modifier: 100%
+[08Jan2025 01:45:15.903] [Server thread/INFO] [Minecraft/]: Kelp Growth Modifier: 100%
+[08Jan2025 01:45:15.905] [Server thread/INFO] [Minecraft/]: Entity Activation Range: An 32 / Mo 32 / Ra 48 / Mi 16 / Tiv true
+[08Jan2025 01:45:15.907] [Server thread/INFO] [Minecraft/]: Entity Tracking Range: Pl 48 / An 48 / Mo 48 / Mi 32 / Other 64
+[08Jan2025 01:45:15.910] [Server thread/INFO] [Minecraft/]: Item Despawn Rate: 6000
+[08Jan2025 01:45:15.913] [Server thread/INFO] [Minecraft/]: View Distance: 10
+[08Jan2025 01:45:15.915] [Server thread/INFO] [Minecraft/]: Nerfing mobs spawned from spawners: false
+[08Jan2025 01:45:16.298] [Server thread/INFO] [Minecraft/]: -------- World Settings For [world] --------
+[08Jan2025 01:45:16.307] [Server thread/INFO] [Minecraft/]: Hopper Transfer: 8 Hopper Check: 1 Hopper Amount: 1
+[08Jan2025 01:45:16.310] [Server thread/INFO] [Minecraft/]: Custom Map Seeds:  Village: 10387312 Desert: 14357617 Igloo: 14357618 Jungle: 14357619 Swamp: 14357620 Monument: 10387313 Ocean: 14357621 Shipwreck: 165745295 End City: 10387313 Slime: 987234911 Bastion: 30084232 Fortress: 30084232 Mansion: 10387319 Fossil: 14357921 Portal: 34222645
+[08Jan2025 01:45:16.311] [Server thread/INFO] [Minecraft/]: Max TNT Explosions: 100
+[08Jan2025 01:45:16.312] [Server thread/INFO] [Minecraft/]: Tile Max Tick Time: 50ms Entity max Tick Time: 50ms
+[08Jan2025 01:45:16.313] [Server thread/INFO] [Minecraft/]: Item Merge Radius: 2.5
+[08Jan2025 01:45:16.313] [Server thread/INFO] [Minecraft/]: Experience Merge Radius: 3.0
+[08Jan2025 01:45:16.315] [Server thread/INFO] [Minecraft/]: Mob Spawn Range: 6
+[08Jan2025 01:45:16.317] [Server thread/INFO] [Minecraft/]: Arrow Despawn Rate: 1200 Trident Respawn Rate:1200
+[08Jan2025 01:45:16.317] [Server thread/INFO] [Minecraft/]: Zombie Aggressive Towards Villager: true
+[08Jan2025 01:45:16.318] [Server thread/INFO] [Minecraft/]: Allow Zombie Pigmen to spawn from portal blocks: true
+[08Jan2025 01:45:16.320] [Server thread/INFO] [Minecraft/]: Cactus Growth Modifier: 100%
+[08Jan2025 01:45:16.321] [Server thread/INFO] [Minecraft/]: Cane Growth Modifier: 100%
+[08Jan2025 01:45:16.322] [Server thread/INFO] [Minecraft/]: Melon Growth Modifier: 100%
+[08Jan2025 01:45:16.323] [Server thread/INFO] [Minecraft/]: Mushroom Growth Modifier: 100%
+[08Jan2025 01:45:16.323] [Server thread/INFO] [Minecraft/]: Pumpkin Growth Modifier: 100%
+[08Jan2025 01:45:16.325] [Server thread/INFO] [Minecraft/]: Sapling Growth Modifier: 100%
+[08Jan2025 01:45:16.325] [Server thread/INFO] [Minecraft/]: Beetroot Growth Modifier: 100%
+[08Jan2025 01:45:16.326] [Server thread/INFO] [Minecraft/]: Carrot Growth Modifier: 100%
+[08Jan2025 01:45:16.326] [Server thread/INFO] [Minecraft/]: Potato Growth Modifier: 100%
+[08Jan2025 01:45:16.328] [Server thread/INFO] [Minecraft/]: Wheat Growth Modifier: 100%
+[08Jan2025 01:45:16.328] [Server thread/INFO] [Minecraft/]: NetherWart Growth Modifier: 100%
+[08Jan2025 01:45:16.330] [Server thread/INFO] [Minecraft/]: Vine Growth Modifier: 100%
+[08Jan2025 01:45:16.331] [Server thread/INFO] [Minecraft/]: Cocoa Growth Modifier: 100%
+[08Jan2025 01:45:16.332] [Server thread/INFO] [Minecraft/]: Bamboo Growth Modifier: 100%
+[08Jan2025 01:45:16.333] [Server thread/INFO] [Minecraft/]: SweetBerry Growth Modifier: 100%
+[08Jan2025 01:45:16.333] [Server thread/INFO] [Minecraft/]: Kelp Growth Modifier: 100%
+[08Jan2025 01:45:16.334] [Server thread/INFO] [Minecraft/]: Entity Activation Range: An 32 / Mo 32 / Ra 48 / Mi 16 / Tiv true
+[08Jan2025 01:45:16.335] [Server thread/INFO] [Minecraft/]: Entity Tracking Range: Pl 48 / An 48 / Mo 48 / Mi 32 / Other 64
+[08Jan2025 01:45:16.337] [Server thread/INFO] [Minecraft/]: Item Despawn Rate: 6000
+[08Jan2025 01:45:16.337] [Server thread/INFO] [Minecraft/]: View Distance: 10
+[08Jan2025 01:45:16.338] [Server thread/INFO] [Minecraft/]: Nerfing mobs spawned from spawners: false
+[08Jan2025 01:45:16.358] [Server thread/INFO] [Minecraft/]: -------- World Settings For [world] --------
+[08Jan2025 01:45:16.359] [Server thread/INFO] [Minecraft/]: Hopper Transfer: 8 Hopper Check: 1 Hopper Amount: 1
+[08Jan2025 01:45:16.359] [Server thread/INFO] [Minecraft/]: Custom Map Seeds:  Village: 10387312 Desert: 14357617 Igloo: 14357618 Jungle: 14357619 Swamp: 14357620 Monument: 10387313 Ocean: 14357621 Shipwreck: 165745295 End City: 10387313 Slime: 987234911 Bastion: 30084232 Fortress: 30084232 Mansion: 10387319 Fossil: 14357921 Portal: 34222645
+[08Jan2025 01:45:16.360] [Server thread/INFO] [Minecraft/]: Max TNT Explosions: 100
+[08Jan2025 01:45:16.360] [Server thread/INFO] [Minecraft/]: Tile Max Tick Time: 50ms Entity max Tick Time: 50ms
+[08Jan2025 01:45:16.361] [Server thread/INFO] [Minecraft/]: Item Merge Radius: 2.5
+[08Jan2025 01:45:16.361] [Server thread/INFO] [Minecraft/]: Experience Merge Radius: 3.0
+[08Jan2025 01:45:16.362] [Server thread/INFO] [Minecraft/]: Mob Spawn Range: 6
+[08Jan2025 01:45:16.364] [Server thread/INFO] [Minecraft/]: Arrow Despawn Rate: 1200 Trident Respawn Rate:1200
+[08Jan2025 01:45:16.365] [Server thread/INFO] [Minecraft/]: Zombie Aggressive Towards Villager: true
+[08Jan2025 01:45:16.366] [Server thread/INFO] [Minecraft/]: Allow Zombie Pigmen to spawn from portal blocks: true
+[08Jan2025 01:45:16.366] [Server thread/INFO] [Minecraft/]: Cactus Growth Modifier: 100%
+[08Jan2025 01:45:16.367] [Server thread/INFO] [Minecraft/]: Cane Growth Modifier: 100%
+[08Jan2025 01:45:16.368] [Server thread/INFO] [Minecraft/]: Melon Growth Modifier: 100%
+[08Jan2025 01:45:16.368] [Server thread/INFO] [Minecraft/]: Mushroom Growth Modifier: 100%
+[08Jan2025 01:45:16.370] [Server thread/INFO] [Minecraft/]: Pumpkin Growth Modifier: 100%
+[08Jan2025 01:45:16.371] [Server thread/INFO] [Minecraft/]: Sapling Growth Modifier: 100%
+[08Jan2025 01:45:16.383] [Server thread/INFO] [Minecraft/]: Beetroot Growth Modifier: 100%
+[08Jan2025 01:45:16.384] [Server thread/INFO] [Minecraft/]: Carrot Growth Modifier: 100%
+[08Jan2025 01:45:16.390] [Server thread/INFO] [Minecraft/]: Potato Growth Modifier: 100%
+[08Jan2025 01:45:16.391] [Server thread/INFO] [Minecraft/]: Wheat Growth Modifier: 100%
+[08Jan2025 01:45:16.392] [Server thread/INFO] [Minecraft/]: NetherWart Growth Modifier: 100%
+[08Jan2025 01:45:16.392] [Server thread/INFO] [Minecraft/]: Vine Growth Modifier: 100%
+[08Jan2025 01:45:16.393] [Server thread/INFO] [Minecraft/]: Cocoa Growth Modifier: 100%
+[08Jan2025 01:45:16.393] [Server thread/INFO] [Minecraft/]: Bamboo Growth Modifier: 100%
+[08Jan2025 01:45:16.394] [Server thread/INFO] [Minecraft/]: SweetBerry Growth Modifier: 100%
+[08Jan2025 01:45:16.395] [Server thread/INFO] [Minecraft/]: Kelp Growth Modifier: 100%
+[08Jan2025 01:45:16.396] [Server thread/INFO] [Minecraft/]: Entity Activation Range: An 32 / Mo 32 / Ra 48 / Mi 16 / Tiv true
+[08Jan2025 01:45:16.396] [Server thread/INFO] [Minecraft/]: Entity Tracking Range: Pl 48 / An 48 / Mo 48 / Mi 32 / Other 64
+[08Jan2025 01:45:16.397] [Server thread/INFO] [Minecraft/]: Item Despawn Rate: 6000
+[08Jan2025 01:45:16.398] [Server thread/INFO] [Minecraft/]: View Distance: 10
+[08Jan2025 01:45:16.400] [Server thread/INFO] [Minecraft/]: Nerfing mobs spawned from spawners: false
+[08Jan2025 01:45:16.462] [Server thread/INFO] [Minecraft/]: Server permissions file permissions.yml is empty, ignoring it
+[08Jan2025 01:45:16.485] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Preparing start region for dimension minecraft:overworld
+[08Jan2025 01:45:18.690] [Server thread/INFO] [net.minecraft.world.chunk.listener.LoggingChunkStatusListener/]: Preparing spawn area: 0%
+[08Jan2025 01:45:18.692] [Server thread/INFO] [net.minecraft.world.chunk.listener.LoggingChunkStatusListener/]: Preparing spawn area: 0%
+[08Jan2025 01:45:18.694] [Server thread/INFO] [net.minecraft.world.chunk.listener.LoggingChunkStatusListener/]: Preparing spawn area: 0%
+[08Jan2025 01:45:18.695] [Server thread/INFO] [net.minecraft.world.chunk.listener.LoggingChunkStatusListener/]: Preparing spawn area: 0%
+[08Jan2025 01:45:18.696] [Server thread/INFO] [net.minecraft.world.chunk.listener.LoggingChunkStatusListener/]: Preparing spawn area: 0%
+[08Jan2025 01:45:18.988] [Worker-Main-2/INFO] [net.minecraft.world.chunk.listener.LoggingChunkStatusListener/]: Preparing spawn area: 0%
+[08Jan2025 01:45:19.487] [Server thread/INFO] [net.minecraft.world.chunk.listener.LoggingChunkStatusListener/]: Preparing spawn area: 72%
+[08Jan2025 01:45:20.460] [Server thread/INFO] [net.minecraft.world.chunk.listener.LoggingChunkStatusListener/]: Time elapsed: 3974 ms
+[08Jan2025 01:45:20.463] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Done (4.775s)! For help, type "help"
+[08Jan2025 01:45:49.489] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Stopping the server
+[08Jan2025 01:45:49.535] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping server
+[08Jan2025 01:45:49.537] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving players
+[08Jan2025 01:45:49.537] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving worlds
+[08Jan2025 01:45:49.538] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[08Jan2025 01:45:51.230] [Server thread/INFO] [net.minecraft.world.server.ChunkManager/]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[08Jan2025 01:45:51.272] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world/DIM-1]'/minecraft:the_nether
+[08Jan2025 01:45:51.276] [Server thread/INFO] [net.minecraft.world.server.ChunkManager/]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[08Jan2025 01:45:51.276] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world/DIM1]'/minecraft:the_end
+[08Jan2025 01:45:51.280] [Server thread/INFO] [net.minecraft.world.server.ChunkManager/]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[08Jan2025 01:45:51.286] [Server thread/INFO] [net.minecraft.world.server.ChunkManager/]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[08Jan2025 01:45:51.296] [Server thread/INFO] [net.minecraft.world.server.ChunkManager/]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[08Jan2025 01:45:51.297] [Server thread/INFO] [net.minecraft.world.server.ChunkManager/]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
