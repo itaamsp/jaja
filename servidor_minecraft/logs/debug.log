@@ -2173,3 +2173,9 @@ java.lang.IllegalStateException: Could not find any of the following classes: Ar
 [12Jan2025 23:40:37.686] [Server thread/DEBUG] [mixin/]: Mixing util.IWorldPosCallableMixin from mixins.arclight.core.json into net.minecraft.util.IWorldPosCallable
 [12Jan2025 23:40:37.688] [Server thread/DEBUG] [mixin/]: Generating mapped inner class net/minecraft/util/IWorldPosCallable$1Anonymous$b213f089c7be40a38e111ae751c479de (originally io/izzel/arclight/common/mixin/core/util/IWorldPosCallableMixin$1Anonymous)
 [12Jan2025 23:41:00.582] [Server thread/DEBUG] [Implementer/SWITCH_TABLE]: Candidate switch enum method <clinit>()V class io/izzel/arclight/common/mixin/core/block/PressurePlateBlockMixin$1
+[12Jan2025 23:45:07.963] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: Gathering id map for writing to world save world
+[12Jan2025 23:45:07.969] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: ID Map collection complete world
+[12Jan2025 23:48:52.404] [Server thread/INFO] [net.minecraft.entity.Entity/]: Villager VillagerEntity['Villager'/373, l='ServerLevel[world]', x=272.59, y=65.00, z=-2.28] died, message: 'Villager was slain by Zombie'
+[12Jan2025 23:50:08.879] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: Gathering id map for writing to world save world
+[12Jan2025 23:50:08.895] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: ID Map collection complete world
+[12Jan2025 23:50:23.170] [Server thread/DEBUG] [Implementer/SWITCH_TABLE]: Candidate switch enum method <clinit>()V class net/minecraft/network/play/server/SCombatPacket$1
