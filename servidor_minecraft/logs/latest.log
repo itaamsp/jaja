@@ -314,3 +314,9 @@ java.lang.IllegalStateException: Could not find any of the following classes: Ar
 [09Feb2025 20:09:22.058] [Craft Scheduler Thread - 1/INFO] [Console/]: [33;1m[[32;22mSkinsRestorer[33;1m] [0;39m[GitHubUpdate] Downloaded update in 1239ms[0;39m
 [09Feb2025 20:09:22.059] [Craft Scheduler Thread - 1/INFO] [Console/]: [33;1m[[32;22mSkinsRestorer[33;1m] [0;39m[GitHubUpdate] Update saved as SkinsRestorer.jar[0;39m
 [09Feb2025 20:09:22.061] [Craft Scheduler Thread - 1/INFO] [Console/]: [33;1m[[32;22mSkinsRestorer[33;1m] [0;39m[GitHubUpdate] The update will be loaded on the next server restart[0;39m
+[09Feb2025 20:22:53.004] [User Authenticator #1/INFO] [net.minecraft.network.login.ServerLoginNetHandler/]: UUID of player Tontuex is c116b748-fcf7-310a-8879-08ba63865e69
+[09Feb2025 20:22:55.580] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.advancements.PlayerAdvancements@69bde9be
+[09Feb2025 20:22:55.648] [Server thread/INFO] [net.minecraft.server.management.PlayerList/]: Tontuex[/127.220.111.9:43703] logged in with entity id 93 at (329.62200950493957, 68.0, -62.79575277106933)
+[09Feb2025 20:23:31.799] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: Tontuex lost connection: Disconnected
+[09Feb2025 20:23:31.807] [Server thread/INFO] [voicechat/]: Disconnecting client Tontuex
+[09Feb2025 20:23:31.854] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Tontuex left the game

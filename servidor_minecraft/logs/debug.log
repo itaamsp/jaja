@@ -1796,3 +1796,155 @@ java.lang.IllegalStateException: Could not find any of the following classes: Ar
 [09Feb2025 20:14:41.199] [Netty Epoll Server IO #0/DEBUG] [io.netty.util.Recycler/]: -Dio.netty.recycler.ratio: 8
 [09Feb2025 20:14:41.213] [Netty Epoll Server IO #3/DEBUG] [io.netty.buffer.AbstractByteBuf/]: -Dio.netty.buffer.bytebuf.checkAccessible: true
 [09Feb2025 20:14:41.216] [Netty Epoll Server IO #3/DEBUG] [io.netty.util.ResourceLeakDetectorFactory/]: Loaded default ResourceLeakDetector: io.netty.util.ResourceLeakDetector@471d5ec4
+[09Feb2025 20:19:20.619] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: Gathering id map for writing to world save world
+[09Feb2025 20:19:20.626] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: ID Map collection complete world
+[09Feb2025 20:22:44.076] [Netty Epoll Server IO #2/DEBUG] [mixin/]: Mixing NetworkHooksMixin from mixins.arclight.forge.json into net.minecraftforge.fml.network.NetworkHooks
+[09Feb2025 20:22:44.079] [Netty Epoll Server IO #2/DEBUG] [Implementer/ASYNC_CATCHER]: Injecting net/minecraftforge/fml/network/NetworkHooks/openGui(Lnet/minecraft/entity/player/ServerPlayerEntity;Lnet/minecraft/inventory/container/INamedContainerProvider;Ljava/util/function/Consumer;)V for reason open gui
+[09Feb2025 20:22:44.079] [Netty Epoll Server IO #2/DEBUG] [Implementer/ASYNC_CATCHER]: Defined impl callback class net/minecraftforge/fml/network/NetworkHooks$AsyncCatcher$15
+[09Feb2025 20:22:44.248] [Netty Epoll Server IO #2/DEBUG] [Implementer/SWITCH_TABLE]: Candidate switch enum method <clinit>()V class io/izzel/arclight/common/mixin/core/network/handshake/ServerHandshakeNetHandlerMixin$1
+[09Feb2025 20:22:44.249] [Netty Epoll Server IO #2/DEBUG] [mixin/]: Mixing network.status.ServerStatusNetHandlerMixin from mixins.arclight.core.json into net.minecraft.network.status.ServerStatusNetHandler
+[09Feb2025 20:22:52.978] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.fml.network.FMLHandshakeHandler/FMLHANDSHAKE]: Starting new modded network connection. Found 18 messages to dispatch.
+[09Feb2025 20:22:52.980] [Netty Epoll Server IO #3/DEBUG] [mixin/]: Generating mapped inner class net/minecraft/network/login/ServerLoginNetHandler$1SyncPreLogin$9bb6b673f90b446e8ce67ea787eb3bf8 (originally io/izzel/arclight/common/mixin/core/network/login/ServerLoginNetHandlerMixin$1SyncPreLogin)
+[09Feb2025 20:22:52.982] [Netty Epoll Server IO #3/DEBUG] [mixin/]: Generating mapped inner class net/minecraft/network/login/ServerLoginNetHandler$2Handler$4b45616f85dd4fed81965393d2d73177 (originally io/izzel/arclight/common/mixin/core/network/login/ServerLoginNetHandlerMixin$2Handler)
+[09Feb2025 20:22:52.998] [Netty Epoll Server IO #3/DEBUG] [mixin/]: Generating mapped inner class net/minecraft/network/login/ServerLoginNetHandler$1Handler$04b8fbbb42204a6e80d34630800e29e5 (originally io/izzel/arclight/common/mixin/core/network/login/ServerLoginNetHandlerMixin$1Handler)
+[09Feb2025 20:22:53.004] [User Authenticator #1/INFO] [net.minecraft.network.login.ServerLoginNetHandler/]: UUID of player Tontuex is c116b748-fcf7-310a-8879-08ba63865e69
+[09Feb2025 20:22:53.037] [Server thread/DEBUG] [net.minecraftforge.fml.network.FMLHandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'net.minecraftforge.fml.network.FMLHandshakeMessages$S2CModList' to 'fml:handshake' sequence 0
+[09Feb2025 20:22:53.087] [Server thread/DEBUG] [net.minecraftforge.fml.network.FMLHandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry minecraft:recipe_serializer' to 'fml:handshake' sequence 1
+[09Feb2025 20:22:53.137] [Server thread/DEBUG] [net.minecraftforge.fml.network.FMLHandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry minecraft:sound_event' to 'fml:handshake' sequence 2
+[09Feb2025 20:22:53.158] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.fml.network.FMLLoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 0
+[09Feb2025 20:22:53.161] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.fml.network.FMLHandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 0 of type net.minecraftforge.fml.network.FMLHandshakeMessages$C2SModListReply
+[09Feb2025 20:22:53.161] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.fml.network.FMLHandshakeHandler/FMLHANDSHAKE]: Received client connection with modlist [minecraft, forge, embeddium, rubidium, sodiumextra]
+[09Feb2025 20:22:53.162] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.fml.network.NetworkRegistry/NETREGISTRY]: Channel 'fml:loginwrapper' : Version test of 'FML2' from client : ACCEPTED
+[09Feb2025 20:22:53.162] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.fml.network.NetworkRegistry/NETREGISTRY]: Channel 'fml:handshake' : Version test of 'FML2' from client : ACCEPTED
+[09Feb2025 20:22:53.162] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.fml.network.NetworkRegistry/NETREGISTRY]: Channel 'forge:split_11' : Version test of '1.1' from client : ACCEPTED
+[09Feb2025 20:22:53.163] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.fml.network.NetworkRegistry/NETREGISTRY]: Channel 'minecraft:unregister' : Version test of 'FML2' from client : ACCEPTED
+[09Feb2025 20:22:53.163] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.fml.network.NetworkRegistry/NETREGISTRY]: Channel 'fml:play' : Version test of 'FML2' from client : ACCEPTED
+[09Feb2025 20:22:53.163] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.fml.network.NetworkRegistry/NETREGISTRY]: Channel 'minecraft:register' : Version test of 'FML2' from client : ACCEPTED
+[09Feb2025 20:22:53.163] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.fml.network.NetworkRegistry/NETREGISTRY]: Channel 'forge:split' : Version test of '1.0' from client : ACCEPTED
+[09Feb2025 20:22:53.163] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.fml.network.NetworkRegistry/NETREGISTRY]: Accepting channel list from client
+[09Feb2025 20:22:53.164] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.fml.network.FMLHandshakeHandler/FMLHANDSHAKE]: Accepted client connection mod list
+[09Feb2025 20:22:53.176] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.fml.network.FMLLoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 1
+[09Feb2025 20:22:53.176] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.fml.network.FMLHandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 1 of type net.minecraftforge.fml.network.FMLHandshakeMessages$C2SAcknowledge
+[09Feb2025 20:22:53.177] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.fml.network.FMLHandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[09Feb2025 20:22:53.187] [Server thread/DEBUG] [net.minecraftforge.fml.network.FMLHandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry minecraft:particle_type' to 'fml:handshake' sequence 3
+[09Feb2025 20:22:53.237] [Server thread/DEBUG] [net.minecraftforge.fml.network.FMLHandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry minecraft:villager_profession' to 'fml:handshake' sequence 4
+[09Feb2025 20:22:53.287] [Server thread/DEBUG] [net.minecraftforge.fml.network.FMLHandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry minecraft:item' to 'fml:handshake' sequence 5
+[09Feb2025 20:22:53.306] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.fml.network.FMLLoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 2
+[09Feb2025 20:22:53.306] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.fml.network.FMLHandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 2 of type net.minecraftforge.fml.network.FMLHandshakeMessages$C2SAcknowledge
+[09Feb2025 20:22:53.307] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.fml.network.FMLHandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[09Feb2025 20:22:53.337] [Server thread/DEBUG] [net.minecraftforge.fml.network.FMLHandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry minecraft:potion' to 'fml:handshake' sequence 6
+[09Feb2025 20:22:53.338] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.fml.network.FMLLoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 3
+[09Feb2025 20:22:53.338] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.fml.network.FMLHandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 3 of type net.minecraftforge.fml.network.FMLHandshakeMessages$C2SAcknowledge
+[09Feb2025 20:22:53.338] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.fml.network.FMLHandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[09Feb2025 20:22:53.338] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.fml.network.FMLLoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 4
+[09Feb2025 20:22:53.338] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.fml.network.FMLHandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 4 of type net.minecraftforge.fml.network.FMLHandshakeMessages$C2SAcknowledge
+[09Feb2025 20:22:53.339] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.fml.network.FMLHandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[09Feb2025 20:22:53.387] [Server thread/DEBUG] [net.minecraftforge.fml.network.FMLHandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry minecraft:block_entity_type' to 'fml:handshake' sequence 7
+[09Feb2025 20:22:53.400] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.fml.network.FMLLoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 5
+[09Feb2025 20:22:53.400] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.fml.network.FMLHandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 5 of type net.minecraftforge.fml.network.FMLHandshakeMessages$C2SAcknowledge
+[09Feb2025 20:22:53.400] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.fml.network.FMLHandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[09Feb2025 20:22:53.437] [Server thread/DEBUG] [net.minecraftforge.fml.network.FMLHandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry minecraft:block' to 'fml:handshake' sequence 8
+[09Feb2025 20:22:53.454] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.fml.network.FMLLoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 6
+[09Feb2025 20:22:53.454] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.fml.network.FMLHandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 6 of type net.minecraftforge.fml.network.FMLHandshakeMessages$C2SAcknowledge
+[09Feb2025 20:22:53.454] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.fml.network.FMLHandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[09Feb2025 20:22:53.487] [Server thread/DEBUG] [net.minecraftforge.fml.network.FMLHandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry minecraft:data_serializers' to 'fml:handshake' sequence 9
+[09Feb2025 20:22:53.488] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.fml.network.FMLLoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 7
+[09Feb2025 20:22:53.488] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.fml.network.FMLHandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 7 of type net.minecraftforge.fml.network.FMLHandshakeMessages$C2SAcknowledge
+[09Feb2025 20:22:53.488] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.fml.network.FMLHandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[09Feb2025 20:22:53.536] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.fml.network.FMLLoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 8
+[09Feb2025 20:22:53.536] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.fml.network.FMLHandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 8 of type net.minecraftforge.fml.network.FMLHandshakeMessages$C2SAcknowledge
+[09Feb2025 20:22:53.536] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.fml.network.FMLHandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[09Feb2025 20:22:53.537] [Server thread/DEBUG] [net.minecraftforge.fml.network.FMLHandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry minecraft:mob_effect' to 'fml:handshake' sequence 10
+[09Feb2025 20:22:53.587] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.fml.network.FMLLoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 9
+[09Feb2025 20:22:53.587] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.fml.network.FMLHandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 9 of type net.minecraftforge.fml.network.FMLHandshakeMessages$C2SAcknowledge
+[09Feb2025 20:22:53.587] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.fml.network.FMLHandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[09Feb2025 20:22:53.588] [Server thread/DEBUG] [net.minecraftforge.fml.network.FMLHandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry minecraft:stat_type' to 'fml:handshake' sequence 11
+[09Feb2025 20:22:53.637] [Server thread/DEBUG] [net.minecraftforge.fml.network.FMLHandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry minecraft:menu' to 'fml:handshake' sequence 12
+[09Feb2025 20:22:53.651] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.fml.network.FMLLoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 10
+[09Feb2025 20:22:53.651] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.fml.network.FMLHandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 10 of type net.minecraftforge.fml.network.FMLHandshakeMessages$C2SAcknowledge
+[09Feb2025 20:22:53.651] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.fml.network.FMLHandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[09Feb2025 20:22:53.687] [Server thread/DEBUG] [net.minecraftforge.fml.network.FMLHandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry minecraft:enchantment' to 'fml:handshake' sequence 13
+[09Feb2025 20:22:53.715] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.fml.network.FMLLoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 11
+[09Feb2025 20:22:53.715] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.fml.network.FMLHandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 11 of type net.minecraftforge.fml.network.FMLHandshakeMessages$C2SAcknowledge
+[09Feb2025 20:22:53.715] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.fml.network.FMLHandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[09Feb2025 20:22:53.737] [Server thread/DEBUG] [net.minecraftforge.fml.network.FMLHandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry minecraft:motive' to 'fml:handshake' sequence 14
+[09Feb2025 20:22:53.738] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.fml.network.FMLLoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 12
+[09Feb2025 20:22:53.738] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.fml.network.FMLHandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 12 of type net.minecraftforge.fml.network.FMLHandshakeMessages$C2SAcknowledge
+[09Feb2025 20:22:53.738] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.fml.network.FMLHandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[09Feb2025 20:22:53.781] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.fml.network.FMLLoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 13
+[09Feb2025 20:22:53.781] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.fml.network.FMLHandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 13 of type net.minecraftforge.fml.network.FMLHandshakeMessages$C2SAcknowledge
+[09Feb2025 20:22:53.781] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.fml.network.FMLHandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[09Feb2025 20:22:53.787] [Server thread/DEBUG] [net.minecraftforge.fml.network.FMLHandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry minecraft:fluid' to 'fml:handshake' sequence 15
+[09Feb2025 20:22:53.837] [Server thread/DEBUG] [net.minecraftforge.fml.network.FMLHandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry minecraft:entity_type' to 'fml:handshake' sequence 16
+[09Feb2025 20:22:53.845] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.fml.network.FMLLoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 14
+[09Feb2025 20:22:53.845] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.fml.network.FMLHandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 14 of type net.minecraftforge.fml.network.FMLHandshakeMessages$C2SAcknowledge
+[09Feb2025 20:22:53.845] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.fml.network.FMLHandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[09Feb2025 20:22:53.887] [Server thread/DEBUG] [net.minecraftforge.fml.network.FMLHandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Config forge-server.toml' to 'fml:handshake' sequence 17
+[09Feb2025 20:22:53.904] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.fml.network.FMLLoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 15
+[09Feb2025 20:22:53.904] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.fml.network.FMLHandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 15 of type net.minecraftforge.fml.network.FMLHandshakeMessages$C2SAcknowledge
+[09Feb2025 20:22:53.904] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.fml.network.FMLHandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[09Feb2025 20:22:55.334] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.fml.network.FMLLoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 16
+[09Feb2025 20:22:55.334] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.fml.network.FMLHandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 16 of type net.minecraftforge.fml.network.FMLHandshakeMessages$C2SAcknowledge
+[09Feb2025 20:22:55.334] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.fml.network.FMLHandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[09Feb2025 20:22:55.341] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.fml.network.FMLLoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 17
+[09Feb2025 20:22:55.341] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.fml.network.FMLHandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 17 of type net.minecraftforge.fml.network.FMLHandshakeMessages$C2SAcknowledge
+[09Feb2025 20:22:55.341] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.fml.network.FMLHandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[09Feb2025 20:22:55.387] [Server thread/DEBUG] [net.minecraftforge.fml.network.FMLHandshakeHandler/FMLHANDSHAKE]: Handshake complete!
+[09Feb2025 20:22:55.439] [Server thread/DEBUG] [Implementer/SWITCH_TABLE]: Candidate switch enum method <clinit>()V class net/minecraft/entity/player/PlayerEntity$1
+[09Feb2025 20:22:55.440] [Server thread/DEBUG] [mixin/]: Mixing inventory.EnderChestInventoryMixin from mixins.arclight.core.json into net.minecraft.inventory.EnderChestInventory
+[09Feb2025 20:22:55.445] [Server thread/DEBUG] [mixin/]: Mixing util.FoodStatsMixin from mixins.arclight.core.json into net.minecraft.util.FoodStats
+[09Feb2025 20:22:55.457] [Server thread/DEBUG] [mixin/]: Mixing inventory.CraftingInventoryMixin from mixins.arclight.core.json into net.minecraft.inventory.CraftingInventory
+[09Feb2025 20:22:55.462] [Server thread/DEBUG] [Implementer/INVENTORY]: Found implemented class net/minecraft/inventory/CraftingInventory
+[09Feb2025 20:22:55.580] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.advancements.PlayerAdvancements@69bde9be
+[09Feb2025 20:22:55.648] [Server thread/INFO] [net.minecraft.server.management.PlayerList/]: Tontuex[/127.220.111.9:43703] logged in with entity id 93 at (329.62200950493957, 68.0, -62.79575277106933)
+[09Feb2025 20:22:55.661] [Server thread/DEBUG] [net.minecraftforge.network.NetworkFilters/]: Injected net.minecraftforge.network.ForgeConnectionNetworkFilter@1b0becd8 into net.minecraft.network.NetworkManager@389b7a57
+[09Feb2025 20:22:55.733] [Server thread/DEBUG] [mixin/]: Generating mapped inner class net/minecraft/util/text/ITextComponent$1Func$4324e0b88d7e47a7ae9b42b040e235f7 (originally io/izzel/arclight/common/mixin/core/util/text/ITextComponentMixin$1Func)
+[09Feb2025 20:22:55.749] [Server thread/CONFIG] [voicechat/]: Setting default state of Tontuex: {disabled=false, disconnected=true, uuid=c116b748-fcf7-310a-8879-08ba63865e69, name=Tontuex, group=null}
+[09Feb2025 20:22:55.771] [Netty Epoll Server IO #3/DEBUG] [Implementer/SWITCH_TABLE]: Candidate switch enum method <clinit>()V class net/minecraft/network/play/server/SPlayerListItemPacket$1
+[09Feb2025 20:22:55.995] [Netty Epoll Server IO #3/DEBUG] [Implementer/SWITCH_TABLE]: Candidate switch enum method <clinit>()V class net/minecraft/network/play/server/SWorldBorderPacket$1
+[09Feb2025 20:22:56.133] [Server thread/DEBUG] [mixin/]: Mixing CraftEventFactoryMixin from mixins.arclight.bukkit.json into org.bukkit.craftbukkit.v1_16_R3.event.CraftEventFactory
+[09Feb2025 20:22:56.140] [Server thread/DEBUG] [Implementer/SWITCH_TABLE]: Candidate switch enum method $SWITCH_TABLE$org$bukkit$event$block$Action()[I class org/bukkit/craftbukkit/v1_16_R3/event/CraftEventFactory
+[09Feb2025 20:22:56.140] [Server thread/DEBUG] [Implementer/SWITCH_TABLE]: Candidate switch enum method $SWITCH_TABLE$org$bukkit$Material()[I class org/bukkit/craftbukkit/v1_16_R3/event/CraftEventFactory
+[09Feb2025 20:22:56.140] [Server thread/DEBUG] [Implementer/SWITCH_TABLE]: Find switch(enum org/bukkit/Material) table method $SWITCH_TABLE$org$bukkit$Material()[I in class org/bukkit/craftbukkit/v1_16_R3/event/CraftEventFactory
+[09Feb2025 20:22:56.140] [Server thread/DEBUG] [Implementer/SWITCH_TABLE]: Inject method in method org/bukkit/craftbukkit/v1_16_R3/event/CraftEventFactory:$SWITCH_TABLE$org$bukkit$Material()[I, switch table field is $SWITCH_TABLE$org$bukkit$Material[I
+[09Feb2025 20:22:56.140] [Server thread/DEBUG] [Implementer/SWITCH_TABLE]: Candidate switch enum method $SWITCH_TABLE$org$bukkit$entity$EntityType()[I class org/bukkit/craftbukkit/v1_16_R3/event/CraftEventFactory
+[09Feb2025 20:22:56.140] [Server thread/DEBUG] [Implementer/SWITCH_TABLE]: Find switch(enum org/bukkit/entity/EntityType) table method $SWITCH_TABLE$org$bukkit$entity$EntityType()[I in class org/bukkit/craftbukkit/v1_16_R3/event/CraftEventFactory
+[09Feb2025 20:22:56.140] [Server thread/DEBUG] [Implementer/SWITCH_TABLE]: Inject method in method org/bukkit/craftbukkit/v1_16_R3/event/CraftEventFactory:$SWITCH_TABLE$org$bukkit$entity$EntityType()[I, switch table field is $SWITCH_TABLE$org$bukkit$entity$EntityType[I
+[09Feb2025 20:22:56.141] [Server thread/DEBUG] [Implementer/SWITCH_TABLE]: Candidate switch enum method $SWITCH_TABLE$org$bukkit$Statistic()[I class org/bukkit/craftbukkit/v1_16_R3/event/CraftEventFactory
+[09Feb2025 20:22:56.253] [Server thread/DEBUG] [mixin/]: Mixing util.IndirectEntityDamageSourceMixin from mixins.arclight.core.json into net.minecraft.util.IndirectEntityDamageSource
+[09Feb2025 20:22:56.299] [Server thread/DEBUG] [mixin/]: Mixing entity.ai.brain.task.FarmerWorkTaskMixin from mixins.arclight.core.json into net.minecraft.entity.ai.brain.task.FarmerWorkTask
+[09Feb2025 20:22:56.306] [Server thread/DEBUG] [mixin/]: Mixing entity.ai.brain.task.MultiTaskMixin from mixins.arclight.core.json into net.minecraft.entity.ai.brain.task.MultiTask
+[09Feb2025 20:22:56.316] [Server thread/DEBUG] [mixin/]: Mixing entity.ai.brain.task.FarmTaskMixin from mixins.arclight.core.json into net.minecraft.entity.ai.brain.task.FarmTask
+[09Feb2025 20:22:56.327] [Server thread/DEBUG] [mixin/]: Mixing entity.ai.brain.task.InteractWithDoorTaskMixin from mixins.arclight.core.json into net.minecraft.entity.ai.brain.task.InteractWithDoorTask
+[09Feb2025 20:22:56.360] [Server thread/DEBUG] [mixin/]: Mixing entity.ai.brain.task.AssignProfessionTaskMixin from mixins.arclight.core.json into net.minecraft.entity.ai.brain.task.AssignProfessionTask
+[09Feb2025 20:22:56.362] [Server thread/DEBUG] [mixin/]: Renaming synthetic method lambda$startExecuting$3(Lnet/minecraft/entity/merchant/villager/VillagerEntity;Lnet/minecraft/world/server/ServerWorld;Lnet/minecraft/entity/merchant/villager/VillagerProfession;)V to md813cfa$lambda$startExecuting$3$0 in mixins.arclight.core.json:entity.ai.brain.task.AssignProfessionTaskMixin
+[09Feb2025 20:22:56.362] [Server thread/DEBUG] [mixin/]: Renaming synthetic method lambda$startExecuting$2(Lnet/minecraft/village/PointOfInterestType;)Ljava/util/Optional; to md813cfa$lambda$startExecuting$2$1 in mixins.arclight.core.json:entity.ai.brain.task.AssignProfessionTaskMixin
+[09Feb2025 20:22:56.362] [Server thread/DEBUG] [mixin/]: Renaming synthetic method lambda$null$1(Lnet/minecraft/village/PointOfInterestType;Lnet/minecraft/entity/merchant/villager/VillagerProfession;)Z to md813cfa$lambda$null$1$2 in mixins.arclight.core.json:entity.ai.brain.task.AssignProfessionTaskMixin
+[09Feb2025 20:22:56.363] [Server thread/DEBUG] [mixin/]: Renaming synthetic method lambda$startExecuting$0(Lnet/minecraft/util/math/GlobalPos;Lnet/minecraft/world/server/ServerWorld;)Ljava/util/Optional; to md813cfa$lambda$startExecuting$0$3 in mixins.arclight.core.json:entity.ai.brain.task.AssignProfessionTaskMixin
+[09Feb2025 20:22:56.372] [Server thread/DEBUG] [mixin/]: Mixing entity.ai.brain.task.ChangeJobTaskMixin from mixins.arclight.core.json into net.minecraft.entity.ai.brain.task.ChangeJobTask
+[09Feb2025 20:22:56.381] [Server thread/DEBUG] [mixin/]: Mixing entity.ai.brain.task.CreateBabyVillagerTaskMixin from mixins.arclight.core.json into net.minecraft.entity.ai.brain.task.CreateBabyVillagerTask
+[09Feb2025 20:22:56.396] [Server thread/DEBUG] [mixin/]: Mixing item.MerchantOfferMixin from mixins.arclight.core.json into net.minecraft.item.MerchantOffer
+[09Feb2025 20:22:56.449] [Server thread/DEBUG] [mixin/]: Mixing tileentity.LecternTileEntity1Mixin from mixins.arclight.core.json into net.minecraft.tileentity.LecternTileEntity$1
+[09Feb2025 20:22:56.463] [Craft Scheduler Thread - 5/DEBUG] [mixin/]: Mixing world.ExplosionMixin from mixins.arclight.core.json into net.minecraft.world.Explosion
+[09Feb2025 20:22:56.463] [Craft Scheduler Thread - 5/DEBUG] [mixin/]: Renaming synthetic method lambda$doExplosionB$0(Lit/unimi/dsi/fastutil/objects/ObjectArrayList;Lnet/minecraft/util/math/BlockPos;Lnet/minecraft/item/ItemStack;)V to md813cfa$lambda$doExplosionB$0$0 in mixins.arclight.core.json:world.ExplosionMixin
+[09Feb2025 20:22:56.514] [Craft Scheduler Thread - 5/DEBUG] [mixin/]: Mixing block.PortalInfoMixin from mixins.arclight.core.json into net.minecraft.block.PortalInfo
+[09Feb2025 20:22:56.711] [Server thread/DEBUG] [Implementer/SWITCH_TABLE]: Candidate switch enum method <clinit>()V class io/izzel/arclight/common/mixin/core/world/spawner/WorldEntitySpawnerMixin$1
+[09Feb2025 20:22:57.052] [Server thread/DEBUG] [mixin/]: Mixing entity.ai.brain.BrainUtilMixin from mixins.arclight.core.json into net.minecraft.entity.ai.brain.BrainUtil
+[09Feb2025 20:22:57.331] [Server thread/DEBUG] [mixin/]: Mixing inventory.DoubleSidedInventoryMixin from mixins.arclight.core.json into net.minecraft.inventory.DoubleSidedInventory
+[09Feb2025 20:22:57.552] [Server thread/DEBUG] [io.netty.util.internal.ThreadLocalRandom/]: -Dio.netty.initialSeedUniquifier: 0x1826b82e60032c7a
+[09Feb2025 20:22:58.067] [Netty Epoll Server IO #3/DEBUG] [mixin/]: Mixing network.PacketThreadUtilMixin from mixins.arclight.core.json into net.minecraft.network.PacketThreadUtil
+[09Feb2025 20:22:58.067] [Netty Epoll Server IO #3/DEBUG] [mixin/]: Renaming synthetic method lambda$checkThreadAndEnqueue$0(Lnet/minecraft/network/INetHandler;Lnet/minecraft/network/IPacket;)V to md813cfa$lambda$checkThreadAndEnqueue$0$0 in mixins.arclight.core.json:network.PacketThreadUtilMixin
+[09Feb2025 20:22:58.104] [Server thread/DEBUG] [Implementer/SWITCH_TABLE]: Candidate switch enum method $SWITCH_TABLE$org$bukkit$block$BlockFace()[I class org/bukkit/craftbukkit/v1_16_R3/block/impl/CraftBanner
+[09Feb2025 20:22:58.132] [Server thread/DEBUG] [Implementer/SWITCH_TABLE]: Candidate switch enum method $SWITCH_TABLE$org$bukkit$block$BlockFace()[I class org/bukkit/craftbukkit/v1_16_R3/block/impl/CraftFloorSign
+[09Feb2025 20:22:58.154] [Server thread/DEBUG] [Implementer/SWITCH_TABLE]: Candidate switch enum method $SWITCH_TABLE$org$bukkit$block$BlockFace()[I class org/bukkit/craftbukkit/v1_16_R3/block/impl/CraftRedstoneWire
+[09Feb2025 20:22:58.160] [Server thread/DEBUG] [Implementer/SWITCH_TABLE]: Candidate switch enum method $SWITCH_TABLE$org$bukkit$block$BlockFace()[I class org/bukkit/craftbukkit/v1_16_R3/block/impl/CraftSkull
+[09Feb2025 20:22:58.160] [Server thread/DEBUG] [Implementer/SWITCH_TABLE]: Candidate switch enum method $SWITCH_TABLE$org$bukkit$block$BlockFace()[I class org/bukkit/craftbukkit/v1_16_R3/block/impl/CraftSkullPlayer
+[09Feb2025 20:22:58.177] [Server thread/DEBUG] [Implementer/SWITCH_TABLE]: Candidate switch enum method $SWITCH_TABLE$org$bukkit$block$BlockFace()[I class org/bukkit/craftbukkit/v1_16_R3/block/impl/CraftWitherSkull
+[09Feb2025 20:22:59.167] [Server thread/DEBUG] [Implementer/SWITCH_TABLE]: Candidate switch enum method <clinit>()V class net/minecraft/world/gen/feature/template/Template$1
+[09Feb2025 20:23:10.244] [Server thread/DEBUG] [Implementer/SWITCH_TABLE]: Filling switch table for class org.bukkit.Material
+[09Feb2025 20:23:31.799] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: Tontuex lost connection: Disconnected
+[09Feb2025 20:23:31.801] [Server thread/CONFIG] [voicechat/]: Removing state of Tontuex
+[09Feb2025 20:23:31.807] [Server thread/INFO] [voicechat/]: Disconnecting client Tontuex
+[09Feb2025 20:23:31.854] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Tontuex left the game
+[09Feb2025 20:24:20.838] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: Gathering id map for writing to world save world
+[09Feb2025 20:24:20.843] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: ID Map collection complete world
