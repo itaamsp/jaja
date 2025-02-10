@@ -2335,3 +2335,12 @@ java.lang.IllegalStateException: Could not find any of the following classes: Ar
 [10Feb2025 01:19:20.970] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: ID Map collection complete world
 [10Feb2025 01:19:43.895] [Server thread/DEBUG] [mixin/]: Mixing inventory.MerchantInventoryMixin from mixins.arclight.core.json into net.minecraft.inventory.MerchantInventory
 [10Feb2025 01:19:43.903] [Server thread/DEBUG] [Implementer/INVENTORY]: Found implemented class org/bukkit/craftbukkit/v1_16_R3/inventory/CraftInventoryCustom$MinecraftInventory
+[10Feb2025 01:19:59.555] [Server thread/DEBUG] [Implementer/SWITCH_TABLE]: Candidate switch enum method <clinit>()V class io/izzel/arclight/common/mixin/core/network/play/ServerPlayNetHandlerMixin$1
+[10Feb2025 01:20:35.944] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: Tontuex lost connection: Disconnected
+[10Feb2025 01:20:35.945] [Server thread/CONFIG] [voicechat/]: Removing state of Tontuex
+[10Feb2025 01:20:35.945] [Server thread/INFO] [voicechat/]: Disconnecting client Tontuex
+[10Feb2025 01:20:35.957] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Tontuex left the game
+[10Feb2025 01:24:20.894] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: Gathering id map for writing to world save world
+[10Feb2025 01:24:20.904] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: ID Map collection complete world
+[10Feb2025 01:29:20.580] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: Gathering id map for writing to world save world
+[10Feb2025 01:29:20.583] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: ID Map collection complete world

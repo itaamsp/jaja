@@ -10,3 +10,6 @@
 [10Feb2025 01:18:07.819] [User Authenticator #4/INFO] [net.minecraft.network.login.ServerLoginNetHandler/]: UUID of player Tontuex is c116b748-fcf7-310a-8879-08ba63865e69
 [10Feb2025 01:18:09.796] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.advancements.PlayerAdvancements@8458b51
 [10Feb2025 01:18:09.803] [Server thread/INFO] [net.minecraft.server.management.PlayerList/]: Tontuex[/127.175.190.111:50871] logged in with entity id 576 at (329.62200950493957, 68.0, -62.79575277106933)
+[10Feb2025 01:20:35.944] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: Tontuex lost connection: Disconnected
+[10Feb2025 01:20:35.945] [Server thread/INFO] [voicechat/]: Disconnecting client Tontuex
+[10Feb2025 01:20:35.957] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Tontuex left the game
