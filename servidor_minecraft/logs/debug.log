@@ -1809,3 +1809,7 @@ java.lang.IllegalStateException: Could not find any of the following classes: Ar
 [22Feb2025 02:58:04.894] [Netty Epoll Server IO #1/DEBUG] [io.netty.util.ResourceLeakDetectorFactory/]: Loaded default ResourceLeakDetector: io.netty.util.ResourceLeakDetector@15c8ded8
 [22Feb2025 03:00:36.076] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: Gathering id map for writing to world save world
 [22Feb2025 03:00:36.092] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: ID Map collection complete world
+[22Feb2025 03:05:36.059] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: Gathering id map for writing to world save world
+[22Feb2025 03:05:36.062] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: ID Map collection complete world
+[22Feb2025 03:10:36.053] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: Gathering id map for writing to world save world
+[22Feb2025 03:10:36.059] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: ID Map collection complete world
