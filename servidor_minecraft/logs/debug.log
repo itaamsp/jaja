@@ -2135,3 +2135,21 @@ java.lang.IllegalStateException: Could not find any of the following classes: Ar
 [06Mar2025 22:05:50.992] [Server thread/INFO] [Console/]: <Dylan_HHH> ya es de dia
 [06Mar2025 22:07:23.817] [Server thread/INFO] [Console/]: <KaleSsz> yo voy a hacer un alto para encontrar endermans
 [06Mar2025 22:07:41.137] [Server thread/INFO] [Console/]: <Dylan_HHH> va
+[06Mar2025 22:10:28.626] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: Gathering id map for writing to world save world
+[06Mar2025 22:10:28.631] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: ID Map collection complete world
+[06Mar2025 22:11:15.953] [Server thread/INFO] [Console/]: <KaleSsz> como consigo caida de pluma
+[06Mar2025 22:11:34.043] [Server thread/INFO] [Console/]: <Dylan_HHH> los aldeanos lo venden
+[06Mar2025 22:11:48.135] [Server thread/INFO] [Console/]: <Dylan_HHH> yo te lo consigo
+[06Mar2025 22:13:00.782] [Server thread/INFO] [Console/]: <KaleSsz> deberiamos construir un generador de piedra
+[06Mar2025 22:13:41.829] [Server thread/INFO] [Console/]: <KaleSsz> tenkiu
+[06Mar2025 22:13:56.084] [Server thread/DEBUG] [mixin/]: Mixing util.IWorldPosCallableMixin from mixins.arclight.core.json into net.minecraft.util.IWorldPosCallable
+[06Mar2025 22:13:56.088] [Server thread/DEBUG] [mixin/]: Generating mapped inner class net/minecraft/util/IWorldPosCallable$1Anonymous$e8070b0a44f047d39a15028da543d416 (originally io/izzel/arclight/common/mixin/core/util/IWorldPosCallableMixin$1Anonymous)
+[06Mar2025 22:13:56.092] [Server thread/DEBUG] [mixin/]: Mixing inventory.container.EnchantmentContainer1Mixin from mixins.arclight.core.json into net.minecraft.inventory.container.EnchantmentContainer$1
+[06Mar2025 22:14:30.250] [Server thread/DEBUG] [Implementer/SWITCH_TABLE]: Candidate switch enum method <clinit>()V class io/izzel/arclight/common/mixin/core/inventory/container/RepairContainerMixin$1
+[06Mar2025 22:15:16.334] [Server thread/INFO] [Console/]: <Dylan_HHH> ya vengo pa
+[06Mar2025 22:15:19.518] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: Dylan_HHH lost connection: Disconnected
+[06Mar2025 22:15:19.520] [Server thread/CONFIG] [voicechat/]: Removing state of Dylan_HHH
+[06Mar2025 22:15:19.525] [Server thread/INFO] [voicechat/]: Disconnecting client Dylan_HHH
+[06Mar2025 22:15:19.535] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Dylan_HHH left the game
+[06Mar2025 22:15:28.297] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: Gathering id map for writing to world save world
+[06Mar2025 22:15:28.301] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: ID Map collection complete world
