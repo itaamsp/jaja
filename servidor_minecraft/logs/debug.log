@@ -1982,3 +1982,11 @@ java.lang.IllegalStateException: Could not find any of the following classes: Ar
 [06Mar2025 02:02:31.851] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: ID Map collection complete world
 [06Mar2025 02:07:32.027] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: Gathering id map for writing to world save world
 [06Mar2025 02:07:32.033] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: ID Map collection complete world
+[06Mar2025 02:12:31.972] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: Gathering id map for writing to world save world
+[06Mar2025 02:12:31.975] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: ID Map collection complete world
+[06Mar2025 02:13:48.698] [Server thread/DEBUG] [mixin/]: Mixing block.PortalSizeMixin from mixins.arclight.core.json into net.minecraft.block.PortalSize
+[06Mar2025 02:13:48.702] [Server thread/DEBUG] [mixin/]: Renaming synthetic method lambda$arclight$buildPortal$0(Lnet/minecraft/block/BlockState;Lnet/minecraft/util/math/BlockPos;)V to mdd42114$lambda$arclight$buildPortal$0$0 in mixins.arclight.core.json:block.PortalSizeMixin
+[06Mar2025 02:13:59.265] [Server thread/DEBUG] [Implementer/SWITCH_TABLE]: Filling switch table for class org.bukkit.Material
+[06Mar2025 02:15:18.962] [Server thread/DEBUG] [Implementer/SWITCH_TABLE]: Candidate switch enum method <clinit>()V class net/minecraft/block/HorizontalFaceBlock$1
+[06Mar2025 02:17:31.989] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: Gathering id map for writing to world save world
+[06Mar2025 02:17:31.995] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: ID Map collection complete world
