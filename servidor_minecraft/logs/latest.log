@@ -393,3 +393,6 @@ java.lang.IllegalStateException: Could not find any of the following classes: Ar
 [06Mar2025 22:15:19.518] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: Dylan_HHH lost connection: Disconnected
 [06Mar2025 22:15:19.525] [Server thread/INFO] [voicechat/]: Disconnecting client Dylan_HHH
 [06Mar2025 22:15:19.535] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Dylan_HHH left the game
+[06Mar2025 22:52:45.423] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: KaleSsz lost connection: Disconnected
+[06Mar2025 22:52:45.426] [Server thread/INFO] [voicechat/]: Disconnecting client KaleSsz
+[06Mar2025 22:52:45.437] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: KaleSsz left the game
