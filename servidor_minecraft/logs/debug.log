@@ -1977,3 +1977,8 @@ java.lang.IllegalStateException: Could not find any of the following classes: Ar
 [06Mar2025 01:53:56.546] [Server thread/DEBUG] [Implementer/INVENTORY]: Found implemented class net/minecraft/tileentity/LecternTileEntity$LecternInventory
 [06Mar2025 01:57:32.050] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: Gathering id map for writing to world save world
 [06Mar2025 01:57:32.075] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: ID Map collection complete world
+[06Mar2025 02:01:36.663] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: KaleSsz has made the advancement [Isn't It Iron Pick]
+[06Mar2025 02:02:31.845] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: Gathering id map for writing to world save world
+[06Mar2025 02:02:31.851] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: ID Map collection complete world
+[06Mar2025 02:07:32.027] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: Gathering id map for writing to world save world
+[06Mar2025 02:07:32.033] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: ID Map collection complete world
