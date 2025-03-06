@@ -2035,3 +2035,14 @@ java.lang.IllegalStateException: Could not find any of the following classes: Ar
 [06Mar2025 03:52:31.754] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: ID Map collection complete world
 [06Mar2025 03:57:31.770] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: Gathering id map for writing to world save world
 [06Mar2025 03:57:31.781] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: ID Map collection complete world
+[06Mar2025 04:02:31.805] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: Gathering id map for writing to world save world
+[06Mar2025 04:02:31.808] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: ID Map collection complete world
+[06Mar2025 04:03:59.914] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: KaleSsz lost connection: Timed out
+[06Mar2025 04:03:59.916] [Server thread/CONFIG] [voicechat/]: Removing state of KaleSsz
+[06Mar2025 04:03:59.921] [Server thread/INFO] [voicechat/]: Disconnecting client KaleSsz
+[06Mar2025 04:03:59.936] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: KaleSsz left the game
+[06Mar2025 04:03:59.997] [Server thread/WARN] [net.minecraft.network.NetworkManager/]: handleDisconnection() called twice
+[06Mar2025 04:07:31.742] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: Gathering id map for writing to world save world
+[06Mar2025 04:07:31.748] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: ID Map collection complete world
+[06Mar2025 04:12:31.549] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: Gathering id map for writing to world save world
+[06Mar2025 04:12:31.554] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: ID Map collection complete world

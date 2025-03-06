@@ -320,3 +320,7 @@ java.lang.IllegalStateException: Could not find any of the following classes: Ar
 [06Mar2025 02:01:36.663] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: KaleSsz has made the advancement [Isn't It Iron Pick]
 [06Mar2025 02:48:50.264] [Server thread/INFO] [net.minecraft.entity.Entity/]: Villager VillagerEntity['Cleric'/144, l='ServerLevel[world]', x=304.70, y=67.00, z=25.30] died, message: 'Cleric was slain by Zombie'
 [06Mar2025 02:54:08.561] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: KaleSsz has made the advancement [Diamonds!]
+[06Mar2025 04:03:59.914] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: KaleSsz lost connection: Timed out
+[06Mar2025 04:03:59.921] [Server thread/INFO] [voicechat/]: Disconnecting client KaleSsz
+[06Mar2025 04:03:59.936] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: KaleSsz left the game
+[06Mar2025 04:03:59.997] [Server thread/WARN] [net.minecraft.network.NetworkManager/]: handleDisconnection() called twice
