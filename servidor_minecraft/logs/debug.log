@@ -2014,3 +2014,8 @@ java.lang.IllegalStateException: Could not find any of the following classes: Ar
 [06Mar2025 03:07:11.659] [Server thread/DEBUG] [Implementer/SWITCH_TABLE]: Candidate switch enum method $SWITCH_TABLE$net$minecraft$world$entity$player$EntityHuman$EnumBedResult()[I class org/bukkit/craftbukkit/v1_16_R3/event/CraftEventFactory$1
 [06Mar2025 03:07:31.826] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: Gathering id map for writing to world save world
 [06Mar2025 03:07:31.829] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: ID Map collection complete world
+[06Mar2025 03:12:31.744] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: Gathering id map for writing to world save world
+[06Mar2025 03:12:31.747] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: ID Map collection complete world
+[06Mar2025 03:17:31.752] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: Gathering id map for writing to world save world
+[06Mar2025 03:17:31.756] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: ID Map collection complete world
+[06Mar2025 03:22:05.526] [Server thread/DEBUG] [mixin/]: Mixing inventory.container.StonecutterContainer1Mixin from mixins.arclight.core.json into net.minecraft.inventory.container.StonecutterContainer$1
