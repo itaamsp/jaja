@@ -2051,3 +2051,59 @@ java.lang.IllegalStateException: Could not find any of the following classes: Ar
 [06Mar2025 21:48:27.308] [Server thread/DEBUG] [mixin/]: Renaming synthetic method lambda$arclight$buildPortal$0(Lnet/minecraft/block/BlockState;Lnet/minecraft/util/math/BlockPos;)V to md656d5a$lambda$arclight$buildPortal$0$0 in mixins.arclight.core.json:block.PortalSizeMixin
 [06Mar2025 21:48:27.373] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: KaleSsz has made the advancement [We Need to Go Deeper]
 [06Mar2025 21:48:28.990] [Server thread/DEBUG] [Implementer/SWITCH_TABLE]: Candidate switch enum method <clinit>()V class net/minecraft/util/Rotation$1
+[06Mar2025 21:48:47.334] [Server thread/INFO] [Console/]: <Dylan_HHH> por aqui
+[06Mar2025 21:49:46.875] [Server thread/INFO] [Console/]: <Dylan_HHH> esta un poco lejos
+[06Mar2025 21:50:02.564] [Server thread/DEBUG] [mixin/]: Mixing entity.monster.piglin.PiglinTasksMixin from mixins.arclight.core.json into net.minecraft.entity.monster.piglin.PiglinTasks
+[06Mar2025 21:50:02.567] [Server thread/DEBUG] [net.minecraftforge.coremod.transformer.CoreModBaseTransformer/COREMOD]: Transforming func_230280_a_ with desc (Lnet/minecraft/item/ShootableItem;)Z
+[06Mar2025 21:50:02.569] [Server thread/DEBUG] [net.minecraftforge.coremod.transformer.CoreModBaseTransformer/COREMOD]: Transforming func_208003_a with desc (Lnet/minecraft/item/ItemStack;Lnet/minecraft/item/ItemStack;)Z
+[06Mar2025 21:50:02.590] [Server thread/DEBUG] [mixin/]: Mixing entity.ai.brain.task.ForgetAttackTargetTaskMixin from mixins.arclight.core.json into net.minecraft.entity.ai.brain.task.ForgetAttackTargetTask
+[06Mar2025 21:50:02.599] [Server thread/DEBUG] [mixin/]: Mixing entity.ai.brain.task.FindNewAttackTargetTaskMixin from mixins.arclight.core.json into net.minecraft.entity.ai.brain.task.FindNewAttackTargetTask
+[06Mar2025 21:50:21.447] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: Gathering id map for writing to world save world
+[06Mar2025 21:50:21.459] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: ID Map collection complete world
+[06Mar2025 21:50:23.235] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2275ms or 45 ticks behind
+[06Mar2025 21:51:04.794] [Server thread/DEBUG] [Implementer/INVENTORY]: Found implemented class org/bukkit/craftbukkit/v1_16_R3/inventory/CraftInventoryCustom$MinecraftInventory
+[06Mar2025 21:51:04.796] [Server thread/DEBUG] [mixin/]: Mixing inventory.MerchantInventoryMixin from mixins.arclight.core.json into net.minecraft.inventory.MerchantInventory
+[06Mar2025 21:51:04.809] [Server thread/DEBUG] [Implementer/INVENTORY]: Found implemented class net/minecraft/tileentity/LecternTileEntity$LecternInventory
+[06Mar2025 21:51:29.815] [Server thread/INFO] [Console/]: <KaleSsz> un poquito lejos no
+[06Mar2025 21:51:39.397] [Server thread/INFO] [Console/]: <Dylan_HHH> no hay pq no se han generado
+[06Mar2025 21:51:49.566] [Server thread/INFO] [Console/]: <Dylan_HHH> hay q subir
+[06Mar2025 21:53:04.227] [Server thread/INFO] [Console/]: <KaleSsz> no se ven tres mrd
+[06Mar2025 21:53:09.605] [Server thread/INFO] [Console/]: <KaleSsz> donde estamos
+[06Mar2025 21:53:25.413] [Server thread/DEBUG] [Implementer/SWITCH_TABLE]: Filling switch table for class org.bukkit.Material
+[06Mar2025 21:53:25.422] [Server thread/DEBUG] [mixin/]: Mixing CraftLegacyLegacyMixin from mixins.arclight.bukkit.json into org.bukkit.craftbukkit.v1_16_R3.legacy.CraftLegacy
+[06Mar2025 21:53:25.428] [Server thread/INFO] [STDERR/]: [org.bukkit.craftbukkit.v1_16_R3.legacy.CraftLegacy:<clinit>:257]: Initializing Legacy Material Support. Unless you have legacy plugins and/or data this is a bug!
+[06Mar2025 21:53:29.831] [Server thread/DEBUG] [Implementer/SWITCH_TABLE]: Candidate switch enum method $SWITCH_TABLE$org$bukkit$SkullType()[I class org/bukkit/craftbukkit/v1_16_R3/block/CraftSkull
+[06Mar2025 21:53:29.831] [Server thread/DEBUG] [Implementer/SWITCH_TABLE]: Candidate switch enum method $SWITCH_TABLE$org$bukkit$Material()[I class org/bukkit/craftbukkit/v1_16_R3/block/CraftSkull
+[06Mar2025 21:53:29.832] [Server thread/DEBUG] [Implementer/SWITCH_TABLE]: Find switch(enum org/bukkit/Material) table method $SWITCH_TABLE$org$bukkit$Material()[I in class org/bukkit/craftbukkit/v1_16_R3/block/CraftSkull
+[06Mar2025 21:53:29.832] [Server thread/DEBUG] [Implementer/SWITCH_TABLE]: Inject method in method org/bukkit/craftbukkit/v1_16_R3/block/CraftSkull:$SWITCH_TABLE$org$bukkit$Material()[I, switch table field is $SWITCH_TABLE$org$bukkit$Material[I
+[06Mar2025 21:53:29.934] [Server thread/DEBUG] [Implementer/SWITCH_TABLE]: Filling switch table for class org.bukkit.Material
+[06Mar2025 21:53:29.956] [Server thread/DEBUG] [Implementer/SWITCH_TABLE]: Candidate switch enum method <clinit>()V class net/minecraft/entity/item/ArmorStandEntity$1
+[06Mar2025 21:53:29.963] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: KaleSsz fell from a high place
+[06Mar2025 21:53:29.965] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4606ms or 92 ticks behind
+[06Mar2025 21:53:41.552] [Server thread/INFO] [Console/]: <Dylan_HHH> pq te tiraste xd
+[06Mar2025 21:53:42.501] [Server thread/INFO] [Console/]: <KaleSsz> XD
+[06Mar2025 21:53:52.632] [Server thread/INFO] [Console/]: <Dylan_HHH> yo tengo caida de pluma w
+[06Mar2025 21:54:08.685] [Server thread/INFO] [Console/]: <KaleSsz> pense que habia algo abajo donde aterrizar
+[06Mar2025 21:54:12.737] [Server thread/INFO] [Console/]: <KaleSsz> q se yo
+[06Mar2025 21:54:30.003] [Server thread/INFO] [Console/]: <KaleSsz> ya voy pa alla
+[06Mar2025 21:54:42.108] [Server thread/WARN] [net.minecraft.world.server.ServerWorld/]: Tried to add entity minecraft:item but it was marked as removed already
+[06Mar2025 21:55:04.076] [Server thread/INFO] [Console/]: Unknown command. Type "/help" for help.
+[06Mar2025 21:55:23.516] [Server thread/INFO] [Console/]: Unknown command. Type "/help" for help.
+[06Mar2025 21:55:28.224] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: Gathering id map for writing to world save world
+[06Mar2025 21:55:28.230] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: ID Map collection complete world
+[06Mar2025 21:55:32.118] [Server thread/INFO] [Console/]: Unknown command. Type "/help" for help.
+[06Mar2025 21:55:42.666] [Server thread/INFO] [Console/]: Unknown command. Type "/help" for help.
+[06Mar2025 21:55:58.663] [Worker-Main-2/DEBUG] [mixin/]: Mixing world.gen.WorldGenRegionMixin from mixins.arclight.core.json into net.minecraft.world.gen.WorldGenRegion
+[06Mar2025 21:55:58.771] [Server thread/INFO] [Console/]: Unknown command. Type "/help" for help.
+[06Mar2025 21:56:08.594] [Worker-Main-2/DEBUG] [Implementer/SWITCH_TABLE]: Candidate switch enum method <clinit>()V class net/minecraft/block/RotatedPillarBlock$1
+[06Mar2025 21:56:13.569] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Incorrect argument for command
+[06Mar2025 21:56:13.570] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: ...p KaleSsz a Dylan_HHH<--[HERE]
+[06Mar2025 21:56:39.962] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Made Dylan_HHH a server operator
+[06Mar2025 21:57:07.497] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: Dylan_HHH issued server command: /tp KaleSsz Dylan_HHH
+[06Mar2025 21:57:07.499] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Dylan_HHH: Teleported KaleSsz to Dylan_HHH]
+[06Mar2025 21:57:21.714] [Server thread/INFO] [Console/]: <KaleSsz> a
+[06Mar2025 21:57:49.696] [Server thread/DEBUG] [mixin/]: Mixing command.arguments.BlockStateParserMixin from mixins.arclight.core.json into net.minecraft.command.arguments.BlockStateParser
+[06Mar2025 21:58:02.618] [Server thread/INFO] [Console/]: <Dylan_HHH> ahora como bajas?
+[06Mar2025 21:58:19.951] [Server thread/INFO] [Console/]: <KaleSsz> bajando
+[06Mar2025 21:58:25.214] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: KaleSsz has completed the challenge [Hot Tourist Destinations]
+[06Mar2025 21:58:43.792] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: KaleSsz fell from a high place
