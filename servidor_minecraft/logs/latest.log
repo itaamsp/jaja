@@ -314,3 +314,6 @@ java.lang.IllegalStateException: Could not find any of the following classes: Ar
 [06Mar2025 01:12:31.953] [Craft Scheduler Thread - 1/INFO] [Console/]: [33;1m[[32;22mSkinsRestorer[33;1m] [0;39m[32;1m----------------------------------------------[0;39m
 [06Mar2025 01:12:31.953] [Craft Scheduler Thread - 1/INFO] [Console/]: [33;1m[[32;22mSkinsRestorer[33;1m] [0;39m[34;1mDo you have issues? Read our troubleshooting guide: [33;1mhttps://skinsrestorer.net/docs/troubleshooting[0;39m
 [06Mar2025 01:12:31.996] [Craft Scheduler Thread - 1/INFO] [Console/]: [33;1m[[32;22mSkinsRestorer[33;1m] [0;39m[34;1mWant to support SkinsRestorer? Consider donating: [33;1mhttps://skinsrestorer.net/donate[0;39m
+[06Mar2025 01:43:02.094] [User Authenticator #1/INFO] [net.minecraft.network.login.ServerLoginNetHandler/]: UUID of player KaleSsz is 5d037630-0bd9-3d33-9502-32a044f5f237
+[06Mar2025 01:43:05.046] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.advancements.PlayerAdvancements@1d7181c5
+[06Mar2025 01:43:05.119] [Server thread/INFO] [net.minecraft.server.management.PlayerList/]: KaleSsz[/127.231.136.90:35421] logged in with entity id 89 at (335.9283942449359, 68.0, -21.746528547333885)
