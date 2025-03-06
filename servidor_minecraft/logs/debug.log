@@ -2019,3 +2019,7 @@ java.lang.IllegalStateException: Could not find any of the following classes: Ar
 [06Mar2025 03:17:31.752] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: Gathering id map for writing to world save world
 [06Mar2025 03:17:31.756] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: ID Map collection complete world
 [06Mar2025 03:22:05.526] [Server thread/DEBUG] [mixin/]: Mixing inventory.container.StonecutterContainer1Mixin from mixins.arclight.core.json into net.minecraft.inventory.container.StonecutterContainer$1
+[06Mar2025 03:22:31.708] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: Gathering id map for writing to world save world
+[06Mar2025 03:22:31.711] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: ID Map collection complete world
+[06Mar2025 03:27:31.782] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: Gathering id map for writing to world save world
+[06Mar2025 03:27:31.788] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: ID Map collection complete world
