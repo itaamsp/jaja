@@ -2157,3 +2157,11 @@ java.lang.IllegalStateException: Could not find any of the following classes: Ar
 [06Mar2025 22:20:28.102] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: ID Map collection complete world
 [06Mar2025 22:25:28.006] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: Gathering id map for writing to world save world
 [06Mar2025 22:25:28.009] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: ID Map collection complete world
+[06Mar2025 22:30:28.062] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: Gathering id map for writing to world save world
+[06Mar2025 22:30:28.067] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: ID Map collection complete world
+[06Mar2025 22:35:28.087] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: Gathering id map for writing to world save world
+[06Mar2025 22:35:28.091] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: ID Map collection complete world
+[06Mar2025 22:38:02.044] [Server thread/DEBUG] [mixin/]: Mixing inventory.container.GrindstoneContainer1Mixin from mixins.arclight.core.json into net.minecraft.inventory.container.GrindstoneContainer$1
+[06Mar2025 22:38:05.400] [Server thread/DEBUG] [Implementer/SWITCH_TABLE]: Candidate switch enum method <clinit>()V class net/minecraft/block/HorizontalFaceBlock$1
+[06Mar2025 22:38:06.705] [Server thread/DEBUG] [mixin/]: Mixing inventory.container.StonecutterContainer1Mixin from mixins.arclight.core.json into net.minecraft.inventory.container.StonecutterContainer$1
+[06Mar2025 22:38:29.309] [Server thread/DEBUG] [Implementer/SWITCH_TABLE]: Candidate switch enum method $SWITCH_TABLE$net$minecraft$world$entity$player$EntityHuman$EnumBedResult()[I class org/bukkit/craftbukkit/v1_16_R3/event/CraftEventFactory$1
