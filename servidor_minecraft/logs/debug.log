@@ -1967,3 +1967,13 @@ java.lang.IllegalStateException: Could not find any of the following classes: Ar
 [06Mar2025 01:49:36.540] [Server thread/DEBUG] [Implementer/SWITCH_TABLE]: Candidate switch enum method <clinit>()V class io/izzel/arclight/common/mixin/core/network/play/ServerPlayNetHandlerMixin$1
 [06Mar2025 01:50:44.588] [Server thread/DEBUG] [mixin/]: Mixing util.IWorldPosCallableMixin from mixins.arclight.core.json into net.minecraft.util.IWorldPosCallable
 [06Mar2025 01:50:44.591] [Server thread/DEBUG] [mixin/]: Generating mapped inner class net/minecraft/util/IWorldPosCallable$1Anonymous$9196cf863e704ce4a3100130351deede (originally io/izzel/arclight/common/mixin/core/util/IWorldPosCallableMixin$1Anonymous)
+[06Mar2025 01:52:32.003] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: Gathering id map for writing to world save world
+[06Mar2025 01:52:32.019] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: ID Map collection complete world
+[06Mar2025 01:53:17.384] [Server thread/DEBUG] [Implementer/INVENTORY]: Found implemented class org/bukkit/craftbukkit/v1_16_R3/inventory/CraftInventoryCustom$MinecraftInventory
+[06Mar2025 01:53:17.386] [Server thread/DEBUG] [mixin/]: Mixing inventory.MerchantInventoryMixin from mixins.arclight.core.json into net.minecraft.inventory.MerchantInventory
+[06Mar2025 01:53:17.419] [Server thread/DEBUG] [mixin/]: Mixing entity.monster.piglin.PiglinTasksMixin from mixins.arclight.core.json into net.minecraft.entity.monster.piglin.PiglinTasks
+[06Mar2025 01:53:17.431] [Server thread/DEBUG] [net.minecraftforge.coremod.transformer.CoreModBaseTransformer/COREMOD]: Transforming func_230280_a_ with desc (Lnet/minecraft/item/ShootableItem;)Z
+[06Mar2025 01:53:17.441] [Server thread/DEBUG] [net.minecraftforge.coremod.transformer.CoreModBaseTransformer/COREMOD]: Transforming func_208003_a with desc (Lnet/minecraft/item/ItemStack;Lnet/minecraft/item/ItemStack;)Z
+[06Mar2025 01:53:56.546] [Server thread/DEBUG] [Implementer/INVENTORY]: Found implemented class net/minecraft/tileentity/LecternTileEntity$LecternInventory
+[06Mar2025 01:57:32.050] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: Gathering id map for writing to world save world
+[06Mar2025 01:57:32.075] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: ID Map collection complete world
