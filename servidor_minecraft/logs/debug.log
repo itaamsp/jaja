@@ -2004,3 +2004,8 @@ java.lang.IllegalStateException: Could not find any of the following classes: Ar
 [06Mar2025 02:47:31.710] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: Gathering id map for writing to world save world
 [06Mar2025 02:47:31.713] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: ID Map collection complete world
 [06Mar2025 02:48:50.264] [Server thread/INFO] [net.minecraft.entity.Entity/]: Villager VillagerEntity['Cleric'/144, l='ServerLevel[world]', x=304.70, y=67.00, z=25.30] died, message: 'Cleric was slain by Zombie'
+[06Mar2025 02:52:31.737] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: Gathering id map for writing to world save world
+[06Mar2025 02:52:31.740] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: ID Map collection complete world
+[06Mar2025 02:54:08.561] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: KaleSsz has made the advancement [Diamonds!]
+[06Mar2025 02:57:31.758] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: Gathering id map for writing to world save world
+[06Mar2025 02:57:31.761] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: ID Map collection complete world
