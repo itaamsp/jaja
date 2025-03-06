@@ -318,3 +318,4 @@ java.lang.IllegalStateException: Could not find any of the following classes: Ar
 [06Mar2025 01:43:05.046] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.advancements.PlayerAdvancements@1d7181c5
 [06Mar2025 01:43:05.119] [Server thread/INFO] [net.minecraft.server.management.PlayerList/]: KaleSsz[/127.231.136.90:35421] logged in with entity id 89 at (335.9283942449359, 68.0, -21.746528547333885)
 [06Mar2025 02:01:36.663] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: KaleSsz has made the advancement [Isn't It Iron Pick]
+[06Mar2025 02:48:50.264] [Server thread/INFO] [net.minecraft.entity.Entity/]: Villager VillagerEntity['Cleric'/144, l='ServerLevel[world]', x=304.70, y=67.00, z=25.30] died, message: 'Cleric was slain by Zombie'
