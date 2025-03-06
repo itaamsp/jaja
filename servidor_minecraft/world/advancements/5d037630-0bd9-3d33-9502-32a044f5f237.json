@@ -1971,12 +1971,13 @@
   },
   "minecraft:nether/explore_nether": {
     "criteria": {
+      "minecraft:crimson_forest": "2025-03-06 21:58:25 +0000",
       "minecraft:nether_wastes": "2025-03-06 21:50:55 +0000",
       "minecraft:soul_sand_valley": "2025-03-06 21:55:21 +0000",
       "minecraft:warped_forest": "2025-03-06 21:50:17 +0000",
       "minecraft:basalt_deltas": "2025-03-06 21:48:27 +0000"
     },
-    "done": false
+    "done": true
   },
   "minecraft:recipes/building_blocks/stripped_spruce_wood": {
     "criteria": {
