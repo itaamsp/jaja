@@ -2557,3 +2557,11 @@ java.lang.IllegalStateException: Could not find any of the following classes: Ar
 [07Mar2025 01:45:31.893] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: ID Map collection complete world
 [07Mar2025 01:50:31.635] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: Gathering id map for writing to world save world
 [07Mar2025 01:50:31.638] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: ID Map collection complete world
+[07Mar2025 01:51:16.766] [Server thread/DEBUG] [Implementer/SWITCH_TABLE]: Filling switch table for class org.bukkit.entity.EntityType
+[07Mar2025 01:51:47.767] [Server thread/DEBUG] [Arclight/]: Unhandled damage of DolphinEntity['Dolphin'/32951, l='ServerLevel[world]', x=1589.34, y=61.31, z=1103.40] from lightningBolt
+[07Mar2025 01:51:47.767] [Server thread/DEBUG] [Arclight/]: Unhandled damage of SquidEntity['Squid'/32952, l='ServerLevel[world]', x=1586.93, y=59.94, z=1107.60] from lightningBolt
+[07Mar2025 01:51:56.162] [Worker-Main-234/DEBUG] [Implementer/SWITCH_TABLE]: Candidate switch enum method <clinit>()V class net/minecraft/world/gen/feature/structure/FortressPieces$1
+[07Mar2025 01:55:30.977] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: Gathering id map for writing to world save world
+[07Mar2025 01:55:30.981] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: ID Map collection complete world
+[07Mar2025 02:00:31.304] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: Gathering id map for writing to world save world
+[07Mar2025 02:00:31.308] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: ID Map collection complete world
