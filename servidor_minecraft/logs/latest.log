@@ -31,3 +31,28 @@
 [07Mar2025 01:35:32.642] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: Crying_Prophet moved too quickly! -3.571484413021153,2.130906499714527,-9.195735477008384
 [07Mar2025 01:41:31.466] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Dylan_HHH has made the advancement [Eye Spy]
 [07Mar2025 01:41:32.214] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Crying_Prophet has made the advancement [Eye Spy]
+[07Mar2025 02:25:00.713] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: Crying_Prophet lost connection: Disconnected
+[07Mar2025 02:25:00.714] [Server thread/INFO] [voicechat/]: Disconnecting client Crying_Prophet
+[07Mar2025 02:25:00.723] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Crying_Prophet left the game
+[07Mar2025 02:25:01.613] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: Dylan_HHH lost connection: Disconnected
+[07Mar2025 02:25:01.614] [Server thread/INFO] [voicechat/]: Disconnecting client Dylan_HHH
+[07Mar2025 02:25:01.620] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Dylan_HHH left the game
+[07Mar2025 02:25:47.710] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Stopping the server
+[07Mar2025 02:25:47.761] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping server
+[07Mar2025 02:25:47.761] [Server thread/INFO] [SkinsRestorer/]: Disabling SkinsRestorer v15.5.3
+[07Mar2025 02:25:47.770] [Server thread/INFO] [Graves/]: Disabling Graves v4.9
+[07Mar2025 02:25:47.791] [Server thread/INFO] [ProtocolLib/]: Disabling ProtocolLib v5.3.0
+[07Mar2025 02:25:47.803] [Server thread/INFO] [NametagEdit/]: Disabling NametagEdit v4.5.23
+[07Mar2025 02:25:47.803] [Server thread/INFO] [voicechat/]: Disabling voicechat v2.5.27
+[07Mar2025 02:25:47.922] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving players
+[07Mar2025 02:25:47.923] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving worlds
+[07Mar2025 02:25:47.923] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[07Mar2025 02:25:48.085] [Server thread/INFO] [net.minecraft.world.server.ChunkManager/]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[07Mar2025 02:25:48.094] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world/DIM-1]'/minecraft:the_nether
+[07Mar2025 02:25:48.097] [Server thread/INFO] [net.minecraft.world.server.ChunkManager/]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[07Mar2025 02:25:48.097] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world/DIM1]'/minecraft:the_end
+[07Mar2025 02:25:48.098] [Server thread/INFO] [net.minecraft.world.server.ChunkManager/]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[07Mar2025 02:25:48.104] [Server thread/INFO] [net.minecraft.world.server.ChunkManager/]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[07Mar2025 02:25:48.134] [Server thread/INFO] [net.minecraft.world.server.ChunkManager/]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[07Mar2025 02:25:48.143] [Server thread/INFO] [net.minecraft.world.server.ChunkManager/]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[07Mar2025 02:25:53.156] [Exit Thread/WARN] [Arclight/]: 1 threads not shutting down correctly, force exiting

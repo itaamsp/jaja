@@ -2573,3 +2573,40 @@ java.lang.IllegalStateException: Could not find any of the following classes: Ar
 [07Mar2025 02:15:31.139] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: ID Map collection complete world
 [07Mar2025 02:20:31.196] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: Gathering id map for writing to world save world
 [07Mar2025 02:20:31.199] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: ID Map collection complete world
+[07Mar2025 02:25:00.713] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: Crying_Prophet lost connection: Disconnected
+[07Mar2025 02:25:00.714] [Server thread/CONFIG] [voicechat/]: Removing state of Crying_Prophet
+[07Mar2025 02:25:00.714] [Server thread/INFO] [voicechat/]: Disconnecting client Crying_Prophet
+[07Mar2025 02:25:00.723] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Crying_Prophet left the game
+[07Mar2025 02:25:01.613] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: Dylan_HHH lost connection: Disconnected
+[07Mar2025 02:25:01.614] [Server thread/CONFIG] [voicechat/]: Removing state of Dylan_HHH
+[07Mar2025 02:25:01.614] [Server thread/INFO] [voicechat/]: Disconnecting client Dylan_HHH
+[07Mar2025 02:25:01.620] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Dylan_HHH left the game
+[07Mar2025 02:25:31.344] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: Gathering id map for writing to world save world
+[07Mar2025 02:25:31.348] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: ID Map collection complete world
+[07Mar2025 02:25:47.710] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Stopping the server
+[07Mar2025 02:25:47.761] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping server
+[07Mar2025 02:25:47.761] [Server thread/INFO] [SkinsRestorer/]: Disabling SkinsRestorer v15.5.3
+[07Mar2025 02:25:47.770] [Server thread/INFO] [Graves/]: Disabling Graves v4.9
+[07Mar2025 02:25:47.791] [Server thread/INFO] [ProtocolLib/]: Disabling ProtocolLib v5.3.0
+[07Mar2025 02:25:47.803] [Server thread/INFO] [NametagEdit/]: Disabling NametagEdit v4.5.23
+[07Mar2025 02:25:47.803] [Server thread/INFO] [voicechat/]: Disabling voicechat v2.5.27
+[07Mar2025 02:25:47.922] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving players
+[07Mar2025 02:25:47.923] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving worlds
+[07Mar2025 02:25:47.923] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[07Mar2025 02:25:48.085] [Server thread/INFO] [net.minecraft.world.server.ChunkManager/]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[07Mar2025 02:25:48.086] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: Gathering id map for writing to world save world
+[07Mar2025 02:25:48.088] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: ID Map collection complete world
+[07Mar2025 02:25:48.094] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world/DIM-1]'/minecraft:the_nether
+[07Mar2025 02:25:48.097] [Server thread/INFO] [net.minecraft.world.server.ChunkManager/]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[07Mar2025 02:25:48.097] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world/DIM1]'/minecraft:the_end
+[07Mar2025 02:25:48.098] [Server thread/INFO] [net.minecraft.world.server.ChunkManager/]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[07Mar2025 02:25:48.104] [Server thread/INFO] [net.minecraft.world.server.ChunkManager/]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[07Mar2025 02:25:48.134] [Server thread/INFO] [net.minecraft.world.server.ChunkManager/]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[07Mar2025 02:25:48.143] [Server thread/INFO] [net.minecraft.world.server.ChunkManager/]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[07Mar2025 02:25:48.148] [Server thread/DEBUG] [net.minecraftforge.fml.loading.FileUtils/CORE]: Found existing serverconfig directory : ./world/serverconfig
+[07Mar2025 02:25:48.148] [Server thread/DEBUG] [net.minecraftforge.fml.config.ConfigTracker/CONFIG]: Unloading configs type SERVER
+[07Mar2025 02:25:48.150] [Thread-0/DEBUG] [net.minecraftforge.fml.config.ConfigFileTypeHandler/CONFIG]: Config file forge-server.toml changed, sending notifies
+[07Mar2025 02:25:48.150] [Thread-0/DEBUG] [net.minecraftforge.common.ForgeConfig/FORGEMOD]: Forge config just got changed on the file system!
+[07Mar2025 02:25:48.150] [Server thread/DEBUG] [org.jline/]: Removing shutdown-hook: Thread[JLine Shutdown Hook,5,main]
+[07Mar2025 02:25:53.156] [Exit Thread/DEBUG] [Arclight/]: Threads bStats-Metrics not shutting down
+[07Mar2025 02:25:53.156] [Exit Thread/WARN] [Arclight/]: 1 threads not shutting down correctly, force exiting
