@@ -28,3 +28,4 @@
 [07Mar2025 01:25:30.973] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: Crying_Prophet moved too quickly! 11.018378478605882,3.1661092609382138,-14.96631325008235
 [07Mar2025 01:25:30.974] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: Dylan_HHH moved too quickly! 3.0314876424314434,1.2491870787446828,-11.66576672795307
 [07Mar2025 01:25:30.979] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3170ms or 63 ticks behind
+[07Mar2025 01:35:32.642] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: Crying_Prophet moved too quickly! -3.571484413021153,2.130906499714527,-9.195735477008384

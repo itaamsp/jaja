@@ -1072,6 +1072,7 @@
       "minecraft:beach": "2024-12-19 03:05:55 +0000",
       "minecraft:river": "2024-12-10 03:05:42 +0000",
       "minecraft:lukewarm_ocean": "2024-12-24 21:40:40 +0000",
+      "minecraft:swamp": "2025-03-07 01:30:47 +0000",
       "minecraft:savanna": "2024-12-18 21:09:28 +0000",
       "minecraft:plains": "2024-12-01 00:12:00 +0000"
     },
@@ -1909,6 +1910,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/end_crystal": {
+    "criteria": {
+      "has_ender_eye": "2025-03-07 01:39:00 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/green_bed_from_white_bed": {
     "criteria": {
       "has_bed": "2024-12-10 03:15:50 +0000"
@@ -1936,6 +1943,12 @@
   "minecraft:recipes/decorations/white_carpet": {
     "criteria": {
       "has_white_wool": "2024-12-01 00:14:20 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/ender_chest": {
+    "criteria": {
+      "has_ender_eye": "2025-03-07 01:39:00 +0000"
     },
     "done": true
   },
