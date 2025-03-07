@@ -2525,3 +2525,23 @@ java.lang.IllegalStateException: Could not find any of the following classes: Ar
 [07Mar2025 01:20:28.599] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: ID Map collection complete world
 [07Mar2025 01:20:32.453] [Worker-Main-2/DEBUG] [Implementer/SWITCH_TABLE]: Candidate switch enum method <clinit>()V class net/minecraft/block/StairsBlock$1
 [07Mar2025 01:20:32.458] [Worker-Main-2/DEBUG] [Implementer/SWITCH_TABLE]: Candidate switch enum method <clinit>()V class net/minecraft/block/FourWayBlock$1
+[07Mar2025 01:21:08.713] [Worker-Main-2/DEBUG] [Implementer/SWITCH_TABLE]: Candidate switch enum method <clinit>()V class net/minecraft/world/gen/feature/structure/MineshaftPieces$1
+[07Mar2025 01:21:34.808] [Worker-Main-2/DEBUG] [Implementer/SWITCH_TABLE]: Candidate switch enum method <clinit>()V class net/minecraft/block/RailBlock$1
+[07Mar2025 01:21:45.025] [Worker-Main-2/DEBUG] [Implementer/SWITCH_TABLE]: Candidate switch enum method <clinit>()V class net/minecraft/util/math/vector/Orientation$1
+[07Mar2025 01:21:49.326] [Server thread/DEBUG] [Implementer/SWITCH_TABLE]: Candidate switch enum method <clinit>()V class net/minecraft/block/AbstractRailBlock$1
+[07Mar2025 01:22:32.248] [Worker-Main-2/DEBUG] [Implementer/SWITCH_TABLE]: Candidate switch enum method <clinit>()V class net/minecraft/block/WallBlock$1
+[07Mar2025 01:22:32.252] [Worker-Main-2/DEBUG] [Implementer/SWITCH_TABLE]: Candidate switch enum method <clinit>()V class net/minecraft/entity/Entity$1
+[07Mar2025 01:22:56.065] [Server thread/DEBUG] [Implementer/SWITCH_TABLE]: Filling switch table for class org.bukkit.Material
+[07Mar2025 01:23:59.363] [Server thread/ERROR] [Minecraft/]: Block at 1,171, 59, 328 is Block{minecraft:water} but has net.minecraft.tileentity.ChestTileEntity@41692e4. Bukkit will attempt to fix this, but there may be additional damage that we cannot recover.
+[07Mar2025 01:23:59.363] [Server thread/ERROR] [Minecraft/]: Block at 1,171, 59, 328 is Block{minecraft:water} but has net.minecraft.tileentity.ChestTileEntity@41692e4. Bukkit will attempt to fix this, but there may be additional damage that we cannot recover.
+[07Mar2025 01:25:30.946] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: Gathering id map for writing to world save world
+[07Mar2025 01:25:30.949] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: ID Map collection complete world
+[07Mar2025 01:25:30.973] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: Crying_Prophet moved too quickly! 11.018378478605882,3.1661092609382138,-14.96631325008235
+[07Mar2025 01:25:30.974] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: Dylan_HHH moved too quickly! 3.0314876424314434,1.2491870787446828,-11.66576672795307
+[07Mar2025 01:25:30.979] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3170ms or 63 ticks behind
+[07Mar2025 01:25:34.623] [Worker-Main-2/DEBUG] [mixin/]: Mixing entity.passive.BeeEntity_AngerGoalMixin from mixins.arclight.core.json into net.minecraft.entity.passive.BeeEntity$AngerGoal
+[07Mar2025 01:25:46.468] [Server thread/DEBUG] [Implementer/SWITCH_TABLE]: Candidate switch enum method <clinit>()V class net/minecraft/block/SnowBlock$1
+[07Mar2025 01:30:21.315] [Worker-Main-2/DEBUG] [Implementer/SWITCH_TABLE]: Candidate switch enum method <clinit>()V class net/minecraft/world/gen/feature/structure/StrongholdPieces$3
+[07Mar2025 01:30:21.316] [Worker-Main-2/DEBUG] [Implementer/SWITCH_TABLE]: Candidate switch enum method <clinit>()V class net/minecraft/util/math/MutableBoundingBox$1
+[07Mar2025 01:30:32.609] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: Gathering id map for writing to world save world
+[07Mar2025 01:30:32.612] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: ID Map collection complete world

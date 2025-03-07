@@ -23,3 +23,8 @@
 [07Mar2025 01:11:10.339] [Server thread/INFO] [Console/]: <Crying_Prophet> voy a matar a kaleb
 [07Mar2025 01:11:22.620] [Server thread/INFO] [Console/]: <Dylan_HHH> idolo kale
 [07Mar2025 01:12:57.554] [Server thread/INFO] [Console/]: <Dylan_HHH> dc
+[07Mar2025 01:23:59.363] [Server thread/ERROR] [Minecraft/]: Block at 1,171, 59, 328 is Block{minecraft:water} but has net.minecraft.tileentity.ChestTileEntity@41692e4. Bukkit will attempt to fix this, but there may be additional damage that we cannot recover.
+[07Mar2025 01:23:59.363] [Server thread/ERROR] [Minecraft/]: Block at 1,171, 59, 328 is Block{minecraft:water} but has net.minecraft.tileentity.ChestTileEntity@41692e4. Bukkit will attempt to fix this, but there may be additional damage that we cannot recover.
+[07Mar2025 01:25:30.973] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: Crying_Prophet moved too quickly! 11.018378478605882,3.1661092609382138,-14.96631325008235
+[07Mar2025 01:25:30.974] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: Dylan_HHH moved too quickly! 3.0314876424314434,1.2491870787446828,-11.66576672795307
+[07Mar2025 01:25:30.979] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3170ms or 63 ticks behind
