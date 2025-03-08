@@ -1966,3 +1966,41 @@ java.lang.IllegalStateException: Could not find any of the following classes: Ar
 [08Mar2025 01:12:24.546] [Netty Epoll Server IO #2/DEBUG] [Implementer/SWITCH_TABLE]: Candidate switch enum method <clinit>()V class net/minecraft/network/play/server/SUpdateBossInfoPacket$1
 [08Mar2025 01:16:49.205] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: Gathering id map for writing to world save world
 [08Mar2025 01:16:49.215] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: ID Map collection complete world
+[08Mar2025 01:21:49.177] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: Gathering id map for writing to world save world
+[08Mar2025 01:21:49.184] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: ID Map collection complete world
+[08Mar2025 01:23:08.870] [Server thread/DEBUG] [mixin/]: Mixing CraftLegacyLegacyMixin from mixins.arclight.bukkit.json into org.bukkit.craftbukkit.v1_16_R3.legacy.CraftLegacy
+[08Mar2025 01:23:08.875] [Server thread/INFO] [STDERR/]: [org.bukkit.craftbukkit.v1_16_R3.legacy.CraftLegacy:<clinit>:257]: Initializing Legacy Material Support. Unless you have legacy plugins and/or data this is a bug!
+[08Mar2025 01:23:12.697] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3801ms or 76 ticks behind
+[08Mar2025 01:24:38.500] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Dylan_HHH has made the advancement [Free the End]
+[08Mar2025 01:24:48.550] [Server thread/ERROR] [Minecraft/]: Block at 0, 60, 0 is Block{minecraft:bedrock} but has net.minecraft.tileentity.EndPortalTileEntity@5692f902. Bukkit will attempt to fix this, but there may be additional damage that we cannot recover.
+[08Mar2025 01:25:10.598] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: Dylan_HHH lost connection: Disconnected
+[08Mar2025 01:25:10.599] [Server thread/CONFIG] [voicechat/]: Removing state of Dylan_HHH
+[08Mar2025 01:25:10.616] [Server thread/INFO] [voicechat/]: Disconnecting client Dylan_HHH
+[08Mar2025 01:25:10.627] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Dylan_HHH left the game
+[08Mar2025 01:26:16.901] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Stopping the server
+[08Mar2025 01:26:16.947] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping server
+[08Mar2025 01:26:16.947] [Server thread/INFO] [SkinsRestorer/]: Disabling SkinsRestorer v15.5.3
+[08Mar2025 01:26:16.952] [Server thread/INFO] [Graves/]: Disabling Graves v4.9
+[08Mar2025 01:26:16.966] [Server thread/INFO] [ProtocolLib/]: Disabling ProtocolLib v5.3.0
+[08Mar2025 01:26:16.976] [Server thread/INFO] [NametagEdit/]: Disabling NametagEdit v4.5.23
+[08Mar2025 01:26:16.977] [Server thread/INFO] [voicechat/]: Disabling voicechat v2.5.27
+[08Mar2025 01:26:16.982] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving players
+[08Mar2025 01:26:16.983] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving worlds
+[08Mar2025 01:26:16.984] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[08Mar2025 01:26:17.153] [Server thread/INFO] [net.minecraft.world.server.ChunkManager/]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[08Mar2025 01:26:17.154] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: Gathering id map for writing to world save world
+[08Mar2025 01:26:17.157] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: ID Map collection complete world
+[08Mar2025 01:26:17.164] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world/DIM-1]'/minecraft:the_nether
+[08Mar2025 01:26:17.172] [Server thread/INFO] [net.minecraft.world.server.ChunkManager/]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[08Mar2025 01:26:17.172] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world/DIM1]'/minecraft:the_end
+[08Mar2025 01:26:17.177] [Server thread/INFO] [net.minecraft.world.server.ChunkManager/]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[08Mar2025 01:26:17.181] [Server thread/INFO] [net.minecraft.world.server.ChunkManager/]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[08Mar2025 01:26:17.187] [Server thread/INFO] [net.minecraft.world.server.ChunkManager/]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[08Mar2025 01:26:17.188] [Server thread/INFO] [net.minecraft.world.server.ChunkManager/]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[08Mar2025 01:26:17.196] [Server thread/DEBUG] [net.minecraftforge.fml.loading.FileUtils/CORE]: Found existing serverconfig directory : ./world/serverconfig
+[08Mar2025 01:26:17.196] [Server thread/DEBUG] [net.minecraftforge.fml.config.ConfigTracker/CONFIG]: Unloading configs type SERVER
+[08Mar2025 01:26:17.197] [Thread-0/DEBUG] [net.minecraftforge.fml.config.ConfigFileTypeHandler/CONFIG]: Config file forge-server.toml changed, sending notifies
+[08Mar2025 01:26:17.197] [Thread-0/DEBUG] [net.minecraftforge.common.ForgeConfig/FORGEMOD]: Forge config just got changed on the file system!
+[08Mar2025 01:26:17.198] [Server thread/DEBUG] [org.jline/]: Removing shutdown-hook: Thread[JLine Shutdown Hook,5,main]
+[08Mar2025 01:26:22.200] [Exit Thread/DEBUG] [Arclight/]: Threads bStats-Metrics not shutting down
+[08Mar2025 01:26:22.200] [Exit Thread/WARN] [Arclight/]: 1 threads not shutting down correctly, force exiting
