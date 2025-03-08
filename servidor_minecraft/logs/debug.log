@@ -1953,3 +1953,16 @@ java.lang.IllegalStateException: Could not find any of the following classes: Ar
 [08Mar2025 01:05:45.215] [Server thread/DEBUG] [mixin/]: Mixing entity.ai.brain.task.MultiTaskMixin from mixins.arclight.core.json into net.minecraft.entity.ai.brain.task.MultiTask
 [08Mar2025 01:06:46.113] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: Gathering id map for writing to world save world
 [08Mar2025 01:06:46.133] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: ID Map collection complete world
+[08Mar2025 01:11:34.303] [Server thread/DEBUG] [Implementer/SWITCH_TABLE]: Candidate switch enum method <clinit>()V class net/minecraft/network/play/server/SCombatPacket$1
+[08Mar2025 01:11:45.913] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: Gathering id map for writing to world save world
+[08Mar2025 01:11:45.926] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: ID Map collection complete world
+[08Mar2025 01:12:11.715] [Worker-Main-2/DEBUG] [mixin/]: Mixing world.gen.WorldGenRegionMixin from mixins.arclight.core.json into net.minecraft.world.gen.WorldGenRegion
+[08Mar2025 01:12:15.597] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Dylan_HHH has made the advancement [The End?]
+[08Mar2025 01:12:15.829] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4483ms or 89 ticks behind
+[08Mar2025 01:12:21.093] [Server thread/INFO] [net.minecraft.world.end.DragonFightManager/]: Scanning for legacy world dragon fight...
+[08Mar2025 01:12:21.106] [Server thread/INFO] [net.minecraft.world.end.DragonFightManager/]: Found that the dragon has not yet been killed in this world.
+[08Mar2025 01:12:24.406] [Server thread/DEBUG] [mixin/]: Mixing entity.boss.dragon.phase.PhaseManagerMixin from mixins.arclight.core.json into net.minecraft.entity.boss.dragon.phase.PhaseManager
+[08Mar2025 01:12:24.426] [Server thread/DEBUG] [Implementer/SWITCH_TABLE]: Filling switch table for class org.bukkit.entity.EntityType
+[08Mar2025 01:12:24.546] [Netty Epoll Server IO #2/DEBUG] [Implementer/SWITCH_TABLE]: Candidate switch enum method <clinit>()V class net/minecraft/network/play/server/SUpdateBossInfoPacket$1
+[08Mar2025 01:16:49.205] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: Gathering id map for writing to world save world
+[08Mar2025 01:16:49.215] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: ID Map collection complete world

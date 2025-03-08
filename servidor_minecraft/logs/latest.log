@@ -326,3 +326,7 @@ java.lang.IllegalStateException: Could not find any of the following classes: Ar
 [08Mar2025 01:03:19.938] [Server thread/INFO] [net.minecraft.server.management.PlayerList/]: Dylan_HHH[/127.43.154.84:36133] logged in with entity id 86 at (1665.565824366275, 23.0, 1030.0613565023268)
 [08Mar2025 01:03:24.931] [Server thread/INFO] [voicechat/]: Received secret request of Dylan_HHH (18)
 [08Mar2025 01:03:24.934] [Server thread/INFO] [voicechat/]: Sent secret to Dylan_HHH
+[08Mar2025 01:12:15.597] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Dylan_HHH has made the advancement [The End?]
+[08Mar2025 01:12:15.829] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4483ms or 89 ticks behind
+[08Mar2025 01:12:21.093] [Server thread/INFO] [net.minecraft.world.end.DragonFightManager/]: Scanning for legacy world dragon fight...
+[08Mar2025 01:12:21.106] [Server thread/INFO] [net.minecraft.world.end.DragonFightManager/]: Found that the dragon has not yet been killed in this world.
