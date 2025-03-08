@@ -1,58 +1,328 @@
-[07Mar2025 01:07:46.937] [User Authenticator #3/INFO] [net.minecraft.network.login.ServerLoginNetHandler/]: UUID of player Crying_Prophet is 5113c246-f851-365d-ae5f-8beea591f8fd
-[07Mar2025 01:07:48.480] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.advancements.PlayerAdvancements@121ad720
-[07Mar2025 01:07:48.492] [Server thread/INFO] [net.minecraft.server.management.PlayerList/]: Crying_Prophet[/127.140.138.225:42501] logged in with entity id 11135 at (304.3474603534333, 61.0, -8.820114210390086)
-[07Mar2025 01:08:25.656] [User Authenticator #4/INFO] [net.minecraft.network.login.ServerLoginNetHandler/]: UUID of player Dylan_HHH is 7bf25c75-cb42-3eb9-bc7e-9109e9e259b5
-[07Mar2025 01:08:27.786] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.advancements.PlayerAdvancements@3e39f620
-[07Mar2025 01:08:27.814] [Server thread/INFO] [net.minecraft.server.management.PlayerList/]: Dylan_HHH[/127.43.154.84:43067] logged in with entity id 11247 at (306.2965857056228, 68.0, -32.064758827322144)
-[07Mar2025 01:08:32.076] [Server thread/INFO] [voicechat/]: Received secret request of Dylan_HHH (18)
-[07Mar2025 01:08:32.077] [Server thread/INFO] [voicechat/]: Sent secret to Dylan_HHH
-[07Mar2025 01:08:57.968] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: Dylan_HHH lost connection: Timed out
-[07Mar2025 01:08:57.969] [Server thread/INFO] [voicechat/]: Disconnecting client Dylan_HHH
-[07Mar2025 01:08:57.992] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Dylan_HHH left the game
-[07Mar2025 01:08:58.028] [Server thread/WARN] [net.minecraft.network.NetworkManager/]: handleDisconnection() called twice
-[07Mar2025 01:09:44.506] [User Authenticator #5/INFO] [net.minecraft.network.login.ServerLoginNetHandler/]: UUID of player Dylan_HHH is 7bf25c75-cb42-3eb9-bc7e-9109e9e259b5
-[07Mar2025 01:09:45.880] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.advancements.PlayerAdvancements@42f7e0f8
-[07Mar2025 01:09:45.885] [Server thread/INFO] [net.minecraft.server.management.PlayerList/]: Dylan_HHH[/127.43.154.84:58733] logged in with entity id 11403 at (306.2965857056228, 68.0, -32.064758827322144)
-[07Mar2025 01:09:46.398] [Server thread/INFO] [voicechat/]: Received secret request of Dylan_HHH (18)
-[07Mar2025 01:09:46.400] [Server thread/INFO] [voicechat/]: Sent secret to Dylan_HHH
-[07Mar2025 01:09:53.394] [Server thread/INFO] [Console/]: <Crying_Prophet> kale quemo mi cofre
-[07Mar2025 01:09:58.522] [Server thread/INFO] [Console/]: <Crying_Prophet> la pmd
-[07Mar2025 01:10:16.707] [Server thread/INFO] [Console/]: <Crying_Prophet> me cago en l p
-[07Mar2025 01:10:52.950] [Server thread/INFO] [Console/]: <Dylan_HHH> ya
-[07Mar2025 01:10:56.977] [Server thread/INFO] [Console/]: <Crying_Prophet> ok
-[07Mar2025 01:11:10.339] [Server thread/INFO] [Console/]: <Crying_Prophet> voy a matar a kaleb
-[07Mar2025 01:11:22.620] [Server thread/INFO] [Console/]: <Dylan_HHH> idolo kale
-[07Mar2025 01:12:57.554] [Server thread/INFO] [Console/]: <Dylan_HHH> dc
-[07Mar2025 01:23:59.363] [Server thread/ERROR] [Minecraft/]: Block at 1,171, 59, 328 is Block{minecraft:water} but has net.minecraft.tileentity.ChestTileEntity@41692e4. Bukkit will attempt to fix this, but there may be additional damage that we cannot recover.
-[07Mar2025 01:23:59.363] [Server thread/ERROR] [Minecraft/]: Block at 1,171, 59, 328 is Block{minecraft:water} but has net.minecraft.tileentity.ChestTileEntity@41692e4. Bukkit will attempt to fix this, but there may be additional damage that we cannot recover.
-[07Mar2025 01:25:30.973] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: Crying_Prophet moved too quickly! 11.018378478605882,3.1661092609382138,-14.96631325008235
-[07Mar2025 01:25:30.974] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: Dylan_HHH moved too quickly! 3.0314876424314434,1.2491870787446828,-11.66576672795307
-[07Mar2025 01:25:30.979] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3170ms or 63 ticks behind
-[07Mar2025 01:35:32.642] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: Crying_Prophet moved too quickly! -3.571484413021153,2.130906499714527,-9.195735477008384
-[07Mar2025 01:41:31.466] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Dylan_HHH has made the advancement [Eye Spy]
-[07Mar2025 01:41:32.214] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Crying_Prophet has made the advancement [Eye Spy]
-[07Mar2025 02:25:00.713] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: Crying_Prophet lost connection: Disconnected
-[07Mar2025 02:25:00.714] [Server thread/INFO] [voicechat/]: Disconnecting client Crying_Prophet
-[07Mar2025 02:25:00.723] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Crying_Prophet left the game
-[07Mar2025 02:25:01.613] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: Dylan_HHH lost connection: Disconnected
-[07Mar2025 02:25:01.614] [Server thread/INFO] [voicechat/]: Disconnecting client Dylan_HHH
-[07Mar2025 02:25:01.620] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Dylan_HHH left the game
-[07Mar2025 02:25:47.710] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Stopping the server
-[07Mar2025 02:25:47.761] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping server
-[07Mar2025 02:25:47.761] [Server thread/INFO] [SkinsRestorer/]: Disabling SkinsRestorer v15.5.3
-[07Mar2025 02:25:47.770] [Server thread/INFO] [Graves/]: Disabling Graves v4.9
-[07Mar2025 02:25:47.791] [Server thread/INFO] [ProtocolLib/]: Disabling ProtocolLib v5.3.0
-[07Mar2025 02:25:47.803] [Server thread/INFO] [NametagEdit/]: Disabling NametagEdit v4.5.23
-[07Mar2025 02:25:47.803] [Server thread/INFO] [voicechat/]: Disabling voicechat v2.5.27
-[07Mar2025 02:25:47.922] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving players
-[07Mar2025 02:25:47.923] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving worlds
-[07Mar2025 02:25:47.923] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
-[07Mar2025 02:25:48.085] [Server thread/INFO] [net.minecraft.world.server.ChunkManager/]: ThreadedAnvilChunkStorage (world): All chunks are saved
-[07Mar2025 02:25:48.094] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world/DIM-1]'/minecraft:the_nether
-[07Mar2025 02:25:48.097] [Server thread/INFO] [net.minecraft.world.server.ChunkManager/]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
-[07Mar2025 02:25:48.097] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world/DIM1]'/minecraft:the_end
-[07Mar2025 02:25:48.098] [Server thread/INFO] [net.minecraft.world.server.ChunkManager/]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
-[07Mar2025 02:25:48.104] [Server thread/INFO] [net.minecraft.world.server.ChunkManager/]: ThreadedAnvilChunkStorage (world): All chunks are saved
-[07Mar2025 02:25:48.134] [Server thread/INFO] [net.minecraft.world.server.ChunkManager/]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
-[07Mar2025 02:25:48.143] [Server thread/INFO] [net.minecraft.world.server.ChunkManager/]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
-[07Mar2025 02:25:53.156] [Exit Thread/WARN] [Arclight/]: 1 threads not shutting down correctly, force exiting
+[08Mar2025 01:00:14.189] [main/INFO] [Arclight/]: 
+
+       ___           ___     __   /\
+      /   | ________/ (_)__ / /  / /
+     / /| |/ __/ __/ / / _ / _ \/__/
+    / ___ / / / /_/ / / / / // / /
+   /_/  |/_/  \__/_/_/\_ /_//_/ /
+                     /__/     \/
+
+    运行版本 arclight-1.16.5-1.0.25-7cf92be3
+    构建日期 2023-10-22 03:52:29
+
+[08Mar2025 01:00:14.418] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher running: args [--gameDir, ., --launchTarget, fmlserver, --fml.forgeVersion, 36.2.39, --fml.mcpVersion, 20210115.111550, --fml.mcVersion, 1.16.5, --fml.forgeGroup, net.minecraftforge, nogui]
+[08Mar2025 01:00:14.419] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher 8.1.3+8.1.3+main-8.1.x.c94d18ec starting: java version 11.0.25 by Ubuntu
+[08Mar2025 01:00:15.364] [main/INFO] [net.minecraftforge.fml.loading.FixSSL/CORE]: Added Lets Encrypt root certificates as additional trust
+[08Mar2025 01:00:15.543] [main/INFO] [mixin/]: SpongePowered MIXIN Subsystem Version=0.8.4 Source=file:/workspaces/jaja/servidor_minecraft/libraries/org/spongepowered/mixin/0.8.4/mixin-0.8.4.jar Service=ModLauncher Env=SERVER
+[08Mar2025 01:00:17.193] [main/INFO] [STDERR/]: [jdk.nashorn.api.scripting.NashornScriptEngine:<init>:143]: Warning: Nashorn engine is planned to be removed from a future JDK release
+[08Mar2025 01:00:17.557] [main/INFO] [STDERR/]: [jdk.nashorn.api.scripting.NashornScriptEngine:<init>:143]: Warning: Nashorn engine is planned to be removed from a future JDK release
+[08Mar2025 01:00:17.586] [main/INFO] [STDERR/]: [jdk.nashorn.api.scripting.NashornScriptEngine:<init>:143]: Warning: Nashorn engine is planned to be removed from a future JDK release
+[08Mar2025 01:00:21.550] [main/INFO] [mixin/]: Successfully loaded Mixin Connector [io.izzel.arclight.impl.ArclightConnector_Forge]
+[08Mar2025 01:00:21.947] [main/INFO] [Arclight/]: 核心 Mixin 配置已加载
+[08Mar2025 01:00:21.972] [main/INFO] [Arclight/]: 服务端优化 Mixin 配置已加载
+[08Mar2025 01:00:22.012] [main/INFO] [cpw.mods.modlauncher.LaunchServiceHandler/MODLAUNCHER]: Launching target 'fmlserver' with arguments [--gameDir, ., nogui]
+[08Mar2025 01:00:50.514] [modloading-worker-1/INFO] [net.minecraftforge.common.ForgeMod/FORGEMOD]: Forge mod loading, version 36.2.39, for MC 1.16.5 with MCP 20210115.111550
+[08Mar2025 01:00:50.520] [modloading-worker-1/INFO] [net.minecraftforge.common.MinecraftForge/FORGE]: MinecraftForge v36.2.39 Initialized
+[08Mar2025 01:00:50.536] [modloading-worker-0/INFO] [Arclight/]: Arclight Mod 已加载
+[08Mar2025 01:00:51.045] [modloading-worker-0/INFO] [Arclight/]: Arclight 事件系统已注册
+[08Mar2025 01:00:51.069] [modloading-worker-0/WARN] [net.minecraftforge.server.permission.PermissionAPI/]: Replacing net.minecraftforge.server.permission.DefaultPermissionHandler with io.izzel.arclight.common.mod.server.ArclightPermissionHandler
+[08Mar2025 01:00:52.544] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [forge] Starting version check at https://files.minecraftforge.net/net/minecraftforge/forge/promotions_slim.json
+[08Mar2025 01:00:53.914] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [forge] Found status: OUTDATED Current: 36.2.39 Target: 36.2.42
+[08Mar2025 01:00:59.860] [main/INFO] [com.mojang.authlib.yggdrasil.YggdrasilAuthenticationService/]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
+[08Mar2025 01:01:01.983] [main/WARN] [net.minecraft.command.Commands/]: Ambiguity between arguments [teleport, destination] and [teleport, targets] with inputs: [Player, 0123, @e, dd12be42-52a9-4a91-a8a1-11c01849e498]
+[08Mar2025 01:01:01.999] [main/WARN] [net.minecraft.command.Commands/]: Ambiguity between arguments [teleport, location] and [teleport, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
+[08Mar2025 01:01:02.044] [main/WARN] [net.minecraft.command.Commands/]: Ambiguity between arguments [teleport, location] and [teleport, targets] with inputs: [0.1 -0.5 .9, 0 0 0]
+[08Mar2025 01:01:02.055] [main/WARN] [net.minecraft.command.Commands/]: Ambiguity between arguments [teleport, targets] and [teleport, destination] with inputs: [Player, 0123, dd12be42-52a9-4a91-a8a1-11c01849e498]
+[08Mar2025 01:01:02.058] [main/WARN] [net.minecraft.command.Commands/]: Ambiguity between arguments [teleport, targets, location] and [teleport, targets, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
+[08Mar2025 01:01:02.064] [main/INFO] [net.minecraft.resources.SimpleReloadableResourceManager/]: Reloading ResourceManager: Default, forge-1.16.5-36.2.39-universal.jar, arclight.jar
+[08Mar2025 01:01:05.439] [Worker-Main-2/INFO] [net.minecraft.item.crafting.RecipeManager/]: Loaded 7 recipes
+[08Mar2025 01:01:07.204] [Worker-Main-2/INFO] [net.minecraft.advancements.AdvancementList/]: Loaded 927 advancements
+[08Mar2025 01:01:12.056] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Starting minecraft server version 1.16.5
+[08Mar2025 01:01:12.057] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Loading properties
+[08Mar2025 01:01:12.057] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Default game type: SURVIVAL
+[08Mar2025 01:01:12.057] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Generating keypair
+[08Mar2025 01:01:12.401] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Starting Minecraft server on *:25565
+[08Mar2025 01:01:12.534] [Server thread/INFO] [net.minecraft.network.NetworkSystem/]: Using epoll channel type
+[08Mar2025 01:01:12.930] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[08Mar2025 01:01:12.933] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: The server will make no attempt to authenticate usernames. Beware.
+[08Mar2025 01:01:12.933] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[08Mar2025 01:01:12.933] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: To change this, set "online-mode" to "true" in the server.properties file.
+[08Mar2025 01:01:14.842] [Server thread/INFO] [Minecraft/]: This server is running Arclight version arclight-1.16.5-1.0.25-7cf92be3 (MC: 1.16.5) (Implementing API version 1.16.5-R0.1-SNAPSHOT)
+[08Mar2025 01:01:15.468] [Server thread/INFO] [Arclight/]: 正在向 Bukkit 注册 ...
+[08Mar2025 01:01:17.732] [Server thread/INFO] [Arclight/]: 注册了 0 个材料，其中 0 个方块 0 个物品
+[08Mar2025 01:01:17.768] [Server thread/INFO] [Arclight/]: 注册了 1 个新的药水效果
+[08Mar2025 01:01:17.791] [Server thread/INFO] [Arclight/]: 注册了 38 个新的附魔
+[08Mar2025 01:01:17.792] [Server thread/INFO] [Arclight/]: 注册了 0 个新的生物类型
+[08Mar2025 01:01:17.796] [Server thread/INFO] [Arclight/]: 注册了 0 个新的村民职业
+[08Mar2025 01:01:17.800] [Server thread/INFO] [Arclight/]: 注册了 0 个新的生物群系
+[08Mar2025 01:01:17.868] [Server thread/INFO] [Minecraft/]: Debug logging is enabled
+[08Mar2025 01:01:17.870] [Server thread/INFO] [STDOUT/]: [org.spigotmc.SpigotConfig:playerSample:287]: Server Ping Player Sample Count: 12
+[08Mar2025 01:01:17.877] [Server thread/INFO] [Minecraft/]: Using 4 threads for Netty based IO
+[08Mar2025 01:01:19.502] [Server thread/INFO] [Arclight/]: 正在加载混淆数据 ...
+[08Mar2025 01:01:20.917] [Server thread/INFO] [Arclight/]: 正在加载 Plugin Patcher ...
+[08Mar2025 01:01:21.813] [Server thread/ERROR] [Minecraft/]: Could not load 'plugins/MechanicsCore-3.5.2.jar' in folder 'plugins'
+org.bukkit.plugin.InvalidPluginException: java.lang.UnsupportedClassVersionError: me/deecaad/core/MechanicsCore has been compiled by a more recent version of the Java Runtime (class file version 60.0), this version of the Java Runtime only recognizes class file versions up to 55.0
+	at org.bukkit.plugin.java.JavaPluginLoader.loadPlugin(JavaPluginLoaderMixin.java:149) ~[arclight:arclight-1.16.5-1.0.25-7cf92be3]
+	at org.bukkit.plugin.SimplePluginManager.loadPlugin(SimplePluginManager.java:394) ~[arclight:arclight-1.16.5-1.0.25-7cf92be3]
+	at org.bukkit.plugin.SimplePluginManager.loadPlugins(SimplePluginManager.java:301) ~[arclight:arclight-1.16.5-1.0.25-7cf92be3]
+	at org.bukkit.craftbukkit.v1_16_R3.CraftServer.loadPlugins(CraftServerMixin.java:381) ~[arclight:arclight-1.16.5-1.0.25-7cf92be3]
+	at net.minecraft.server.dedicated.DedicatedServer.handler$zpp000$arclight$loadPlugins(DedicatedServerMixin.java:637) ~[?:?]
+	at net.minecraft.server.dedicated.DedicatedServer.func_71197_b(DedicatedServerMixin.java:160) ~[?:?]
+	at net.minecraft.server.MinecraftServer.func_240802_v_(MinecraftServerMixin.java:1879) ~[?:?]
+	at net.minecraft.server.MinecraftServer.func_240783_a_(MinecraftServerMixin.java:232) ~[?:?]
+	at java.lang.Thread.run(Thread.java:829) [?:?]
+Caused by: java.lang.UnsupportedClassVersionError: me/deecaad/core/MechanicsCore has been compiled by a more recent version of the Java Runtime (class file version 60.0), this version of the Java Runtime only recognizes class file versions up to 55.0
+	at java.lang.ClassLoader.defineClass1(Native Method) ~[?:?]
+	at java.lang.ClassLoader.defineClass(ClassLoader.java:1022) ~[?:?]
+	at java.security.SecureClassLoader.defineClass(SecureClassLoader.java:174) ~[?:?]
+	at org.bukkit.plugin.java.PluginClassLoader.findClass(PluginClassLoaderMixin.java:644) ~[arclight:arclight-1.16.5-1.0.25-7cf92be3]
+	at java.lang.ClassLoader.loadClass(ClassLoader.java:594) ~[?:?]
+	at org.bukkit.plugin.java.PluginClassLoader.loadClass0(PluginClassLoaderMixin.java:104) ~[arclight:arclight-1.16.5-1.0.25-7cf92be3]
+	at org.bukkit.plugin.java.PluginClassLoader.loadClass(PluginClassLoaderMixin.java:99) ~[arclight:arclight-1.16.5-1.0.25-7cf92be3]
+	at java.lang.ClassLoader.loadClass(ClassLoader.java:527) ~[?:?]
+	at java.lang.Class.forName0(Native Method) ~[?:?]
+	at java.lang.Class.forName(Class.java:398) ~[?:?]
+	at org.bukkit.plugin.java.PluginClassLoader.<init>(PluginClassLoaderMixin.java:67) ~[arclight:arclight-1.16.5-1.0.25-7cf92be3]
+	at org.bukkit.plugin.java.JavaPluginLoader.loadPlugin(JavaPluginLoaderMixin.java:145) ~[arclight:arclight-1.16.5-1.0.25-7cf92be3]
+	... 8 more
+[08Mar2025 01:01:21.871] [Server thread/ERROR] [Minecraft/]: Could not load 'plugins/HealthBar.jar' in folder 'plugins'
+org.bukkit.plugin.InvalidPluginException: java.lang.UnsupportedClassVersionError: com/rocknatalino/plugin/Main has been compiled by a more recent version of the Java Runtime (class file version 60.0), this version of the Java Runtime only recognizes class file versions up to 55.0
+	at org.bukkit.plugin.java.JavaPluginLoader.loadPlugin(JavaPluginLoaderMixin.java:149) ~[arclight:arclight-1.16.5-1.0.25-7cf92be3]
+	at org.bukkit.plugin.SimplePluginManager.loadPlugin(SimplePluginManager.java:394) ~[arclight:arclight-1.16.5-1.0.25-7cf92be3]
+	at org.bukkit.plugin.SimplePluginManager.loadPlugins(SimplePluginManager.java:301) ~[arclight:arclight-1.16.5-1.0.25-7cf92be3]
+	at org.bukkit.craftbukkit.v1_16_R3.CraftServer.loadPlugins(CraftServerMixin.java:381) ~[arclight:arclight-1.16.5-1.0.25-7cf92be3]
+	at net.minecraft.server.dedicated.DedicatedServer.handler$zpp000$arclight$loadPlugins(DedicatedServerMixin.java:637) ~[?:?]
+	at net.minecraft.server.dedicated.DedicatedServer.func_71197_b(DedicatedServerMixin.java:160) ~[?:?]
+	at net.minecraft.server.MinecraftServer.func_240802_v_(MinecraftServerMixin.java:1879) ~[?:?]
+	at net.minecraft.server.MinecraftServer.func_240783_a_(MinecraftServerMixin.java:232) ~[?:?]
+	at java.lang.Thread.run(Thread.java:829) [?:?]
+Caused by: java.lang.UnsupportedClassVersionError: com/rocknatalino/plugin/Main has been compiled by a more recent version of the Java Runtime (class file version 60.0), this version of the Java Runtime only recognizes class file versions up to 55.0
+	at java.lang.ClassLoader.defineClass1(Native Method) ~[?:?]
+	at java.lang.ClassLoader.defineClass(ClassLoader.java:1022) ~[?:?]
+	at java.security.SecureClassLoader.defineClass(SecureClassLoader.java:174) ~[?:?]
+	at org.bukkit.plugin.java.PluginClassLoader.findClass(PluginClassLoaderMixin.java:644) ~[arclight:arclight-1.16.5-1.0.25-7cf92be3]
+	at java.lang.ClassLoader.loadClass(ClassLoader.java:594) ~[?:?]
+	at org.bukkit.plugin.java.PluginClassLoader.loadClass0(PluginClassLoaderMixin.java:104) ~[arclight:arclight-1.16.5-1.0.25-7cf92be3]
+	at org.bukkit.plugin.java.PluginClassLoader.loadClass(PluginClassLoaderMixin.java:99) ~[arclight:arclight-1.16.5-1.0.25-7cf92be3]
+	at java.lang.ClassLoader.loadClass(ClassLoader.java:527) ~[?:?]
+	at java.lang.Class.forName0(Native Method) ~[?:?]
+	at java.lang.Class.forName(Class.java:398) ~[?:?]
+	at org.bukkit.plugin.java.PluginClassLoader.<init>(PluginClassLoaderMixin.java:67) ~[arclight:arclight-1.16.5-1.0.25-7cf92be3]
+	at org.bukkit.plugin.java.JavaPluginLoader.loadPlugin(JavaPluginLoaderMixin.java:145) ~[arclight:arclight-1.16.5-1.0.25-7cf92be3]
+	... 8 more
+[08Mar2025 01:01:22.032] [Server thread/ERROR] [Minecraft/]: Could not load 'plugins/backpacksplus.jar' in folder 'plugins'
+org.bukkit.plugin.UnknownDependencyException: Unknown dependency NBTAPI. Please download and install NBTAPI to run this plugin.
+	at org.bukkit.plugin.SimplePluginManager.loadPlugins(SimplePluginManager.java:269) ~[arclight:arclight-1.16.5-1.0.25-7cf92be3]
+	at org.bukkit.craftbukkit.v1_16_R3.CraftServer.loadPlugins(CraftServerMixin.java:381) ~[arclight:arclight-1.16.5-1.0.25-7cf92be3]
+	at net.minecraft.server.dedicated.DedicatedServer.handler$zpp000$arclight$loadPlugins(DedicatedServerMixin.java:637) ~[?:?]
+	at net.minecraft.server.dedicated.DedicatedServer.func_71197_b(DedicatedServerMixin.java:160) ~[?:?]
+	at net.minecraft.server.MinecraftServer.func_240802_v_(MinecraftServerMixin.java:1879) ~[?:?]
+	at net.minecraft.server.MinecraftServer.func_240783_a_(MinecraftServerMixin.java:232) ~[?:?]
+	at java.lang.Thread.run(Thread.java:829) [?:?]
+[08Mar2025 01:01:23.353] [Server thread/ERROR] [Minecraft/]: Could not load 'plugins/WeaponMechanics-3.5.4.jar' in folder 'plugins'
+org.bukkit.plugin.InvalidPluginException: java.lang.UnsupportedClassVersionError: me/deecaad/weaponmechanics/WeaponMechanicsLoader has been compiled by a more recent version of the Java Runtime (class file version 60.0), this version of the Java Runtime only recognizes class file versions up to 55.0
+	at org.bukkit.plugin.java.JavaPluginLoader.loadPlugin(JavaPluginLoaderMixin.java:149) ~[arclight:arclight-1.16.5-1.0.25-7cf92be3]
+	at org.bukkit.plugin.SimplePluginManager.loadPlugin(SimplePluginManager.java:394) ~[arclight:arclight-1.16.5-1.0.25-7cf92be3]
+	at org.bukkit.plugin.SimplePluginManager.loadPlugins(SimplePluginManager.java:301) ~[arclight:arclight-1.16.5-1.0.25-7cf92be3]
+	at org.bukkit.craftbukkit.v1_16_R3.CraftServer.loadPlugins(CraftServerMixin.java:381) ~[arclight:arclight-1.16.5-1.0.25-7cf92be3]
+	at net.minecraft.server.dedicated.DedicatedServer.handler$zpp000$arclight$loadPlugins(DedicatedServerMixin.java:637) ~[?:?]
+	at net.minecraft.server.dedicated.DedicatedServer.func_71197_b(DedicatedServerMixin.java:160) ~[?:?]
+	at net.minecraft.server.MinecraftServer.func_240802_v_(MinecraftServerMixin.java:1879) ~[?:?]
+	at net.minecraft.server.MinecraftServer.func_240783_a_(MinecraftServerMixin.java:232) ~[?:?]
+	at java.lang.Thread.run(Thread.java:829) [?:?]
+Caused by: java.lang.UnsupportedClassVersionError: me/deecaad/weaponmechanics/WeaponMechanicsLoader has been compiled by a more recent version of the Java Runtime (class file version 60.0), this version of the Java Runtime only recognizes class file versions up to 55.0
+	at java.lang.ClassLoader.defineClass1(Native Method) ~[?:?]
+	at java.lang.ClassLoader.defineClass(ClassLoader.java:1022) ~[?:?]
+	at java.security.SecureClassLoader.defineClass(SecureClassLoader.java:174) ~[?:?]
+	at org.bukkit.plugin.java.PluginClassLoader.findClass(PluginClassLoaderMixin.java:644) ~[arclight:arclight-1.16.5-1.0.25-7cf92be3]
+	at java.lang.ClassLoader.loadClass(ClassLoader.java:594) ~[?:?]
+	at org.bukkit.plugin.java.PluginClassLoader.loadClass0(PluginClassLoaderMixin.java:104) ~[arclight:arclight-1.16.5-1.0.25-7cf92be3]
+	at org.bukkit.plugin.java.PluginClassLoader.loadClass(PluginClassLoaderMixin.java:99) ~[arclight:arclight-1.16.5-1.0.25-7cf92be3]
+	at java.lang.ClassLoader.loadClass(ClassLoader.java:527) ~[?:?]
+	at java.lang.Class.forName0(Native Method) ~[?:?]
+	at java.lang.Class.forName(Class.java:398) ~[?:?]
+	at org.bukkit.plugin.java.PluginClassLoader.<init>(PluginClassLoaderMixin.java:67) ~[arclight:arclight-1.16.5-1.0.25-7cf92be3]
+	at org.bukkit.plugin.java.JavaPluginLoader.loadPlugin(JavaPluginLoaderMixin.java:145) ~[arclight:arclight-1.16.5-1.0.25-7cf92be3]
+	... 8 more
+[08Mar2025 01:01:23.370] [Server thread/INFO] [voicechat/]: Loading voicechat v2.5.27
+[08Mar2025 01:01:23.371] [Server thread/INFO] [NametagEdit/]: Loading NametagEdit v4.5.23
+[08Mar2025 01:01:23.373] [Server thread/INFO] [ProtocolLib/]: Loading ProtocolLib v5.3.0
+[08Mar2025 01:01:24.790] [Server thread/INFO] [Graves/]: Loading Graves v4.9
+[08Mar2025 01:01:25.281] [Server thread/INFO] [SkinsRestorer/]: Loading SkinsRestorer v15.5.3
+[08Mar2025 01:01:25.289] [Server thread/INFO] [ProtocolLib/]: Enabling ProtocolLib v5.3.0
+[08Mar2025 01:01:25.524] [Server thread/INFO] [SkinsRestorer/]: Enabling SkinsRestorer v15.5.3
+[08Mar2025 01:01:28.481] [Server thread/WARN] [Minecraft/]: [33;1m[[32;22mSkinsRestorer[33;1m] [0;39m[33;1mYou must agree to the rules at 'commands.perSkinPermissionsConsent' in the config to use per skin permissions.[0;39m
+[08Mar2025 01:01:30.270] [Server thread/INFO] [Console/]: [33;1m[[32;22mSkinsRestorer[33;1m] [0;39m[32;1mRunning on Minecraft [33;1m1.16.5[32;1m.[0;39m
+[08Mar2025 01:01:31.967] [Server thread/WARN] [Minecraft/]: [33;1m[[32;22mSkinsRestorer[33;1m] [0;39m[33;1m[33;1mYou are running an outdated Java version, please update it to at least Java 21 (your version is 11).[0;39m
+[08Mar2025 01:01:31.967] [Server thread/WARN] [Minecraft/]: [33;1m[[32;22mSkinsRestorer[33;1m] [0;39m[33;1m[33;1mSkinsRestorer no longer officially supports this version of Java, you are currently using an unsupported compatibility build.[0;39m
+[08Mar2025 01:01:31.977] [Server thread/WARN] [Minecraft/]: [33;1m[[32;22mSkinsRestorer[33;1m] [0;39m[33;1m[33;1mYou can still use the plugin, but you may encounter issues that are not present in newer versions of Java.[0;39m
+[08Mar2025 01:01:32.143] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Preparing level "world"
+[08Mar2025 01:01:32.196] [Server thread/INFO] [Arclight/]: 注册了 1 个新的世界类型
+[08Mar2025 01:01:32.204] [Server thread/INFO] [Minecraft/]: -------- World Settings For [world] --------
+[08Mar2025 01:01:32.204] [Server thread/INFO] [Minecraft/]: Arrow Despawn Rate: 1200 Trident Respawn Rate:1200
+[08Mar2025 01:01:32.209] [Server thread/INFO] [Minecraft/]: Zombie Aggressive Towards Villager: true
+[08Mar2025 01:01:32.209] [Server thread/INFO] [Minecraft/]: Allow Zombie Pigmen to spawn from portal blocks: true
+[08Mar2025 01:01:32.210] [Server thread/INFO] [Minecraft/]: Cactus Growth Modifier: 100%
+[08Mar2025 01:01:32.211] [Server thread/INFO] [Minecraft/]: Cane Growth Modifier: 100%
+[08Mar2025 01:01:32.211] [Server thread/INFO] [Minecraft/]: Melon Growth Modifier: 100%
+[08Mar2025 01:01:32.213] [Server thread/INFO] [Minecraft/]: Mushroom Growth Modifier: 100%
+[08Mar2025 01:01:32.213] [Server thread/INFO] [Minecraft/]: Pumpkin Growth Modifier: 100%
+[08Mar2025 01:01:32.214] [Server thread/INFO] [Minecraft/]: Sapling Growth Modifier: 100%
+[08Mar2025 01:01:32.217] [Server thread/INFO] [Minecraft/]: Beetroot Growth Modifier: 100%
+[08Mar2025 01:01:32.217] [Server thread/INFO] [Minecraft/]: Carrot Growth Modifier: 100%
+[08Mar2025 01:01:32.219] [Server thread/INFO] [Minecraft/]: Potato Growth Modifier: 100%
+[08Mar2025 01:01:32.228] [Server thread/INFO] [Minecraft/]: Wheat Growth Modifier: 100%
+[08Mar2025 01:01:32.228] [Server thread/INFO] [Minecraft/]: NetherWart Growth Modifier: 100%
+[08Mar2025 01:01:32.229] [Server thread/INFO] [Minecraft/]: Vine Growth Modifier: 100%
+[08Mar2025 01:01:32.229] [Server thread/INFO] [Minecraft/]: Cocoa Growth Modifier: 100%
+[08Mar2025 01:01:32.232] [Server thread/INFO] [Minecraft/]: Bamboo Growth Modifier: 100%
+[08Mar2025 01:01:32.232] [Server thread/INFO] [Minecraft/]: SweetBerry Growth Modifier: 100%
+[08Mar2025 01:01:32.233] [Server thread/INFO] [Minecraft/]: Kelp Growth Modifier: 100%
+[08Mar2025 01:01:32.236] [Server thread/INFO] [Minecraft/]: Entity Activation Range: An 32 / Mo 32 / Ra 48 / Mi 16 / Tiv true
+[08Mar2025 01:01:32.236] [Server thread/INFO] [Minecraft/]: Entity Tracking Range: Pl 48 / An 48 / Mo 48 / Mi 32 / Other 64
+[08Mar2025 01:01:32.237] [Server thread/INFO] [Minecraft/]: Hopper Transfer: 8 Hopper Check: 1 Hopper Amount: 1
+[08Mar2025 01:01:32.239] [Server thread/INFO] [Minecraft/]: Custom Map Seeds:  Village: 10387312 Desert: 14357617 Igloo: 14357618 Jungle: 14357619 Swamp: 14357620 Monument: 10387313 Ocean: 14357621 Shipwreck: 165745295 End City: 10387313 Slime: 987234911 Bastion: 30084232 Fortress: 30084232 Mansion: 10387319 Fossil: 14357921 Portal: 34222645
+[08Mar2025 01:01:32.245] [Server thread/INFO] [Minecraft/]: Item Merge Radius: 2.5
+[08Mar2025 01:01:32.246] [Server thread/INFO] [Minecraft/]: Experience Merge Radius: 3.0
+[08Mar2025 01:01:32.247] [Server thread/INFO] [Minecraft/]: Mob Spawn Range: 6
+[08Mar2025 01:01:32.247] [Server thread/INFO] [Minecraft/]: Max TNT Explosions: 100
+[08Mar2025 01:01:32.249] [Server thread/INFO] [Minecraft/]: Tile Max Tick Time: 50ms Entity max Tick Time: 50ms
+[08Mar2025 01:01:32.250] [Server thread/INFO] [Minecraft/]: Item Despawn Rate: 6000
+[08Mar2025 01:01:32.250] [Server thread/INFO] [Minecraft/]: View Distance: 10
+[08Mar2025 01:01:32.251] [Server thread/INFO] [Minecraft/]: Nerfing mobs spawned from spawners: false
+[08Mar2025 01:01:33.085] [Server thread/INFO] [Minecraft/]: -------- World Settings For [world] --------
+[08Mar2025 01:01:33.097] [Server thread/INFO] [Minecraft/]: Arrow Despawn Rate: 1200 Trident Respawn Rate:1200
+[08Mar2025 01:01:33.101] [Server thread/INFO] [Minecraft/]: Zombie Aggressive Towards Villager: true
+[08Mar2025 01:01:33.102] [Server thread/INFO] [Minecraft/]: Allow Zombie Pigmen to spawn from portal blocks: true
+[08Mar2025 01:01:33.103] [Server thread/INFO] [Minecraft/]: Cactus Growth Modifier: 100%
+[08Mar2025 01:01:33.106] [Server thread/INFO] [Minecraft/]: Cane Growth Modifier: 100%
+[08Mar2025 01:01:33.107] [Server thread/INFO] [Minecraft/]: Melon Growth Modifier: 100%
+[08Mar2025 01:01:33.108] [Server thread/INFO] [Minecraft/]: Mushroom Growth Modifier: 100%
+[08Mar2025 01:01:33.113] [Server thread/INFO] [Minecraft/]: Pumpkin Growth Modifier: 100%
+[08Mar2025 01:01:33.116] [Server thread/INFO] [Minecraft/]: Sapling Growth Modifier: 100%
+[08Mar2025 01:01:33.117] [Server thread/INFO] [Minecraft/]: Beetroot Growth Modifier: 100%
+[08Mar2025 01:01:33.124] [Server thread/INFO] [Minecraft/]: Carrot Growth Modifier: 100%
+[08Mar2025 01:01:33.124] [Server thread/INFO] [Minecraft/]: Potato Growth Modifier: 100%
+[08Mar2025 01:01:33.128] [Server thread/INFO] [Minecraft/]: Wheat Growth Modifier: 100%
+[08Mar2025 01:01:33.129] [Server thread/INFO] [Minecraft/]: NetherWart Growth Modifier: 100%
+[08Mar2025 01:01:33.130] [Server thread/INFO] [Minecraft/]: Vine Growth Modifier: 100%
+[08Mar2025 01:01:33.133] [Server thread/INFO] [Minecraft/]: Cocoa Growth Modifier: 100%
+[08Mar2025 01:01:33.133] [Server thread/INFO] [Minecraft/]: Bamboo Growth Modifier: 100%
+[08Mar2025 01:01:33.136] [Server thread/INFO] [Minecraft/]: SweetBerry Growth Modifier: 100%
+[08Mar2025 01:01:33.140] [Server thread/INFO] [Minecraft/]: Kelp Growth Modifier: 100%
+[08Mar2025 01:01:33.141] [Server thread/INFO] [Minecraft/]: Entity Activation Range: An 32 / Mo 32 / Ra 48 / Mi 16 / Tiv true
+[08Mar2025 01:01:33.142] [Server thread/INFO] [Minecraft/]: Entity Tracking Range: Pl 48 / An 48 / Mo 48 / Mi 32 / Other 64
+[08Mar2025 01:01:33.142] [Server thread/INFO] [Minecraft/]: Hopper Transfer: 8 Hopper Check: 1 Hopper Amount: 1
+[08Mar2025 01:01:33.142] [Server thread/INFO] [Minecraft/]: Custom Map Seeds:  Village: 10387312 Desert: 14357617 Igloo: 14357618 Jungle: 14357619 Swamp: 14357620 Monument: 10387313 Ocean: 14357621 Shipwreck: 165745295 End City: 10387313 Slime: 987234911 Bastion: 30084232 Fortress: 30084232 Mansion: 10387319 Fossil: 14357921 Portal: 34222645
+[08Mar2025 01:01:33.143] [Server thread/INFO] [Minecraft/]: Item Merge Radius: 2.5
+[08Mar2025 01:01:33.149] [Server thread/INFO] [Minecraft/]: Experience Merge Radius: 3.0
+[08Mar2025 01:01:33.153] [Server thread/INFO] [Minecraft/]: Mob Spawn Range: 6
+[08Mar2025 01:01:33.161] [Server thread/INFO] [Minecraft/]: Max TNT Explosions: 100
+[08Mar2025 01:01:33.161] [Server thread/INFO] [Minecraft/]: Tile Max Tick Time: 50ms Entity max Tick Time: 50ms
+[08Mar2025 01:01:33.162] [Server thread/INFO] [Minecraft/]: Item Despawn Rate: 6000
+[08Mar2025 01:01:33.162] [Server thread/INFO] [Minecraft/]: View Distance: 10
+[08Mar2025 01:01:33.165] [Server thread/INFO] [Minecraft/]: Nerfing mobs spawned from spawners: false
+[08Mar2025 01:01:33.183] [Server thread/INFO] [Minecraft/]: -------- World Settings For [world] --------
+[08Mar2025 01:01:33.192] [Server thread/INFO] [Minecraft/]: Arrow Despawn Rate: 1200 Trident Respawn Rate:1200
+[08Mar2025 01:01:33.195] [Server thread/INFO] [Minecraft/]: Zombie Aggressive Towards Villager: true
+[08Mar2025 01:01:33.196] [Server thread/INFO] [Minecraft/]: Allow Zombie Pigmen to spawn from portal blocks: true
+[08Mar2025 01:01:33.198] [Server thread/INFO] [Minecraft/]: Cactus Growth Modifier: 100%
+[08Mar2025 01:01:33.198] [Server thread/INFO] [Minecraft/]: Cane Growth Modifier: 100%
+[08Mar2025 01:01:33.201] [Server thread/INFO] [Minecraft/]: Melon Growth Modifier: 100%
+[08Mar2025 01:01:33.201] [Server thread/INFO] [Minecraft/]: Mushroom Growth Modifier: 100%
+[08Mar2025 01:01:33.202] [Server thread/INFO] [Minecraft/]: Pumpkin Growth Modifier: 100%
+[08Mar2025 01:01:33.207] [Server thread/INFO] [Minecraft/]: Sapling Growth Modifier: 100%
+[08Mar2025 01:01:33.208] [Server thread/INFO] [Minecraft/]: Beetroot Growth Modifier: 100%
+[08Mar2025 01:01:33.209] [Server thread/INFO] [Minecraft/]: Carrot Growth Modifier: 100%
+[08Mar2025 01:01:33.209] [Server thread/INFO] [Minecraft/]: Potato Growth Modifier: 100%
+[08Mar2025 01:01:33.210] [Server thread/INFO] [Minecraft/]: Wheat Growth Modifier: 100%
+[08Mar2025 01:01:33.214] [Server thread/INFO] [Minecraft/]: NetherWart Growth Modifier: 100%
+[08Mar2025 01:01:33.215] [Server thread/INFO] [Minecraft/]: Vine Growth Modifier: 100%
+[08Mar2025 01:01:33.216] [Server thread/INFO] [Minecraft/]: Cocoa Growth Modifier: 100%
+[08Mar2025 01:01:33.221] [Server thread/INFO] [Minecraft/]: Bamboo Growth Modifier: 100%
+[08Mar2025 01:01:33.222] [Server thread/INFO] [Minecraft/]: SweetBerry Growth Modifier: 100%
+[08Mar2025 01:01:33.223] [Server thread/INFO] [Minecraft/]: Kelp Growth Modifier: 100%
+[08Mar2025 01:01:33.223] [Server thread/INFO] [Minecraft/]: Entity Activation Range: An 32 / Mo 32 / Ra 48 / Mi 16 / Tiv true
+[08Mar2025 01:01:33.233] [Server thread/INFO] [Minecraft/]: Entity Tracking Range: Pl 48 / An 48 / Mo 48 / Mi 32 / Other 64
+[08Mar2025 01:01:33.234] [Server thread/INFO] [Minecraft/]: Hopper Transfer: 8 Hopper Check: 1 Hopper Amount: 1
+[08Mar2025 01:01:33.235] [Server thread/INFO] [Minecraft/]: Custom Map Seeds:  Village: 10387312 Desert: 14357617 Igloo: 14357618 Jungle: 14357619 Swamp: 14357620 Monument: 10387313 Ocean: 14357621 Shipwreck: 165745295 End City: 10387313 Slime: 987234911 Bastion: 30084232 Fortress: 30084232 Mansion: 10387319 Fossil: 14357921 Portal: 34222645
+[08Mar2025 01:01:33.235] [Server thread/INFO] [Minecraft/]: Item Merge Radius: 2.5
+[08Mar2025 01:01:33.237] [Server thread/INFO] [Minecraft/]: Experience Merge Radius: 3.0
+[08Mar2025 01:01:33.252] [Server thread/INFO] [Minecraft/]: Mob Spawn Range: 6
+[08Mar2025 01:01:33.261] [Server thread/INFO] [Minecraft/]: Max TNT Explosions: 100
+[08Mar2025 01:01:33.262] [Server thread/INFO] [Minecraft/]: Tile Max Tick Time: 50ms Entity max Tick Time: 50ms
+[08Mar2025 01:01:33.265] [Server thread/INFO] [Minecraft/]: Item Despawn Rate: 6000
+[08Mar2025 01:01:33.267] [Server thread/INFO] [Minecraft/]: View Distance: 10
+[08Mar2025 01:01:33.269] [Server thread/INFO] [Minecraft/]: Nerfing mobs spawned from spawners: false
+[08Mar2025 01:01:33.342] [Server thread/INFO] [voicechat/]: Enabling voicechat v2.5.27
+[08Mar2025 01:01:33.416] [Server thread/INFO] [voicechat/]: Initializing compatibility for Bukkit version 1.16.5-R0.1
+[08Mar2025 01:01:33.418] [Server thread/INFO] [voicechat/]: Compatibility version 18
+[08Mar2025 01:01:33.782] [Server thread/WARN] [voicechat/]: Failed to initialize commodore command completion
+java.lang.IllegalStateException: Could not find any of the following classes: ArgumentEntity
+	at de.maxhenkel.voicechat.compatibility.Compatibility.getBukkitClass(Compatibility.java:142) ~[?:?]
+	at de.maxhenkel.voicechat.compatibility.Compatibility1_16.playerArgument(Compatibility1_16.java:38) ~[?:?]
+	at de.maxhenkel.voicechat.integration.commodore.CommodoreCommands.playerArgument(CommodoreCommands.java:28) ~[?:?]
+	at de.maxhenkel.voicechat.integration.commodore.CommodoreCommands.registerCompletions(CommodoreCommands.java:16) ~[?:?]
+	at de.maxhenkel.voicechat.Voicechat.onEnable(Voicechat.java:91) ~[?:?]
+	at org.bukkit.plugin.java.JavaPlugin.setEnabled(JavaPluginMixin.java:263) ~[arclight:arclight-1.16.5-1.0.25-7cf92be3]
+	at org.bukkit.plugin.java.JavaPluginLoader.enablePlugin(JavaPluginLoaderMixin.java:342) ~[arclight:arclight-1.16.5-1.0.25-7cf92be3]
+	at org.bukkit.plugin.SimplePluginManager.enablePlugin(SimplePluginManager.java:480) ~[arclight:arclight-1.16.5-1.0.25-7cf92be3]
+	at org.bukkit.craftbukkit.v1_16_R3.CraftServer.enablePlugin(CraftServerMixin.java:492) ~[arclight:arclight-1.16.5-1.0.25-7cf92be3]
+	at org.bukkit.craftbukkit.v1_16_R3.CraftServer.enablePlugins(CraftServerMixin.java:406) ~[arclight:arclight-1.16.5-1.0.25-7cf92be3]
+	at net.minecraft.server.MinecraftServer.handler$zpo000$arclight$enablePlugins(MinecraftServerMixin.java:1995) ~[?:?]
+	at net.minecraft.server.MinecraftServer.func_240787_a_(MinecraftServerMixin.java:382) ~[?:?]
+	at net.minecraft.server.MinecraftServer.func_240800_l__(MinecraftServerMixin.java:308) ~[?:?]
+	at net.minecraft.server.dedicated.DedicatedServer.func_71197_b(DedicatedServerMixin.java:168) ~[?:?]
+	at net.minecraft.server.MinecraftServer.func_240802_v_(MinecraftServerMixin.java:1879) ~[?:?]
+	at net.minecraft.server.MinecraftServer.func_240783_a_(MinecraftServerMixin.java:232) ~[?:?]
+	at java.lang.Thread.run(Thread.java:829) [?:?]
+[08Mar2025 01:01:33.818] [Server thread/INFO] [NametagEdit/]: Enabling NametagEdit v4.5.23
+[08Mar2025 01:01:33.866] [Server thread/INFO] [NametagEdit/]: Successfully loaded using bukkit version: v1_16_R3
+[08Mar2025 01:01:33.942] [Server thread/INFO] [Graves/]: Enabling Graves v4.9
+[08Mar2025 01:01:33.959] [Server thread/INFO] [Graves/]: Integration: Hooked into ProtocolLib 5.3.0.
+[08Mar2025 01:01:36.931] [Server thread/INFO] [Minecraft/]: Server permissions file permissions.yml is empty, ignoring it
+[08Mar2025 01:01:37.031] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Preparing start region for dimension minecraft:overworld
+[08Mar2025 01:01:42.491] [Server thread/INFO] [net.minecraft.world.chunk.listener.LoggingChunkStatusListener/]: Preparing spawn area: 0%
+[08Mar2025 01:01:42.493] [Server thread/INFO] [net.minecraft.world.chunk.listener.LoggingChunkStatusListener/]: Preparing spawn area: 0%
+[08Mar2025 01:01:42.495] [Server thread/INFO] [net.minecraft.world.chunk.listener.LoggingChunkStatusListener/]: Preparing spawn area: 0%
+[08Mar2025 01:01:42.496] [Server thread/INFO] [net.minecraft.world.chunk.listener.LoggingChunkStatusListener/]: Preparing spawn area: 0%
+[08Mar2025 01:01:42.497] [Server thread/INFO] [net.minecraft.world.chunk.listener.LoggingChunkStatusListener/]: Preparing spawn area: 0%
+[08Mar2025 01:01:42.497] [Server thread/INFO] [net.minecraft.world.chunk.listener.LoggingChunkStatusListener/]: Preparing spawn area: 0%
+[08Mar2025 01:01:42.498] [Server thread/INFO] [net.minecraft.world.chunk.listener.LoggingChunkStatusListener/]: Preparing spawn area: 0%
+[08Mar2025 01:01:42.500] [Server thread/INFO] [net.minecraft.world.chunk.listener.LoggingChunkStatusListener/]: Preparing spawn area: 0%
+[08Mar2025 01:01:42.502] [Server thread/INFO] [net.minecraft.world.chunk.listener.LoggingChunkStatusListener/]: Preparing spawn area: 0%
+[08Mar2025 01:01:42.502] [Server thread/INFO] [net.minecraft.world.chunk.listener.LoggingChunkStatusListener/]: Preparing spawn area: 0%
+[08Mar2025 01:01:42.503] [Server thread/INFO] [net.minecraft.world.chunk.listener.LoggingChunkStatusListener/]: Preparing spawn area: 0%
+[08Mar2025 01:01:42.540] [Server thread/INFO] [net.minecraft.world.chunk.listener.LoggingChunkStatusListener/]: Preparing spawn area: 0%
+[08Mar2025 01:01:43.141] [Worker-Main-2/INFO] [net.minecraft.world.chunk.listener.LoggingChunkStatusListener/]: Preparing spawn area: 0%
+[08Mar2025 01:01:43.545] [Server thread/INFO] [net.minecraft.world.chunk.listener.LoggingChunkStatusListener/]: Preparing spawn area: 42%
+[08Mar2025 01:01:44.653] [Server thread/INFO] [net.minecraft.world.chunk.listener.LoggingChunkStatusListener/]: Time elapsed: 7621 ms
+[08Mar2025 01:01:44.661] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Done (12.662s)! For help, type "help"
+[08Mar2025 01:01:44.751] [Server thread/INFO] [voicechat/]: Loading plugins
+[08Mar2025 01:01:44.757] [Server thread/INFO] [voicechat/]: Loaded 0 plugin(s)
+[08Mar2025 01:01:44.758] [Server thread/INFO] [voicechat/]: Initializing plugins
+[08Mar2025 01:01:44.758] [Server thread/INFO] [voicechat/]: Initialized 0 plugin(s)
+[08Mar2025 01:01:44.771] [Server thread/WARN] [voicechat/]: Running in offline mode - Voice chat encryption is not secure!
+[08Mar2025 01:01:44.920] [VoiceChatServerThread/INFO] [voicechat/]: Voice chat server started at port 24454
+[08Mar2025 01:01:44.959] [Craft Scheduler Thread - 1/INFO] [Console/]: [33;1m[[32;22mSkinsRestorer[33;1m] [0;39m[32;1m----------------------------------------------[0;39m
+[08Mar2025 01:01:44.960] [Craft Scheduler Thread - 1/INFO] [Console/]: [33;1m[[32;22mSkinsRestorer[33;1m] [0;39m[32;1m    +==================+[0;39m
+[08Mar2025 01:01:44.961] [Craft Scheduler Thread - 1/INFO] [Console/]: [33;1m[[32;22mSkinsRestorer[33;1m] [0;39m[32;1m    |   SkinsRestorer  |[0;39m
+[08Mar2025 01:01:44.961] [Craft Scheduler Thread - 1/INFO] [Console/]: [33;1m[[32;22mSkinsRestorer[33;1m] [0;39m[32;1m    |------------------|[0;39m
+[08Mar2025 01:01:44.961] [Craft Scheduler Thread - 1/INFO] [Console/]: [33;1m[[32;22mSkinsRestorer[33;1m] [0;39m[32;1m    |  [34;1m[4m[21mStandalone Mode[0;39m[32;1m |[0;39m
+[08Mar2025 01:01:44.963] [Craft Scheduler Thread - 1/INFO] [Console/]: [33;1m[[32;22mSkinsRestorer[33;1m] [0;39m[32;1m    +==================+[0;39m
+[08Mar2025 01:01:44.964] [Craft Scheduler Thread - 1/INFO] [Console/]: [33;1m[[32;22mSkinsRestorer[33;1m] [0;39m[32;1m----------------------------------------------[0;39m
+[08Mar2025 01:01:44.964] [Craft Scheduler Thread - 1/INFO] [Console/]: [33;1m[[32;22mSkinsRestorer[33;1m] [0;39m[36;1m    Version: [31;1m15.5.3[0;39m
+[08Mar2025 01:01:44.965] [Craft Scheduler Thread - 1/INFO] [Console/]: [33;1m[[32;22mSkinsRestorer[33;1m] [0;39m[36;1m    Commit: [31;1m86e796c[0;39m
+[08Mar2025 01:01:44.965] [Craft Scheduler Thread - 1/INFO] [Console/]: [33;1m[[32;22mSkinsRestorer[33;1m] [0;39m[36;1m    A new version ([32;1m15.6.0[36;1m) is available! Downloading update...[0;39m
+[08Mar2025 01:01:44.966] [Craft Scheduler Thread - 1/INFO] [Console/]: [33;1m[[32;22mSkinsRestorer[33;1m] [0;39m[32;1m----------------------------------------------[0;39m
+[08Mar2025 01:01:44.967] [Craft Scheduler Thread - 1/INFO] [Console/]: [33;1m[[32;22mSkinsRestorer[33;1m] [0;39m[34;1mDo you have issues? Read our troubleshooting guide: [33;1mhttps://skinsrestorer.net/docs/troubleshooting[0;39m
+[08Mar2025 01:01:44.969] [Craft Scheduler Thread - 1/INFO] [Console/]: [33;1m[[32;22mSkinsRestorer[33;1m] [0;39m[34;1mWant to support SkinsRestorer? Consider donating: [33;1mhttps://skinsrestorer.net/donate[0;39m
+[08Mar2025 01:01:44.973] [Craft Scheduler Thread - 1/INFO] [Console/]: [33;1m[[32;22mSkinsRestorer[33;1m] [0;39m[GitHubUpdate] Downloading update...[0;39m
+[08Mar2025 01:01:47.117] [Craft Scheduler Thread - 1/INFO] [Console/]: [33;1m[[32;22mSkinsRestorer[33;1m] [0;39m[GitHubUpdate] Downloaded update in 2143ms[0;39m
+[08Mar2025 01:01:47.118] [Craft Scheduler Thread - 1/INFO] [Console/]: [33;1m[[32;22mSkinsRestorer[33;1m] [0;39m[GitHubUpdate] Update saved as SkinsRestorer.jar[0;39m
+[08Mar2025 01:01:47.120] [Craft Scheduler Thread - 1/INFO] [Console/]: [33;1m[[32;22mSkinsRestorer[33;1m] [0;39m[GitHubUpdate] The update will be loaded on the next server restart[0;39m
+[08Mar2025 01:03:18.225] [User Authenticator #1/INFO] [net.minecraft.network.login.ServerLoginNetHandler/]: UUID of player Dylan_HHH is 7bf25c75-cb42-3eb9-bc7e-9109e9e259b5
+[08Mar2025 01:03:19.865] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.advancements.PlayerAdvancements@4c3bed7d
+[08Mar2025 01:03:19.938] [Server thread/INFO] [net.minecraft.server.management.PlayerList/]: Dylan_HHH[/127.43.154.84:36133] logged in with entity id 86 at (1665.565824366275, 23.0, 1030.0613565023268)
+[08Mar2025 01:03:24.931] [Server thread/INFO] [voicechat/]: Received secret request of Dylan_HHH (18)
+[08Mar2025 01:03:24.934] [Server thread/INFO] [voicechat/]: Sent secret to Dylan_HHH
