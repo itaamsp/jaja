@@ -4568,6 +4568,12 @@
     },
     "done": true
   },
+  "farmersdelight:main/plant_all_crops": {
+    "criteria": {
+      "wheat": "2025-03-24 23:41:21 +0000"
+    },
+    "done": false
+  },
   "securitycraft:recipes/securitycraft/keycard_lv2": {
     "criteria": {
       "has_the_recipe": "2025-03-24 22:27:32 +0000"
@@ -11134,6 +11140,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/bookshelf": {
+    "criteria": {
+      "has_book": "2025-03-24 23:45:37 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/securitycraft/reinforced_warped_planks": {
     "criteria": {
       "has_the_recipe": "2025-03-24 22:27:29 +0000"
@@ -13735,6 +13747,12 @@
   "create:recipes/create.palettes/spruce_window": {
     "criteria": {
       "has_the_recipe": "2025-03-24 22:27:32 +0000"
+    },
+    "done": true
+  },
+  "alexsmobs:alexsmobs/seagull_steal": {
+    "criteria": {
+      "ex": "2025-03-24 23:44:10 +0000"
     },
     "done": true
   },
@@ -18934,6 +18952,12 @@
   "create:recipes/create.palettes/fancy_dark_scoria_bricks_slab": {
     "criteria": {
       "has_the_recipe": "2025-03-24 22:27:33 +0000"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/plant_seed": {
+    "criteria": {
+      "wheat": "2025-03-24 23:41:21 +0000"
     },
     "done": true
   },

@@ -18772,3 +18772,431 @@ java.lang.NullPointerException: null
 [24Mar2025 23:42:44.388] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player Crying_Prophet (5113c246-f851-365d-ae5f-8beea591f8fd) successfully connected to voice chat
 [24Mar2025 23:42:44.406] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of Dylan_HHH: {disabled=false, disconnected=false, uuid=7bf25c75-cb42-3eb9-bc7e-9109e9e259b5, name=Dylan_HHH, group=2ffd101c-dd4b-4851-8f3d-3ece2ff94fe2}
 [24Mar2025 23:42:44.452] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of Crying_Prophet: {disabled=false, disconnected=false, uuid=5113c246-f851-365d-ae5f-8beea591f8fd, name=Crying_Prophet, group=null}
+[24Mar2025 23:43:05.315] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player 5113c246-f851-365d-ae5f-8beea591f8fd timed out
+[24Mar2025 23:43:05.315] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Reconnecting player Crying_Prophet
+[24Mar2025 23:43:05.315] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Sending initial states to Crying_Prophet
+[24Mar2025 23:43:05.315] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Synchronizing 1 groups with Crying_Prophet
+[24Mar2025 23:43:05.316] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Synchronizing 0 volume categories with Crying_Prophet
+[24Mar2025 23:43:05.316] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Sent secret to Crying_Prophet
+[24Mar2025 23:43:05.316] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Set state of 5113c246-f851-365d-ae5f-8beea591f8fd to disconnected: {disabled=false, disconnected=true, uuid=5113c246-f851-365d-ae5f-8beea591f8fd, name=Crying_Prophet, group=null}
+[24Mar2025 23:43:05.316] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player 7bf25c75-cb42-3eb9-bc7e-9109e9e259b5 timed out
+[24Mar2025 23:43:05.316] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Reconnecting player Dylan_HHH
+[24Mar2025 23:43:05.316] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Sending initial states to Dylan_HHH
+[24Mar2025 23:43:05.317] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Synchronizing 1 groups with Dylan_HHH
+[24Mar2025 23:43:05.317] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Synchronizing 0 volume categories with Dylan_HHH
+[24Mar2025 23:43:05.317] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Sent secret to Dylan_HHH
+[24Mar2025 23:43:05.319] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Set state of 7bf25c75-cb42-3eb9-bc7e-9109e9e259b5 to disconnected: {disabled=false, disconnected=true, uuid=7bf25c75-cb42-3eb9-bc7e-9109e9e259b5, name=Dylan_HHH, group=2ffd101c-dd4b-4851-8f3d-3ece2ff94fe2}
+[24Mar2025 23:43:05.327] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Failed to decrypt packet from /127.0.0.1:44810
+[24Mar2025 23:43:05.344] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of Crying_Prophet: {disabled=false, disconnected=true, uuid=5113c246-f851-365d-ae5f-8beea591f8fd, name=Crying_Prophet, group=null}
+[24Mar2025 23:43:05.344] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of Dylan_HHH: {disabled=false, disconnected=true, uuid=7bf25c75-cb42-3eb9-bc7e-9109e9e259b5, name=Dylan_HHH, group=2ffd101c-dd4b-4851-8f3d-3ece2ff94fe2}
+[24Mar2025 23:43:05.452] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 5113c246-f851-365d-ae5f-8beea591f8fd
+[24Mar2025 23:43:05.457] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 7bf25c75-cb42-3eb9-bc7e-9109e9e259b5
+[24Mar2025 23:43:28.999] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: Gathering id map for writing to world save world
+[24Mar2025 23:43:29.018] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: ID Map collection complete world
+[24Mar2025 23:43:31.427] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2020ms or 40 ticks behind
+[24Mar2025 23:43:40.896] [Worker-Main-71/DEBUG] [betterdungeons/]: Small Dungeon at -769 44 1169
+[24Mar2025 23:43:42.476] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 5113c246-f851-365d-ae5f-8beea591f8fd
+[24Mar2025 23:43:42.477] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Set state of Crying_Prophet to connected: {disabled=false, disconnected=false, uuid=5113c246-f851-365d-ae5f-8beea591f8fd, name=Crying_Prophet, group=null}
+[24Mar2025 23:43:42.477] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player Crying_Prophet (5113c246-f851-365d-ae5f-8beea591f8fd) successfully connected to voice chat
+[24Mar2025 23:43:42.501] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 7bf25c75-cb42-3eb9-bc7e-9109e9e259b5
+[24Mar2025 23:43:42.502] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Set state of Dylan_HHH to connected: {disabled=false, disconnected=false, uuid=7bf25c75-cb42-3eb9-bc7e-9109e9e259b5, name=Dylan_HHH, group=2ffd101c-dd4b-4851-8f3d-3ece2ff94fe2}
+[24Mar2025 23:43:42.502] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player Dylan_HHH (7bf25c75-cb42-3eb9-bc7e-9109e9e259b5) successfully connected to voice chat
+[24Mar2025 23:43:42.563] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of Crying_Prophet: {disabled=false, disconnected=false, uuid=5113c246-f851-365d-ae5f-8beea591f8fd, name=Crying_Prophet, group=null}
+[24Mar2025 23:43:42.601] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of Dylan_HHH: {disabled=false, disconnected=false, uuid=7bf25c75-cb42-3eb9-bc7e-9109e9e259b5, name=Dylan_HHH, group=2ffd101c-dd4b-4851-8f3d-3ece2ff94fe2}
+[24Mar2025 23:44:05.680] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of Crying_Prophet: {disabled=false, disconnected=false, uuid=5113c246-f851-365d-ae5f-8beea591f8fd, name=Crying_Prophet, group=null}
+[24Mar2025 23:44:05.687] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player 5113c246-f851-365d-ae5f-8beea591f8fd timed out
+[24Mar2025 23:44:05.688] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Reconnecting player Crying_Prophet
+[24Mar2025 23:44:05.688] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Sending initial states to Crying_Prophet
+[24Mar2025 23:44:05.688] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Synchronizing 1 groups with Crying_Prophet
+[24Mar2025 23:44:05.689] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Synchronizing 0 volume categories with Crying_Prophet
+[24Mar2025 23:44:05.689] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Sent secret to Crying_Prophet
+[24Mar2025 23:44:05.693] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Set state of 5113c246-f851-365d-ae5f-8beea591f8fd to disconnected: {disabled=false, disconnected=true, uuid=5113c246-f851-365d-ae5f-8beea591f8fd, name=Crying_Prophet, group=null}
+[24Mar2025 23:44:05.693] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player 7bf25c75-cb42-3eb9-bc7e-9109e9e259b5 timed out
+[24Mar2025 23:44:05.693] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Reconnecting player Dylan_HHH
+[24Mar2025 23:44:05.693] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Sending initial states to Dylan_HHH
+[24Mar2025 23:44:05.693] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Synchronizing 1 groups with Dylan_HHH
+[24Mar2025 23:44:05.693] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Synchronizing 0 volume categories with Dylan_HHH
+[24Mar2025 23:44:05.693] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Sent secret to Dylan_HHH
+[24Mar2025 23:44:05.693] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Set state of 7bf25c75-cb42-3eb9-bc7e-9109e9e259b5 to disconnected: {disabled=false, disconnected=true, uuid=7bf25c75-cb42-3eb9-bc7e-9109e9e259b5, name=Dylan_HHH, group=2ffd101c-dd4b-4851-8f3d-3ece2ff94fe2}
+[24Mar2025 23:44:05.695] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Failed to decrypt packet from /127.0.0.1:33614
+[24Mar2025 23:44:05.718] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of Dylan_HHH: {disabled=false, disconnected=true, uuid=7bf25c75-cb42-3eb9-bc7e-9109e9e259b5, name=Dylan_HHH, group=2ffd101c-dd4b-4851-8f3d-3ece2ff94fe2}
+[24Mar2025 23:44:05.769] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 5113c246-f851-365d-ae5f-8beea591f8fd
+[24Mar2025 23:44:05.871] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 7bf25c75-cb42-3eb9-bc7e-9109e9e259b5
+[24Mar2025 23:44:10.119] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Crying_Prophet has made the advancement [Mine? Mine? Mine?]
+[24Mar2025 23:44:56.793] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 5113c246-f851-365d-ae5f-8beea591f8fd
+[24Mar2025 23:44:56.793] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Set state of Crying_Prophet to connected: {disabled=false, disconnected=false, uuid=5113c246-f851-365d-ae5f-8beea591f8fd, name=Crying_Prophet, group=null}
+[24Mar2025 23:44:56.793] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player Crying_Prophet (5113c246-f851-365d-ae5f-8beea591f8fd) successfully connected to voice chat
+[24Mar2025 23:44:56.905] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 7bf25c75-cb42-3eb9-bc7e-9109e9e259b5
+[24Mar2025 23:44:56.905] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Set state of Dylan_HHH to connected: {disabled=false, disconnected=false, uuid=7bf25c75-cb42-3eb9-bc7e-9109e9e259b5, name=Dylan_HHH, group=2ffd101c-dd4b-4851-8f3d-3ece2ff94fe2}
+[24Mar2025 23:44:56.906] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player Dylan_HHH (7bf25c75-cb42-3eb9-bc7e-9109e9e259b5) successfully connected to voice chat
+[24Mar2025 23:45:07.072] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player 5113c246-f851-365d-ae5f-8beea591f8fd timed out
+[24Mar2025 23:45:07.072] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Reconnecting player Crying_Prophet
+[24Mar2025 23:45:07.073] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Sending initial states to Crying_Prophet
+[24Mar2025 23:45:07.073] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Synchronizing 1 groups with Crying_Prophet
+[24Mar2025 23:45:07.073] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Synchronizing 0 volume categories with Crying_Prophet
+[24Mar2025 23:45:07.074] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Sent secret to Crying_Prophet
+[24Mar2025 23:45:07.074] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Set state of 5113c246-f851-365d-ae5f-8beea591f8fd to disconnected: {disabled=false, disconnected=true, uuid=5113c246-f851-365d-ae5f-8beea591f8fd, name=Crying_Prophet, group=null}
+[24Mar2025 23:45:07.075] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player 7bf25c75-cb42-3eb9-bc7e-9109e9e259b5 timed out
+[24Mar2025 23:45:07.075] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Reconnecting player Dylan_HHH
+[24Mar2025 23:45:07.076] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Sending initial states to Dylan_HHH
+[24Mar2025 23:45:07.076] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Synchronizing 1 groups with Dylan_HHH
+[24Mar2025 23:45:07.076] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Synchronizing 0 volume categories with Dylan_HHH
+[24Mar2025 23:45:07.076] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Sent secret to Dylan_HHH
+[24Mar2025 23:45:07.077] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Set state of 7bf25c75-cb42-3eb9-bc7e-9109e9e259b5 to disconnected: {disabled=false, disconnected=true, uuid=7bf25c75-cb42-3eb9-bc7e-9109e9e259b5, name=Dylan_HHH, group=2ffd101c-dd4b-4851-8f3d-3ece2ff94fe2}
+[24Mar2025 23:45:07.146] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of Crying_Prophet: {disabled=false, disconnected=true, uuid=5113c246-f851-365d-ae5f-8beea591f8fd, name=Crying_Prophet, group=null}
+[24Mar2025 23:45:07.149] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 5113c246-f851-365d-ae5f-8beea591f8fd
+[24Mar2025 23:45:07.180] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 7bf25c75-cb42-3eb9-bc7e-9109e9e259b5
+[24Mar2025 23:45:07.190] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of Dylan_HHH: {disabled=false, disconnected=true, uuid=7bf25c75-cb42-3eb9-bc7e-9109e9e259b5, name=Dylan_HHH, group=2ffd101c-dd4b-4851-8f3d-3ece2ff94fe2}
+[24Mar2025 23:45:30.096] [Server thread/DEBUG] [ModernFix/]: Creating locate task for [net.minecraft.world.gen.feature.structure.BuriedTreasureStructure@2400673b] in ServerLevel[world] around BlockPos{x=-299, y=59, z=934} within 50 chunks
+[24Mar2025 23:45:30.099] [asynclocator-1-thread-1/DEBUG] [ModernFix/]: Trying to locate [minecraft:buried_treasure] in ServerLevel[world] around BlockPos{x=-299, y=59, z=934} within 50 chunks
+[24Mar2025 23:45:30.104] [asynclocator-1-thread-1/DEBUG] [ModernFix/]: Found [minecraft:buried_treasure] at BlockPos{x=-231, y=0, z=1033}
+[24Mar2025 23:45:34.649] [Worker-Main-71/DEBUG] [betterdungeons/]: Small Dungeon at -905 22 695
+[24Mar2025 23:45:34.670] [Worker-Main-71/DEBUG] [betterdungeons/]: Small Dungeon at -905 11 967
+[24Mar2025 23:45:36.355] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Dylan_HHH has made the advancement [Cobweb Entanglement]
+[24Mar2025 23:45:41.669] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Dylan_HHH has made the advancement [Mine? Mine? Mine?]
+[24Mar2025 23:45:42.292] [Worker-Main-71/DEBUG] [betterdungeons/]: Small Dungeon at -921 30 807
+[24Mar2025 23:45:42.317] [Worker-Main-71/DEBUG] [betterdungeons/]: Small Dungeon at -921 47 1167
+[24Mar2025 23:45:56.369] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a DUMMY block entity @ BlockPos{x=-772, y=0, z=807} but found not block entity block Block{stacked_dimensions_warden:deeper_layer_1_portal} at location
+[24Mar2025 23:45:56.369] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a block entity for block Block{stacked_dimensions_warden:deeper_layer_1_portal} but failed at location BlockPos{x=-772, y=0, z=807}
+[24Mar2025 23:45:59.187] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 5113c246-f851-365d-ae5f-8beea591f8fd
+[24Mar2025 23:45:59.187] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Set state of Crying_Prophet to connected: {disabled=false, disconnected=false, uuid=5113c246-f851-365d-ae5f-8beea591f8fd, name=Crying_Prophet, group=null}
+[24Mar2025 23:45:59.187] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player Crying_Prophet (5113c246-f851-365d-ae5f-8beea591f8fd) successfully connected to voice chat
+[24Mar2025 23:45:59.216] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 7bf25c75-cb42-3eb9-bc7e-9109e9e259b5
+[24Mar2025 23:45:59.216] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Set state of Dylan_HHH to connected: {disabled=false, disconnected=false, uuid=7bf25c75-cb42-3eb9-bc7e-9109e9e259b5, name=Dylan_HHH, group=2ffd101c-dd4b-4851-8f3d-3ece2ff94fe2}
+[24Mar2025 23:45:59.216] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player Dylan_HHH (7bf25c75-cb42-3eb9-bc7e-9109e9e259b5) successfully connected to voice chat
+[24Mar2025 23:46:00.879] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a DUMMY block entity @ BlockPos{x=-793, y=0, z=882} but found not block entity block Block{stacked_dimensions_warden:deeper_layer_1_portal} at location
+[24Mar2025 23:46:00.879] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a block entity for block Block{stacked_dimensions_warden:deeper_layer_1_portal} but failed at location BlockPos{x=-793, y=0, z=882}
+[24Mar2025 23:46:00.879] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a DUMMY block entity @ BlockPos{x=-790, y=0, z=880} but found not block entity block Block{stacked_dimensions_warden:deeper_layer_1_portal} at location
+[24Mar2025 23:46:00.879] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a block entity for block Block{stacked_dimensions_warden:deeper_layer_1_portal} but failed at location BlockPos{x=-790, y=0, z=880}
+[24Mar2025 23:46:01.011] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a DUMMY block entity @ BlockPos{x=-800, y=0, z=872} but found not block entity block Block{stacked_dimensions_warden:deeper_layer_1_portal} at location
+[24Mar2025 23:46:01.011] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a block entity for block Block{stacked_dimensions_warden:deeper_layer_1_portal} but failed at location BlockPos{x=-800, y=0, z=872}
+[24Mar2025 23:46:01.011] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a DUMMY block entity @ BlockPos{x=-798, y=0, z=870} but found not block entity block Block{stacked_dimensions_warden:deeper_layer_1_portal} at location
+[24Mar2025 23:46:01.011] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a block entity for block Block{stacked_dimensions_warden:deeper_layer_1_portal} but failed at location BlockPos{x=-798, y=0, z=870}
+[24Mar2025 23:46:01.011] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a DUMMY block entity @ BlockPos{x=-789, y=0, z=879} but found not block entity block Block{stacked_dimensions_warden:deeper_layer_1_portal} at location
+[24Mar2025 23:46:01.011] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a block entity for block Block{stacked_dimensions_warden:deeper_layer_1_portal} but failed at location BlockPos{x=-789, y=0, z=879}
+[24Mar2025 23:46:01.011] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a DUMMY block entity @ BlockPos{x=-798, y=0, z=873} but found not block entity block Block{stacked_dimensions_warden:deeper_layer_1_portal} at location
+[24Mar2025 23:46:01.011] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a block entity for block Block{stacked_dimensions_warden:deeper_layer_1_portal} but failed at location BlockPos{x=-798, y=0, z=873}
+[24Mar2025 23:46:01.011] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a DUMMY block entity @ BlockPos{x=-798, y=0, z=867} but found not block entity block Block{stacked_dimensions_warden:deeper_layer_1_portal} at location
+[24Mar2025 23:46:01.011] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a block entity for block Block{stacked_dimensions_warden:deeper_layer_1_portal} but failed at location BlockPos{x=-798, y=0, z=867}
+[24Mar2025 23:46:01.012] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a DUMMY block entity @ BlockPos{x=-798, y=0, z=864} but found not block entity block Block{stacked_dimensions_warden:deeper_layer_1_portal} at location
+[24Mar2025 23:46:01.012] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a block entity for block Block{stacked_dimensions_warden:deeper_layer_1_portal} but failed at location BlockPos{x=-798, y=0, z=864}
+[24Mar2025 23:46:09.455] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player 5113c246-f851-365d-ae5f-8beea591f8fd timed out
+[24Mar2025 23:46:09.461] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Reconnecting player Crying_Prophet
+[24Mar2025 23:46:09.462] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Sending initial states to Crying_Prophet
+[24Mar2025 23:46:09.462] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Synchronizing 1 groups with Crying_Prophet
+[24Mar2025 23:46:09.462] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Synchronizing 0 volume categories with Crying_Prophet
+[24Mar2025 23:46:09.462] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Sent secret to Crying_Prophet
+[24Mar2025 23:46:09.469] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Set state of 5113c246-f851-365d-ae5f-8beea591f8fd to disconnected: {disabled=false, disconnected=true, uuid=5113c246-f851-365d-ae5f-8beea591f8fd, name=Crying_Prophet, group=null}
+[24Mar2025 23:46:09.469] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player 7bf25c75-cb42-3eb9-bc7e-9109e9e259b5 timed out
+[24Mar2025 23:46:09.471] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Reconnecting player Dylan_HHH
+[24Mar2025 23:46:09.472] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Sending initial states to Dylan_HHH
+[24Mar2025 23:46:09.472] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Synchronizing 1 groups with Dylan_HHH
+[24Mar2025 23:46:09.472] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Synchronizing 0 volume categories with Dylan_HHH
+[24Mar2025 23:46:09.472] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Sent secret to Dylan_HHH
+[24Mar2025 23:46:09.472] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Set state of 7bf25c75-cb42-3eb9-bc7e-9109e9e259b5 to disconnected: {disabled=false, disconnected=true, uuid=7bf25c75-cb42-3eb9-bc7e-9109e9e259b5, name=Dylan_HHH, group=2ffd101c-dd4b-4851-8f3d-3ece2ff94fe2}
+[24Mar2025 23:46:09.546] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 5113c246-f851-365d-ae5f-8beea591f8fd
+[24Mar2025 23:46:09.566] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of Crying_Prophet: {disabled=false, disconnected=true, uuid=5113c246-f851-365d-ae5f-8beea591f8fd, name=Crying_Prophet, group=null}
+[24Mar2025 23:46:09.566] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of Dylan_HHH: {disabled=false, disconnected=true, uuid=7bf25c75-cb42-3eb9-bc7e-9109e9e259b5, name=Dylan_HHH, group=2ffd101c-dd4b-4851-8f3d-3ece2ff94fe2}
+[24Mar2025 23:46:09.567] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 7bf25c75-cb42-3eb9-bc7e-9109e9e259b5
+[24Mar2025 23:46:09.987] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a DUMMY block entity @ BlockPos{x=-806, y=0, z=878} but found not block entity block Block{stacked_dimensions_warden:deeper_layer_1_portal} at location
+[24Mar2025 23:46:09.987] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a block entity for block Block{stacked_dimensions_warden:deeper_layer_1_portal} but failed at location BlockPos{x=-806, y=0, z=878}
+[24Mar2025 23:46:09.987] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a DUMMY block entity @ BlockPos{x=-808, y=0, z=876} but found not block entity block Block{stacked_dimensions_warden:deeper_layer_1_portal} at location
+[24Mar2025 23:46:09.987] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a block entity for block Block{stacked_dimensions_warden:deeper_layer_1_portal} but failed at location BlockPos{x=-808, y=0, z=876}
+[24Mar2025 23:46:09.987] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a DUMMY block entity @ BlockPos{x=-807, y=0, z=876} but found not block entity block Block{stacked_dimensions_warden:deeper_layer_1_portal} at location
+[24Mar2025 23:46:09.987] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a block entity for block Block{stacked_dimensions_warden:deeper_layer_1_portal} but failed at location BlockPos{x=-807, y=0, z=876}
+[24Mar2025 23:46:09.988] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a DUMMY block entity @ BlockPos{x=-812, y=0, z=878} but found not block entity block Block{stacked_dimensions_warden:deeper_layer_1_portal} at location
+[24Mar2025 23:46:09.988] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a block entity for block Block{stacked_dimensions_warden:deeper_layer_1_portal} but failed at location BlockPos{x=-812, y=0, z=878}
+[24Mar2025 23:46:13.225] [Worker-Main-71/WARN] [ModernFix/]: The namespace quark contains an outdated structure file, which can cause worldgen lag. Please view debug.log for the full filename, determine which mod provides the structure, and report to the mod/datapack author, including the debug log.
+[24Mar2025 23:46:13.228] [Worker-Main-71/DEBUG] [ModernFix/]: Structure quark:big_dungeon/starts/3x3_tnt is being run through DFU (hash 75eae45b541088ebfd0de51041d2aaca83fdf39a973f2b8e9c4e30df6eea9fce), this will cause launch time delays
+[24Mar2025 23:46:14.717] [Worker-Main-71/DEBUG] [ModernFix/]: Structure quark:big_dungeon/rooms/double_hall_plain is being run through DFU (hash 36dbf4d9d1bddf154d0f9c28e9e5eb0e15f14a41672cabb1817511c234f82c08), this will cause launch time delays
+[24Mar2025 23:46:14.879] [Worker-Main-71/DEBUG] [ModernFix/]: Structure quark:big_dungeon/rooms/connector_bush is being run through DFU (hash c820264f623748ef28e80869942580744af6b8f55b3ae37343b1f24e94da90d2), this will cause launch time delays
+[24Mar2025 23:46:14.910] [Worker-Main-71/DEBUG] [ModernFix/]: Structure quark:big_dungeon/rooms/4room_trapped is being run through DFU (hash a154ba092ce69789d8bb8ddf2c0a6fd235093148648967a6835be921fc72dcf6), this will cause launch time delays
+[24Mar2025 23:46:15.351] [Worker-Main-71/DEBUG] [ModernFix/]: Structure quark:big_dungeon/corridors/left_cobweb is being run through DFU (hash 629a410d0134619730c842951433fdc3730a7d5361b1972e24e30dedf64e67cf), this will cause launch time delays
+[24Mar2025 23:46:15.359] [Worker-Main-71/DEBUG] [ModernFix/]: Structure quark:big_dungeon/misc/endpoint is being run through DFU (hash d586244ea29fcfe8af449b854b356c92ea2cae2a58d8e607b45fb369f7fd0408), this will cause launch time delays
+[24Mar2025 23:46:15.361] [Worker-Main-71/DEBUG] [ModernFix/]: Structure quark:big_dungeon/rooms/connector_base is being run through DFU (hash 9d7722bfee236eeedcb8c1ea03990d58ad396e2b73247c4c8844ae07f8acc208), this will cause launch time delays
+[24Mar2025 23:46:15.403] [Worker-Main-71/DEBUG] [ModernFix/]: Structure quark:big_dungeon/rooms/climb_parkour is being run through DFU (hash 2a59e98160ab8a2fcbe8791a1282d363ec2218d10cb8b285696b0b68565852ee), this will cause launch time delays
+[24Mar2025 23:46:15.468] [Worker-Main-71/DEBUG] [ModernFix/]: Structure quark:big_dungeon/rooms/triple_library is being run through DFU (hash b16b08d9080ddeffaf1aef315fa044b5b1568071da218e1a29cdff2d7b046d29), this will cause launch time delays
+[24Mar2025 23:46:15.625] [Worker-Main-71/DEBUG] [ModernFix/]: Structure quark:big_dungeon/corridors/right_cobweb is being run through DFU (hash e79437b0bad7ed218c8fc69ddd974b5c45f502dee5be22215df77a80fc4b0ce5), this will cause launch time delays
+[24Mar2025 23:46:15.725] [Worker-Main-71/DEBUG] [ModernFix/]: Structure quark:big_dungeon/corridors/t_plain is being run through DFU (hash 3dbcaf749db187be64d47e38b30e4d5ea8d0e121dc4b17be3a037c2e8e1651a0), this will cause launch time delays
+[24Mar2025 23:46:15.736] [Worker-Main-71/DEBUG] [ModernFix/]: Structure quark:big_dungeon/rooms/4room_plain is being run through DFU (hash fd4a205c5c6df0192e747369ba603559bc77b8c28d45aed9e532ac88406482e9), this will cause launch time delays
+[24Mar2025 23:46:15.808] [Worker-Main-71/DEBUG] [ModernFix/]: Structure quark:big_dungeon/rooms/laddered_tnt is being run through DFU (hash 59b2b3e64be9ba49f87d99ad705fde90ed2f76654bc06a07567753ae42368c92), this will cause launch time delays
+[24Mar2025 23:46:15.872] [Worker-Main-71/DEBUG] [ModernFix/]: Structure quark:big_dungeon/rooms/double_hall_silverfish is being run through DFU (hash 8ebca551c2947b0bd21d7f1e6d53dc3f074107e22283e69122b9d58c9698d11c), this will cause launch time delays
+[24Mar2025 23:46:15.933] [Worker-Main-71/DEBUG] [ModernFix/]: Structure quark:big_dungeon/rooms/ascend_intersection is being run through DFU (hash 07a33af9e25010569f6a95c6f42803cdfa93141766e7ca08962470044cf11983), this will cause launch time delays
+[24Mar2025 23:46:15.972] [Worker-Main-71/DEBUG] [ModernFix/]: Structure quark:big_dungeon/rooms/connector_melon is being run through DFU (hash 6bdde57dcab662e2873e7c7ce69d8ed19bd7f18a404e473c41ce11d05330d39f), this will cause launch time delays
+[24Mar2025 23:46:15.983] [Worker-Main-71/DEBUG] [ModernFix/]: Structure quark:big_dungeon/corridors/t_cobweb is being run through DFU (hash f273b7a5b1585f61f00c670a01d7f5e5f388c144cfb4db8c45f52a6a1779e53e), this will cause launch time delays
+[24Mar2025 23:46:15.992] [Worker-Main-71/DEBUG] [ModernFix/]: Structure quark:big_dungeon/rooms/climb_redstone is being run through DFU (hash fea4e7c1f5aff9529cc4dd49f5cfbdd796dfdec59b29d46f89f7f885d225c53e), this will cause launch time delays
+[24Mar2025 23:46:16.015] [Worker-Main-71/DEBUG] [ModernFix/]: Structure quark:big_dungeon/rooms/climb_plain is being run through DFU (hash 6fb486219dc1a976f70cef774828c282f17628e3dc6ed3f795fee067ecb624ba), this will cause launch time delays
+[24Mar2025 23:46:16.050] [Worker-Main-71/DEBUG] [ModernFix/]: Structure quark:big_dungeon/rooms/ascend_plain is being run through DFU (hash 6c11fc3da251197fa6d327f43b6b67f344c86e54be657b99edb372b38c30ff01), this will cause launch time delays
+[24Mar2025 23:46:16.112] [Worker-Main-71/DEBUG] [ModernFix/]: Structure quark:big_dungeon/corridors/right_plain is being run through DFU (hash 8cdc8781b4e9cd01a073c0d3f18318abd57f6b19af1984f964edef89304acd61), this will cause launch time delays
+[24Mar2025 23:46:16.129] [Worker-Main-71/DEBUG] [ModernFix/]: Structure quark:big_dungeon/rooms/connector_fountain is being run through DFU (hash c4a42d1de104937f4ee47a736b22613920b9d5dd438a7fe9d073d59bcb81d692), this will cause launch time delays
+[24Mar2025 23:46:16.149] [Worker-Main-71/DEBUG] [ModernFix/]: Structure quark:big_dungeon/corridors/forward_cobweb is being run through DFU (hash 21dfaf836cf05a19da8995c19c893e9c9a5fe441ecddbc3360727693ff8c1efb), this will cause launch time delays
+[24Mar2025 23:46:16.166] [Worker-Main-71/DEBUG] [ModernFix/]: Structure quark:big_dungeon/rooms/laddered_plain is being run through DFU (hash abc5a7b79ada64e23463ecf7dcb9db51d327de4cf208da51573f0c4325947311), this will cause launch time delays
+[24Mar2025 23:46:16.277] [Worker-Main-71/DEBUG] [ModernFix/]: Structure quark:big_dungeon/corridors/forward_plain is being run through DFU (hash f18a2830c45244343a977cbf10dc77a7f7a73360900178d0086110505a92d55c), this will cause launch time delays
+[24Mar2025 23:46:16.286] [Worker-Main-71/DEBUG] [ModernFix/]: Structure quark:big_dungeon/corridors/left_plain is being run through DFU (hash 7b00261c7d0b0cdd2ca5a47428cec7414c383ca4b7c2be36c21bf9a87eaa9301), this will cause launch time delays
+[24Mar2025 23:46:16.303] [Worker-Main-71/DEBUG] [ModernFix/]: Structure quark:big_dungeon/rooms/connector_room is being run through DFU (hash 7afe5aaaf1ca7db5815ced05f4cf415f992c194707d422536088a9377ba59c19), this will cause launch time delays
+[24Mar2025 23:46:16.328] [Worker-Main-71/DEBUG] [ModernFix/]: Structure quark:big_dungeon/rooms/ascend_ruined is being run through DFU (hash f4e384d63ede3d7942a2fde51da59deca4988a7c995315f67087464033262b2d), this will cause launch time delays
+[24Mar2025 23:46:16.417] [Worker-Main-71/DEBUG] [ModernFix/]: Structure quark:big_dungeon/rooms/laddered_bridge is being run through DFU (hash 5c31ab2ed43db01e225c5cfd04b0fbb041c06a9ef97965e4370b3794d1a58375), this will cause launch time delays
+[24Mar2025 23:46:16.536] [Worker-Main-71/DEBUG] [ModernFix/]: Structure quark:big_dungeon/rooms/triple_plain is being run through DFU (hash 93088279ce5db7d69f0431aa748b25462f9967247c084fe0b7842410841f2101), this will cause launch time delays
+[24Mar2025 23:46:17.584] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2077ms or 41 ticks behind
+[24Mar2025 23:46:21.382] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a DUMMY block entity @ BlockPos{x=-821, y=0, z=882} but found not block entity block Block{minecraft:bedrock} at location
+[24Mar2025 23:46:21.382] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a block entity for block Block{minecraft:bedrock} but failed at location BlockPos{x=-821, y=0, z=882}
+[24Mar2025 23:46:21.382] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a DUMMY block entity @ BlockPos{x=-823, y=0, z=884} but found not block entity block Block{minecraft:bedrock} at location
+[24Mar2025 23:46:21.382] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a block entity for block Block{minecraft:bedrock} but failed at location BlockPos{x=-823, y=0, z=884}
+[24Mar2025 23:46:21.383] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a DUMMY block entity @ BlockPos{x=-823, y=0, z=880} but found not block entity block Block{stacked_dimensions_warden:deeper_layer_1_portal} at location
+[24Mar2025 23:46:21.383] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a block entity for block Block{stacked_dimensions_warden:deeper_layer_1_portal} but failed at location BlockPos{x=-823, y=0, z=880}
+[24Mar2025 23:46:21.383] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a DUMMY block entity @ BlockPos{x=-821, y=0, z=891} but found not block entity block Block{stacked_dimensions_warden:deeper_layer_1_portal} at location
+[24Mar2025 23:46:21.383] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a block entity for block Block{stacked_dimensions_warden:deeper_layer_1_portal} but failed at location BlockPos{x=-821, y=0, z=891}
+[24Mar2025 23:46:21.383] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a DUMMY block entity @ BlockPos{x=-821, y=0, z=885} but found not block entity block Block{minecraft:bedrock} at location
+[24Mar2025 23:46:21.383] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a block entity for block Block{minecraft:bedrock} but failed at location BlockPos{x=-821, y=0, z=885}
+[24Mar2025 23:46:21.529] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a DUMMY block entity @ BlockPos{x=-821, y=0, z=879} but found not block entity block Block{stacked_dimensions_warden:deeper_layer_1_portal} at location
+[24Mar2025 23:46:21.529] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a block entity for block Block{stacked_dimensions_warden:deeper_layer_1_portal} but failed at location BlockPos{x=-821, y=0, z=879}
+[24Mar2025 23:46:21.529] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a DUMMY block entity @ BlockPos{x=-817, y=0, z=876} but found not block entity block Block{stacked_dimensions_warden:deeper_layer_1_portal} at location
+[24Mar2025 23:46:21.529] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a block entity for block Block{stacked_dimensions_warden:deeper_layer_1_portal} but failed at location BlockPos{x=-817, y=0, z=876}
+[24Mar2025 23:46:25.397] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Dylan_HHH has made the advancement [People Are Strange]
+[24Mar2025 23:46:46.579] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 5113c246-f851-365d-ae5f-8beea591f8fd
+[24Mar2025 23:46:46.580] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Set state of Crying_Prophet to connected: {disabled=false, disconnected=false, uuid=5113c246-f851-365d-ae5f-8beea591f8fd, name=Crying_Prophet, group=null}
+[24Mar2025 23:46:46.580] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player Crying_Prophet (5113c246-f851-365d-ae5f-8beea591f8fd) successfully connected to voice chat
+[24Mar2025 23:46:46.600] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 7bf25c75-cb42-3eb9-bc7e-9109e9e259b5
+[24Mar2025 23:46:46.601] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Set state of Dylan_HHH to connected: {disabled=false, disconnected=false, uuid=7bf25c75-cb42-3eb9-bc7e-9109e9e259b5, name=Dylan_HHH, group=2ffd101c-dd4b-4851-8f3d-3ece2ff94fe2}
+[24Mar2025 23:46:46.601] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player Dylan_HHH (7bf25c75-cb42-3eb9-bc7e-9109e9e259b5) successfully connected to voice chat
+[24Mar2025 23:46:46.667] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of Crying_Prophet: {disabled=false, disconnected=false, uuid=5113c246-f851-365d-ae5f-8beea591f8fd, name=Crying_Prophet, group=null}
+[24Mar2025 23:46:46.706] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of Dylan_HHH: {disabled=false, disconnected=false, uuid=7bf25c75-cb42-3eb9-bc7e-9109e9e259b5, name=Dylan_HHH, group=2ffd101c-dd4b-4851-8f3d-3ece2ff94fe2}
+[24Mar2025 23:47:02.049] [Worker-Main-71/DEBUG] [betterdungeons/]: Small Dungeon at -1065 31 973
+[24Mar2025 23:47:02.058] [Worker-Main-71/DEBUG] [betterdungeons/]: Small Dungeon at -1065 40 1293
+[24Mar2025 23:47:03.991] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a DUMMY block entity @ BlockPos{x=-887, y=0, z=1095} but found not block entity block Block{minecraft:bedrock} at location
+[24Mar2025 23:47:03.991] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a block entity for block Block{minecraft:bedrock} but failed at location BlockPos{x=-887, y=0, z=1095}
+[24Mar2025 23:47:03.991] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a DUMMY block entity @ BlockPos{x=-883, y=0, z=1095} but found not block entity block Block{stacked_dimensions_warden:deeper_layer_1_portal} at location
+[24Mar2025 23:47:03.992] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a block entity for block Block{stacked_dimensions_warden:deeper_layer_1_portal} but failed at location BlockPos{x=-883, y=0, z=1095}
+[24Mar2025 23:47:03.992] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a DUMMY block entity @ BlockPos{x=-896, y=0, z=1095} but found not block entity block Block{stacked_dimensions_warden:deeper_layer_1_portal} at location
+[24Mar2025 23:47:03.992] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a block entity for block Block{stacked_dimensions_warden:deeper_layer_1_portal} but failed at location BlockPos{x=-896, y=0, z=1095}
+[24Mar2025 23:47:03.992] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a DUMMY block entity @ BlockPos{x=-895, y=0, z=1095} but found not block entity block Block{stacked_dimensions_warden:deeper_layer_1_portal} at location
+[24Mar2025 23:47:03.992] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a block entity for block Block{stacked_dimensions_warden:deeper_layer_1_portal} but failed at location BlockPos{x=-895, y=0, z=1095}
+[24Mar2025 23:47:03.992] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a DUMMY block entity @ BlockPos{x=-891, y=0, z=1095} but found not block entity block Block{stacked_dimensions_warden:deeper_layer_1_portal} at location
+[24Mar2025 23:47:03.992] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a block entity for block Block{stacked_dimensions_warden:deeper_layer_1_portal} but failed at location BlockPos{x=-891, y=0, z=1095}
+[24Mar2025 23:47:03.992] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a DUMMY block entity @ BlockPos{x=-890, y=0, z=1095} but found not block entity block Block{stacked_dimensions_warden:deeper_layer_1_portal} at location
+[24Mar2025 23:47:03.992] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a block entity for block Block{stacked_dimensions_warden:deeper_layer_1_portal} but failed at location BlockPos{x=-890, y=0, z=1095}
+[24Mar2025 23:47:05.783] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of Crying_Prophet: {disabled=false, disconnected=false, uuid=5113c246-f851-365d-ae5f-8beea591f8fd, name=Crying_Prophet, group=null}
+[24Mar2025 23:47:05.839] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of Dylan_HHH: {disabled=false, disconnected=false, uuid=7bf25c75-cb42-3eb9-bc7e-9109e9e259b5, name=Dylan_HHH, group=2ffd101c-dd4b-4851-8f3d-3ece2ff94fe2}
+[24Mar2025 23:47:06.768] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player 5113c246-f851-365d-ae5f-8beea591f8fd timed out
+[24Mar2025 23:47:06.768] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Reconnecting player Crying_Prophet
+[24Mar2025 23:47:06.768] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Sending initial states to Crying_Prophet
+[24Mar2025 23:47:06.768] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Synchronizing 1 groups with Crying_Prophet
+[24Mar2025 23:47:06.768] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Synchronizing 0 volume categories with Crying_Prophet
+[24Mar2025 23:47:06.768] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Sent secret to Crying_Prophet
+[24Mar2025 23:47:06.771] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Set state of 5113c246-f851-365d-ae5f-8beea591f8fd to disconnected: {disabled=false, disconnected=true, uuid=5113c246-f851-365d-ae5f-8beea591f8fd, name=Crying_Prophet, group=null}
+[24Mar2025 23:47:06.771] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player 7bf25c75-cb42-3eb9-bc7e-9109e9e259b5 timed out
+[24Mar2025 23:47:06.771] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Reconnecting player Dylan_HHH
+[24Mar2025 23:47:06.771] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Sending initial states to Dylan_HHH
+[24Mar2025 23:47:06.771] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Synchronizing 1 groups with Dylan_HHH
+[24Mar2025 23:47:06.771] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Synchronizing 0 volume categories with Dylan_HHH
+[24Mar2025 23:47:06.771] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Sent secret to Dylan_HHH
+[24Mar2025 23:47:06.772] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Set state of 7bf25c75-cb42-3eb9-bc7e-9109e9e259b5 to disconnected: {disabled=false, disconnected=true, uuid=7bf25c75-cb42-3eb9-bc7e-9109e9e259b5, name=Dylan_HHH, group=2ffd101c-dd4b-4851-8f3d-3ece2ff94fe2}
+[24Mar2025 23:47:06.891] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 5113c246-f851-365d-ae5f-8beea591f8fd
+[24Mar2025 23:47:06.892] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 7bf25c75-cb42-3eb9-bc7e-9109e9e259b5
+[24Mar2025 23:47:14.961] [Worker-Main-71/DEBUG] [betterdungeons/]: Small Dungeon at -1081 27 1133
+[24Mar2025 23:47:14.965] [Worker-Main-71/DEBUG] [betterdungeons/]: Small Dungeon at -1091 46 845
+[24Mar2025 23:47:16.357] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a DUMMY block entity @ BlockPos{x=-902, y=0, z=1095} but found not block entity block Block{stacked_dimensions_warden:deeper_layer_1_portal} at location
+[24Mar2025 23:47:16.357] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a block entity for block Block{stacked_dimensions_warden:deeper_layer_1_portal} but failed at location BlockPos{x=-902, y=0, z=1095}
+[24Mar2025 23:47:16.358] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a DUMMY block entity @ BlockPos{x=-901, y=0, z=1097} but found not block entity block Block{stacked_dimensions_warden:deeper_layer_1_portal} at location
+[24Mar2025 23:47:16.358] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a block entity for block Block{stacked_dimensions_warden:deeper_layer_1_portal} but failed at location BlockPos{x=-901, y=0, z=1097}
+[24Mar2025 23:47:16.358] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a DUMMY block entity @ BlockPos{x=-897, y=0, z=1097} but found not block entity block Block{minecraft:bedrock} at location
+[24Mar2025 23:47:16.359] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a block entity for block Block{minecraft:bedrock} but failed at location BlockPos{x=-897, y=0, z=1097}
+[24Mar2025 23:47:46.910] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 5113c246-f851-365d-ae5f-8beea591f8fd
+[24Mar2025 23:47:46.911] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Set state of Crying_Prophet to connected: {disabled=false, disconnected=false, uuid=5113c246-f851-365d-ae5f-8beea591f8fd, name=Crying_Prophet, group=null}
+[24Mar2025 23:47:46.911] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player Crying_Prophet (5113c246-f851-365d-ae5f-8beea591f8fd) successfully connected to voice chat
+[24Mar2025 23:47:46.924] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 7bf25c75-cb42-3eb9-bc7e-9109e9e259b5
+[24Mar2025 23:47:46.925] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Set state of Dylan_HHH to connected: {disabled=false, disconnected=false, uuid=7bf25c75-cb42-3eb9-bc7e-9109e9e259b5, name=Dylan_HHH, group=2ffd101c-dd4b-4851-8f3d-3ece2ff94fe2}
+[24Mar2025 23:47:46.925] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player Dylan_HHH (7bf25c75-cb42-3eb9-bc7e-9109e9e259b5) successfully connected to voice chat
+[24Mar2025 23:47:46.986] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of Crying_Prophet: {disabled=false, disconnected=false, uuid=5113c246-f851-365d-ae5f-8beea591f8fd, name=Crying_Prophet, group=null}
+[24Mar2025 23:47:47.044] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of Dylan_HHH: {disabled=false, disconnected=false, uuid=7bf25c75-cb42-3eb9-bc7e-9109e9e259b5, name=Dylan_HHH, group=2ffd101c-dd4b-4851-8f3d-3ece2ff94fe2}
+[24Mar2025 23:48:06.045] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player 5113c246-f851-365d-ae5f-8beea591f8fd timed out
+[24Mar2025 23:48:06.045] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Reconnecting player Crying_Prophet
+[24Mar2025 23:48:06.045] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Sending initial states to Crying_Prophet
+[24Mar2025 23:48:06.045] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Synchronizing 1 groups with Crying_Prophet
+[24Mar2025 23:48:06.045] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Synchronizing 0 volume categories with Crying_Prophet
+[24Mar2025 23:48:06.046] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Sent secret to Crying_Prophet
+[24Mar2025 23:48:06.047] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Set state of 5113c246-f851-365d-ae5f-8beea591f8fd to disconnected: {disabled=false, disconnected=true, uuid=5113c246-f851-365d-ae5f-8beea591f8fd, name=Crying_Prophet, group=null}
+[24Mar2025 23:48:06.062] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of Crying_Prophet: {disabled=false, disconnected=true, uuid=5113c246-f851-365d-ae5f-8beea591f8fd, name=Crying_Prophet, group=null}
+[24Mar2025 23:48:06.062] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of Dylan_HHH: {disabled=false, disconnected=false, uuid=7bf25c75-cb42-3eb9-bc7e-9109e9e259b5, name=Dylan_HHH, group=2ffd101c-dd4b-4851-8f3d-3ece2ff94fe2}
+[24Mar2025 23:48:06.185] [Worker-Main-71/DEBUG] [betterdungeons/]: Small Dungeon at -1251 38 1159
+[24Mar2025 23:48:06.376] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 5113c246-f851-365d-ae5f-8beea591f8fd
+[24Mar2025 23:48:07.046] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player 7bf25c75-cb42-3eb9-bc7e-9109e9e259b5 timed out
+[24Mar2025 23:48:07.047] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Reconnecting player Dylan_HHH
+[24Mar2025 23:48:07.047] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Sending initial states to Dylan_HHH
+[24Mar2025 23:48:07.047] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Synchronizing 1 groups with Dylan_HHH
+[24Mar2025 23:48:07.047] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Synchronizing 0 volume categories with Dylan_HHH
+[24Mar2025 23:48:07.050] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Sent secret to Dylan_HHH
+[24Mar2025 23:48:07.050] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Set state of 7bf25c75-cb42-3eb9-bc7e-9109e9e259b5 to disconnected: {disabled=false, disconnected=true, uuid=7bf25c75-cb42-3eb9-bc7e-9109e9e259b5, name=Dylan_HHH, group=2ffd101c-dd4b-4851-8f3d-3ece2ff94fe2}
+[24Mar2025 23:48:07.371] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 7bf25c75-cb42-3eb9-bc7e-9109e9e259b5
+[24Mar2025 23:48:08.797] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a DUMMY block entity @ BlockPos{x=-1060, y=0, z=912} but found not block entity block Block{stacked_dimensions_warden:deeper_layer_1_portal} at location
+[24Mar2025 23:48:08.798] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a block entity for block Block{stacked_dimensions_warden:deeper_layer_1_portal} but failed at location BlockPos{x=-1060, y=0, z=912}
+[24Mar2025 23:48:08.798] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a DUMMY block entity @ BlockPos{x=-1060, y=0, z=915} but found not block entity block Block{stacked_dimensions_warden:deeper_layer_1_portal} at location
+[24Mar2025 23:48:08.798] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a block entity for block Block{stacked_dimensions_warden:deeper_layer_1_portal} but failed at location BlockPos{x=-1060, y=0, z=915}
+[24Mar2025 23:48:08.798] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a DUMMY block entity @ BlockPos{x=-1061, y=0, z=915} but found not block entity block Block{stacked_dimensions_warden:deeper_layer_1_portal} at location
+[24Mar2025 23:48:08.798] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a block entity for block Block{stacked_dimensions_warden:deeper_layer_1_portal} but failed at location BlockPos{x=-1061, y=0, z=915}
+[24Mar2025 23:48:08.798] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a DUMMY block entity @ BlockPos{x=-1064, y=0, z=913} but found not block entity block Block{stacked_dimensions_warden:deeper_layer_1_portal} at location
+[24Mar2025 23:48:08.798] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a block entity for block Block{stacked_dimensions_warden:deeper_layer_1_portal} but failed at location BlockPos{x=-1064, y=0, z=913}
+[24Mar2025 23:48:08.855] [Worker-Main-71/DEBUG] [betterdungeons/]: Small Dungeon at -1257 43 1005
+[24Mar2025 23:48:08.873] [Worker-Main-71/DEBUG] [betterdungeons/]: Small Dungeon at -1257 29 823
+[24Mar2025 23:48:12.631] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a DUMMY block entity @ BlockPos{x=-1060, y=0, z=896} but found not block entity block Block{minecraft:bedrock} at location
+[24Mar2025 23:48:12.631] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a block entity for block Block{minecraft:bedrock} but failed at location BlockPos{x=-1060, y=0, z=896}
+[24Mar2025 23:48:12.631] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a DUMMY block entity @ BlockPos{x=-1060, y=0, z=898} but found not block entity block Block{minecraft:bedrock} at location
+[24Mar2025 23:48:12.632] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a block entity for block Block{minecraft:bedrock} but failed at location BlockPos{x=-1060, y=0, z=898}
+[24Mar2025 23:48:13.738] [Worker-Main-71/DEBUG] [betterdungeons/]: Spider Dungeon at -1281 44 970
+[24Mar2025 23:48:13.743] [Worker-Main-71/DEBUG] [betterdungeons/]: Small Dungeon at -1273 38 1277
+[24Mar2025 23:48:22.899] [Worker-Main-71/DEBUG] [betterdungeons/]: Small Dungeon at -1091 10 1439
+[24Mar2025 23:48:34.014] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: Gathering id map for writing to world save world
+[24Mar2025 23:48:34.031] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: ID Map collection complete world
+[24Mar2025 23:48:34.102] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2095ms or 41 ticks behind
+[24Mar2025 23:48:35.106] [Worker-Main-71/DEBUG] [betterdungeons/]: Small Dungeon at -1235 32 1489
+[24Mar2025 23:48:46.395] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 5113c246-f851-365d-ae5f-8beea591f8fd
+[24Mar2025 23:48:46.395] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Set state of Crying_Prophet to connected: {disabled=false, disconnected=false, uuid=5113c246-f851-365d-ae5f-8beea591f8fd, name=Crying_Prophet, group=null}
+[24Mar2025 23:48:46.395] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player Crying_Prophet (5113c246-f851-365d-ae5f-8beea591f8fd) successfully connected to voice chat
+[24Mar2025 23:48:46.397] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 7bf25c75-cb42-3eb9-bc7e-9109e9e259b5
+[24Mar2025 23:48:46.397] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Set state of Dylan_HHH to connected: {disabled=false, disconnected=false, uuid=7bf25c75-cb42-3eb9-bc7e-9109e9e259b5, name=Dylan_HHH, group=2ffd101c-dd4b-4851-8f3d-3ece2ff94fe2}
+[24Mar2025 23:48:46.398] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player Dylan_HHH (7bf25c75-cb42-3eb9-bc7e-9109e9e259b5) successfully connected to voice chat
+[24Mar2025 23:48:46.473] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of Crying_Prophet: {disabled=false, disconnected=false, uuid=5113c246-f851-365d-ae5f-8beea591f8fd, name=Crying_Prophet, group=null}
+[24Mar2025 23:48:46.515] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of Dylan_HHH: {disabled=false, disconnected=false, uuid=7bf25c75-cb42-3eb9-bc7e-9109e9e259b5, name=Dylan_HHH, group=2ffd101c-dd4b-4851-8f3d-3ece2ff94fe2}
+[24Mar2025 23:48:49.084] [Worker-Main-71/DEBUG] [betterstrongholds/]: Better Stronghold at -1047 29 1513
+[24Mar2025 23:48:52.146] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3089ms or 61 ticks behind
+[24Mar2025 23:49:06.395] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of Crying_Prophet: {disabled=false, disconnected=false, uuid=5113c246-f851-365d-ae5f-8beea591f8fd, name=Crying_Prophet, group=null}
+[24Mar2025 23:49:06.395] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of Dylan_HHH: {disabled=false, disconnected=false, uuid=7bf25c75-cb42-3eb9-bc7e-9109e9e259b5, name=Dylan_HHH, group=2ffd101c-dd4b-4851-8f3d-3ece2ff94fe2}
+[24Mar2025 23:49:07.367] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player 5113c246-f851-365d-ae5f-8beea591f8fd timed out
+[24Mar2025 23:49:07.368] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Reconnecting player Crying_Prophet
+[24Mar2025 23:49:07.368] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Sending initial states to Crying_Prophet
+[24Mar2025 23:49:07.368] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Synchronizing 1 groups with Crying_Prophet
+[24Mar2025 23:49:07.368] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Synchronizing 0 volume categories with Crying_Prophet
+[24Mar2025 23:49:07.368] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Sent secret to Crying_Prophet
+[24Mar2025 23:49:07.369] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Set state of 5113c246-f851-365d-ae5f-8beea591f8fd to disconnected: {disabled=false, disconnected=true, uuid=5113c246-f851-365d-ae5f-8beea591f8fd, name=Crying_Prophet, group=null}
+[24Mar2025 23:49:07.369] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player 7bf25c75-cb42-3eb9-bc7e-9109e9e259b5 timed out
+[24Mar2025 23:49:07.370] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Reconnecting player Dylan_HHH
+[24Mar2025 23:49:07.370] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Sending initial states to Dylan_HHH
+[24Mar2025 23:49:07.370] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Synchronizing 1 groups with Dylan_HHH
+[24Mar2025 23:49:07.371] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Synchronizing 0 volume categories with Dylan_HHH
+[24Mar2025 23:49:07.371] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Sent secret to Dylan_HHH
+[24Mar2025 23:49:07.371] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Set state of 7bf25c75-cb42-3eb9-bc7e-9109e9e259b5 to disconnected: {disabled=false, disconnected=true, uuid=7bf25c75-cb42-3eb9-bc7e-9109e9e259b5, name=Dylan_HHH, group=2ffd101c-dd4b-4851-8f3d-3ece2ff94fe2}
+[24Mar2025 23:49:07.438] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 5113c246-f851-365d-ae5f-8beea591f8fd
+[24Mar2025 23:49:07.504] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 7bf25c75-cb42-3eb9-bc7e-9109e9e259b5
+[24Mar2025 23:49:23.166] [Worker-Main-114/DEBUG] [betterdungeons/]: Skeleton Dungeon at -1399 24 1001
+[24Mar2025 23:49:31.702] [Worker-Main-114/DEBUG] [betterdungeons/]: Small Dungeon at -1393 22 999
+[24Mar2025 23:49:31.709] [Worker-Main-114/DEBUG] [betterdungeons/]: Small Dungeon at -1385 15 1309
+[24Mar2025 23:49:36.620] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 7bf25c75-cb42-3eb9-bc7e-9109e9e259b5
+[24Mar2025 23:49:36.620] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Set state of Dylan_HHH to connected: {disabled=false, disconnected=false, uuid=7bf25c75-cb42-3eb9-bc7e-9109e9e259b5, name=Dylan_HHH, group=2ffd101c-dd4b-4851-8f3d-3ece2ff94fe2}
+[24Mar2025 23:49:36.621] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player Dylan_HHH (7bf25c75-cb42-3eb9-bc7e-9109e9e259b5) successfully connected to voice chat
+[24Mar2025 23:49:36.726] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of Dylan_HHH: {disabled=false, disconnected=false, uuid=7bf25c75-cb42-3eb9-bc7e-9109e9e259b5, name=Dylan_HHH, group=2ffd101c-dd4b-4851-8f3d-3ece2ff94fe2}
+[24Mar2025 23:49:37.453] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 5113c246-f851-365d-ae5f-8beea591f8fd
+[24Mar2025 23:49:37.454] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Set state of Crying_Prophet to connected: {disabled=false, disconnected=false, uuid=5113c246-f851-365d-ae5f-8beea591f8fd, name=Crying_Prophet, group=null}
+[24Mar2025 23:49:37.454] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player Crying_Prophet (5113c246-f851-365d-ae5f-8beea591f8fd) successfully connected to voice chat
+[24Mar2025 23:49:37.532] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of Crying_Prophet: {disabled=false, disconnected=false, uuid=5113c246-f851-365d-ae5f-8beea591f8fd, name=Crying_Prophet, group=null}
+[24Mar2025 23:49:41.047] [Server thread/INFO] [morpheus/]: Crying_Prophet is now sleeping. 1/2 (50%)
+[24Mar2025 23:49:42.347] [Worker-Main-114/DEBUG] [betterdungeons/]: Small Dungeon at -1417 45 1127
+[24Mar2025 23:50:04.182] [Worker-Main-114/DEBUG] [betterdungeons/]: Zombie Dungeon at -1449 49 879
+[24Mar2025 23:50:06.690] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of Crying_Prophet: {disabled=false, disconnected=false, uuid=5113c246-f851-365d-ae5f-8beea591f8fd, name=Crying_Prophet, group=null}
+[24Mar2025 23:50:06.696] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of Dylan_HHH: {disabled=false, disconnected=false, uuid=7bf25c75-cb42-3eb9-bc7e-9109e9e259b5, name=Dylan_HHH, group=2ffd101c-dd4b-4851-8f3d-3ece2ff94fe2}
+[24Mar2025 23:50:07.679] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player 5113c246-f851-365d-ae5f-8beea591f8fd timed out
+[24Mar2025 23:50:07.679] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Reconnecting player Crying_Prophet
+[24Mar2025 23:50:07.680] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Sending initial states to Crying_Prophet
+[24Mar2025 23:50:07.680] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Synchronizing 1 groups with Crying_Prophet
+[24Mar2025 23:50:07.680] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Synchronizing 0 volume categories with Crying_Prophet
+[24Mar2025 23:50:07.681] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Sent secret to Crying_Prophet
+[24Mar2025 23:50:07.681] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Set state of 5113c246-f851-365d-ae5f-8beea591f8fd to disconnected: {disabled=false, disconnected=true, uuid=5113c246-f851-365d-ae5f-8beea591f8fd, name=Crying_Prophet, group=null}
+[24Mar2025 23:50:07.681] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player 7bf25c75-cb42-3eb9-bc7e-9109e9e259b5 timed out
+[24Mar2025 23:50:07.682] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Reconnecting player Dylan_HHH
+[24Mar2025 23:50:07.682] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Sending initial states to Dylan_HHH
+[24Mar2025 23:50:07.683] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Synchronizing 1 groups with Dylan_HHH
+[24Mar2025 23:50:07.683] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Synchronizing 0 volume categories with Dylan_HHH
+[24Mar2025 23:50:07.683] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Sent secret to Dylan_HHH
+[24Mar2025 23:50:07.684] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Set state of 7bf25c75-cb42-3eb9-bc7e-9109e9e259b5 to disconnected: {disabled=false, disconnected=true, uuid=7bf25c75-cb42-3eb9-bc7e-9109e9e259b5, name=Dylan_HHH, group=2ffd101c-dd4b-4851-8f3d-3ece2ff94fe2}
+[24Mar2025 23:50:07.775] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 5113c246-f851-365d-ae5f-8beea591f8fd
+[24Mar2025 23:50:07.839] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 7bf25c75-cb42-3eb9-bc7e-9109e9e259b5
+[24Mar2025 23:50:45.794] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 5113c246-f851-365d-ae5f-8beea591f8fd
+[24Mar2025 23:50:45.795] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Set state of Crying_Prophet to connected: {disabled=false, disconnected=false, uuid=5113c246-f851-365d-ae5f-8beea591f8fd, name=Crying_Prophet, group=null}
+[24Mar2025 23:50:45.795] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player Crying_Prophet (5113c246-f851-365d-ae5f-8beea591f8fd) successfully connected to voice chat
+[24Mar2025 23:50:45.863] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 7bf25c75-cb42-3eb9-bc7e-9109e9e259b5
+[24Mar2025 23:50:45.863] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Set state of Dylan_HHH to connected: {disabled=false, disconnected=false, uuid=7bf25c75-cb42-3eb9-bc7e-9109e9e259b5, name=Dylan_HHH, group=2ffd101c-dd4b-4851-8f3d-3ece2ff94fe2}
+[24Mar2025 23:50:45.863] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player Dylan_HHH (7bf25c75-cb42-3eb9-bc7e-9109e9e259b5) successfully connected to voice chat
+[24Mar2025 23:50:45.935] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of Crying_Prophet: {disabled=false, disconnected=false, uuid=5113c246-f851-365d-ae5f-8beea591f8fd, name=Crying_Prophet, group=null}
+[24Mar2025 23:50:45.940] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of Dylan_HHH: {disabled=false, disconnected=false, uuid=7bf25c75-cb42-3eb9-bc7e-9109e9e259b5, name=Dylan_HHH, group=2ffd101c-dd4b-4851-8f3d-3ece2ff94fe2}
+[24Mar2025 23:51:06.988] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of Dylan_HHH: {disabled=false, disconnected=false, uuid=7bf25c75-cb42-3eb9-bc7e-9109e9e259b5, name=Dylan_HHH, group=2ffd101c-dd4b-4851-8f3d-3ece2ff94fe2}
+[24Mar2025 23:51:07.093] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of Crying_Prophet: {disabled=false, disconnected=false, uuid=5113c246-f851-365d-ae5f-8beea591f8fd, name=Crying_Prophet, group=null}
+[24Mar2025 23:51:07.963] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player 5113c246-f851-365d-ae5f-8beea591f8fd timed out
+[24Mar2025 23:51:07.963] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Reconnecting player Crying_Prophet
+[24Mar2025 23:51:07.963] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Sending initial states to Crying_Prophet
+[24Mar2025 23:51:07.963] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Synchronizing 1 groups with Crying_Prophet
+[24Mar2025 23:51:07.963] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Synchronizing 0 volume categories with Crying_Prophet
+[24Mar2025 23:51:07.963] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Sent secret to Crying_Prophet
+[24Mar2025 23:51:07.963] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Set state of 5113c246-f851-365d-ae5f-8beea591f8fd to disconnected: {disabled=false, disconnected=true, uuid=5113c246-f851-365d-ae5f-8beea591f8fd, name=Crying_Prophet, group=null}
+[24Mar2025 23:51:07.963] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player 7bf25c75-cb42-3eb9-bc7e-9109e9e259b5 timed out
+[24Mar2025 23:51:07.963] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Reconnecting player Dylan_HHH
+[24Mar2025 23:51:07.964] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Sending initial states to Dylan_HHH
+[24Mar2025 23:51:07.964] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Synchronizing 1 groups with Dylan_HHH
+[24Mar2025 23:51:07.964] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Synchronizing 0 volume categories with Dylan_HHH
+[24Mar2025 23:51:07.964] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Sent secret to Dylan_HHH
+[24Mar2025 23:51:07.964] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Set state of 7bf25c75-cb42-3eb9-bc7e-9109e9e259b5 to disconnected: {disabled=false, disconnected=true, uuid=7bf25c75-cb42-3eb9-bc7e-9109e9e259b5, name=Dylan_HHH, group=2ffd101c-dd4b-4851-8f3d-3ece2ff94fe2}
+[24Mar2025 23:51:08.049] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 7bf25c75-cb42-3eb9-bc7e-9109e9e259b5
+[24Mar2025 23:51:08.049] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 5113c246-f851-365d-ae5f-8beea591f8fd
+[24Mar2025 23:51:38.062] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 5113c246-f851-365d-ae5f-8beea591f8fd
+[24Mar2025 23:51:38.062] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Set state of Crying_Prophet to connected: {disabled=false, disconnected=false, uuid=5113c246-f851-365d-ae5f-8beea591f8fd, name=Crying_Prophet, group=null}
+[24Mar2025 23:51:38.062] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player Crying_Prophet (5113c246-f851-365d-ae5f-8beea591f8fd) successfully connected to voice chat
+[24Mar2025 23:51:38.065] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 7bf25c75-cb42-3eb9-bc7e-9109e9e259b5
+[24Mar2025 23:51:38.066] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Set state of Dylan_HHH to connected: {disabled=false, disconnected=false, uuid=7bf25c75-cb42-3eb9-bc7e-9109e9e259b5, name=Dylan_HHH, group=2ffd101c-dd4b-4851-8f3d-3ece2ff94fe2}
+[24Mar2025 23:51:38.066] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player Dylan_HHH (7bf25c75-cb42-3eb9-bc7e-9109e9e259b5) successfully connected to voice chat
+[24Mar2025 23:51:38.136] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of Crying_Prophet: {disabled=false, disconnected=false, uuid=5113c246-f851-365d-ae5f-8beea591f8fd, name=Crying_Prophet, group=null}
+[24Mar2025 23:51:38.143] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of Dylan_HHH: {disabled=false, disconnected=false, uuid=7bf25c75-cb42-3eb9-bc7e-9109e9e259b5, name=Dylan_HHH, group=2ffd101c-dd4b-4851-8f3d-3ece2ff94fe2}
+[24Mar2025 23:51:56.200] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player 5113c246-f851-365d-ae5f-8beea591f8fd timed out
+[24Mar2025 23:51:56.201] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Reconnecting player Crying_Prophet
+[24Mar2025 23:51:56.201] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Sending initial states to Crying_Prophet
+[24Mar2025 23:51:56.201] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Synchronizing 1 groups with Crying_Prophet
+[24Mar2025 23:51:56.201] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Synchronizing 0 volume categories with Crying_Prophet
+[24Mar2025 23:51:56.201] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Sent secret to Crying_Prophet
+[24Mar2025 23:51:56.202] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Set state of 5113c246-f851-365d-ae5f-8beea591f8fd to disconnected: {disabled=false, disconnected=true, uuid=5113c246-f851-365d-ae5f-8beea591f8fd, name=Crying_Prophet, group=null}
+[24Mar2025 23:51:56.202] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player 7bf25c75-cb42-3eb9-bc7e-9109e9e259b5 timed out
+[24Mar2025 23:51:56.202] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Reconnecting player Dylan_HHH
+[24Mar2025 23:51:56.202] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Sending initial states to Dylan_HHH
+[24Mar2025 23:51:56.202] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Synchronizing 1 groups with Dylan_HHH
+[24Mar2025 23:51:56.202] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Synchronizing 0 volume categories with Dylan_HHH
+[24Mar2025 23:51:56.202] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Sent secret to Dylan_HHH
+[24Mar2025 23:51:56.203] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Set state of 7bf25c75-cb42-3eb9-bc7e-9109e9e259b5 to disconnected: {disabled=false, disconnected=true, uuid=7bf25c75-cb42-3eb9-bc7e-9109e9e259b5, name=Dylan_HHH, group=2ffd101c-dd4b-4851-8f3d-3ece2ff94fe2}
+[24Mar2025 23:51:56.203] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Failed to decrypt packet from /127.0.0.1:54608
+[24Mar2025 23:51:56.212] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Failed to decrypt packet from /127.0.0.1:54608
+[24Mar2025 23:51:56.229] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Failed to decrypt packet from /127.0.0.1:54608
+[24Mar2025 23:51:56.250] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Failed to decrypt packet from /127.0.0.1:54608
+[24Mar2025 23:51:56.272] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Failed to decrypt packet from /127.0.0.1:54608
+[24Mar2025 23:51:56.290] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Failed to decrypt packet from /127.0.0.1:54608
+[24Mar2025 23:51:56.290] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of Dylan_HHH: {disabled=false, disconnected=true, uuid=7bf25c75-cb42-3eb9-bc7e-9109e9e259b5, name=Dylan_HHH, group=2ffd101c-dd4b-4851-8f3d-3ece2ff94fe2}
+[24Mar2025 23:51:56.299] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Failed to decrypt packet from /127.0.0.1:54608
+[24Mar2025 23:51:56.302] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 7bf25c75-cb42-3eb9-bc7e-9109e9e259b5
+[24Mar2025 23:51:56.332] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 5113c246-f851-365d-ae5f-8beea591f8fd
+[24Mar2025 23:51:56.353] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of Crying_Prophet: {disabled=false, disconnected=true, uuid=5113c246-f851-365d-ae5f-8beea591f8fd, name=Crying_Prophet, group=null}
+[24Mar2025 23:51:59.302] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 7bf25c75-cb42-3eb9-bc7e-9109e9e259b5
+[24Mar2025 23:51:59.302] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Set state of Dylan_HHH to connected: {disabled=false, disconnected=false, uuid=7bf25c75-cb42-3eb9-bc7e-9109e9e259b5, name=Dylan_HHH, group=2ffd101c-dd4b-4851-8f3d-3ece2ff94fe2}
+[24Mar2025 23:51:59.303] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player Dylan_HHH (7bf25c75-cb42-3eb9-bc7e-9109e9e259b5) successfully connected to voice chat
+[24Mar2025 23:51:59.333] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 5113c246-f851-365d-ae5f-8beea591f8fd
+[24Mar2025 23:51:59.334] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Set state of Crying_Prophet to connected: {disabled=false, disconnected=false, uuid=5113c246-f851-365d-ae5f-8beea591f8fd, name=Crying_Prophet, group=null}
+[24Mar2025 23:51:59.334] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player Crying_Prophet (5113c246-f851-365d-ae5f-8beea591f8fd) successfully connected to voice chat
+[24Mar2025 23:51:59.387] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of Dylan_HHH: {disabled=false, disconnected=false, uuid=7bf25c75-cb42-3eb9-bc7e-9109e9e259b5, name=Dylan_HHH, group=2ffd101c-dd4b-4851-8f3d-3ece2ff94fe2}
+[24Mar2025 23:51:59.397] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of Crying_Prophet: {disabled=false, disconnected=false, uuid=5113c246-f851-365d-ae5f-8beea591f8fd, name=Crying_Prophet, group=null}
+[24Mar2025 23:52:12.279] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player 5113c246-f851-365d-ae5f-8beea591f8fd timed out
+[24Mar2025 23:52:12.279] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Reconnecting player Crying_Prophet
+[24Mar2025 23:52:12.279] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Sending initial states to Crying_Prophet
+[24Mar2025 23:52:12.279] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Synchronizing 1 groups with Crying_Prophet
+[24Mar2025 23:52:12.280] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Synchronizing 0 volume categories with Crying_Prophet
+[24Mar2025 23:52:12.280] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Sent secret to Crying_Prophet
+[24Mar2025 23:52:12.281] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Set state of 5113c246-f851-365d-ae5f-8beea591f8fd to disconnected: {disabled=false, disconnected=true, uuid=5113c246-f851-365d-ae5f-8beea591f8fd, name=Crying_Prophet, group=null}
+[24Mar2025 23:52:12.281] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player 7bf25c75-cb42-3eb9-bc7e-9109e9e259b5 timed out
+[24Mar2025 23:52:12.281] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Reconnecting player Dylan_HHH
+[24Mar2025 23:52:12.281] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Sending initial states to Dylan_HHH
+[24Mar2025 23:52:12.281] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Synchronizing 1 groups with Dylan_HHH
+[24Mar2025 23:52:12.281] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Synchronizing 0 volume categories with Dylan_HHH
+[24Mar2025 23:52:12.282] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Sent secret to Dylan_HHH
+[24Mar2025 23:52:12.283] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Set state of 7bf25c75-cb42-3eb9-bc7e-9109e9e259b5 to disconnected: {disabled=false, disconnected=true, uuid=7bf25c75-cb42-3eb9-bc7e-9109e9e259b5, name=Dylan_HHH, group=2ffd101c-dd4b-4851-8f3d-3ece2ff94fe2}
+[24Mar2025 23:52:12.292] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Failed to decrypt packet from /127.0.0.1:40362
+[24Mar2025 23:52:12.308] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Failed to decrypt packet from /127.0.0.1:40362
+[24Mar2025 23:52:12.331] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Failed to decrypt packet from /127.0.0.1:40362
+[24Mar2025 23:52:12.353] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Failed to decrypt packet from /127.0.0.1:40362
+[24Mar2025 23:52:12.369] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Failed to decrypt packet from /127.0.0.1:40362
+[24Mar2025 23:52:12.385] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of Dylan_HHH: {disabled=false, disconnected=true, uuid=7bf25c75-cb42-3eb9-bc7e-9109e9e259b5, name=Dylan_HHH, group=2ffd101c-dd4b-4851-8f3d-3ece2ff94fe2}
+[24Mar2025 23:52:12.385] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of Crying_Prophet: {disabled=false, disconnected=true, uuid=5113c246-f851-365d-ae5f-8beea591f8fd, name=Crying_Prophet, group=null}
+[24Mar2025 23:52:12.389] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Failed to decrypt packet from /127.0.0.1:40362
+[24Mar2025 23:52:12.399] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 5113c246-f851-365d-ae5f-8beea591f8fd
+[24Mar2025 23:52:12.506] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 7bf25c75-cb42-3eb9-bc7e-9109e9e259b5

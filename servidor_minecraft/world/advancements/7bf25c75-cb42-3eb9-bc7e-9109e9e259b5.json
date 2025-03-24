@@ -2963,6 +2963,12 @@
     },
     "done": true
   },
+  "minecraft:adventure/sleep_in_bed": {
+    "criteria": {
+      "slept_in_bed": "2025-03-24 23:38:31 +0000"
+    },
+    "done": true
+  },
   "spartanweaponry:recipes/spartanweaponry.basic/glaive_stone": {
     "criteria": {
       "has_the_recipe": "2025-03-24 14:47:16 +0000"
@@ -4173,6 +4179,12 @@
   "minecraft:recipes/building_blocks/cut_sandstone_slab_from_cut_sandstone_stonecutting": {
     "criteria": {
       "has_the_recipe": "2025-03-24 14:47:16 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:iceandfire/myrmex_resin": {
+    "criteria": {
+      "desert": "2025-03-24 23:39:08 +0000"
     },
     "done": true
   },
@@ -10627,6 +10639,12 @@
     },
     "done": true
   },
+  "supplementaries:recipes/hanging_sign_birch": {
+    "criteria": {
+      "has_plank": "2025-03-24 23:47:07 +0000"
+    },
+    "done": true
+  },
   "create:recipes/create.base/crafting/materials/andesite_casing": {
     "criteria": {
       "has_the_recipe": "2025-03-24 22:24:06 +0000"
@@ -10708,6 +10726,12 @@
   "tconstruct:recipes/tconstruct/smeltery/smeltery/scorched/chute": {
     "criteria": {
       "has_the_recipe": "2025-03-24 14:47:15 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:iceandfire/kill_myrmex": {
+    "criteria": {
+      "desert": "2025-03-24 23:39:08 +0000"
     },
     "done": true
   },
@@ -12601,6 +12625,12 @@
     },
     "done": true
   },
+  "supplementaries:recipes/sign_post_birch": {
+    "criteria": {
+      "has_plank": "2025-03-24 23:47:07 +0000"
+    },
+    "done": true
+  },
   "create:recipes/create.palettes/dark_scoria_cobblestone_stairs_from_dark_scoria_cobblestone_stonecutting": {
     "criteria": {
       "has_the_recipe": "2025-03-24 22:24:07 +0000"
@@ -13525,6 +13555,12 @@
     },
     "done": true
   },
+  "alexsmobs:alexsmobs/seagull_steal": {
+    "criteria": {
+      "ex": "2025-03-24 23:45:41 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/travelersbackpack/fox_smithing_gold": {
     "criteria": {
       "has_the_recipe": "2025-03-24 14:47:17 +0000"
@@ -13864,6 +13900,12 @@
   "biomesoplenty:recipes/redstone/magic_button": {
     "criteria": {
       "has_the_recipe": "2025-03-24 14:47:17 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/green_dye": {
+    "criteria": {
+      "has_cactus": "2025-03-24 23:38:28 +0000"
     },
     "done": true
   },
@@ -16682,6 +16724,12 @@
     },
     "done": true
   },
+  "dungeons_arise:find_illager_campsite": {
+    "criteria": {
+      "location0": "2025-03-24 23:46:25 +0000"
+    },
+    "done": true
+  },
   "spartanweaponry:recipes/spartanweaponry.basic/parrying_dagger_iron": {
     "criteria": {
       "has_the_recipe": "2025-03-24 14:47:16 +0000"
@@ -17666,6 +17714,12 @@
     },
     "done": true
   },
+  "betterdungeons:all_dungeons": {
+    "criteria": {
+      "in_better_spider_dungeon": "2025-03-24 23:45:36 +0000"
+    },
+    "done": false
+  },
   "minecraft:recipes/decorations/blue_carpet": {
     "criteria": {
       "has_the_recipe": "2025-03-24 14:47:15 +0000"
@@ -18597,6 +18651,7 @@
       "minecraft:desert": "2025-03-24 22:32:44 +0000",
       "minecraft:savanna_plateau": "2025-03-24 22:53:50 +0000",
       "minecraft:beach": "2025-03-24 22:33:29 +0000",
+      "minecraft:dark_forest": "2025-03-24 23:45:38 +0000",
       "minecraft:river": "2025-03-24 23:02:13 +0000",
       "minecraft:savanna": "2025-03-24 22:34:47 +0000",
       "minecraft:plains": "2025-03-24 22:51:30 +0000"
@@ -19483,6 +19538,12 @@
   "minecraft:recipes/decorations/anvil": {
     "criteria": {
       "has_the_recipe": "2025-03-24 14:47:17 +0000"
+    },
+    "done": true
+  },
+  "betterdungeons:spider_dungeon": {
+    "criteria": {
+      "in_better_spider_dungeon": "2025-03-24 23:45:36 +0000"
     },
     "done": true
   },
