@@ -377,6 +377,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/blue_wool": {
+    "criteria": {
+      "has_white_wool": "2025-03-24 23:03:52 +0000"
+    },
+    "done": true
+  },
   "spartanweaponry:recipes/spartanweaponry.modded/pike_silver": {
     "criteria": {
       "has_the_recipe": "2025-03-24 22:27:30 +0000"
@@ -815,6 +821,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/light_blue_wool": {
+    "criteria": {
+      "has_white_wool": "2025-03-24 23:03:52 +0000"
+    },
+    "done": true
+  },
   "create:recipes/create.palettes/fancy_andesite_bricks_wall": {
     "criteria": {
       "has_the_recipe": "2025-03-24 22:27:32 +0000"
@@ -1196,6 +1208,12 @@
   "create:recipes/create.base/crafting/curiosities/minecart_coupling": {
     "criteria": {
       "has_the_recipe": "2025-03-24 22:27:34 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/red_wool": {
+    "criteria": {
+      "has_white_wool": "2025-03-24 23:03:52 +0000"
     },
     "done": true
   },
@@ -2405,6 +2423,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/pink_wool": {
+    "criteria": {
+      "has_white_wool": "2025-03-24 23:03:52 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/securitycraft/reinforced_blue_glazed_terracotta": {
     "criteria": {
       "has_the_recipe": "2025-03-24 22:27:34 +0000"
@@ -2969,6 +2993,12 @@
     },
     "done": true
   },
+  "minecraft:adventure/sleep_in_bed": {
+    "criteria": {
+      "slept_in_bed": "2025-03-24 23:05:01 +0000"
+    },
+    "done": true
+  },
   "spartanweaponry:recipes/spartanweaponry.basic/glaive_stone": {
     "criteria": {
       "has_the_recipe": "2025-03-24 22:27:31 +0000"
@@ -3520,6 +3550,12 @@
   "tconstruct:recipes/tconstruct/general/common/glass/magenta_clear_stained_glass_pane": {
     "criteria": {
       "has_the_recipe": "2025-03-24 22:27:31 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/yellow_wool": {
+    "criteria": {
+      "has_white_wool": "2025-03-24 23:03:52 +0000"
     },
     "done": true
   },
@@ -4532,6 +4568,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/brown_wool": {
+    "criteria": {
+      "has_white_wool": "2025-03-24 23:03:52 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/securitycraft/reinforced_gray_carpet": {
     "criteria": {
       "has_the_recipe": "2025-03-24 22:27:33 +0000"
@@ -4943,6 +4985,12 @@
   "spartanweaponry:recipes/spartanweaponry.basic/battleaxe_netherite_smithing": {
     "criteria": {
       "has_the_recipe": "2025-03-24 22:27:32 +0000"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/breed_an_animal": {
+    "criteria": {
+      "bred": "2025-03-24 23:08:17 +0000"
     },
     "done": true
   },
@@ -5387,6 +5435,12 @@
   "spartanweaponry:recipes/spartanweaponry.basic/saber_iron": {
     "criteria": {
       "has_the_recipe": "2025-03-24 22:27:32 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:longsword": {
+    "criteria": {
+      "has_longsword": "2025-03-24 23:05:37 +0000"
     },
     "done": true
   },
@@ -6759,6 +6813,12 @@
       "has_the_recipe": "2025-03-24 22:27:34 +0000"
     },
     "done": true
+  },
+  "minecraft:husbandry/bred_all_animals": {
+    "criteria": {
+      "minecraft:sheep": "2025-03-24 23:08:17 +0000"
+    },
+    "done": false
   },
   "farmersdelight:recipes/farmersdelight/smoked_ham": {
     "criteria": {
@@ -8248,6 +8308,12 @@
   "minecraft:recipes/travelersbackpack/cow_smithing_netherite": {
     "criteria": {
       "has_the_recipe": "2025-03-24 22:27:30 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/black_wool": {
+    "criteria": {
+      "has_white_wool": "2025-03-24 23:03:52 +0000"
     },
     "done": true
   },
@@ -11368,6 +11434,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/light_gray_wool": {
+    "criteria": {
+      "has_white_wool": "2025-03-24 23:03:52 +0000"
+    },
+    "done": true
+  },
   "spartanweaponry:recipes/spartanweaponry.modded/halberd_copper": {
     "criteria": {
       "has_the_recipe": "2025-03-24 22:27:30 +0000"
@@ -11722,6 +11794,12 @@
     },
     "done": true
   },
+  "alexsmobs:alexsmobs/rattlesnake": {
+    "criteria": {
+      "killed": "2025-03-24 23:02:16 +0000"
+    },
+    "done": true
+  },
   "create:recipes/create.base/crafting/materials/brass_casing": {
     "criteria": {
       "has_the_recipe": "2025-03-24 22:27:29 +0000"
@@ -11805,6 +11883,12 @@
       "has_the_recipe": "2025-03-24 22:27:33 +0000"
     },
     "done": true
+  },
+  "spartanweaponry:collect_heads": {
+    "criteria": {
+      "skeleton_skull": "2025-03-24 22:58:39 +0000"
+    },
+    "done": false
   },
   "minecraft:recipes/decorations/orange_bed_from_white_bed": {
     "criteria": {
@@ -13768,6 +13852,12 @@
     },
     "done": true
   },
+  "supplementaries:recipes/bellows": {
+    "criteria": {
+      "has_item": "2025-03-24 23:01:29 +0000"
+    },
+    "done": true
+  },
   "tconstruct:recipes/tconstruct/general/common/materials/tinkers_bronze_ingot_from_nuggets": {
     "criteria": {
       "has_the_recipe": "2025-03-24 22:27:32 +0000"
@@ -14059,6 +14149,12 @@
   "biomesoplenty:recipes/misc/pink_dye_from_pink_hibiscus": {
     "criteria": {
       "has_the_recipe": "2025-03-24 22:27:32 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/gray_wool": {
+    "criteria": {
+      "has_white_wool": "2025-03-24 23:03:52 +0000"
     },
     "done": true
   },
@@ -15280,6 +15376,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/magenta_wool": {
+    "criteria": {
+      "has_white_wool": "2025-03-24 23:03:52 +0000"
+    },
+    "done": true
+  },
   "create:recipes/create.palettes/polished_limestone_slab_from_polished_limestone_stonecutting": {
     "criteria": {
       "has_the_recipe": "2025-03-24 22:27:33 +0000"
@@ -15421,6 +15523,12 @@
   "minecraft:recipes/combat/shield": {
     "criteria": {
       "has_the_recipe": "2025-03-24 22:27:33 +0000"
+    },
+    "done": true
+  },
+  "dungeons_arise:find_small_prairie_house": {
+    "criteria": {
+      "location0": "2025-03-24 23:04:49 +0000"
     },
     "done": true
   },
@@ -16469,6 +16577,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/purple_wool": {
+    "criteria": {
+      "has_white_wool": "2025-03-24 23:03:52 +0000"
+    },
+    "done": true
+  },
   "comforts:hammock_black": {
     "criteria": {
       "has_the_recipe": "2025-03-24 22:27:31 +0000"
@@ -16562,6 +16676,12 @@
   "minecraft:recipes/decorations/purple_carpet_from_white_carpet": {
     "criteria": {
       "has_the_recipe": "2025-03-24 22:27:32 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cyan_wool": {
+    "criteria": {
+      "has_white_wool": "2025-03-24 23:03:52 +0000"
     },
     "done": true
   },
@@ -16766,6 +16886,12 @@
   "create:recipes/create.palettes/gabbro_bricks_wall_from_gabbro_bricks_stonecutting": {
     "criteria": {
       "has_the_recipe": "2025-03-24 22:27:32 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/orange_wool": {
+    "criteria": {
+      "has_white_wool": "2025-03-24 23:03:52 +0000"
     },
     "done": true
   },
@@ -18691,11 +18817,15 @@
   },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
+      "minecraft:cold_ocean": "2025-03-24 23:00:17 +0000",
+      "minecraft:forest": "2025-03-24 23:09:05 +0000",
       "minecraft:desert_hills": "2025-03-24 22:34:12 +0000",
       "minecraft:desert": "2025-03-24 22:32:29 +0000",
       "minecraft:savanna_plateau": "2025-03-24 22:37:49 +0000",
       "minecraft:beach": "2025-03-24 22:33:19 +0000",
-      "minecraft:savanna": "2025-03-24 22:34:58 +0000"
+      "minecraft:river": "2025-03-24 23:01:10 +0000",
+      "minecraft:savanna": "2025-03-24 22:34:58 +0000",
+      "minecraft:plains": "2025-03-24 23:02:21 +0000"
     },
     "done": false
   },
@@ -18780,6 +18910,12 @@
   "spartanweaponry:recipes/spartanweaponry.basic/hammer_wood": {
     "criteria": {
       "has_the_recipe": "2025-03-24 22:27:33 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:iceandfire/kill_ghost": {
+    "criteria": {
+      "killed_fire_dragon": "2025-03-24 22:59:54 +0000"
     },
     "done": true
   },
@@ -19181,8 +19317,11 @@
   },
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
+      "cooked_cod": "2025-03-24 23:05:22 +0000",
+      "pumpkin_pie": "2025-03-24 23:00:55 +0000",
       "bread": "2025-03-24 22:42:56 +0000",
-      "cookie": "2025-03-24 22:36:43 +0000"
+      "cookie": "2025-03-24 22:36:43 +0000",
+      "beetroot": "2025-03-24 23:00:47 +0000"
     },
     "done": false
   },
@@ -19654,6 +19793,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/lime_wool": {
+    "criteria": {
+      "has_white_wool": "2025-03-24 23:03:52 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/mossy_stone_brick_wall_from_mossy_stone_brick_stonecutting": {
     "criteria": {
       "has_the_recipe": "2025-03-24 22:27:34 +0000"
@@ -19693,6 +19838,12 @@
   "securitycraft:recipes/securitycraft/bouncing_betty": {
     "criteria": {
       "has_the_recipe": "2025-03-24 22:27:35 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/green_wool": {
+    "criteria": {
+      "has_white_wool": "2025-03-24 23:03:52 +0000"
     },
     "done": true
   },
@@ -20053,6 +20204,12 @@
   "securitycraft:recipes/securitycraft/reinforced_yellow_terracotta": {
     "criteria": {
       "has_the_recipe": "2025-03-24 22:27:32 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:boomerang": {
+    "criteria": {
+      "has_boomerang": "2025-03-24 23:05:37 +0000"
     },
     "done": true
   },

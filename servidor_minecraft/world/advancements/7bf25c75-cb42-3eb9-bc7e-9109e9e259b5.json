@@ -18568,10 +18568,12 @@
   },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
+      "minecraft:cold_ocean": "2025-03-24 23:02:14 +0000",
       "minecraft:desert_hills": "2025-03-24 22:34:22 +0000",
       "minecraft:desert": "2025-03-24 22:32:44 +0000",
       "minecraft:savanna_plateau": "2025-03-24 22:53:50 +0000",
       "minecraft:beach": "2025-03-24 22:33:29 +0000",
+      "minecraft:river": "2025-03-24 23:02:13 +0000",
       "minecraft:savanna": "2025-03-24 22:34:47 +0000",
       "minecraft:plains": "2025-03-24 22:51:30 +0000"
     },
