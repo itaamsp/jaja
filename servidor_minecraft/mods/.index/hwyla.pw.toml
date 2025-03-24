@@ -1,0 +1,13 @@
+filename = 'Hwyla-forge-1.10.11-B78_1.16.2.jar'
+name = 'Hwyla'
+side = 'both'
+
+[download]
+hash = '79123ef4c447affe57e77ee241d78c494bd8948d'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 3033593
+project-id = 253449

@@ -1,0 +1,13 @@
+filename = 'alexsmobs-1.12.1.jar'
+name = "Alex's Mobs"
+side = 'both'
+
+[download]
+hash = '87411ae04536cc1a9cb731df12462ad58b39de51'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 3467280
+project-id = 426558

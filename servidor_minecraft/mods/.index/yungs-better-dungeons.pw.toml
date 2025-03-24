@@ -1,0 +1,13 @@
+filename = 'BetterDungeons-1.16.4-1.2.1.jar'
+name = "YUNG's Better Dungeons (Forge)"
+side = 'both'
+
+[download]
+hash = 'b20537329907a708f5210f787adf36ff2e7fb753'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 3476138
+project-id = 510089
