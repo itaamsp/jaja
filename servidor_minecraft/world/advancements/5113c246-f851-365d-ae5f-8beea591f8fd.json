@@ -269,6 +269,12 @@
     },
     "done": true
   },
+  "supplementaries:recipes/hanging_sign_dark_oak": {
+    "criteria": {
+      "has_plank": "2025-03-24 22:49:17 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/securitycraft/reinforced_white_stained_glass_pane_from_glass": {
     "criteria": {
       "has_the_recipe": "2025-03-24 22:27:33 +0000"
@@ -3097,6 +3103,7 @@
   },
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
+      "minecraft:pillager": "2025-03-24 22:50:07 +0000",
       "minecraft:vindicator": "2025-03-24 22:48:02 +0000",
       "minecraft:husk": "2025-03-24 22:33:06 +0000"
     },
@@ -5544,6 +5551,13 @@
       "has_the_recipe": "2025-03-24 22:27:31 +0000"
     },
     "done": true
+  },
+  "tconstruct:world/slime_collector": {
+    "criteria": {
+      "sky": "2025-03-24 22:54:46 +0000",
+      "earth": "2025-03-24 22:54:45 +0000"
+    },
+    "done": false
   },
   "spartanweaponry:recipes/spartanweaponry.modded/longbow_copper": {
     "criteria": {
@@ -10790,6 +10804,12 @@
     },
     "done": true
   },
+  "supplementaries:recipes/pulley_block": {
+    "criteria": {
+      "has_plank": "2025-03-24 22:48:33 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/securitycraft/reinforced_light_gray_stained_glass_pane_from_glass": {
     "criteria": {
       "has_the_recipe": "2025-03-24 22:27:33 +0000"
@@ -10817,6 +10837,12 @@
   "cgm:recipes/cgm/mini_gun": {
     "criteria": {
       "has_the_recipe": "2025-03-24 22:27:30 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/sign_post_dark_oak": {
+    "criteria": {
+      "has_plank": "2025-03-24 22:49:17 +0000"
     },
     "done": true
   },
@@ -11045,6 +11071,12 @@
   "spartanweaponry:recipes/spartanweaponry.basic/boomerang_gold": {
     "criteria": {
       "has_the_recipe": "2025-03-24 22:27:30 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/iron_tools": {
+    "criteria": {
+      "iron_pickaxe": "2025-03-24 22:48:58 +0000"
     },
     "done": true
   },
@@ -11972,6 +12004,12 @@
     },
     "done": true
   },
+  "tconstruct:world/sky_island": {
+    "criteria": {
+      "found_island": "2025-03-24 22:54:39 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/baked_potato": {
     "criteria": {
       "has_the_recipe": "2025-03-24 22:27:32 +0000"
@@ -12635,6 +12673,12 @@
   "farmersrespite:recipes/farmersrespite/black_cod": {
     "criteria": {
       "has_the_recipe": "2025-03-24 22:27:33 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/smelt_iron": {
+    "criteria": {
+      "iron": "2025-03-24 22:48:33 +0000"
     },
     "done": true
   },
