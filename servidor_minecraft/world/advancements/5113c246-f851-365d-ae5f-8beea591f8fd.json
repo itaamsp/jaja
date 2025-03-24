@@ -443,6 +443,12 @@
     },
     "done": true
   },
+  "farmersdelight:main/get_rich_soil": {
+    "criteria": {
+      "get_rich_soil": "2025-03-24 23:34:49 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/smooth_quartz_slab": {
     "criteria": {
       "has_the_recipe": "2025-03-24 22:27:31 +0000"
@@ -2450,6 +2456,12 @@
   "securitycraft:recipes/securitycraft/reinforced_blue_glazed_terracotta": {
     "criteria": {
       "has_the_recipe": "2025-03-24 22:27:34 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:main/place_organic_compost": {
+    "criteria": {
+      "place_organic_compost": "2025-03-24 23:34:46 +0000"
     },
     "done": true
   },
@@ -10858,6 +10870,12 @@
     },
     "done": true
   },
+  "iceandfire:iceandfire/kill_myrmex": {
+    "criteria": {
+      "desert": "2025-03-24 23:28:47 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/travelersbackpack/cake_smithing_gold": {
     "criteria": {
       "has_the_recipe": "2025-03-24 22:27:34 +0000"
@@ -14065,6 +14083,12 @@
   "biomesoplenty:recipes/redstone/magic_button": {
     "criteria": {
       "has_the_recipe": "2025-03-24 22:27:33 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/green_dye": {
+    "criteria": {
+      "has_cactus": "2025-03-24 23:28:57 +0000"
     },
     "done": true
   },
