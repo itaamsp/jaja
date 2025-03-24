@@ -4016,3 +4016,8 @@ java.lang.NullPointerException: null
 [24Mar2025 03:12:03.102] [Worker-Main-2/WARN] [ModernFix/]: The namespace farmersdelight contains an outdated structure file, which can cause worldgen lag. Please view debug.log for the full filename, determine which mod provides the structure, and report to the mod/datapack author, including the debug log.
 [24Mar2025 03:13:13.072] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Crying_Prophet has made the advancement [Stone Age]
 [24Mar2025 03:13:36.716] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Crying_Prophet has made the advancement [Getting an Upgrade]
+[24Mar2025 03:18:42.435] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Crying_Prophet has made the advancement [Sweet Dreams]
+[24Mar2025 03:20:14.825] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: Crying_Prophet lost connection: Timed out
+[24Mar2025 03:20:14.825] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Crying_Prophet left the game
+[24Mar2025 03:20:14.830] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Crying_Prophet
+[24Mar2025 03:20:14.920] [Server thread/WARN] [net.minecraft.network.NetworkManager/]: handleDisconnection() called twice

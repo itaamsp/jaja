@@ -11866,3 +11866,44 @@ java.lang.NullPointerException: null
 [24Mar2025 03:14:27.857] [Worker-Main-2/DEBUG] [betterdungeons/]: Small Dungeon at 7 34 -591
 [24Mar2025 03:15:35.347] [Worker-Main-2/DEBUG] [betterdungeons/]: Small Dungeon at -159 29 -601
 [24Mar2025 03:15:38.566] [Worker-Main-2/DEBUG] [betterdungeons/]: Small Dungeon at -463 14 -617
+[24Mar2025 03:16:25.930] [Worker-Main-2/DEBUG] [betterdungeons/]: Small Dungeon at 173 46 -271
+[24Mar2025 03:16:25.938] [Worker-Main-2/DEBUG] [betterdungeons/]: Small Dungeon at 183 17 -623
+[24Mar2025 03:16:27.488] [Worker-Main-2/DEBUG] [betterdungeons/]: Small Dungeon at 175 28 -105
+[24Mar2025 03:16:36.149] [Worker-Main-2/DEBUG] [betterdungeons/]: Zombie Dungeon at 199 49 -473
+[24Mar2025 03:16:36.150] [Worker-Main-2/DEBUG] [betterdungeons/]: Small Dungeon at 215 35 -433
+[24Mar2025 03:16:37.434] [Worker-Main-2/DEBUG] [betterdungeons/]: Small Dungeon at -153 23 -753
+[24Mar2025 03:16:37.464] [Worker-Main-2/DEBUG] [betterdungeons/]: Small Dungeon at -1 40 -751
+[24Mar2025 03:16:37.471] [Worker-Main-2/DEBUG] [betterdungeons/]: Small Dungeon at -297 34 -753
+[24Mar2025 03:16:37.634] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAtttack() method!
+[24Mar2025 03:16:38.033] [Worker-Main-2/DEBUG] [betterdungeons/]: Small Dungeon at 173 32 -751
+[24Mar2025 03:16:38.183] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAtttack() method!
+[24Mar2025 03:16:45.901] [Worker-Main-2/DEBUG] [ModernFix/]: Structure tetra:forged_4way_extractor is being run through DFU (hash 1c21379b519d031560f1333ce8881b0cd5b848b9c7c7eba5ccf06f2f48219488), this will cause launch time delays
+[24Mar2025 03:16:45.905] [Worker-Main-2/DEBUG] [ModernFix/]: Structure tetra:forged_shaft is being run through DFU (hash 7fa5481192e9427f358535641e89df13b8028c414afc24c989c7e45cf502f19c), this will cause launch time delays
+[24Mar2025 03:16:45.908] [Worker-Main-2/DEBUG] [ModernFix/]: Structure tetra:forged_intersection_wall is being run through DFU (hash 948e501750d49d4c020f09c0b2ab8ba63c5e29ce83e95948abe4c2bcfd97d710), this will cause launch time delays
+[24Mar2025 03:16:45.909] [Worker-Main-2/DEBUG] [ModernFix/]: Structure tetra:forged_intersection_hallway is being run through DFU (hash 0573c1f1e5337d01685e14d12091b2b0d94622d19fb054f257dedd481f98b924), this will cause launch time delays
+[24Mar2025 03:16:45.918] [Worker-Main-2/DEBUG] [ModernFix/]: Structure tetra:forged_extractor_platform_large is being run through DFU (hash cc5d4f415260eff4e88ad567564b15c99ee66d0fa59e87a24a8a83f2f62a3145), this will cause launch time delays
+[24Mar2025 03:16:45.947] [Worker-Main-2/DEBUG] [ModernFix/]: Structure tetra:forged_extractor_small_powered is being run through DFU (hash 8f5e1c6fe0cd3a77b93be042282e5fa00ce1e5610fa2cec9103f20283c658d1d), this will cause launch time delays
+[24Mar2025 03:16:48.785] [Worker-Main-2/DEBUG] [ModernFix/]: Structure tetra:forged_crate_1x1x1 is being run through DFU (hash 11894ed2fbcb6946776015229dcd3ff98345588377336ecb84ba4e93caf5f498), this will cause launch time delays
+[24Mar2025 03:17:43.733] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: Gathering id map for writing to world save world
+[24Mar2025 03:17:43.778] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: ID Map collection complete world
+[24Mar2025 03:17:56.742] [Worker-Main-2/DEBUG] [ModernFix/]: Structure tetra:forged_intersection_up_east is being run through DFU (hash 327945ea9270858e4b1acd0a84b21b6fa6107ad887bd3bd7174965e23164d6a8), this will cause launch time delays
+[24Mar2025 03:17:56.744] [Worker-Main-2/DEBUG] [ModernFix/]: Structure tetra:forged_intersection_wall_chest is being run through DFU (hash 2f8e070e99984d76764d60325002150d1e34cd8f364769253ff9e7b1f2a7a49b), this will cause launch time delays
+[24Mar2025 03:17:56.745] [Worker-Main-2/DEBUG] [ModernFix/]: Structure tetra:forged_vent is being run through DFU (hash 1c07a60c4447ef1d1791d8b89d0754dbc66f408c6bbd020d65107ca66a647a96), this will cause launch time delays
+[24Mar2025 03:17:57.134] [Worker-Main-2/DEBUG] [ModernFix/]: Structure tetra:forged_extractor_platform is being run through DFU (hash f20f3e6e9be55b0862841847fc45300a87735f9b19d3ea87f9683b1749d4be4f), this will cause launch time delays
+[24Mar2025 03:18:16.434] [Worker-Main-2/DEBUG] [ModernFix/]: Structure tetra:forged_transfer_unit is being run through DFU (hash ed194f0a4f78a3ddff7c0ae98e31519854ebc4da075fb8e2e79de58a9a2630cd), this will cause launch time delays
+[24Mar2025 03:18:16.439] [Worker-Main-2/DEBUG] [ModernFix/]: Structure tetra:forged_extractor_large_powered is being run through DFU (hash 31ef6d5b64a049b38a11cf72e3cd115ae5f7087a86d7bcfa5fb3d96a9b39d310), this will cause launch time delays
+[24Mar2025 03:18:18.249] [Worker-Main-2/DEBUG] [betterdungeons/]: Small Dungeon at -473 40 -793
+[24Mar2025 03:18:28.394] [Worker-Main-2/DEBUG] [betterdungeons/]: Small Dungeon at -425 21 -915
+[24Mar2025 03:18:28.394] [Worker-Main-2/DEBUG] [betterdungeons/]: Small Dungeon at -265 47 -915
+[24Mar2025 03:18:28.658] [Worker-Main-2/DEBUG] [ModernFix/]: Structure tetra:forged_intersection_1 is being run through DFU (hash f896527aa3aaf2e317c2d08d1c7c863d680abefbf906e9ea9cab80881174b312), this will cause launch time delays
+[24Mar2025 03:18:33.041] [Worker-Main-2/DEBUG] [betterdungeons/]: Small Dungeon at 183 17 -927
+[24Mar2025 03:18:33.348] [Worker-Main-2/DEBUG] [ModernFix/]: Structure tetra:forged_crate_2x1x2 is being run through DFU (hash 3772225afeeea7ab5a6a167147abbe3009c5d3fbbab433a864577f86a9c6375d), this will cause launch time delays
+[24Mar2025 03:18:37.105] [Worker-Main-2/DEBUG] [betterdungeons/]: Small Dungeon at -111 21 -937
+[24Mar2025 03:18:42.435] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Crying_Prophet has made the advancement [Sweet Dreams]
+[24Mar2025 03:20:14.825] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: Crying_Prophet lost connection: Timed out
+[24Mar2025 03:20:14.825] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Crying_Prophet left the game
+[24Mar2025 03:20:14.827] [Server thread/DEBUG] [voicechat/]: [voicechat] Removing state of Crying_Prophet
+[24Mar2025 03:20:14.830] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Crying_Prophet
+[24Mar2025 03:20:14.920] [Server thread/WARN] [net.minecraft.network.NetworkManager/]: handleDisconnection() called twice
+[24Mar2025 03:22:42.637] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: Gathering id map for writing to world save world
+[24Mar2025 03:22:42.666] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: ID Map collection complete world
