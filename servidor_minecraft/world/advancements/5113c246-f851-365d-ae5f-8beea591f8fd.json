@@ -923,6 +923,12 @@
     },
     "done": true
   },
+  "tetra:recipes/string": {
+    "criteria": {
+      "got_string": "2025-03-24 23:17:31 +0000"
+    },
+    "done": true
+  },
   "comforts:rope_and_nail": {
     "criteria": {
       "has_the_recipe": "2025-03-24 22:27:31 +0000"
@@ -2090,6 +2096,12 @@
   "tconstruct:recipes/tconstruct/general/common/glass/pink_clear_stained_glass": {
     "criteria": {
       "has_the_recipe": "2025-03-24 22:27:35 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:main/get_fd_seed": {
+    "criteria": {
+      "rice": "2025-03-24 23:15:50 +0000"
     },
     "done": true
   },
@@ -6175,6 +6187,12 @@
   "create:recipes/create.palettes/fancy_diorite_bricks_stairs_from_fancy_diorite_bricks_stonecutting": {
     "criteria": {
       "has_the_recipe": "2025-03-24 22:27:33 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/sign_post_oak": {
+    "criteria": {
+      "has_plank": "2025-03-24 23:13:48 +0000"
     },
     "done": true
   },
@@ -15556,6 +15574,12 @@
     },
     "done": true
   },
+  "supplementaries:recipes/candelabra_silver": {
+    "criteria": {
+      "has_plank": "2025-03-24 23:17:31 +0000"
+    },
+    "done": true
+  },
   "comforts:sleeping_bag_light_blue_from_white": {
     "criteria": {
       "has_the_recipe": "2025-03-24 22:27:33 +0000"
@@ -16766,6 +16790,12 @@
   "securitycraft:recipes/securitycraft/reinforced_polished_blackstone_slab_from_reinforced_polished_blackstone_stonecutting": {
     "criteria": {
       "has_the_recipe": "2025-03-24 22:27:32 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/hanging_sign_oak": {
+    "criteria": {
+      "has_plank": "2025-03-24 23:13:48 +0000"
     },
     "done": true
   },
