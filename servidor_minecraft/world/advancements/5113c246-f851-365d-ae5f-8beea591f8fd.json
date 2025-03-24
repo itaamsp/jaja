@@ -3097,6 +3097,7 @@
   },
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
+      "minecraft:vindicator": "2025-03-24 22:48:02 +0000",
       "minecraft:husk": "2025-03-24 22:33:06 +0000"
     },
     "done": false
@@ -5265,6 +5266,12 @@
   "biomesoplenty:recipes/decorations/umbran_fence": {
     "criteria": {
       "has_the_recipe": "2025-03-24 22:27:34 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/sign_post_spruce": {
+    "criteria": {
+      "has_plank": "2025-03-24 22:42:35 +0000"
     },
     "done": true
   },
@@ -10579,6 +10586,12 @@
     },
     "done": true
   },
+  "minecraft:story/obtain_armor": {
+    "criteria": {
+      "iron_helmet": "2025-03-24 22:48:09 +0000"
+    },
+    "done": true
+  },
   "biomesoplenty:recipes/building_blocks/chiseled_white_sandstone": {
     "criteria": {
       "has_the_recipe": "2025-03-24 22:27:34 +0000"
@@ -11278,6 +11291,12 @@
   "tconstruct:recipes/tconstruct/general/common/glass/black_clear_stained_glass": {
     "criteria": {
       "has_the_recipe": "2025-03-24 22:27:32 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/hanging_sign_acacia": {
+    "criteria": {
+      "has_plank": "2025-03-24 22:41:14 +0000"
     },
     "done": true
   },
@@ -15070,6 +15089,12 @@
   "minecraft:recipes/decorations/dark_oak_fence": {
     "criteria": {
       "has_the_recipe": "2025-03-24 22:27:32 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/sign_post_acacia": {
+    "criteria": {
+      "has_plank": "2025-03-24 22:41:14 +0000"
     },
     "done": true
   },
@@ -19112,6 +19137,7 @@
   },
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
+      "bread": "2025-03-24 22:42:56 +0000",
       "cookie": "2025-03-24 22:36:43 +0000"
     },
     "done": false
@@ -19233,6 +19259,12 @@
   "securitycraft:recipes/securitycraft/smoker_mine": {
     "criteria": {
       "has_the_recipe": "2025-03-24 22:27:34 +0000"
+    },
+    "done": true
+  },
+  "dungeons_arise:find_illager_windmill": {
+    "criteria": {
+      "location0": "2025-03-24 22:41:55 +0000"
     },
     "done": true
   },
@@ -19716,6 +19748,12 @@
     },
     "done": true
   },
+  "supplementaries:recipes/hanging_sign_spruce": {
+    "criteria": {
+      "has_plank": "2025-03-24 22:42:35 +0000"
+    },
+    "done": true
+  },
   "create:recipes/create.palettes/fancy_scoria_bricks_stairs": {
     "criteria": {
       "has_the_recipe": "2025-03-24 22:27:32 +0000"
@@ -19851,6 +19889,12 @@
   "create:recipes/create.palettes/fancy_granite_bricks_slab": {
     "criteria": {
       "has_the_recipe": "2025-03-24 22:27:34 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/root": {
+    "criteria": {
+      "crafting_table": "2025-03-24 22:41:16 +0000"
     },
     "done": true
   },
