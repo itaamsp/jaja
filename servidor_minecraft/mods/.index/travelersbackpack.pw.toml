@@ -1,0 +1,13 @@
+filename = 'TravelersBackpack-1.16.5-5.4.51.jar'
+name = "Traveler's Backpack"
+side = 'both'
+
+[download]
+hash = '19a389918490b7a54c4970db7d71380e53808ef803554c724757135a8f0e268157b471416f9cead7d6ffb9e173e71bb0fc019615151cb463a5e8c02bc0d0f7d9'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/rlloIFEV/versions/6NAEVL5U/TravelersBackpack-1.16.5-5.4.51.jar'
+
+[update.modrinth]
+mod-id = 'rlloIFEV'
+version = '6NAEVL5U'
