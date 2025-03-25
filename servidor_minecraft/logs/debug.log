@@ -22968,3 +22968,26 @@ java.lang.NullPointerException: null
 [25Mar2025 01:25:22.674] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Set state of Dylan_HHH to connected: {disabled=false, disconnected=false, uuid=7bf25c75-cb42-3eb9-bc7e-9109e9e259b5, name=Dylan_HHH, group=null}
 [25Mar2025 01:25:22.674] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player Dylan_HHH (7bf25c75-cb42-3eb9-bc7e-9109e9e259b5) successfully connected to voice chat
 [25Mar2025 01:25:22.751] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of Dylan_HHH: {disabled=false, disconnected=false, uuid=7bf25c75-cb42-3eb9-bc7e-9109e9e259b5, name=Dylan_HHH, group=null}
+[25Mar2025 01:25:55.702] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of Dylan_HHH: {disabled=false, disconnected=false, uuid=7bf25c75-cb42-3eb9-bc7e-9109e9e259b5, name=Dylan_HHH, group=null}
+[25Mar2025 01:25:56.650] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player 7bf25c75-cb42-3eb9-bc7e-9109e9e259b5 timed out
+[25Mar2025 01:25:56.650] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Reconnecting player Dylan_HHH
+[25Mar2025 01:25:56.650] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Sending initial states to Dylan_HHH
+[25Mar2025 01:25:56.650] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Synchronizing 0 groups with Dylan_HHH
+[25Mar2025 01:25:56.650] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Synchronizing 0 volume categories with Dylan_HHH
+[25Mar2025 01:25:56.650] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Sent secret to Dylan_HHH
+[25Mar2025 01:25:56.650] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Set state of 7bf25c75-cb42-3eb9-bc7e-9109e9e259b5 to disconnected: {disabled=false, disconnected=true, uuid=7bf25c75-cb42-3eb9-bc7e-9109e9e259b5, name=Dylan_HHH, group=null}
+[25Mar2025 01:25:56.754] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 7bf25c75-cb42-3eb9-bc7e-9109e9e259b5
+[25Mar2025 01:28:30.975] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Dylan_HHH has made the advancement [Undercover]
+[25Mar2025 01:28:36.402] [Worker-Main-71/DEBUG] [betterdungeons/]: Small Dungeon at -1089 13 319
+[25Mar2025 01:28:40.910] [Worker-Main-71/DEBUG] [betterdungeons/]: Small Dungeon at -1097 28 535
+[25Mar2025 01:28:40.913] [Worker-Main-71/DEBUG] [betterdungeons/]: Small Dungeon at -1105 48 215
+[25Mar2025 01:28:48.202] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: Gathering id map for writing to world save world
+[25Mar2025 01:28:48.222] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: ID Map collection complete world
+[25Mar2025 01:29:43.625] [Server thread/INFO] [morpheus/]: Crying_Prophet is now sleeping. 1/2 (50%)
+[25Mar2025 01:31:00.963] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Crying_Prophet has made the advancement [Undercover]
+[25Mar2025 01:32:00.327] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Crying_Prophet has completed the challenge [Usurper]
+[25Mar2025 01:33:47.457] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: Gathering id map for writing to world save world
+[25Mar2025 01:33:47.476] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: ID Map collection complete world
+[25Mar2025 01:34:13.519] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Dylan_HHH has made the advancement [Monster Hunter]
+[25Mar2025 01:34:16.329] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Dylan_HHH has made the advancement [Voluntary Exile]
+[25Mar2025 01:35:08.781] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Crying_Prophet was executed by Dylan_HHH

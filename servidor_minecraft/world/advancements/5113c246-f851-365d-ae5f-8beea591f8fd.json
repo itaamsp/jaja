@@ -12241,6 +12241,12 @@
     },
     "done": true
   },
+  "mowziesmobs:sneak_village": {
+    "criteria": {
+      "steal_crystal": "2025-03-25 01:31:00 +0000"
+    },
+    "done": true
+  },
   "biomesoplenty:recipes/redstone/jacaranda_button": {
     "criteria": {
       "has_the_recipe": "2025-03-24 22:27:31 +0000"
@@ -18419,6 +18425,12 @@
   "tconstruct:recipes/tconstruct/world/world/wood/skyroot/log_to_wood": {
     "criteria": {
       "has_the_recipe": "2025-03-24 22:27:33 +0000"
+    },
+    "done": true
+  },
+  "mowziesmobs:kill_barako": {
+    "criteria": {
+      "barako": "2025-03-25 01:32:00 +0000"
     },
     "done": true
   },

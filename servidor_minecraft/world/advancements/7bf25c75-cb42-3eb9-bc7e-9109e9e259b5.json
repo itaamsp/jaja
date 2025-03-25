@@ -12109,6 +12109,12 @@
     },
     "done": true
   },
+  "mowziesmobs:sneak_village": {
+    "criteria": {
+      "steal_crystal": "2025-03-25 01:28:30 +0000"
+    },
+    "done": true
+  },
   "biomesoplenty:recipes/redstone/jacaranda_button": {
     "criteria": {
       "has_the_recipe": "2025-03-24 14:47:16 +0000"
@@ -19262,6 +19268,7 @@
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
       "cooked_mutton": "2025-03-25 01:05:55 +0000",
+      "cooked_beef": "2025-03-25 01:24:21 +0000",
       "bread": "2025-03-24 23:33:53 +0000",
       "cookie": "2025-03-24 22:34:06 +0000"
     },
