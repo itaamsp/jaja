@@ -911,6 +911,12 @@
     },
     "done": true
   },
+  "tetra:recipes/string": {
+    "criteria": {
+      "got_string": "2025-03-25 00:14:28 +0000"
+    },
+    "done": true
+  },
   "comforts:rope_and_nail": {
     "criteria": {
       "has_the_recipe": "2025-03-24 14:47:18 +0000"
@@ -2072,6 +2078,12 @@
   "tconstruct:recipes/tconstruct/general/common/glass/pink_clear_stained_glass": {
     "criteria": {
       "has_the_recipe": "2025-03-24 14:47:18 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:main/get_fd_seed": {
+    "criteria": {
+      "rice": "2025-03-25 00:14:28 +0000"
     },
     "done": true
   },
@@ -11017,6 +11029,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/bookshelf": {
+    "criteria": {
+      "has_book": "2025-03-25 00:14:28 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/securitycraft/reinforced_warped_planks": {
     "criteria": {
       "has_the_recipe": "2025-03-24 14:47:14 +0000"
@@ -13762,6 +13780,12 @@
   "securitycraft:recipes/securitycraft/reinforced_oak_fence_gate": {
     "criteria": {
       "has_the_recipe": "2025-03-24 14:47:16 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/bellows": {
+    "criteria": {
+      "has_item": "2025-03-25 00:13:47 +0000"
     },
     "done": true
   },
@@ -19946,6 +19970,12 @@
   "create:recipes/create.palettes/fancy_granite_bricks_slab": {
     "criteria": {
       "has_the_recipe": "2025-03-24 22:24:08 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/root": {
+    "criteria": {
+      "crafting_table": "2025-03-25 00:13:52 +0000"
     },
     "done": true
   },

@@ -25,3 +25,7 @@
 [25Mar2025 00:10:57.028] [Server thread/INFO] [morpheus/]: Crying_Prophet is now sleeping. 1/2 (50%)
 [25Mar2025 00:13:33.124] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Dylan_HHH has made the advancement [Suit Up]
 [25Mar2025 00:13:40.294] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: Crying_Prophet moved too quickly! 6.248650425745694,-8.583968957741718,-1.2378477515638338
+[25Mar2025 00:14:28.069] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Dylan_HHH has made the advancement [Crops of the Wild]
+[25Mar2025 00:20:18.719] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Dylan_HHH was slain by Ghost
+[25Mar2025 00:22:37.579] [Server thread/INFO] [net.minecraft.entity.Entity/]: Villager VillagerEntity['Judy'/40520, l='ServerLevel[world]', x=-292.30, y=69.00, z=721.50] died, message: 'Judy was slain by Fallen Chaos Knight'
+[25Mar2025 00:22:40.824] [Server thread/INFO] [net.minecraft.entity.Entity/]: Villager VillagerEntity['Georgina'/40497, l='ServerLevel[world]', x=-295.74, y=70.25, z=715.70] died, message: 'Georgina was slain by Fallen Chaos Knight'
