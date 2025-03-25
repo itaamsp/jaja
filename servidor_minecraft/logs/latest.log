@@ -220,3 +220,11 @@
 [25Mar2025 01:34:13.519] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Dylan_HHH has made the advancement [Monster Hunter]
 [25Mar2025 01:34:16.329] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Dylan_HHH has made the advancement [Voluntary Exile]
 [25Mar2025 01:35:08.781] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Crying_Prophet was executed by Dylan_HHH
+[25Mar2025 01:37:14.428] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Dylan_HHH was decimated by Crying_Prophet
+[25Mar2025 01:40:48.630] [Server thread/INFO] [morpheus/]: Dylan_HHH is now sleeping. 1/2 (50%)
+[25Mar2025 01:41:43.428] [Server thread/WARN] [cgm/]: Crying_Prophet(5113c246-f851-365d-ae5f-8beea591f8fd) tried to fire before cooldown finished or server is lagging? Remaining milliseconds: 167
+[25Mar2025 01:41:44.250] [Worker-Main-71/WARN] [ModernFix/]: The namespace tetra contains an outdated structure file, which can cause worldgen lag. Please view debug.log for the full filename, determine which mod provides the structure, and report to the mod/datapack author, including the debug log.
+[25Mar2025 01:42:34.087] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Dylan_HHH has made the advancement [No Step on Snake]
+[25Mar2025 01:43:35.492] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: Dylan_HHH lost connection: Timed out
+[25Mar2025 01:43:35.492] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Dylan_HHH left the game
+[25Mar2025 01:43:35.493] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Dylan_HHH

@@ -3125,6 +3125,12 @@
     },
     "done": true
   },
+  "minecraft:adventure/kill_all_mobs": {
+    "criteria": {
+      "minecraft:pillager": "2025-03-25 01:34:13 +0000"
+    },
+    "done": false
+  },
   "tconstruct:recipes/tconstruct/world/common/slime/ender/slimeblock": {
     "criteria": {
       "has_the_recipe": "2025-03-24 14:47:16 +0000"
@@ -3182,6 +3188,12 @@
   "biomesoplenty:recipes/redstone/dead_pressure_plate": {
     "criteria": {
       "has_the_recipe": "2025-03-24 14:47:14 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/voluntary_exile": {
+    "criteria": {
+      "voluntary_exile": "2025-03-25 01:34:16 +0000"
     },
     "done": true
   },
@@ -11749,6 +11761,12 @@
     },
     "done": true
   },
+  "alexsmobs:alexsmobs/rattlesnake": {
+    "criteria": {
+      "killed": "2025-03-25 01:42:34 +0000"
+    },
+    "done": true
+  },
   "create:recipes/create.base/crafting/materials/brass_casing": {
     "criteria": {
       "has_the_recipe": "2025-03-24 22:24:06 +0000"
@@ -18716,6 +18734,12 @@
     },
     "done": true
   },
+  "minecraft:adventure/kill_a_mob": {
+    "criteria": {
+      "minecraft:pillager": "2025-03-25 01:34:13 +0000"
+    },
+    "done": true
+  },
   "create:recipes/create.palettes/limestone_cobblestone_slab_from_limestone_cobblestone_stonecutting": {
     "criteria": {
       "has_the_recipe": "2025-03-24 22:24:06 +0000"
@@ -18774,6 +18798,7 @@
     "criteria": {
       "minecraft:cold_ocean": "2025-03-24 23:02:14 +0000",
       "minecraft:desert_hills": "2025-03-24 22:34:22 +0000",
+      "minecraft:deep_cold_ocean": "2025-03-25 01:41:22 +0000",
       "minecraft:desert": "2025-03-24 22:32:44 +0000",
       "minecraft:deep_frozen_ocean": "2025-03-25 01:19:30 +0000",
       "minecraft:savanna_plateau": "2025-03-24 22:53:50 +0000",

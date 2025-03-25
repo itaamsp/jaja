@@ -22991,3 +22991,86 @@ java.lang.NullPointerException: null
 [25Mar2025 01:34:13.519] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Dylan_HHH has made the advancement [Monster Hunter]
 [25Mar2025 01:34:16.329] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Dylan_HHH has made the advancement [Voluntary Exile]
 [25Mar2025 01:35:08.781] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Crying_Prophet was executed by Dylan_HHH
+[25Mar2025 01:37:14.428] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Dylan_HHH was decimated by Crying_Prophet
+[25Mar2025 01:38:47.978] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: Gathering id map for writing to world save world
+[25Mar2025 01:38:47.997] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: ID Map collection complete world
+[25Mar2025 01:40:15.960] [Worker-Main-71/DEBUG] [betterdungeons/]: Small Dungeon at -457 32 -433
+[25Mar2025 01:40:48.630] [Server thread/INFO] [morpheus/]: Dylan_HHH is now sleeping. 1/2 (50%)
+[25Mar2025 01:41:31.409] [Worker-Main-71/DEBUG] [betterdungeons/]: Spider Dungeon at -505 45 -479
+[25Mar2025 01:41:31.411] [Worker-Main-71/DEBUG] [betterdungeons/]: Small Dungeon at 7 23 -457
+[25Mar2025 01:41:33.343] [Worker-Main-71/DEBUG] [betterdungeons/]: Small Dungeon at -115 33 -473
+[25Mar2025 01:41:43.428] [Server thread/WARN] [cgm/]: Crying_Prophet(5113c246-f851-365d-ae5f-8beea591f8fd) tried to fire before cooldown finished or server is lagging? Remaining milliseconds: 167
+[25Mar2025 01:41:44.250] [Worker-Main-71/WARN] [ModernFix/]: The namespace tetra contains an outdated structure file, which can cause worldgen lag. Please view debug.log for the full filename, determine which mod provides the structure, and report to the mod/datapack author, including the debug log.
+[25Mar2025 01:41:44.252] [Worker-Main-71/DEBUG] [ModernFix/]: Structure tetra:forged_4way_extractor is being run through DFU (hash 1c21379b519d031560f1333ce8881b0cd5b848b9c7c7eba5ccf06f2f48219488), this will cause launch time delays
+[25Mar2025 01:41:45.227] [Worker-Main-71/DEBUG] [ModernFix/]: Structure tetra:forged_shaft is being run through DFU (hash 7fa5481192e9427f358535641e89df13b8028c414afc24c989c7e45cf502f19c), this will cause launch time delays
+[25Mar2025 01:41:45.245] [Worker-Main-71/DEBUG] [ModernFix/]: Structure tetra:forged_intersection_hallway is being run through DFU (hash 0573c1f1e5337d01685e14d12091b2b0d94622d19fb054f257dedd481f98b924), this will cause launch time delays
+[25Mar2025 01:41:45.249] [Worker-Main-71/DEBUG] [ModernFix/]: Structure tetra:forged_vent is being run through DFU (hash 1c07a60c4447ef1d1791d8b89d0754dbc66f408c6bbd020d65107ca66a647a96), this will cause launch time delays
+[25Mar2025 01:41:45.252] [Worker-Main-71/DEBUG] [ModernFix/]: Structure tetra:forged_intersection_wall is being run through DFU (hash 948e501750d49d4c020f09c0b2ab8ba63c5e29ce83e95948abe4c2bcfd97d710), this will cause launch time delays
+[25Mar2025 01:41:45.253] [Worker-Main-71/DEBUG] [ModernFix/]: Structure tetra:forged_intersection_up_east is being run through DFU (hash 327945ea9270858e4b1acd0a84b21b6fa6107ad887bd3bd7174965e23164d6a8), this will cause launch time delays
+[25Mar2025 01:41:45.258] [Worker-Main-71/DEBUG] [ModernFix/]: Structure tetra:collapse_air is being run through DFU (hash 3c6254f727b567cd57a7b2fc84f3fb0af1c1b4b8af4a8cccd412fcdfc0d21b5b), this will cause launch time delays
+[25Mar2025 01:41:45.272] [Worker-Main-71/DEBUG] [ModernFix/]: Structure tetra:forged_collapse_1 is being run through DFU (hash 755bc1083e4cc5e7c5349e45b39e333cf321aa756af38ff0c2dfa1e9d609ef07), this will cause launch time delays
+[25Mar2025 01:41:45.273] [Worker-Main-71/DEBUG] [ModernFix/]: Structure tetra:forged_wall_2 is being run through DFU (hash cd71bd5c9ac89e7521b427cd71890d7ab2a02c6a42c30e7faeaf8524394d04a4), this will cause launch time delays
+[25Mar2025 01:41:45.280] [Worker-Main-71/DEBUG] [ModernFix/]: Structure tetra:forged_wall_1 is being run through DFU (hash 07b3e56914bb8469ad0005ea67a11238263aaf364e78c7814376755f971960cc), this will cause launch time delays
+[25Mar2025 01:41:45.284] [Worker-Main-71/DEBUG] [ModernFix/]: Structure tetra:forged_crate_1x1x1 is being run through DFU (hash 11894ed2fbcb6946776015229dcd3ff98345588377336ecb84ba4e93caf5f498), this will cause launch time delays
+[25Mar2025 01:41:45.285] [Worker-Main-71/DEBUG] [ModernFix/]: Structure tetra:forged_extractor_platform is being run through DFU (hash f20f3e6e9be55b0862841847fc45300a87735f9b19d3ea87f9683b1749d4be4f), this will cause launch time delays
+[25Mar2025 01:41:45.295] [Worker-Main-71/DEBUG] [ModernFix/]: Structure tetra:forged_extractor_large_powered is being run through DFU (hash 31ef6d5b64a049b38a11cf72e3cd115ae5f7087a86d7bcfa5fb3d96a9b39d310), this will cause launch time delays
+[25Mar2025 01:41:53.657] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[25Mar2025 01:41:53.683] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[25Mar2025 01:41:53.708] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[25Mar2025 01:41:53.734] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[25Mar2025 01:41:53.772] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[25Mar2025 01:41:53.801] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[25Mar2025 01:41:53.841] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[25Mar2025 01:41:53.848] [Worker-Main-71/DEBUG] [betterdungeons/]: Small Dungeon at 13 11 -585
+[25Mar2025 01:41:53.869] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[25Mar2025 01:41:53.912] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[25Mar2025 01:41:53.946] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[25Mar2025 01:41:53.984] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[25Mar2025 01:41:54.019] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[25Mar2025 01:41:54.053] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[25Mar2025 01:41:54.087] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[25Mar2025 01:41:54.164] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[25Mar2025 01:41:54.234] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[25Mar2025 01:41:54.367] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[25Mar2025 01:41:54.459] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[25Mar2025 01:41:54.522] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[25Mar2025 01:41:54.566] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[25Mar2025 01:41:54.603] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[25Mar2025 01:41:54.642] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[25Mar2025 01:41:54.679] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[25Mar2025 01:41:54.712] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[25Mar2025 01:41:54.751] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[25Mar2025 01:41:54.790] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[25Mar2025 01:41:54.829] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[25Mar2025 01:41:54.864] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[25Mar2025 01:41:54.905] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[25Mar2025 01:41:54.973] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[25Mar2025 01:41:55.014] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[25Mar2025 01:41:55.058] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[25Mar2025 01:41:55.093] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[25Mar2025 01:41:55.130] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[25Mar2025 01:41:55.206] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[25Mar2025 01:41:55.248] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[25Mar2025 01:41:55.283] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[25Mar2025 01:41:56.547] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[25Mar2025 01:41:56.595] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[25Mar2025 01:41:56.644] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[25Mar2025 01:41:56.696] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[25Mar2025 01:41:56.753] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[25Mar2025 01:41:56.799] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[25Mar2025 01:41:56.849] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[25Mar2025 01:41:56.891] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[25Mar2025 01:42:06.318] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of farmersdelight:village/houses/plains_compost_pile
+[25Mar2025 01:42:34.087] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Dylan_HHH has made the advancement [No Step on Snake]
+[25Mar2025 01:43:28.232] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[25Mar2025 01:43:28.285] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[25Mar2025 01:43:28.336] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[25Mar2025 01:43:28.383] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[25Mar2025 01:43:28.435] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[25Mar2025 01:43:28.488] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[25Mar2025 01:43:35.492] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: Dylan_HHH lost connection: Timed out
+[25Mar2025 01:43:35.492] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Dylan_HHH left the game
+[25Mar2025 01:43:35.493] [Server thread/DEBUG] [voicechat/]: [voicechat] Removing state of Dylan_HHH
+[25Mar2025 01:43:35.493] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Dylan_HHH
+[25Mar2025 01:43:47.427] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: Gathering id map for writing to world save world
+[25Mar2025 01:43:47.444] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: ID Map collection complete world
