@@ -3152,6 +3152,7 @@
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
       "minecraft:pillager": "2025-03-25 01:34:13 +0000",
+      "minecraft:skeleton": "2025-03-25 02:36:45 +0000",
       "minecraft:creeper": "2025-03-25 02:26:25 +0000",
       "minecraft:zombie": "2025-03-25 02:29:47 +0000"
     },
@@ -6624,6 +6625,12 @@
   "comforts:hammock_pink_from_white": {
     "criteria": {
       "has_the_recipe": "2025-03-24 14:47:16 +0000"
+    },
+    "done": true
+  },
+  "dungeons_arise:find_abandoned_temple": {
+    "criteria": {
+      "location0": "2025-03-25 02:36:52 +0000"
     },
     "done": true
   },
@@ -18913,6 +18920,7 @@
   "minecraft:adventure/adventuring_time": {
     "criteria": {
       "minecraft:cold_ocean": "2025-03-24 23:02:14 +0000",
+      "minecraft:mountains": "2025-03-25 02:36:29 +0000",
       "minecraft:desert_hills": "2025-03-24 22:34:22 +0000",
       "minecraft:deep_cold_ocean": "2025-03-25 01:41:22 +0000",
       "minecraft:desert": "2025-03-24 22:32:44 +0000",

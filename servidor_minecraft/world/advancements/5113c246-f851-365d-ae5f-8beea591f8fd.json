@@ -6157,6 +6157,12 @@
     },
     "done": true
   },
+  "iceandfire:iceandfire/kill_sea_serpent": {
+    "criteria": {
+      "killed_fire_dragon": "2025-03-25 02:41:49 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/granite_stairs_from_granite_stonecutting": {
     "criteria": {
       "has_the_recipe": "2025-03-24 22:27:31 +0000"
@@ -13240,6 +13246,12 @@
   "comforts:sleeping_bag_red": {
     "criteria": {
       "has_the_recipe": "2025-03-24 22:27:30 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:iceandfire/kill_siren": {
+    "criteria": {
+      "killed_fire_dragon": "2025-03-25 02:39:54 +0000"
     },
     "done": true
   },
