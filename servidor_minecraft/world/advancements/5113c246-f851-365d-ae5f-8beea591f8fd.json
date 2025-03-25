@@ -1127,6 +1127,12 @@
     },
     "done": true
   },
+  "supplementaries:recipes/spring_launcher": {
+    "criteria": {
+      "has_item": "2025-03-25 02:11:58 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:recipes/farmersdelight/cabbage": {
     "criteria": {
       "has_the_recipe": "2025-03-24 22:27:34 +0000"
@@ -14380,6 +14386,12 @@
   "biomesoplenty:recipes/redstone/jacaranda_fence_gate": {
     "criteria": {
       "has_the_recipe": "2025-03-24 22:27:33 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:iceandfire/rotten_egg": {
+    "criteria": {
+      "bestiary": "2025-03-25 02:10:14 +0000"
     },
     "done": true
   },

@@ -273,3 +273,111 @@
 [25Mar2025 02:06:23.106] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 5113c246-f851-365d-ae5f-8beea591f8fd
 [25Mar2025 02:06:24.106] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 5113c246-f851-365d-ae5f-8beea591f8fd
 [25Mar2025 02:06:24.107] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player Crying_Prophet (5113c246-f851-365d-ae5f-8beea591f8fd) successfully connected to voice chat
+[25Mar2025 02:06:52.296] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player 5113c246-f851-365d-ae5f-8beea591f8fd timed out
+[25Mar2025 02:06:52.296] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Reconnecting player Crying_Prophet
+[25Mar2025 02:06:52.296] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Sent secret to Crying_Prophet
+[25Mar2025 02:06:52.394] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 5113c246-f851-365d-ae5f-8beea591f8fd
+[25Mar2025 02:07:18.409] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 5113c246-f851-365d-ae5f-8beea591f8fd
+[25Mar2025 02:07:18.409] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player Crying_Prophet (5113c246-f851-365d-ae5f-8beea591f8fd) successfully connected to voice chat
+[25Mar2025 02:07:53.611] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player 5113c246-f851-365d-ae5f-8beea591f8fd timed out
+[25Mar2025 02:07:53.611] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Reconnecting player Crying_Prophet
+[25Mar2025 02:07:53.612] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Sent secret to Crying_Prophet
+[25Mar2025 02:07:53.714] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 5113c246-f851-365d-ae5f-8beea591f8fd
+[25Mar2025 02:08:28.731] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 5113c246-f851-365d-ae5f-8beea591f8fd
+[25Mar2025 02:08:28.731] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player Crying_Prophet (5113c246-f851-365d-ae5f-8beea591f8fd) successfully connected to voice chat
+[25Mar2025 02:08:52.969] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player 5113c246-f851-365d-ae5f-8beea591f8fd timed out
+[25Mar2025 02:08:52.969] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Reconnecting player Crying_Prophet
+[25Mar2025 02:08:52.970] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Sent secret to Crying_Prophet
+[25Mar2025 02:08:53.078] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 5113c246-f851-365d-ae5f-8beea591f8fd
+[25Mar2025 02:09:31.095] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 5113c246-f851-365d-ae5f-8beea591f8fd
+[25Mar2025 02:09:31.096] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player Crying_Prophet (5113c246-f851-365d-ae5f-8beea591f8fd) successfully connected to voice chat
+[25Mar2025 02:09:54.261] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player 5113c246-f851-365d-ae5f-8beea591f8fd timed out
+[25Mar2025 02:09:54.289] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Reconnecting player Crying_Prophet
+[25Mar2025 02:09:54.290] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Sent secret to Crying_Prophet
+[25Mar2025 02:09:54.380] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 5113c246-f851-365d-ae5f-8beea591f8fd
+[25Mar2025 02:10:14.636] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Crying_Prophet has made the advancement [Rotten to the Core]
+[25Mar2025 02:10:29.398] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 5113c246-f851-365d-ae5f-8beea591f8fd
+[25Mar2025 02:10:29.398] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player Crying_Prophet (5113c246-f851-365d-ae5f-8beea591f8fd) successfully connected to voice chat
+[25Mar2025 02:10:54.598] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player 5113c246-f851-365d-ae5f-8beea591f8fd timed out
+[25Mar2025 02:10:54.599] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Reconnecting player Crying_Prophet
+[25Mar2025 02:10:54.599] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Sent secret to Crying_Prophet
+[25Mar2025 02:10:54.728] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 5113c246-f851-365d-ae5f-8beea591f8fd
+[25Mar2025 02:11:29.745] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 5113c246-f851-365d-ae5f-8beea591f8fd
+[25Mar2025 02:11:29.745] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player Crying_Prophet (5113c246-f851-365d-ae5f-8beea591f8fd) successfully connected to voice chat
+[25Mar2025 02:11:54.919] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player 5113c246-f851-365d-ae5f-8beea591f8fd timed out
+[25Mar2025 02:11:54.920] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Reconnecting player Crying_Prophet
+[25Mar2025 02:11:54.920] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Sent secret to Crying_Prophet
+[25Mar2025 02:11:55.275] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 5113c246-f851-365d-ae5f-8beea591f8fd
+[25Mar2025 02:12:30.290] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 5113c246-f851-365d-ae5f-8beea591f8fd
+[25Mar2025 02:12:30.291] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player Crying_Prophet (5113c246-f851-365d-ae5f-8beea591f8fd) successfully connected to voice chat
+[25Mar2025 02:12:55.272] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player 5113c246-f851-365d-ae5f-8beea591f8fd timed out
+[25Mar2025 02:12:55.272] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Reconnecting player Crying_Prophet
+[25Mar2025 02:12:55.272] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Sent secret to Crying_Prophet
+[25Mar2025 02:12:55.397] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 5113c246-f851-365d-ae5f-8beea591f8fd
+[25Mar2025 02:13:29.413] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 5113c246-f851-365d-ae5f-8beea591f8fd
+[25Mar2025 02:13:29.413] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player Crying_Prophet (5113c246-f851-365d-ae5f-8beea591f8fd) successfully connected to voice chat
+[25Mar2025 02:13:30.942] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Redstone Torch'/85157, l='ServerLevel[world]', x=17.46, y=73.30, z=77.28]
+[25Mar2025 02:13:30.942] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Redstone Torch'/85157, l='ServerLevel[world]', x=17.46, y=73.30, z=77.28]
+[25Mar2025 02:13:30.942] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Wheat Seeds'/85158, l='ServerLevel[world]', x=20.30, y=73.32, z=74.53]
+[25Mar2025 02:13:30.942] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Wheat Seeds'/85158, l='ServerLevel[world]', x=20.30, y=73.32, z=74.53]
+[25Mar2025 02:13:30.943] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Dirt'/85162, l='ServerLevel[world]', x=18.41, y=74.31, z=74.61]
+[25Mar2025 02:13:30.943] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Dirt'/85162, l='ServerLevel[world]', x=18.41, y=74.31, z=74.61]
+[25Mar2025 02:13:30.943] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Polished Andesite'/85163, l='ServerLevel[world]', x=17.44, y=74.58, z=76.60]
+[25Mar2025 02:13:30.943] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Polished Andesite'/85163, l='ServerLevel[world]', x=17.44, y=74.58, z=76.60]
+[25Mar2025 02:13:30.943] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Andesite'/85164, l='ServerLevel[world]', x=16.43, y=73.65, z=78.38]
+[25Mar2025 02:13:30.943] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Andesite'/85164, l='ServerLevel[world]', x=16.43, y=73.65, z=78.38]
+[25Mar2025 02:13:30.944] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Spruce Planks'/85165, l='ServerLevel[world]', x=17.27, y=73.51, z=73.33]
+[25Mar2025 02:13:30.945] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Spruce Planks'/85165, l='ServerLevel[world]', x=17.27, y=73.51, z=73.33]
+[25Mar2025 02:13:31.424] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Crying_Prophet blew up
+[25Mar2025 02:13:34.882] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Dirt'/85479, l='ServerLevel[world]', x=8.25, y=70.55, z=63.74]
+[25Mar2025 02:13:34.882] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Andesite'/85480, l='ServerLevel[world]', x=4.30, y=72.53, z=66.39]
+[25Mar2025 02:13:34.882] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Polished Andesite'/85481, l='ServerLevel[world]', x=3.73, y=74.49, z=67.35]
+[25Mar2025 02:13:34.883] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Cobblestone'/85482, l='ServerLevel[world]', x=5.74, y=71.37, z=69.35]
+[25Mar2025 02:13:34.883] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Barrel'/85484, l='ServerLevel[world]', x=3.52, y=74.59, z=69.25]
+[25Mar2025 02:13:34.883] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Copper Ore'/85485, l='ServerLevel[world]', x=3.40, y=72.68, z=68.30]
+[25Mar2025 02:13:34.883] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Hopper'/85486, l='ServerLevel[world]', x=3.59, y=75.26, z=69.40]
+[25Mar2025 02:13:34.883] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Spruce Slab'/85487, l='ServerLevel[world]', x=4.33, y=73.46, z=69.33]
+[25Mar2025 02:13:34.883] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Andesite'/85488, l='ServerLevel[world]', x=6.72, y=76.55, z=68.26]
+[25Mar2025 02:13:34.884] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Hay Bale'/85489, l='ServerLevel[world]', x=8.72, y=73.50, z=71.73]
+[25Mar2025 02:13:34.884] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Cobblestone'/85490, l='ServerLevel[world]', x=5.45, y=71.42, z=65.43]
+[25Mar2025 02:13:35.377] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Tripwire Hook'/85499, l='ServerLevel[world]', x=2.41, y=74.27, z=70.47]
+[25Mar2025 02:13:35.378] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Cobblestone'/85500, l='ServerLevel[world]', x=4.30, y=70.30, z=68.39]
+[25Mar2025 02:13:35.378] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Spruce Slab'/85501, l='ServerLevel[world]', x=3.35, y=73.28, z=70.34]
+[25Mar2025 02:13:35.378] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Polished Andesite'/85502, l='ServerLevel[world]', x=2.56, y=72.51, z=67.59]
+[25Mar2025 02:13:35.378] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Barrel'/85503, l='ServerLevel[world]', x=2.31, y=74.65, z=69.51]
+[25Mar2025 02:13:35.378] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Andesite'/85505, l='ServerLevel[world]', x=2.65, y=74.73, z=68.33]
+[25Mar2025 02:13:36.035] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Cobblestone'/85543, l='ServerLevel[world]', x=2.51, y=71.68, z=65.32]
+[25Mar2025 02:13:36.035] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Polished Andesite'/85544, l='ServerLevel[world]', x=-1.73, y=72.58, z=68.47]
+[25Mar2025 02:13:36.035] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Copper Ore'/85545, l='ServerLevel[world]', x=3.56, y=69.58, z=70.27]
+[25Mar2025 02:13:36.036] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Spruce Planks'/85546, l='ServerLevel[world]', x=-0.52, y=75.62, z=67.46]
+[25Mar2025 02:13:36.036] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Hay Bale'/85547, l='ServerLevel[world]', x=0.38, y=73.37, z=71.33]
+[25Mar2025 02:13:36.036] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Cobblestone'/85548, l='ServerLevel[world]', x=3.74, y=71.63, z=64.33]
+[25Mar2025 02:13:36.036] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Cobblestone'/85549, l='ServerLevel[world]', x=1.73, y=74.59, z=65.57]
+[25Mar2025 02:13:36.037] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Cobblestone'/85550, l='ServerLevel[world]', x=4.40, y=69.48, z=68.56]
+[25Mar2025 02:13:36.037] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Coal'/85551, l='ServerLevel[world]', x=3.69, y=72.53, z=63.67]
+[25Mar2025 02:13:37.889] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Gravel'/85683, l='ServerLevel[world]', x=0.72, y=70.00, z=65.89]
+[25Mar2025 02:13:54.629] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player 5113c246-f851-365d-ae5f-8beea591f8fd timed out
+[25Mar2025 02:13:54.629] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Reconnecting player Crying_Prophet
+[25Mar2025 02:13:54.629] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Sent secret to Crying_Prophet
+[25Mar2025 02:13:54.746] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 5113c246-f851-365d-ae5f-8beea591f8fd
+[25Mar2025 02:14:27.763] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 5113c246-f851-365d-ae5f-8beea591f8fd
+[25Mar2025 02:14:27.764] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player Crying_Prophet (5113c246-f851-365d-ae5f-8beea591f8fd) successfully connected to voice chat
+[25Mar2025 02:14:56.972] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player 5113c246-f851-365d-ae5f-8beea591f8fd timed out
+[25Mar2025 02:14:56.972] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Reconnecting player Crying_Prophet
+[25Mar2025 02:14:56.972] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Sent secret to Crying_Prophet
+[25Mar2025 02:14:57.051] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 5113c246-f851-365d-ae5f-8beea591f8fd
+[25Mar2025 02:14:58.051] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 5113c246-f851-365d-ae5f-8beea591f8fd
+[25Mar2025 02:14:58.051] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player Crying_Prophet (5113c246-f851-365d-ae5f-8beea591f8fd) successfully connected to voice chat
+[25Mar2025 02:15:26.177] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player 5113c246-f851-365d-ae5f-8beea591f8fd timed out
+[25Mar2025 02:15:26.177] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Reconnecting player Crying_Prophet
+[25Mar2025 02:15:26.178] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Sent secret to Crying_Prophet
+[25Mar2025 02:15:26.268] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 5113c246-f851-365d-ae5f-8beea591f8fd
+[25Mar2025 02:15:27.268] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 5113c246-f851-365d-ae5f-8beea591f8fd
+[25Mar2025 02:15:27.268] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player Crying_Prophet (5113c246-f851-365d-ae5f-8beea591f8fd) successfully connected to voice chat
+[25Mar2025 02:15:57.353] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player 5113c246-f851-365d-ae5f-8beea591f8fd timed out
+[25Mar2025 02:15:57.354] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Reconnecting player Crying_Prophet
+[25Mar2025 02:15:57.354] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Sent secret to Crying_Prophet
+[25Mar2025 02:15:57.437] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 5113c246-f851-365d-ae5f-8beea591f8fd
+[25Mar2025 02:16:07.622] [Server thread/INFO] [morpheus/]: Dylan_HHH is now sleeping. 1/2 (50%)
+[25Mar2025 02:16:36.457] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 5113c246-f851-365d-ae5f-8beea591f8fd
+[25Mar2025 02:16:36.458] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player Crying_Prophet (5113c246-f851-365d-ae5f-8beea591f8fd) successfully connected to voice chat
