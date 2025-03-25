@@ -549,3 +549,7 @@ java.lang.NullPointerException: null
 [25Mar2025 14:35:40.048] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Dylan_HHH has made the advancement [A Bigger Blade]
 [25Mar2025 14:35:40.049] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Dylan_HHH has made the advancement [Fisticuffs]
 [25Mar2025 14:36:12.349] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Dylan_HHH has made the advancement [Pike Off!]
+[25Mar2025 14:41:19.702] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.advancements.PlayerAdvancements@1a6c789e
+[25Mar2025 14:46:09.706] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: Dylan_HHH lost connection: Disconnected
+[25Mar2025 14:46:09.707] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Dylan_HHH left the game
+[25Mar2025 14:46:09.707] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Dylan_HHH

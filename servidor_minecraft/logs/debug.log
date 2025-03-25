@@ -9581,3 +9581,12 @@ java.lang.NullPointerException: null
 [25Mar2025 14:36:02.007] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
 [25Mar2025 14:36:02.057] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
 [25Mar2025 14:36:12.349] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Dylan_HHH has made the advancement [Pike Off!]
+[25Mar2025 14:37:14.928] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: Gathering id map for writing to world save world
+[25Mar2025 14:37:14.958] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: ID Map collection complete world
+[25Mar2025 14:41:19.702] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.advancements.PlayerAdvancements@1a6c789e
+[25Mar2025 14:42:14.787] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: Gathering id map for writing to world save world
+[25Mar2025 14:42:14.806] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: ID Map collection complete world
+[25Mar2025 14:46:09.706] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: Dylan_HHH lost connection: Disconnected
+[25Mar2025 14:46:09.707] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Dylan_HHH left the game
+[25Mar2025 14:46:09.707] [Server thread/DEBUG] [voicechat/]: [voicechat] Removing state of Dylan_HHH
+[25Mar2025 14:46:09.707] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Dylan_HHH
