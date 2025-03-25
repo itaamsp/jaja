@@ -2387,6 +2387,12 @@
     },
     "done": true
   },
+  "minecraft:adventure/shoot_arrow": {
+    "criteria": {
+      "shot_arrow": "2025-03-25 01:11:24 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/securitycraft/mine": {
     "criteria": {
       "has_the_recipe": "2025-03-24 14:47:17 +0000"
@@ -19248,6 +19254,7 @@
   },
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
+      "cooked_mutton": "2025-03-25 01:05:55 +0000",
       "bread": "2025-03-24 23:33:53 +0000",
       "cookie": "2025-03-24 22:34:06 +0000"
     },
