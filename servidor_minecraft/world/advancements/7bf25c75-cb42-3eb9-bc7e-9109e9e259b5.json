@@ -3151,7 +3151,9 @@
   },
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
-      "minecraft:pillager": "2025-03-25 01:34:13 +0000"
+      "minecraft:pillager": "2025-03-25 01:34:13 +0000",
+      "minecraft:creeper": "2025-03-25 02:26:25 +0000",
+      "minecraft:zombie": "2025-03-25 02:29:47 +0000"
     },
     "done": false
   },
@@ -6313,6 +6315,12 @@
     },
     "done": true
   },
+  "spartanweaponry:parrying_dagger": {
+    "criteria": {
+      "has_parrying_dagger": "2025-03-25 02:30:43 +0000"
+    },
+    "done": true
+  },
   "create:recipes/create.palettes/paved_weathered_limestone_slab_from_paved_weathered_limestone_stonecutting": {
     "criteria": {
       "has_the_recipe": "2025-03-24 22:24:08 +0000"
@@ -7354,6 +7362,12 @@
   "minecraft:recipes/travelersbackpack/standard_smithing_diamond": {
     "criteria": {
       "has_the_recipe": "2025-03-24 14:47:17 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/form_obsidian": {
+    "criteria": {
+      "obsidian": "2025-03-25 02:30:48 +0000"
     },
     "done": true
   },
@@ -9544,6 +9558,12 @@
     },
     "done": true
   },
+  "minecraft:story/mine_diamond": {
+    "criteria": {
+      "diamond": "2025-03-25 02:30:36 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/polished_granite_stairs_from_granite_stonecutting": {
     "criteria": {
       "has_the_recipe": "2025-03-24 14:47:16 +0000"
@@ -11158,6 +11178,12 @@
   "spartanweaponry:recipes/spartanweaponry.basic/boomerang_gold": {
     "criteria": {
       "has_the_recipe": "2025-03-24 14:47:16 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/iron_tools": {
+    "criteria": {
+      "iron_pickaxe": "2025-03-25 02:31:41 +0000"
     },
     "done": true
   },
@@ -17456,6 +17482,12 @@
     },
     "done": true
   },
+  "spartanweaponry:battle_hammer": {
+    "criteria": {
+      "has_battle_hammer": "2025-03-25 02:31:36 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/travelersbackpack/wolf_smithing_iron": {
     "criteria": {
       "has_the_recipe": "2025-03-24 14:47:16 +0000"
@@ -18725,6 +18757,12 @@
   "tconstruct:recipes/tconstruct/general/common/slime/ender/slimeball_from_congealed": {
     "criteria": {
       "has_the_recipe": "2025-03-24 14:47:18 +0000"
+    },
+    "done": true
+  },
+  "artifacts:amateur_archaeologist": {
+    "criteria": {
+      "find_artifact": "2025-03-25 02:30:56 +0000"
     },
     "done": true
   },
