@@ -8947,6 +8947,12 @@
     },
     "done": true
   },
+  "farmersdelight:main/craft_knife": {
+    "criteria": {
+      "golden_knife": "2025-03-25 03:52:33 +0000"
+    },
+    "done": true
+  },
   "create:recipes/create.base/crafting/kinetics/belt_connector": {
     "criteria": {
       "has_the_recipe": "2025-03-24 22:27:33 +0000"
@@ -19525,6 +19531,7 @@
   },
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
+      "baked_potato": "2025-03-25 03:54:08 +0000",
       "apple": "2025-03-25 00:23:24 +0000",
       "cooked_cod": "2025-03-24 23:05:22 +0000",
       "pumpkin_pie": "2025-03-24 23:00:55 +0000",
