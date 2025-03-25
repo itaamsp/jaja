@@ -553,3 +553,22 @@ java.lang.NullPointerException: null
 [25Mar2025 14:46:09.706] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: Dylan_HHH lost connection: Disconnected
 [25Mar2025 14:46:09.707] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Dylan_HHH left the game
 [25Mar2025 14:46:09.707] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Dylan_HHH
+[25Mar2025 14:47:53.648] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Unknown or incomplete command, see below for error
+[25Mar2025 14:47:53.650] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: stopstop<--[HERE]
+[25Mar2025 14:48:01.244] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Stopping the server
+[25Mar2025 14:48:01.292] [Server thread/INFO] [ModernFix/]: Shutting down locating executor service
+[25Mar2025 14:48:01.298] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping server
+[25Mar2025 14:48:01.301] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving players
+[25Mar2025 14:48:01.301] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving worlds
+[25Mar2025 14:48:01.301] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[25Mar2025 14:48:01.553] [Server thread/INFO] [net.minecraft.world.server.ChunkManager/]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[25Mar2025 14:48:01.553] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[25Mar2025 14:48:01.554] [Server thread/INFO] [net.minecraft.world.server.ChunkManager/]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[25Mar2025 14:48:01.555] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[25Mar2025 14:48:01.556] [Server thread/INFO] [net.minecraft.world.server.ChunkManager/]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[25Mar2025 14:48:01.556] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/stacked_dimensions_warden:deeper_dark
+[25Mar2025 14:48:01.557] [Server thread/INFO] [net.minecraft.world.server.ChunkManager/]: ThreadedAnvilChunkStorage (deeper_dark): All chunks are saved
+[25Mar2025 14:48:01.605] [Server thread/INFO] [net.minecraft.world.server.ChunkManager/]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[25Mar2025 14:48:01.937] [Server thread/INFO] [net.minecraft.world.server.ChunkManager/]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[25Mar2025 14:48:01.938] [Server thread/INFO] [net.minecraft.world.server.ChunkManager/]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[25Mar2025 14:48:01.938] [Server thread/INFO] [net.minecraft.world.server.ChunkManager/]: ThreadedAnvilChunkStorage (deeper_dark): All chunks are saved
