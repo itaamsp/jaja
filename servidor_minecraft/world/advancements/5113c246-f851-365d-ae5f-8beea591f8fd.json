@@ -3164,6 +3164,7 @@
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
       "minecraft:pillager": "2025-03-24 22:50:07 +0000",
+      "minecraft:skeleton": "2025-03-25 00:56:17 +0000",
       "minecraft:vindicator": "2025-03-24 22:48:02 +0000",
       "minecraft:witch": "2025-03-25 00:52:22 +0000",
       "minecraft:husk": "2025-03-24 22:33:06 +0000"
