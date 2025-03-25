@@ -642,3 +642,71 @@
 [25Mar2025 02:58:20.757] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Reconnecting player Crying_Prophet
 [25Mar2025 02:58:20.757] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Sent secret to Crying_Prophet
 [25Mar2025 02:58:20.838] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 5113c246-f851-365d-ae5f-8beea591f8fd
+[25Mar2025 02:58:38.020] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Crying_Prophet was slain by Vex
+[25Mar2025 02:58:50.854] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 5113c246-f851-365d-ae5f-8beea591f8fd
+[25Mar2025 02:58:50.855] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player Crying_Prophet (5113c246-f851-365d-ae5f-8beea591f8fd) successfully connected to voice chat
+[25Mar2025 02:59:22.092] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player 5113c246-f851-365d-ae5f-8beea591f8fd timed out
+[25Mar2025 02:59:22.093] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Reconnecting player Crying_Prophet
+[25Mar2025 02:59:22.093] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Sent secret to Crying_Prophet
+[25Mar2025 02:59:22.188] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 5113c246-f851-365d-ae5f-8beea591f8fd
+[25Mar2025 02:59:53.202] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 5113c246-f851-365d-ae5f-8beea591f8fd
+[25Mar2025 02:59:53.202] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player Crying_Prophet (5113c246-f851-365d-ae5f-8beea591f8fd) successfully connected to voice chat
+[25Mar2025 03:00:23.409] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player 5113c246-f851-365d-ae5f-8beea591f8fd timed out
+[25Mar2025 03:00:23.409] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Reconnecting player Crying_Prophet
+[25Mar2025 03:00:23.409] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Sent secret to Crying_Prophet
+[25Mar2025 03:00:23.830] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 5113c246-f851-365d-ae5f-8beea591f8fd
+[25Mar2025 03:00:35.142] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: Crying_Prophet lost connection: Disconnected
+[25Mar2025 03:00:35.142] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Crying_Prophet left the game
+[25Mar2025 03:00:35.142] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Crying_Prophet
+[25Mar2025 03:01:17.040] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.advancements.PlayerAdvancements@78f983d2
+[25Mar2025 03:01:17.114] [Server thread/INFO] [net.minecraft.server.management.PlayerList/]: Crying_Prophet[/127.90.218.78:46457] logged in with entity id 105561 at (-464.0272141498745, 96.5, 1856.5600991792785)
+[25Mar2025 03:01:17.123] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Crying_Prophet joined the game
+[25Mar2025 03:01:17.146] [Server thread/INFO] [Waila/]: Syncing config to Crying_Prophet (5113c246-f851-365d-ae5f-8beea591f8fd)
+[25Mar2025 03:01:17.147] [Server thread/INFO] [se.mickelus.tetra.data.DataManager/]: Sending data to client: Crying_Prophet
+[25Mar2025 03:01:18.086] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of Crying_Prophet (18)
+[25Mar2025 03:01:18.088] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to Crying_Prophet
+[25Mar2025 03:01:21.039] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 5113c246-f851-365d-ae5f-8beea591f8fd
+[25Mar2025 03:01:59.063] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 5113c246-f851-365d-ae5f-8beea591f8fd
+[25Mar2025 03:01:59.064] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player Crying_Prophet (5113c246-f851-365d-ae5f-8beea591f8fd) successfully connected to voice chat
+[25Mar2025 03:02:24.131] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player 5113c246-f851-365d-ae5f-8beea591f8fd timed out
+[25Mar2025 03:02:24.131] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Reconnecting player Crying_Prophet
+[25Mar2025 03:02:24.132] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Sent secret to Crying_Prophet
+[25Mar2025 03:02:24.218] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 5113c246-f851-365d-ae5f-8beea591f8fd
+[25Mar2025 03:02:53.233] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 5113c246-f851-365d-ae5f-8beea591f8fd
+[25Mar2025 03:02:53.233] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player Crying_Prophet (5113c246-f851-365d-ae5f-8beea591f8fd) successfully connected to voice chat
+[25Mar2025 03:03:25.421] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player 5113c246-f851-365d-ae5f-8beea591f8fd timed out
+[25Mar2025 03:03:25.422] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Reconnecting player Crying_Prophet
+[25Mar2025 03:03:25.422] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Sent secret to Crying_Prophet
+[25Mar2025 03:03:25.507] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 5113c246-f851-365d-ae5f-8beea591f8fd
+[25Mar2025 03:03:55.531] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 5113c246-f851-365d-ae5f-8beea591f8fd
+[25Mar2025 03:03:55.531] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player Crying_Prophet (5113c246-f851-365d-ae5f-8beea591f8fd) successfully connected to voice chat
+[25Mar2025 03:04:25.738] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player 5113c246-f851-365d-ae5f-8beea591f8fd timed out
+[25Mar2025 03:04:25.739] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Reconnecting player Crying_Prophet
+[25Mar2025 03:04:25.739] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Sent secret to Crying_Prophet
+[25Mar2025 03:04:25.819] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 5113c246-f851-365d-ae5f-8beea591f8fd
+[25Mar2025 03:05:00.835] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 5113c246-f851-365d-ae5f-8beea591f8fd
+[25Mar2025 03:05:00.836] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player Crying_Prophet (5113c246-f851-365d-ae5f-8beea591f8fd) successfully connected to voice chat
+[25Mar2025 03:05:25.163] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player 5113c246-f851-365d-ae5f-8beea591f8fd timed out
+[25Mar2025 03:05:25.163] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Reconnecting player Crying_Prophet
+[25Mar2025 03:05:25.163] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Sent secret to Crying_Prophet
+[25Mar2025 03:05:25.506] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 5113c246-f851-365d-ae5f-8beea591f8fd
+[25Mar2025 03:05:52.517] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 5113c246-f851-365d-ae5f-8beea591f8fd
+[25Mar2025 03:05:52.517] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player Crying_Prophet (5113c246-f851-365d-ae5f-8beea591f8fd) successfully connected to voice chat
+[25Mar2025 03:06:27.474] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player 5113c246-f851-365d-ae5f-8beea591f8fd timed out
+[25Mar2025 03:06:27.475] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Reconnecting player Crying_Prophet
+[25Mar2025 03:06:27.475] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Sent secret to Crying_Prophet
+[25Mar2025 03:06:27.600] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 5113c246-f851-365d-ae5f-8beea591f8fd
+[25Mar2025 03:06:54.615] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 5113c246-f851-365d-ae5f-8beea591f8fd
+[25Mar2025 03:06:54.615] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player Crying_Prophet (5113c246-f851-365d-ae5f-8beea591f8fd) successfully connected to voice chat
+[25Mar2025 03:07:27.781] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player 5113c246-f851-365d-ae5f-8beea591f8fd timed out
+[25Mar2025 03:07:27.781] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Reconnecting player Crying_Prophet
+[25Mar2025 03:07:27.781] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Sent secret to Crying_Prophet
+[25Mar2025 03:07:27.859] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 5113c246-f851-365d-ae5f-8beea591f8fd
+[25Mar2025 03:07:58.874] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 5113c246-f851-365d-ae5f-8beea591f8fd
+[25Mar2025 03:07:58.874] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player Crying_Prophet (5113c246-f851-365d-ae5f-8beea591f8fd) successfully connected to voice chat
+[25Mar2025 03:08:27.128] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player 5113c246-f851-365d-ae5f-8beea591f8fd timed out
+[25Mar2025 03:08:27.128] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Reconnecting player Crying_Prophet
+[25Mar2025 03:08:27.128] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Sent secret to Crying_Prophet
+[25Mar2025 03:08:27.215] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 5113c246-f851-365d-ae5f-8beea591f8fd
+[25Mar2025 03:08:28.215] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 5113c246-f851-365d-ae5f-8beea591f8fd
+[25Mar2025 03:08:28.216] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player Crying_Prophet (5113c246-f851-365d-ae5f-8beea591f8fd) successfully connected to voice chat

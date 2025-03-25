@@ -3172,8 +3172,10 @@
       "minecraft:pillager": "2025-03-24 22:50:07 +0000",
       "minecraft:skeleton": "2025-03-25 00:56:17 +0000",
       "minecraft:vindicator": "2025-03-24 22:48:02 +0000",
+      "minecraft:spider": "2025-03-25 02:59:36 +0000",
       "minecraft:witch": "2025-03-25 00:52:22 +0000",
-      "minecraft:husk": "2025-03-24 22:33:06 +0000"
+      "minecraft:husk": "2025-03-24 22:33:06 +0000",
+      "minecraft:zombie": "2025-03-25 02:55:38 +0000"
     },
     "done": false
   },
@@ -16018,6 +16020,12 @@
   "minecraft:recipes/building_blocks/cracked_nether_bricks": {
     "criteria": {
       "has_the_recipe": "2025-03-24 22:27:35 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:iceandfire/kill_troll": {
+    "criteria": {
+      "killed_fire_dragon": "2025-03-25 02:55:54 +0000"
     },
     "done": true
   },
