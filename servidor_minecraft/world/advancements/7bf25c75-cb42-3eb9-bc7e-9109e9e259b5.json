@@ -4956,6 +4956,12 @@
     },
     "done": true
   },
+  "minecraft:husbandry/breed_an_animal": {
+    "criteria": {
+      "bred": "2025-03-25 00:26:41 +0000"
+    },
+    "done": true
+  },
   "create:recipes/create.palettes/fancy_limestone_bricks_stairs_from_fancy_limestone_bricks_stonecutting": {
     "criteria": {
       "has_the_recipe": "2025-03-24 22:24:07 +0000"
@@ -6118,6 +6124,12 @@
   "create:recipes/create.palettes/fancy_diorite_bricks_stairs_from_fancy_diorite_bricks_stonecutting": {
     "criteria": {
       "has_the_recipe": "2025-03-24 22:24:07 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/sign_post_oak": {
+    "criteria": {
+      "has_plank": "2025-03-25 00:28:09 +0000"
     },
     "done": true
   },
@@ -15451,6 +15463,12 @@
     },
     "done": true
   },
+  "dungeons_arise:find_small_prairie_house": {
+    "criteria": {
+      "location0": "2025-03-25 00:28:20 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/red_sandstone_stairs": {
     "criteria": {
       "has_the_recipe": "2025-03-24 14:47:17 +0000"
@@ -16679,6 +16697,12 @@
   "securitycraft:recipes/securitycraft/reinforced_polished_blackstone_slab_from_reinforced_polished_blackstone_stonecutting": {
     "criteria": {
       "has_the_recipe": "2025-03-24 14:47:17 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/hanging_sign_oak": {
+    "criteria": {
+      "has_plank": "2025-03-25 00:28:09 +0000"
     },
     "done": true
   },

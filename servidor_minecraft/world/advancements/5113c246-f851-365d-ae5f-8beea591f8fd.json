@@ -19424,6 +19424,12 @@
     },
     "done": false
   },
+  "iceandfire:iceandfire/gorgon_head": {
+    "criteria": {
+      "bestiary": "2025-03-25 00:33:37 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/securitycraft/reinforced_light_gray_stained_glass": {
     "criteria": {
       "has_the_recipe": "2025-03-24 22:27:32 +0000"

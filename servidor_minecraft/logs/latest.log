@@ -29,3 +29,7 @@
 [25Mar2025 00:20:18.719] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Dylan_HHH was slain by Ghost
 [25Mar2025 00:22:37.579] [Server thread/INFO] [net.minecraft.entity.Entity/]: Villager VillagerEntity['Judy'/40520, l='ServerLevel[world]', x=-292.30, y=69.00, z=721.50] died, message: 'Judy was slain by Fallen Chaos Knight'
 [25Mar2025 00:22:40.824] [Server thread/INFO] [net.minecraft.entity.Entity/]: Villager VillagerEntity['Georgina'/40497, l='ServerLevel[world]', x=-295.74, y=70.25, z=715.70] died, message: 'Georgina was slain by Fallen Chaos Knight'
+[25Mar2025 00:26:41.962] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Dylan_HHH has made the advancement [The Parrots and the Bats]
+[25Mar2025 00:30:21.274] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Crying_Prophet was turned into gorgonzola by Gorgon
+[25Mar2025 00:32:56.033] [Server thread/INFO] [morpheus/]: Dylan_HHH is now sleeping. 1/2 (50%)
+[25Mar2025 00:33:37.684] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Crying_Prophet has made the advancement [Clash of the Titans]
