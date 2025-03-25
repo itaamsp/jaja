@@ -13265,6 +13265,12 @@
     },
     "done": true
   },
+  "alexsmobs:alexsmobs/tarantula_hawk": {
+    "criteria": {
+      "killed_by": "2025-03-25 00:37:13 +0000"
+    },
+    "done": true
+  },
   "spartanweaponry:recipes/spartanweaponry.basic/parrying_dagger_diamond": {
     "criteria": {
       "has_the_recipe": "2025-03-24 22:27:30 +0000"

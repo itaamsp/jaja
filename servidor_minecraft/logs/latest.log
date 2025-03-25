@@ -33,3 +33,28 @@
 [25Mar2025 00:30:21.274] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Crying_Prophet was turned into gorgonzola by Gorgon
 [25Mar2025 00:32:56.033] [Server thread/INFO] [morpheus/]: Dylan_HHH is now sleeping. 1/2 (50%)
 [25Mar2025 00:33:37.684] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Crying_Prophet has made the advancement [Clash of the Titans]
+[25Mar2025 00:35:29.030] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: Dylan_HHH lost connection: Timed out
+[25Mar2025 00:35:29.030] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Dylan_HHH left the game
+[25Mar2025 00:35:29.035] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Dylan_HHH
+[25Mar2025 00:37:13.018] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Crying_Prophet has made the advancement [Rigged from the Start]
+[25Mar2025 00:40:08.597] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.advancements.PlayerAdvancements@1fb03452
+[25Mar2025 00:40:08.651] [Server thread/INFO] [net.minecraft.server.management.PlayerList/]: Dylan_HHH[/127.22.238.216:40337] logged in with entity id 48125 at (48.862214283788745, 64.0, 301.85706117145685)
+[25Mar2025 00:40:08.657] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Dylan_HHH joined the game
+[25Mar2025 00:40:08.707] [Server thread/INFO] [Waila/]: Syncing config to Dylan_HHH (7bf25c75-cb42-3eb9-bc7e-9109e9e259b5)
+[25Mar2025 00:40:08.707] [Server thread/INFO] [se.mickelus.tetra.data.DataManager/]: Sending data to client: Dylan_HHH
+[25Mar2025 00:40:11.723] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of Dylan_HHH (18)
+[25Mar2025 00:40:11.724] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to Dylan_HHH
+[25Mar2025 00:40:23.007] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 7bf25c75-cb42-3eb9-bc7e-9109e9e259b5
+[25Mar2025 00:41:14.737] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 7bf25c75-cb42-3eb9-bc7e-9109e9e259b5
+[25Mar2025 00:41:14.738] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player Dylan_HHH (7bf25c75-cb42-3eb9-bc7e-9109e9e259b5) successfully connected to voice chat
+[25Mar2025 00:41:32.857] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player 7bf25c75-cb42-3eb9-bc7e-9109e9e259b5 timed out
+[25Mar2025 00:41:32.857] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Reconnecting player Dylan_HHH
+[25Mar2025 00:41:32.857] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Sent secret to Dylan_HHH
+[25Mar2025 00:41:33.165] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 7bf25c75-cb42-3eb9-bc7e-9109e9e259b5
+[25Mar2025 00:42:04.188] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 7bf25c75-cb42-3eb9-bc7e-9109e9e259b5
+[25Mar2025 00:42:04.188] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player Dylan_HHH (7bf25c75-cb42-3eb9-bc7e-9109e9e259b5) successfully connected to voice chat
+[25Mar2025 00:42:14.672] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Dylan_HHH has made the advancement [Getting an Upgrade]
+[25Mar2025 00:42:33.157] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player 7bf25c75-cb42-3eb9-bc7e-9109e9e259b5 timed out
+[25Mar2025 00:42:33.157] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Reconnecting player Dylan_HHH
+[25Mar2025 00:42:33.157] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Sent secret to Dylan_HHH
+[25Mar2025 00:42:33.278] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 7bf25c75-cb42-3eb9-bc7e-9109e9e259b5
