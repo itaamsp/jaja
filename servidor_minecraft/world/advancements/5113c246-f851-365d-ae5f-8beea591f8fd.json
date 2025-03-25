@@ -3173,6 +3173,7 @@
       "minecraft:skeleton": "2025-03-25 00:56:17 +0000",
       "minecraft:vindicator": "2025-03-24 22:48:02 +0000",
       "minecraft:spider": "2025-03-25 02:59:36 +0000",
+      "minecraft:creeper": "2025-03-25 03:15:25 +0000",
       "minecraft:witch": "2025-03-25 00:52:22 +0000",
       "minecraft:husk": "2025-03-24 22:33:06 +0000",
       "minecraft:zombie": "2025-03-25 02:55:38 +0000"
@@ -6672,6 +6673,12 @@
   "comforts:hammock_pink_from_white": {
     "criteria": {
       "has_the_recipe": "2025-03-24 22:27:30 +0000"
+    },
+    "done": true
+  },
+  "dungeons_arise:find_abandoned_temple": {
+    "criteria": {
+      "location0": "2025-03-25 03:21:42 +0000"
     },
     "done": true
   },
@@ -12186,6 +12193,12 @@
   "minecraft:recipes/food/baked_potato": {
     "criteria": {
       "has_the_recipe": "2025-03-24 22:27:32 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:glaive": {
+    "criteria": {
+      "has_glaive": "2025-03-25 03:23:32 +0000"
     },
     "done": true
   },
@@ -18986,6 +18999,7 @@
     "criteria": {
       "minecraft:cold_ocean": "2025-03-24 23:00:17 +0000",
       "minecraft:forest": "2025-03-24 23:09:05 +0000",
+      "minecraft:mountains": "2025-03-25 03:21:33 +0000",
       "minecraft:desert_hills": "2025-03-24 22:34:12 +0000",
       "minecraft:deep_cold_ocean": "2025-03-25 02:32:44 +0000",
       "minecraft:desert": "2025-03-24 22:32:29 +0000",
