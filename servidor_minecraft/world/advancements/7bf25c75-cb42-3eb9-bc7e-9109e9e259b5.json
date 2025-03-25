@@ -1601,6 +1601,12 @@
     },
     "done": true
   },
+  "minecraft:story/mine_stone": {
+    "criteria": {
+      "get_stone": "2025-03-25 00:07:01 +0000"
+    },
+    "done": true
+  },
   "create:recipes/create.palettes/gabbro_cobblestone_slab": {
     "criteria": {
       "has_the_recipe": "2025-03-24 22:24:08 +0000"
@@ -6175,6 +6181,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/tools/stone_pickaxe": {
+    "criteria": {
+      "has_cobblestone": "2025-03-25 00:07:01 +0000"
+    },
+    "done": true
+  },
   "bountifulbaubles:recipes/bountifulbaubles/disintegration/emerald_block": {
     "criteria": {
       "has_the_recipe": "2025-03-24 14:47:17 +0000"
@@ -9616,6 +9628,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/tools/stone_shovel": {
+    "criteria": {
+      "has_cobblestone": "2025-03-25 00:07:01 +0000"
+    },
+    "done": true
+  },
   "netherdepthsupgrade:recipes/food/warped_kelp_roll": {
     "criteria": {
       "has_warped_kelp": "2025-03-24 22:24:05 +0000"
@@ -10567,6 +10585,12 @@
     },
     "done": true
   },
+  "minecraft:story/obtain_armor": {
+    "criteria": {
+      "iron_boots": "2025-03-25 00:13:33 +0000"
+    },
+    "done": true
+  },
   "biomesoplenty:recipes/building_blocks/chiseled_white_sandstone": {
     "criteria": {
       "has_the_recipe": "2025-03-24 14:47:16 +0000"
@@ -10768,6 +10792,12 @@
   "minecraft:recipes/misc/blue_dye": {
     "criteria": {
       "has_the_recipe": "2025-03-24 14:47:17 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/pulley_block": {
+    "criteria": {
+      "has_plank": "2025-03-25 00:10:19 +0000"
     },
     "done": true
   },
@@ -11173,6 +11203,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/combat/stone_sword": {
+    "criteria": {
+      "has_cobblestone": "2025-03-25 00:07:01 +0000"
+    },
+    "done": true
+  },
   "biomesoplenty:recipes/building_blocks/stripped_palm_wood": {
     "criteria": {
       "has_the_recipe": "2025-03-24 14:47:15 +0000"
@@ -11332,6 +11368,12 @@
   "securitycraft:recipes/securitycraft/reinforced_lime_stained_glass_pane_from_glass": {
     "criteria": {
       "has_the_recipe": "2025-03-24 14:47:18 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/stone_axe": {
+    "criteria": {
+      "has_cobblestone": "2025-03-25 00:07:01 +0000"
     },
     "done": true
   },
@@ -12616,6 +12658,12 @@
   "farmersrespite:recipes/farmersrespite/black_cod": {
     "criteria": {
       "has_the_recipe": "2025-03-24 22:24:08 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/smelt_iron": {
+    "criteria": {
+      "iron": "2025-03-25 00:10:19 +0000"
     },
     "done": true
   },
@@ -15400,6 +15448,12 @@
   "tconstruct:recipes/misc/tools/modifiers/wither_bone_conversion": {
     "criteria": {
       "has_the_recipe": "2025-03-24 14:47:18 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/candelabra_silver": {
+    "criteria": {
+      "has_plank": "2025-03-25 00:13:33 +0000"
     },
     "done": true
   },
@@ -19412,6 +19466,12 @@
   "comforts:hammock_black_from_white": {
     "criteria": {
       "has_the_recipe": "2025-03-24 14:47:17 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/stone_hoe": {
+    "criteria": {
+      "has_cobblestone": "2025-03-25 00:07:01 +0000"
     },
     "done": true
   },
