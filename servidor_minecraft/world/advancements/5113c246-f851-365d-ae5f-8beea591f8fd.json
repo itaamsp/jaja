@@ -4570,6 +4570,7 @@
   },
   "farmersdelight:main/plant_all_crops": {
     "criteria": {
+      "tomato": "2025-03-24 23:52:02 +0000",
       "wheat": "2025-03-24 23:41:21 +0000"
     },
     "done": false
