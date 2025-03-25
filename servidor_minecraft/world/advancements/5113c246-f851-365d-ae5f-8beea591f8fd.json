@@ -11221,6 +11221,12 @@
     },
     "done": true
   },
+  "supplementaries:recipes/string": {
+    "criteria": {
+      "has_plank": "2025-03-25 01:21:32 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/securitycraft/reinforced_polished_granite_from_reinforced_granite_stonecutting": {
     "criteria": {
       "has_the_recipe": "2025-03-24 22:27:31 +0000"
@@ -13087,6 +13093,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/trapped_chest": {
+    "criteria": {
+      "has_tripwire_hook": "2025-03-25 01:22:31 +0000"
+    },
+    "done": true
+  },
   "create:recipes/transportation/crafting/kinetics/minecart_from_contraption_cart": {
     "criteria": {
       "has_the_recipe": "2025-03-24 22:27:32 +0000"
@@ -14164,6 +14176,12 @@
   "upgradednetherite_items:recipes/gold_upgraded_netherite_apple": {
     "criteria": {
       "has_the_recipe2": "2025-03-24 22:27:32 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/rope_arrow": {
+    "criteria": {
+      "has_plank": "2025-03-25 01:21:32 +0000"
     },
     "done": true
   },
@@ -16988,6 +17006,12 @@
     },
     "done": true
   },
+  "dungeons_arise:find_illager_campsite": {
+    "criteria": {
+      "location0": "2025-03-25 01:18:10 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/orange_wool": {
     "criteria": {
       "has_white_wool": "2025-03-24 23:03:52 +0000"
@@ -18922,6 +18946,7 @@
       "minecraft:desert": "2025-03-24 22:32:29 +0000",
       "minecraft:savanna_plateau": "2025-03-24 22:37:49 +0000",
       "minecraft:beach": "2025-03-24 22:33:19 +0000",
+      "minecraft:dark_forest": "2025-03-25 01:17:37 +0000",
       "minecraft:river": "2025-03-24 23:01:10 +0000",
       "minecraft:savanna": "2025-03-24 22:34:58 +0000",
       "minecraft:plains": "2025-03-24 23:02:21 +0000"

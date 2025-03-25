@@ -6055,6 +6055,12 @@
     },
     "done": true
   },
+  "iceandfire:iceandfire/kill_sea_serpent": {
+    "criteria": {
+      "killed_fire_dragon": "2025-03-25 01:23:10 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/granite_stairs_from_granite_stonecutting": {
     "criteria": {
       "has_the_recipe": "2025-03-24 14:47:16 +0000"
@@ -18763,6 +18769,7 @@
       "minecraft:cold_ocean": "2025-03-24 23:02:14 +0000",
       "minecraft:desert_hills": "2025-03-24 22:34:22 +0000",
       "minecraft:desert": "2025-03-24 22:32:44 +0000",
+      "minecraft:deep_frozen_ocean": "2025-03-25 01:19:30 +0000",
       "minecraft:savanna_plateau": "2025-03-24 22:53:50 +0000",
       "minecraft:beach": "2025-03-24 22:33:29 +0000",
       "minecraft:dark_forest": "2025-03-24 23:45:38 +0000",

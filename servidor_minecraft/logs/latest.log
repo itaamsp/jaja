@@ -82,3 +82,130 @@
 [25Mar2025 01:14:25.685] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 5113c246-f851-365d-ae5f-8beea591f8fd
 [25Mar2025 01:14:40.693] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 5113c246-f851-365d-ae5f-8beea591f8fd
 [25Mar2025 01:14:40.694] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player Crying_Prophet (5113c246-f851-365d-ae5f-8beea591f8fd) successfully connected to voice chat
+[25Mar2025 01:15:18.876] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2019ms or 40 ticks behind
+[25Mar2025 01:15:25.951] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player 5113c246-f851-365d-ae5f-8beea591f8fd timed out
+[25Mar2025 01:15:25.951] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Reconnecting player Crying_Prophet
+[25Mar2025 01:15:25.952] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Sent secret to Crying_Prophet
+[25Mar2025 01:15:26.038] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 5113c246-f851-365d-ae5f-8beea591f8fd
+[25Mar2025 01:15:42.047] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 5113c246-f851-365d-ae5f-8beea591f8fd
+[25Mar2025 01:15:42.047] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player Crying_Prophet (5113c246-f851-365d-ae5f-8beea591f8fd) successfully connected to voice chat
+[25Mar2025 01:16:26.272] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player 5113c246-f851-365d-ae5f-8beea591f8fd timed out
+[25Mar2025 01:16:26.272] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Reconnecting player Crying_Prophet
+[25Mar2025 01:16:26.272] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Sent secret to Crying_Prophet
+[25Mar2025 01:16:26.349] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 5113c246-f851-365d-ae5f-8beea591f8fd
+[25Mar2025 01:16:42.356] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 5113c246-f851-365d-ae5f-8beea591f8fd
+[25Mar2025 01:16:42.356] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player Crying_Prophet (5113c246-f851-365d-ae5f-8beea591f8fd) successfully connected to voice chat
+[25Mar2025 01:17:27.584] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player 5113c246-f851-365d-ae5f-8beea591f8fd timed out
+[25Mar2025 01:17:27.587] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Reconnecting player Crying_Prophet
+[25Mar2025 01:17:27.588] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Sent secret to Crying_Prophet
+[25Mar2025 01:17:27.710] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 5113c246-f851-365d-ae5f-8beea591f8fd
+[25Mar2025 01:17:42.717] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 5113c246-f851-365d-ae5f-8beea591f8fd
+[25Mar2025 01:17:42.717] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player Crying_Prophet (5113c246-f851-365d-ae5f-8beea591f8fd) successfully connected to voice chat
+[25Mar2025 01:18:03.938] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: Boat (vehicle of Dylan_HHH) moved wrongly! 0.3252949038835311
+[25Mar2025 01:18:03.939] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: Boat (vehicle of Dylan_HHH) moved wrongly! 0.7233890578643809
+[25Mar2025 01:18:03.940] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: Boat (vehicle of Dylan_HHH) moved wrongly! 1.121673476862668
+[25Mar2025 01:18:03.974] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: Boat (vehicle of Dylan_HHH) moved wrongly! 1.3708483707592762
+[25Mar2025 01:18:04.086] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: Boat (vehicle of Dylan_HHH) moved wrongly! 1.496204958688466
+[25Mar2025 01:18:10.717] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Crying_Prophet has made the advancement [People Are Strange]
+[25Mar2025 01:18:28.006] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player 5113c246-f851-365d-ae5f-8beea591f8fd timed out
+[25Mar2025 01:18:28.006] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Reconnecting player Crying_Prophet
+[25Mar2025 01:18:28.007] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Sent secret to Crying_Prophet
+[25Mar2025 01:18:28.103] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 5113c246-f851-365d-ae5f-8beea591f8fd
+[25Mar2025 01:18:43.110] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 5113c246-f851-365d-ae5f-8beea591f8fd
+[25Mar2025 01:18:43.110] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player Crying_Prophet (5113c246-f851-365d-ae5f-8beea591f8fd) successfully connected to voice chat
+[25Mar2025 01:18:43.159] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2052ms or 41 ticks behind
+[25Mar2025 01:18:51.713] [Server thread/INFO] [morpheus/]: Dylan_HHH is now sleeping. 1/2 (50%)
+[25Mar2025 01:19:28.489] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player 5113c246-f851-365d-ae5f-8beea591f8fd timed out
+[25Mar2025 01:19:28.489] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Reconnecting player Crying_Prophet
+[25Mar2025 01:19:28.490] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Sent secret to Crying_Prophet
+[25Mar2025 01:19:28.837] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 5113c246-f851-365d-ae5f-8beea591f8fd
+[25Mar2025 01:21:07.774] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: Dylan_HHH was kicked for floating too long!
+[25Mar2025 01:21:07.813] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: Dylan_HHH lost connection: Flying is not enabled on this server
+[25Mar2025 01:21:07.813] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Dylan_HHH left the game
+[25Mar2025 01:21:07.814] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Dylan_HHH
+[25Mar2025 01:21:16.107] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.advancements.PlayerAdvancements@6581cfcd
+[25Mar2025 01:21:16.168] [Server thread/INFO] [net.minecraft.server.management.PlayerList/]: Dylan_HHH[/127.22.238.216:49753] logged in with entity id 63726 at (-379.5413602521031, 62.07326557619767, 90.71586835075053)
+[25Mar2025 01:21:16.176] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Dylan_HHH joined the game
+[25Mar2025 01:21:16.199] [Server thread/INFO] [Waila/]: Syncing config to Dylan_HHH (7bf25c75-cb42-3eb9-bc7e-9109e9e259b5)
+[25Mar2025 01:21:16.199] [Server thread/INFO] [se.mickelus.tetra.data.DataManager/]: Sending data to client: Dylan_HHH
+[25Mar2025 01:21:16.236] [Server thread/WARN] [net.minecraft.world.server.ServerWorld/]: Trying to add entity with duplicated UUID 827431fe-fe01-40cc-aafd-e83afed12a40. Existing minecraft:boat#63727, new: minecraft:boat#63727
+[25Mar2025 01:21:17.287] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of Dylan_HHH (18)
+[25Mar2025 01:21:17.287] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to Dylan_HHH
+[25Mar2025 01:21:23.602] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 7bf25c75-cb42-3eb9-bc7e-9109e9e259b5
+[25Mar2025 01:21:24.602] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 7bf25c75-cb42-3eb9-bc7e-9109e9e259b5
+[25Mar2025 01:21:24.604] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player Dylan_HHH (7bf25c75-cb42-3eb9-bc7e-9109e9e259b5) successfully connected to voice chat
+[25Mar2025 01:21:32.237] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3580ms or 71 ticks behind
+[25Mar2025 01:21:32.285] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: Boat (vehicle of Dylan_HHH) moved too quickly! 1.5857163255603837,0.0,9.96128943389833
+[25Mar2025 01:21:32.286] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: Boat (vehicle of Dylan_HHH) moved too quickly! 1.5994388558690957,0.0,10.30214060452812
+[25Mar2025 01:21:32.286] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: Boat (vehicle of Dylan_HHH) moved too quickly! 1.611708598882899,0.0,10.648906567117947
+[25Mar2025 01:21:32.286] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: Boat (vehicle of Dylan_HHH) moved too quickly! 1.622636318907837,0.0,11.000995760374408
+[25Mar2025 01:21:32.287] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: Boat (vehicle of Dylan_HHH) moved too quickly! 1.632325538813916,0.0,11.357875760521082
+[25Mar2025 01:21:32.287] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: Boat (vehicle of Dylan_HHH) moved too quickly! 1.6410458364983356,0.0,11.679067752144405
+[25Mar2025 01:21:32.287] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: Boat (vehicle of Dylan_HHH) moved too quickly! 1.6488941042064198,0.0,11.968140536947573
+[25Mar2025 01:21:32.287] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: Boat (vehicle of Dylan_HHH) moved too quickly! 1.6559575449566069,0.0,12.228306036378399
+[25Mar2025 01:21:32.288] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: Boat (vehicle of Dylan_HHH) moved too quickly! 1.6623146414633538,0.0,12.462454979663306
+[25Mar2025 01:21:32.288] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: Boat (vehicle of Dylan_HHH) moved too quickly! 1.6680360281678759,0.0,12.673189023037182
+[25Mar2025 01:21:32.288] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: Boat (vehicle of Dylan_HHH) moved too quickly! 1.6731852760655102,0.0,12.86284965704938
+[25Mar2025 01:21:32.288] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: Boat (vehicle of Dylan_HHH) moved too quickly! 1.677819599050622,0.0,13.033544223138492
+[25Mar2025 01:21:32.289] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: Boat (vehicle of Dylan_HHH) moved too quickly! 1.6819904896267417,0.0,13.187169328549018
+[25Mar2025 01:21:32.289] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: Boat (vehicle of Dylan_HHH) moved too quickly! 1.6857442910458076,0.0,13.325431919755786
+[25Mar2025 01:21:32.289] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: Boat (vehicle of Dylan_HHH) moved too quickly! 1.689122712233484,0.0,13.449868248545442
+[25Mar2025 01:21:32.290] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: Boat (vehicle of Dylan_HHH) moved too quickly! 1.6921632912218456,0.0,13.561860941489343
+[25Mar2025 01:21:32.290] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: Boat (vehicle of Dylan_HHH) moved too quickly! 1.694899812238873,0.0,13.662654362468729
+[25Mar2025 01:21:32.290] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: Boat (vehicle of Dylan_HHH) moved too quickly! 1.6973626810889186,0.0,13.753368438947078
+[25Mar2025 01:21:32.290] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: Boat (vehicle of Dylan_HHH) moved too quickly! 1.6995792629952575,0.0,13.835011105614797
+[25Mar2025 01:21:32.291] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: Boat (vehicle of Dylan_HHH) moved too quickly! 1.7015741866580925,0.0,13.90848950366923
+[25Mar2025 01:21:32.291] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: Boat (vehicle of Dylan_HHH) moved too quickly! 1.7033696179071285,0.0,13.974620060166359
+[25Mar2025 01:21:32.291] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: Boat (vehicle of Dylan_HHH) moved too quickly! 1.7045981819099438,0.0,14.074135680996719
+[25Mar2025 01:21:32.293] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: Boat (vehicle of Dylan_HHH) moved too quickly! 1.705312730625792,0.0,14.20369782540341
+[25Mar2025 01:21:32.294] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: Boat (vehicle of Dylan_HHH) moved too quickly! 1.7055608308167507,0.0,14.360301799334252
+[25Mar2025 01:21:32.294] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: Boat (vehicle of Dylan_HHH) moved too quickly! 1.7053852925965884,0.0,14.541243381939182
+[25Mar2025 01:21:32.294] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: Boat (vehicle of Dylan_HHH) moved too quickly! 1.704824645037661,0.0,14.74408877451765
+[25Mar2025 01:21:32.296] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: Boat (vehicle of Dylan_HHH) moved too quickly! 1.7039135643622672,0.0,14.966647558297169
+[25Mar2025 01:21:32.296] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: Boat (vehicle of Dylan_HHH) moved too quickly! 1.7026832591114953,0.0,15.206948352709432
+[25Mar2025 01:21:32.296] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: Boat (vehicle of Dylan_HHH) moved too quickly! 1.7011656517505571,0.0,15.463216956268155
+[25Mar2025 01:21:32.297] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: Boat (vehicle of Dylan_HHH) moved too quickly! 1.6993856377474685,0.0,15.733856550425102
+[25Mar2025 01:21:32.297] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: Boat (vehicle of Dylan_HHH) moved too quickly! 1.6973694577727088,0.0,16.017430035777807
+[25Mar2025 01:21:32.297] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: Boat (vehicle of Dylan_HHH) moved too quickly! 1.6951368937083657,0.0,16.312643981920147
+[25Mar2025 01:21:32.298] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: Boat (vehicle of Dylan_HHH) moved too quickly! 1.6927095839685649,0.0,16.618334342495615
+[25Mar2025 01:21:32.298] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: Boat (vehicle of Dylan_HHH) moved too quickly! 1.6901031683756855,0.0,16.933453434832927
+[25Mar2025 01:21:32.298] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: Boat (vehicle of Dylan_HHH) moved too quickly! 1.6873355575193045,0.0,17.25705838553111
+[25Mar2025 01:21:32.300] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: Boat (vehicle of Dylan_HHH) moved too quickly! 1.684422870929609,0.0,17.588300608551748
+[25Mar2025 01:21:32.300] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: Boat (vehicle of Dylan_HHH) moved too quickly! 1.681375781433644,0.0,17.926416335502324
+[25Mar2025 01:21:32.303] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: Boat (vehicle of Dylan_HHH) moved too quickly! 1.6782077293251518,0.0,18.270718215825966
+[25Mar2025 01:21:32.304] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: Boat (vehicle of Dylan_HHH) moved too quickly! 1.674930810868318,0.0,18.620587634037875
+[25Mar2025 01:21:32.305] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: Boat (vehicle of Dylan_HHH) moved too quickly! 1.671555912700569,0.0,18.97546783621648
+[25Mar2025 01:21:32.305] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: Boat (vehicle of Dylan_HHH) moved too quickly! 1.6680889980746088,0.0,19.334857702867467
+[25Mar2025 01:21:32.306] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: Boat (vehicle of Dylan_HHH) moved too quickly! 1.664539268638464,0.0,19.698306267436067
+[25Mar2025 01:21:32.307] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: Boat (vehicle of Dylan_HHH) moved too quickly! 1.6609150058751538,0.0,20.065407660033756
+[25Mar2025 01:21:32.307] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: Boat (vehicle of Dylan_HHH) moved too quickly! 1.6572236631191686,0.0,20.435796597770533
+[25Mar2025 01:21:32.307] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: Boat (vehicle of Dylan_HHH) moved too quickly! 1.6534719483713616,0.0,20.80914432605411
+[25Mar2025 01:21:32.308] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: Boat (vehicle of Dylan_HHH) moved too quickly! 1.6496658988323247,0.0,21.185154965759253
+[25Mar2025 01:21:32.340] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: Boat (vehicle of Dylan_HHH) moved too quickly! 0.07538448929625474,0.0,11.936551900804375
+[25Mar2025 01:21:32.385] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: Boat (vehicle of Dylan_HHH) moved too quickly! 0.07078387355500126,0.0,12.317102428420796
+[25Mar2025 01:21:55.300] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player 7bf25c75-cb42-3eb9-bc7e-9109e9e259b5 timed out
+[25Mar2025 01:21:55.300] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Reconnecting player Dylan_HHH
+[25Mar2025 01:21:55.300] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Sent secret to Dylan_HHH
+[25Mar2025 01:21:55.418] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 7bf25c75-cb42-3eb9-bc7e-9109e9e259b5
+[25Mar2025 01:22:01.062] [Server thread/WARN] [net.minecraft.loot.LootTable/]: Tried to over-fill a container
+[25Mar2025 01:22:21.437] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 7bf25c75-cb42-3eb9-bc7e-9109e9e259b5
+[25Mar2025 01:22:21.439] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player Dylan_HHH (7bf25c75-cb42-3eb9-bc7e-9109e9e259b5) successfully connected to voice chat
+[25Mar2025 01:22:55.665] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player 7bf25c75-cb42-3eb9-bc7e-9109e9e259b5 timed out
+[25Mar2025 01:22:55.665] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Reconnecting player Dylan_HHH
+[25Mar2025 01:22:55.666] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Sent secret to Dylan_HHH
+[25Mar2025 01:22:55.762] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 7bf25c75-cb42-3eb9-bc7e-9109e9e259b5
+[25Mar2025 01:23:10.544] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Dylan_HHH has made the advancement [Sea? Not a Problem]
+[25Mar2025 01:23:21.825] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 7bf25c75-cb42-3eb9-bc7e-9109e9e259b5
+[25Mar2025 01:23:21.825] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player Dylan_HHH (7bf25c75-cb42-3eb9-bc7e-9109e9e259b5) successfully connected to voice chat
+[25Mar2025 01:23:55.980] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player 7bf25c75-cb42-3eb9-bc7e-9109e9e259b5 timed out
+[25Mar2025 01:23:55.980] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Reconnecting player Dylan_HHH
+[25Mar2025 01:23:55.980] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Sent secret to Dylan_HHH
+[25Mar2025 01:23:56.070] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 7bf25c75-cb42-3eb9-bc7e-9109e9e259b5
+[25Mar2025 01:24:22.176] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 7bf25c75-cb42-3eb9-bc7e-9109e9e259b5
+[25Mar2025 01:24:22.176] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player Dylan_HHH (7bf25c75-cb42-3eb9-bc7e-9109e9e259b5) successfully connected to voice chat
+[25Mar2025 01:24:56.286] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player 7bf25c75-cb42-3eb9-bc7e-9109e9e259b5 timed out
+[25Mar2025 01:24:56.286] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Reconnecting player Dylan_HHH
+[25Mar2025 01:24:56.290] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Sent secret to Dylan_HHH
+[25Mar2025 01:24:56.414] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 7bf25c75-cb42-3eb9-bc7e-9109e9e259b5
+[25Mar2025 01:25:22.673] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 7bf25c75-cb42-3eb9-bc7e-9109e9e259b5
+[25Mar2025 01:25:22.674] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player Dylan_HHH (7bf25c75-cb42-3eb9-bc7e-9109e9e259b5) successfully connected to voice chat
