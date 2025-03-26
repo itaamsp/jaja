@@ -995,6 +995,12 @@
     },
     "done": true
   },
+  "dungeons_arise:find_wishing_well": {
+    "criteria": {
+      "location0": "2025-03-26 00:39:17 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/golden_pickaxe": {
     "criteria": {
       "has_the_recipe": "2025-03-24 22:27:32 +0000"
@@ -3176,7 +3182,9 @@
       "minecraft:creeper": "2025-03-25 03:15:25 +0000",
       "minecraft:witch": "2025-03-25 00:52:22 +0000",
       "minecraft:husk": "2025-03-24 22:33:06 +0000",
-      "minecraft:zombie": "2025-03-25 02:55:38 +0000"
+      "minecraft:cave_spider": "2025-03-26 02:15:42 +0000",
+      "minecraft:zombie": "2025-03-25 02:55:38 +0000",
+      "minecraft:drowned": "2025-03-26 02:21:09 +0000"
     },
     "done": false
   },
@@ -4513,6 +4521,12 @@
     },
     "done": true
   },
+  "spartanweaponry:rapier": {
+    "criteria": {
+      "has_rapier": "2025-03-26 01:57:50 +0000"
+    },
+    "done": true
+  },
   "create:recipes/create.palettes/paved_diorite_slab_from_paved_diorite_stonecutting": {
     "criteria": {
       "has_the_recipe": "2025-03-24 22:27:33 +0000"
@@ -5339,6 +5353,12 @@
   "comforts:hammock_red_from_white": {
     "criteria": {
       "has_the_recipe": "2025-03-24 22:27:31 +0000"
+    },
+    "done": true
+  },
+  "tetra:spelunking/root": {
+    "criteria": {
+      "spelunking": "2025-03-26 02:00:44 +0000"
     },
     "done": true
   },
@@ -6289,6 +6309,12 @@
   "tconstruct:recipes/tconstruct/general/common/glass/blue_clear_stained_glass_pane_from_panes": {
     "criteria": {
       "has_the_recipe": "2025-03-24 22:27:34 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:iceandfire/kill_stymphalian_bird": {
+    "criteria": {
+      "killed_fire_dragon": "2025-03-26 00:54:33 +0000"
     },
     "done": true
   },
@@ -8063,6 +8089,12 @@
     },
     "done": true
   },
+  "spartanweaponry:root": {
+    "criteria": {
+      "has_handle": "2025-03-26 01:57:50 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/gold_block": {
     "criteria": {
       "has_the_recipe": "2025-03-24 22:27:32 +0000"
@@ -8266,6 +8298,12 @@
   "minecraft:recipes/redstone/redstone_block": {
     "criteria": {
       "has_the_recipe": "2025-03-24 22:27:31 +0000"
+    },
+    "done": true
+  },
+  "tetra:spelunking/find_scroll_throwing": {
+    "criteria": {
+      "find": "2025-03-26 02:27:47 +0000"
     },
     "done": true
   },
@@ -9637,6 +9675,12 @@
     },
     "done": true
   },
+  "minecraft:story/mine_diamond": {
+    "criteria": {
+      "diamond": "2025-03-26 01:11:32 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/polished_granite_stairs_from_granite_stonecutting": {
     "criteria": {
       "has_the_recipe": "2025-03-24 22:27:30 +0000"
@@ -10401,6 +10445,12 @@
     },
     "done": true
   },
+  "farmersdelight:main/place_cooking_pot": {
+    "criteria": {
+      "cooking_pot": "2025-03-26 03:21:33 +0000"
+    },
+    "done": true
+  },
   "tconstruct:recipes/brewing/common/slime/magma_cream": {
     "criteria": {
       "has_the_recipe": "2025-03-24 22:27:29 +0000"
@@ -10680,6 +10730,12 @@
   "minecraft:recipes/building_blocks/end_stone_brick_stairs_from_end_stone_brick_stonecutting": {
     "criteria": {
       "has_the_recipe": "2025-03-24 22:27:32 +0000"
+    },
+    "done": true
+  },
+  "artifacts:chest_slayer": {
+    "criteria": {
+      "kill_mimic": "2025-03-26 02:22:51 +0000"
     },
     "done": true
   },
@@ -14662,6 +14718,12 @@
     },
     "done": true
   },
+  "minecraft:adventure/trade": {
+    "criteria": {
+      "traded": "2025-03-26 01:09:05 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/travelersbackpack/bat_smithing_gold": {
     "criteria": {
       "has_the_recipe": "2025-03-24 22:27:29 +0000"
@@ -15445,6 +15507,12 @@
   "securitycraft:recipes/securitycraft/purple_lens": {
     "criteria": {
       "has_the_recipe": "2025-03-24 22:27:32 +0000"
+    },
+    "done": true
+  },
+  "tetra:spelunking/find_scroll": {
+    "criteria": {
+      "find": "2025-03-26 02:27:47 +0000"
     },
     "done": true
   },
@@ -16889,6 +16957,12 @@
     },
     "done": true
   },
+  "supplementaries:recipes/sign_post_mahogany": {
+    "criteria": {
+      "has_plank": "2025-03-26 03:23:39 +0000"
+    },
+    "done": true
+  },
   "create:recipes/create.palettes/oak_window": {
     "criteria": {
       "has_the_recipe": "2025-03-24 22:27:32 +0000"
@@ -17279,6 +17353,12 @@
     },
     "done": true
   },
+  "supplementaries:recipes/hanging_sign_mahogany": {
+    "criteria": {
+      "has_plank": "2025-03-26 03:23:39 +0000"
+    },
+    "done": true
+  },
   "tconstruct:recipes/tconstruct/world/world/wood/bloodshroom/button": {
     "criteria": {
       "has_the_recipe": "2025-03-24 22:27:33 +0000"
@@ -17366,6 +17446,12 @@
   "minecraft:recipes/building_blocks/mossy_stone_bricks": {
     "criteria": {
       "has_the_recipe": "2025-03-24 22:27:32 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:main/use_cutting_board": {
+    "criteria": {
+      "cutting_board": "2025-03-26 02:37:16 +0000"
     },
     "done": true
   },
@@ -18875,6 +18961,12 @@
     },
     "done": true
   },
+  "artifacts:amateur_archaeologist": {
+    "criteria": {
+      "find_artifact": "2025-03-26 02:22:58 +0000"
+    },
+    "done": true
+  },
   "biomesoplenty:recipes/building_blocks/dead_slab": {
     "criteria": {
       "has_the_recipe": "2025-03-24 22:27:34 +0000"
@@ -19027,6 +19119,7 @@
       "minecraft:desert_hills": "2025-03-24 22:34:12 +0000",
       "minecraft:deep_cold_ocean": "2025-03-25 02:32:44 +0000",
       "minecraft:desert": "2025-03-24 22:32:29 +0000",
+      "minecraft:deep_frozen_ocean": "2025-03-26 01:28:04 +0000",
       "minecraft:savanna_plateau": "2025-03-24 22:37:49 +0000",
       "minecraft:beach": "2025-03-24 22:33:19 +0000",
       "minecraft:dark_forest": "2025-03-25 01:17:37 +0000",
@@ -19531,12 +19624,14 @@
   },
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
+      "cooked_beef": "2025-03-26 01:30:29 +0000",
       "baked_potato": "2025-03-25 03:54:08 +0000",
       "apple": "2025-03-25 00:23:24 +0000",
       "cooked_cod": "2025-03-24 23:05:22 +0000",
       "pumpkin_pie": "2025-03-24 23:00:55 +0000",
       "bread": "2025-03-24 22:42:56 +0000",
       "cookie": "2025-03-24 22:36:43 +0000",
+      "melon_slice": "2025-03-26 02:39:58 +0000",
       "beetroot": "2025-03-24 23:00:47 +0000",
       "cooked_rabbit": "2025-03-25 00:19:04 +0000"
     },
@@ -19761,6 +19856,12 @@
   "create:recipes/create.palettes/andesite_cobblestone_slab": {
     "criteria": {
       "has_the_recipe": "2025-03-24 22:27:33 +0000"
+    },
+    "done": true
+  },
+  "mowziesmobs:kill_foliaath": {
+    "criteria": {
+      "foliaath": "2025-03-26 03:32:16 +0000"
     },
     "done": true
   },

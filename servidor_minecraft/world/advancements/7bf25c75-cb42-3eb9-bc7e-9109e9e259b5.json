@@ -1001,6 +1001,12 @@
     },
     "done": true
   },
+  "alexsmobs:alexsmobs/orcas_might": {
+    "criteria": {
+      "all_effects": "2025-03-26 01:39:23 +0000"
+    },
+    "done": true
+  },
   "biomesoplenty:recipes/building_blocks/stripped_magic_wood": {
     "criteria": {
       "has_the_recipe": "2025-03-24 14:47:17 +0000"
@@ -3153,6 +3159,7 @@
     "criteria": {
       "minecraft:pillager": "2025-03-25 01:34:13 +0000",
       "minecraft:skeleton": "2025-03-25 02:36:45 +0000",
+      "minecraft:spider": "2025-03-26 02:03:36 +0000",
       "minecraft:creeper": "2025-03-25 02:26:25 +0000",
       "minecraft:zombie": "2025-03-25 02:29:47 +0000"
     },
@@ -5298,6 +5305,12 @@
   "comforts:hammock_red_from_white": {
     "criteria": {
       "has_the_recipe": "2025-03-24 14:47:17 +0000"
+    },
+    "done": true
+  },
+  "tetra:spelunking/root": {
+    "criteria": {
+      "spelunking": "2025-03-26 01:59:23 +0000"
     },
     "done": true
   },
