@@ -1,196 +1,844 @@
-8[0mno command provided, doing auto run[2J8[0mchecking if secret key is valid[2J8[0msecret key valid, agent has 2 tunnels[2J8[0mstarting up tunnel connection[2J8[0mtunnel running[2J8[0mplayit (v0.15.26): 1742948623598 tunnel running, 2 tunnels registered
+8[0mno command provided, doing auto run[2J8[0mchecking if secret key is valid[2J8[0msecret key valid, agent has 2 tunnels[2J8[0mstarting up tunnel connection[2J8[0mtunnel running[2J8[0mplayit (v0.15.26): 1742948788973 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 re-goods.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 shall-icq.gl.at.ply.gg:1368 => 127.0.0.1:1368 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1742948626740 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1742948792226 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 re-goods.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 shall-icq.gl.at.ply.gg:1368 => 127.0.0.1:1368 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1742948630168 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1742948795428 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 re-goods.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 shall-icq.gl.at.ply.gg:1368 => 127.0.0.1:1368 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1742948633745 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1742948798737 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 re-goods.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 shall-icq.gl.at.ply.gg:1368 => 127.0.0.1:1368 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1742948636901 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1742948801932 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 re-goods.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 shall-icq.gl.at.ply.gg:1368 => 127.0.0.1:1368 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1742948639989 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1742948805292 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 re-goods.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 shall-icq.gl.at.ply.gg:1368 => 127.0.0.1:1368 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1742948643333 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1742948808502 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 re-goods.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 shall-icq.gl.at.ply.gg:1368 => 127.0.0.1:1368 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1742948646507 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1742948812214 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 re-goods.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 shall-icq.gl.at.ply.gg:1368 => 127.0.0.1:1368 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1742948649723 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1742948815476 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 re-goods.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 shall-icq.gl.at.ply.gg:1368 => 127.0.0.1:1368 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1742948652895 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1742948818693 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 re-goods.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 shall-icq.gl.at.ply.gg:1368 => 127.0.0.1:1368 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1742948656080 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1742948822021 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 re-goods.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 shall-icq.gl.at.ply.gg:1368 => 127.0.0.1:1368 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1742948659241 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1742948825318 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 re-goods.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 shall-icq.gl.at.ply.gg:1368 => 127.0.0.1:1368 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1742948662524 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1742948828689 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 re-goods.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 shall-icq.gl.at.ply.gg:1368 => 127.0.0.1:1368 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1742948665709 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1742948831873 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 re-goods.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 shall-icq.gl.at.ply.gg:1368 => 127.0.0.1:1368 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1742948668851 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1742948835207 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 re-goods.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 shall-icq.gl.at.ply.gg:1368 => 127.0.0.1:1368 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1742948672048 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1742948839629 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 re-goods.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 shall-icq.gl.at.ply.gg:1368 => 127.0.0.1:1368 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1742948675538 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1742948842736 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 re-goods.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 shall-icq.gl.at.ply.gg:1368 => 127.0.0.1:1368 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1742948678728 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1742948845950 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 re-goods.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 shall-icq.gl.at.ply.gg:1368 => 127.0.0.1:1368 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1742948682101 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1742948849338 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 re-goods.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 shall-icq.gl.at.ply.gg:1368 => 127.0.0.1:1368 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1742948685315 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1742948852718 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 re-goods.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 shall-icq.gl.at.ply.gg:1368 => 127.0.0.1:1368 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1742948688478 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1742948856248 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 re-goods.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 shall-icq.gl.at.ply.gg:1368 => 127.0.0.1:1368 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1742948691698 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1742948859492 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 re-goods.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 shall-icq.gl.at.ply.gg:1368 => 127.0.0.1:1368 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1742948694889 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1742948862608 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 re-goods.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 shall-icq.gl.at.ply.gg:1368 => 127.0.0.1:1368 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1742948698294 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1742948865885 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 re-goods.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 shall-icq.gl.at.ply.gg:1368 => 127.0.0.1:1368 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1742948701597 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1742948868982 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 re-goods.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 shall-icq.gl.at.ply.gg:1368 => 127.0.0.1:1368 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1742948704828 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1742948872191 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 re-goods.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 shall-icq.gl.at.ply.gg:1368 => 127.0.0.1:1368 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1742948708015 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1742948875571 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 re-goods.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 shall-icq.gl.at.ply.gg:1368 => 127.0.0.1:1368 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1742948711248 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1742948878928 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 re-goods.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 shall-icq.gl.at.ply.gg:1368 => 127.0.0.1:1368 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1742948714447 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1742948882297 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 re-goods.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 shall-icq.gl.at.ply.gg:1368 => 127.0.0.1:1368 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1742948717694 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1742948885669 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 re-goods.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 shall-icq.gl.at.ply.gg:1368 => 127.0.0.1:1368 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1742948720902 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1742948889874 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 re-goods.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 shall-icq.gl.at.ply.gg:1368 => 127.0.0.1:1368 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1742948724182 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1742948893019 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 re-goods.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 shall-icq.gl.at.ply.gg:1368 => 127.0.0.1:1368 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1742948727348 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1742948896228 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+re-goods.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+shall-icq.gl.at.ply.gg:1368 => 127.0.0.1:1368 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1742948899374 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+re-goods.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+shall-icq.gl.at.ply.gg:1368 => 127.0.0.1:1368 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1742948902481 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+re-goods.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+shall-icq.gl.at.ply.gg:1368 => 127.0.0.1:1368 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1742948905572 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+re-goods.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+shall-icq.gl.at.ply.gg:1368 => 127.0.0.1:1368 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1742948908943 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+re-goods.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+shall-icq.gl.at.ply.gg:1368 => 127.0.0.1:1368 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1742948912442 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+re-goods.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+shall-icq.gl.at.ply.gg:1368 => 127.0.0.1:1368 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1742948915572 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+re-goods.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+shall-icq.gl.at.ply.gg:1368 => 127.0.0.1:1368 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1742948918900 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+re-goods.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+shall-icq.gl.at.ply.gg:1368 => 127.0.0.1:1368 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1742948922088 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+re-goods.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+shall-icq.gl.at.ply.gg:1368 => 127.0.0.1:1368 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1742948925578 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+re-goods.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+shall-icq.gl.at.ply.gg:1368 => 127.0.0.1:1368 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1742948928922 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+re-goods.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+shall-icq.gl.at.ply.gg:1368 => 127.0.0.1:1368 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1742948932395 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+re-goods.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+shall-icq.gl.at.ply.gg:1368 => 127.0.0.1:1368 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1742948935666 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+re-goods.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+shall-icq.gl.at.ply.gg:1368 => 127.0.0.1:1368 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1742948938997 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+re-goods.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+shall-icq.gl.at.ply.gg:1368 => 127.0.0.1:1368 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1742948942178 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+re-goods.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+shall-icq.gl.at.ply.gg:1368 => 127.0.0.1:1368 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1742948945503 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+re-goods.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+shall-icq.gl.at.ply.gg:1368 => 127.0.0.1:1368 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1742948950263 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+re-goods.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+shall-icq.gl.at.ply.gg:1368 => 127.0.0.1:1368 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1742948953433 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+re-goods.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+shall-icq.gl.at.ply.gg:1368 => 127.0.0.1:1368 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1742948956524 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+re-goods.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+shall-icq.gl.at.ply.gg:1368 => 127.0.0.1:1368 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1742948959817 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+re-goods.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+shall-icq.gl.at.ply.gg:1368 => 127.0.0.1:1368 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1742948962891 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+re-goods.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+shall-icq.gl.at.ply.gg:1368 => 127.0.0.1:1368 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1742948966265 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+re-goods.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+shall-icq.gl.at.ply.gg:1368 => 127.0.0.1:1368 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1742948969572 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+re-goods.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+shall-icq.gl.at.ply.gg:1368 => 127.0.0.1:1368 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1742948972711 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+re-goods.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+shall-icq.gl.at.ply.gg:1368 => 127.0.0.1:1368 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1742948975913 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+re-goods.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+shall-icq.gl.at.ply.gg:1368 => 127.0.0.1:1368 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1742948979083 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+re-goods.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+shall-icq.gl.at.ply.gg:1368 => 127.0.0.1:1368 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1742948982205 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+re-goods.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+shall-icq.gl.at.ply.gg:1368 => 127.0.0.1:1368 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1742948985453 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+re-goods.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+shall-icq.gl.at.ply.gg:1368 => 127.0.0.1:1368 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1742948988563 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+re-goods.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+shall-icq.gl.at.ply.gg:1368 => 127.0.0.1:1368 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1742948991754 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+re-goods.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+shall-icq.gl.at.ply.gg:1368 => 127.0.0.1:1368 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1742948995228 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+re-goods.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+shall-icq.gl.at.ply.gg:1368 => 127.0.0.1:1368 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1742948998613 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+re-goods.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+shall-icq.gl.at.ply.gg:1368 => 127.0.0.1:1368 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1742949001972 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+re-goods.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+shall-icq.gl.at.ply.gg:1368 => 127.0.0.1:1368 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1742949005591 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+re-goods.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+shall-icq.gl.at.ply.gg:1368 => 127.0.0.1:1368 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1742949008684 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+re-goods.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+shall-icq.gl.at.ply.gg:1368 => 127.0.0.1:1368 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1742949011838 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+re-goods.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+shall-icq.gl.at.ply.gg:1368 => 127.0.0.1:1368 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1742949015197 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+re-goods.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+shall-icq.gl.at.ply.gg:1368 => 127.0.0.1:1368 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1742949019964 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+re-goods.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+shall-icq.gl.at.ply.gg:1368 => 127.0.0.1:1368 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1742949023085 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+re-goods.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+shall-icq.gl.at.ply.gg:1368 => 127.0.0.1:1368 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1742949026598 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+re-goods.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+shall-icq.gl.at.ply.gg:1368 => 127.0.0.1:1368 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1742949030027 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+re-goods.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+shall-icq.gl.at.ply.gg:1368 => 127.0.0.1:1368 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1742949033431 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+re-goods.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+shall-icq.gl.at.ply.gg:1368 => 127.0.0.1:1368 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1742949037126 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+re-goods.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+shall-icq.gl.at.ply.gg:1368 => 127.0.0.1:1368 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1742949040639 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+re-goods.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+shall-icq.gl.at.ply.gg:1368 => 127.0.0.1:1368 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1742949044237 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+re-goods.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+shall-icq.gl.at.ply.gg:1368 => 127.0.0.1:1368 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1742949047862 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+re-goods.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+shall-icq.gl.at.ply.gg:1368 => 127.0.0.1:1368 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1742949051432 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+re-goods.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+shall-icq.gl.at.ply.gg:1368 => 127.0.0.1:1368 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1742949054755 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+re-goods.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+shall-icq.gl.at.ply.gg:1368 => 127.0.0.1:1368 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1742949057912 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+re-goods.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+shall-icq.gl.at.ply.gg:1368 => 127.0.0.1:1368 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1742949061012 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+re-goods.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+shall-icq.gl.at.ply.gg:1368 => 127.0.0.1:1368 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1742949064720 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+re-goods.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+shall-icq.gl.at.ply.gg:1368 => 127.0.0.1:1368 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1742949067949 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+re-goods.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+shall-icq.gl.at.ply.gg:1368 => 127.0.0.1:1368 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1742949071086 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+re-goods.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+shall-icq.gl.at.ply.gg:1368 => 127.0.0.1:1368 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1742949074790 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+re-goods.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+shall-icq.gl.at.ply.gg:1368 => 127.0.0.1:1368 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1742949077968 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+re-goods.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+shall-icq.gl.at.ply.gg:1368 => 127.0.0.1:1368 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1742949081474 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+re-goods.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+shall-icq.gl.at.ply.gg:1368 => 127.0.0.1:1368 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1742949084759 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+re-goods.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+shall-icq.gl.at.ply.gg:1368 => 127.0.0.1:1368 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1742949088308 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+re-goods.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+shall-icq.gl.at.ply.gg:1368 => 127.0.0.1:1368 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1742949091847 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+re-goods.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+shall-icq.gl.at.ply.gg:1368 => 127.0.0.1:1368 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1742949095138 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+re-goods.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+shall-icq.gl.at.ply.gg:1368 => 127.0.0.1:1368 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1742949098348 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+re-goods.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+shall-icq.gl.at.ply.gg:1368 => 127.0.0.1:1368 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1742949101740 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+re-goods.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+shall-icq.gl.at.ply.gg:1368 => 127.0.0.1:1368 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1742949105143 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+re-goods.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+shall-icq.gl.at.ply.gg:1368 => 127.0.0.1:1368 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1742949108418 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+re-goods.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+shall-icq.gl.at.ply.gg:1368 => 127.0.0.1:1368 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1742949111599 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+re-goods.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+shall-icq.gl.at.ply.gg:1368 => 127.0.0.1:1368 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1742949114878 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+re-goods.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+shall-icq.gl.at.ply.gg:1368 => 127.0.0.1:1368 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1742949118200 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+re-goods.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+shall-icq.gl.at.ply.gg:1368 => 127.0.0.1:1368 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1742949121432 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+re-goods.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+shall-icq.gl.at.ply.gg:1368 => 127.0.0.1:1368 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1742949124770 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+re-goods.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+shall-icq.gl.at.ply.gg:1368 => 127.0.0.1:1368 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1742949127996 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+re-goods.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+shall-icq.gl.at.ply.gg:1368 => 127.0.0.1:1368 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1742949131308 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+re-goods.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+shall-icq.gl.at.ply.gg:1368 => 127.0.0.1:1368 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1742949134654 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+re-goods.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+shall-icq.gl.at.ply.gg:1368 => 127.0.0.1:1368 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1742949138300 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+re-goods.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+shall-icq.gl.at.ply.gg:1368 => 127.0.0.1:1368 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1742949141688 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+re-goods.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+shall-icq.gl.at.ply.gg:1368 => 127.0.0.1:1368 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1742949145019 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+re-goods.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+shall-icq.gl.at.ply.gg:1368 => 127.0.0.1:1368 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1742949148098 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+re-goods.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+shall-icq.gl.at.ply.gg:1368 => 127.0.0.1:1368 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1742949151392 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+re-goods.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+shall-icq.gl.at.ply.gg:1368 => 127.0.0.1:1368 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1742949154837 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+re-goods.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+shall-icq.gl.at.ply.gg:1368 => 127.0.0.1:1368 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1742949158131 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+re-goods.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+shall-icq.gl.at.ply.gg:1368 => 127.0.0.1:1368 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1742949161509 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+re-goods.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+shall-icq.gl.at.ply.gg:1368 => 127.0.0.1:1368 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1742949164686 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+re-goods.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+shall-icq.gl.at.ply.gg:1368 => 127.0.0.1:1368 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1742949168308 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+re-goods.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+shall-icq.gl.at.ply.gg:1368 => 127.0.0.1:1368 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1742949171806 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+re-goods.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+shall-icq.gl.at.ply.gg:1368 => 127.0.0.1:1368 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1742949175036 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+re-goods.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+shall-icq.gl.at.ply.gg:1368 => 127.0.0.1:1368 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1742949178250 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+re-goods.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+shall-icq.gl.at.ply.gg:1368 => 127.0.0.1:1368 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1742949181557 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+re-goods.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+shall-icq.gl.at.ply.gg:1368 => 127.0.0.1:1368 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1742949184850 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+re-goods.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+shall-icq.gl.at.ply.gg:1368 => 127.0.0.1:1368 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1742949187983 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+re-goods.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+shall-icq.gl.at.ply.gg:1368 => 127.0.0.1:1368 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1742949191228 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+re-goods.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+shall-icq.gl.at.ply.gg:1368 => 127.0.0.1:1368 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1742949194501 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+re-goods.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+shall-icq.gl.at.ply.gg:1368 => 127.0.0.1:1368 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1742949197766 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+re-goods.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+shall-icq.gl.at.ply.gg:1368 => 127.0.0.1:1368 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1742949201157 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+re-goods.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+shall-icq.gl.at.ply.gg:1368 => 127.0.0.1:1368 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1742949204367 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+re-goods.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+shall-icq.gl.at.ply.gg:1368 => 127.0.0.1:1368 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1742949207809 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+re-goods.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+shall-icq.gl.at.ply.gg:1368 => 127.0.0.1:1368 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1742949210892 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+re-goods.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+shall-icq.gl.at.ply.gg:1368 => 127.0.0.1:1368 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1742949214003 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+re-goods.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+shall-icq.gl.at.ply.gg:1368 => 127.0.0.1:1368 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1742949217086 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+re-goods.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+shall-icq.gl.at.ply.gg:1368 => 127.0.0.1:1368 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1742949220454 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+re-goods.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+shall-icq.gl.at.ply.gg:1368 => 127.0.0.1:1368 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1742949223544 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+re-goods.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+shall-icq.gl.at.ply.gg:1368 => 127.0.0.1:1368 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1742949226867 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+re-goods.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+shall-icq.gl.at.ply.gg:1368 => 127.0.0.1:1368 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1742949230024 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+re-goods.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+shall-icq.gl.at.ply.gg:1368 => 127.0.0.1:1368 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1742949233452 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+re-goods.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+shall-icq.gl.at.ply.gg:1368 => 127.0.0.1:1368 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1742949236798 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+re-goods.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+shall-icq.gl.at.ply.gg:1368 => 127.0.0.1:1368 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1742949240099 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+re-goods.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+shall-icq.gl.at.ply.gg:1368 => 127.0.0.1:1368 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1742949243283 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+re-goods.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+shall-icq.gl.at.ply.gg:1368 => 127.0.0.1:1368 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1742949246622 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+re-goods.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+shall-icq.gl.at.ply.gg:1368 => 127.0.0.1:1368 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1742949250054 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+re-goods.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+shall-icq.gl.at.ply.gg:1368 => 127.0.0.1:1368 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1742949253135 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+re-goods.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+shall-icq.gl.at.ply.gg:1368 => 127.0.0.1:1368 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1742949256321 tunnel running, 2 tunnels registered
 
 
 TUNNELS
