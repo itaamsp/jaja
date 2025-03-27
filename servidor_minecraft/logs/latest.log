@@ -287,3 +287,7 @@
 [27Mar2025 02:36:25.558] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a block entity for block Block{minecraft:cave_air} but failed at location BlockPos{x=411, y=15, z=2642}
 [27Mar2025 02:36:25.558] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a DUMMY block entity @ BlockPos{x=412, y=15, z=2642} but found not block entity block Block{minecraft:cave_air} at location
 [27Mar2025 02:36:25.558] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a block entity for block Block{minecraft:cave_air} but failed at location BlockPos{x=412, y=15, z=2642}
+[27Mar2025 02:40:09.716] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Crying_Prophet is bleeding...
+[27Mar2025 02:41:02.800] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Crying_Prophet: Teleported Crying_Prophet to 917.5, 77.0, 3026.5]
+[27Mar2025 02:41:09.696] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Crying_Prophet was doomed to fall by Stymphalian Bird
+[27Mar2025 02:41:34.657] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Crying_Prophet: Teleported Crying_Prophet to 917.5, 77.0, 3026.5]
