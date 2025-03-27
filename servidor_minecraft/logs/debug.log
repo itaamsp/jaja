@@ -20416,3 +20416,15 @@ java.lang.NullPointerException: null
 [27Mar2025 06:32:07.989] [Server thread/DEBUG] [red.felnull.otyacraftengine.data.WorldDataManager/]: saveing data
 [27Mar2025 06:32:07.990] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: Gathering id map for writing to world save world
 [27Mar2025 06:32:08.006] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: ID Map collection complete world
+[27Mar2025 06:37:07.931] [Server thread/DEBUG] [red.felnull.otyacraftengine.data.WorldDataManager/]: saveing data
+[27Mar2025 06:37:07.985] [Server thread/DEBUG] [red.felnull.otyacraftengine.data.WorldDataManager/]: saveing data
+[27Mar2025 06:37:07.986] [Server thread/DEBUG] [red.felnull.otyacraftengine.data.WorldDataManager/]: saveing data
+[27Mar2025 06:37:07.988] [Server thread/DEBUG] [red.felnull.otyacraftengine.data.WorldDataManager/]: saveing data
+[27Mar2025 06:37:07.990] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: Gathering id map for writing to world save world
+[27Mar2025 06:37:08.008] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: ID Map collection complete world
+[27Mar2025 06:42:07.933] [Server thread/DEBUG] [red.felnull.otyacraftengine.data.WorldDataManager/]: saveing data
+[27Mar2025 06:42:07.989] [Server thread/DEBUG] [red.felnull.otyacraftengine.data.WorldDataManager/]: saveing data
+[27Mar2025 06:42:07.991] [Server thread/DEBUG] [red.felnull.otyacraftengine.data.WorldDataManager/]: saveing data
+[27Mar2025 06:42:07.992] [Server thread/DEBUG] [red.felnull.otyacraftengine.data.WorldDataManager/]: saveing data
+[27Mar2025 06:42:07.993] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: Gathering id map for writing to world save world
+[27Mar2025 06:42:08.010] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: ID Map collection complete world
