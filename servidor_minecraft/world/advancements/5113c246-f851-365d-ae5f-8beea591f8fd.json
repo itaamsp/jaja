@@ -10956,6 +10956,12 @@
     },
     "done": true
   },
+  "farmersdelight:main/place_skillet": {
+    "criteria": {
+      "skillet": "2025-03-26 23:59:03 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/securitycraft/iron_mine": {
     "criteria": {
       "has_the_recipe": "2025-03-24 22:27:30 +0000"
