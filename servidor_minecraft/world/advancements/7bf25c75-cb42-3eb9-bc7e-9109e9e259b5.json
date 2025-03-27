@@ -797,6 +797,12 @@
     },
     "done": true
   },
+  "dungeons_arise:find_illager_corsair_or_illager_galley": {
+    "criteria": {
+      "location0": "2025-03-27 02:06:56 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/purple_glazed_terracotta": {
     "criteria": {
       "has_the_recipe": "2025-03-24 14:47:17 +0000"
@@ -4159,6 +4165,12 @@
   "tconstruct:recipes/tools/common/slime/lead": {
     "criteria": {
       "has_the_recipe": "2025-03-24 14:47:15 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:iceandfire/kill_if_dragon": {
+    "criteria": {
+      "killed_fire_dragon": "2025-03-27 02:03:26 +0000"
     },
     "done": true
   },
@@ -18986,12 +18998,14 @@
       "minecraft:deep_cold_ocean": "2025-03-25 01:41:22 +0000",
       "minecraft:desert": "2025-03-24 22:32:44 +0000",
       "minecraft:deep_frozen_ocean": "2025-03-25 01:19:30 +0000",
+      "minecraft:birch_forest": "2025-03-27 02:00:35 +0000",
       "minecraft:deep_lukewarm_ocean": "2025-03-27 01:56:38 +0000",
       "minecraft:savanna_plateau": "2025-03-24 22:53:50 +0000",
       "minecraft:beach": "2025-03-24 22:33:29 +0000",
       "minecraft:dark_forest": "2025-03-24 23:45:38 +0000",
       "minecraft:river": "2025-03-24 23:02:13 +0000",
       "minecraft:lukewarm_ocean": "2025-03-27 01:56:41 +0000",
+      "minecraft:birch_forest_hills": "2025-03-27 02:00:58 +0000",
       "minecraft:wooded_mountains": "2025-03-27 01:52:30 +0000",
       "minecraft:stone_shore": "2025-03-27 01:56:36 +0000",
       "minecraft:savanna": "2025-03-24 22:34:47 +0000",

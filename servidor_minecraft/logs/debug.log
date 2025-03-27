@@ -18049,3 +18049,102 @@ java.lang.NullPointerException: null
 [27Mar2025 01:57:37.784] [Worker-Main-1/DEBUG] [betterdungeons/]: Small Dungeon at 535 11 2567
 [27Mar2025 01:58:12.883] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: Large Plane (vehicle of Crying_Prophet) moved wrongly! 0.472905257831826
 [27Mar2025 01:58:12.952] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: Large Plane (vehicle of Crying_Prophet) moved wrongly! 1.2426508683251996
+[27Mar2025 01:59:17.881] [Worker-Main-1/DEBUG] [betterdungeons/]: Small Dungeon at 503 42 1799
+[27Mar2025 01:59:25.099] [Worker-Main-1/DEBUG] [betterdungeons/]: Small Dungeon at 641 22 2439
+[27Mar2025 02:00:06.763] [Worker-Main-198/DEBUG] [betterdungeons/]: Skeleton Dungeon at 729 18 2455
+[27Mar2025 02:00:20.624] [Worker-Main-198/DEBUG] [betterdungeons/]: Small Dungeon at 855 27 2557
+[27Mar2025 02:00:20.625] [Worker-Main-198/DEBUG] [betterdungeons/]: Small Dungeon at 983 23 2557
+[27Mar2025 02:00:24.060] [Worker-Main-198/DEBUG] [betterdungeons/]: Small Dungeon at 695 35 2607
+[27Mar2025 02:00:35.856] [Worker-Main-198/DEBUG] [ModernFix/]: Using cached upgraded version of farmersdelight:village/houses/plains_compost_pile
+[27Mar2025 02:00:36.430] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: Large Plane (vehicle of Dylan_HHH) moved too quickly! 6.945305069167489,-0.7286419592048361,7.311468371630781
+[27Mar2025 02:00:36.432] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: Large Plane (vehicle of Dylan_HHH) moved too quickly! 7.474978567032167,-0.7447155609051919,7.869687915715531
+[27Mar2025 02:00:36.433] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: Large Plane (vehicle of Dylan_HHH) moved too quickly! 8.00326414590063,-0.7599308879294142,8.426533834843212
+[27Mar2025 02:00:36.433] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: Large Plane (vehicle of Dylan_HHH) moved too quickly! 8.530147158734508,-0.7747295682722353,8.9819902344816
+[27Mar2025 02:00:36.433] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: Large Plane (vehicle of Dylan_HHH) moved too quickly! 9.055623831609182,-0.7894465452270794,9.536052751061106
+[27Mar2025 02:00:44.019] [Worker-Main-198/DEBUG] [betterdungeons/]: Small Dungeon at 1335 17 2567
+[27Mar2025 02:00:47.454] [Worker-Main-198/DEBUG] [betterdungeons/]: Small Dungeon at 1287 12 2887
+[27Mar2025 02:00:48.170] [Worker-Main-198/DEBUG] [betterdungeons/]: Small Dungeon at 1121 19 2903
+[27Mar2025 02:00:55.058] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: Large Plane (vehicle of Dylan_HHH) moved too quickly! 6.769529827373731,2.897452684774038,19.189932386163036
+[27Mar2025 02:00:55.059] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: Large Plane (vehicle of Dylan_HHH) moved too quickly! 6.379630863587977,2.776455006819859,18.04588939480709
+[27Mar2025 02:00:55.060] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: Large Plane (vehicle of Dylan_HHH) moved too quickly! 5.991882058400165,2.6372154668209333,16.903202353228153
+[27Mar2025 02:00:55.061] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: Large Plane (vehicle of Dylan_HHH) moved too quickly! 5.6056695461963955,2.490415148592433,15.760753963613752
+[27Mar2025 02:00:55.108] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: Large Plane (vehicle of Dylan_HHH) moved too quickly! 5.609114991371484,2.3408181300171975,15.755120373418777
+[27Mar2025 02:00:55.110] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: Large Plane (vehicle of Dylan_HHH) moved too quickly! 5.224679190844313,2.2009772476557288,14.611024302861551
+[27Mar2025 02:00:55.112] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: Large Plane (vehicle of Dylan_HHH) moved too quickly! 4.840773396545615,2.0721092362862095,13.46574737982337
+[27Mar2025 02:00:55.112] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: Large Plane (vehicle of Dylan_HHH) moved too quickly! 4.457321682732527,1.9575648723102859,12.319455066583942
+[27Mar2025 02:00:55.113] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: Large Plane (vehicle of Dylan_HHH) moved too quickly! 4.074341868452166,1.8598410274789074,11.172542273750878
+[27Mar2025 02:00:55.114] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: Large Plane (vehicle of Dylan_HHH) moved too quickly! 3.6919247046427017,1.7807887999306757,10.025579132697203
+[27Mar2025 02:00:59.027] [Worker-Main-198/DEBUG] [betterdungeons/]: Small Dungeon at 663 20 2721
+[27Mar2025 02:01:01.547] [Worker-Main-198/DEBUG] [betterdungeons/]: Small Dungeon at 679 19 2919
+[27Mar2025 02:01:26.156] [Worker-Main-198/DEBUG] [betterdungeons/]: Spider Dungeon at 826 46 2986
+[27Mar2025 02:01:27.905] [Worker-Main-198/DEBUG] [betterdungeons/]: Skeleton Dungeon at 855 21 2985
+[27Mar2025 02:01:28.680] [Worker-Main-198/WARN] [ModernFix/]: The namespace quark contains an outdated structure file, which can cause worldgen lag. Please view debug.log for the full filename, determine which mod provides the structure, and report to the mod/datapack author, including the debug log.
+[27Mar2025 02:01:28.681] [Worker-Main-198/DEBUG] [ModernFix/]: Structure quark:big_dungeon/starts/triplex_plain is being run through DFU (hash fb195e52fc5cf404fbd7636624717fc568fa151ca23fbaf433c816435a6c151b), this will cause launch time delays
+[27Mar2025 02:01:32.219] [Worker-Main-198/DEBUG] [ModernFix/]: Using cached upgraded version of quark:big_dungeon/rooms/connector_fountain
+[27Mar2025 02:01:32.611] [Worker-Main-198/DEBUG] [ModernFix/]: Using cached upgraded version of quark:big_dungeon/rooms/triple_library
+[27Mar2025 02:01:32.613] [Worker-Main-198/DEBUG] [ModernFix/]: Using cached upgraded version of quark:big_dungeon/corridors/t_plain
+[27Mar2025 02:01:32.615] [Worker-Main-198/DEBUG] [ModernFix/]: Using cached upgraded version of quark:big_dungeon/corridors/forward_plain
+[27Mar2025 02:01:32.616] [Worker-Main-198/DEBUG] [ModernFix/]: Using cached upgraded version of quark:big_dungeon/corridors/forward_cobweb
+[27Mar2025 02:01:32.618] [Worker-Main-198/DEBUG] [ModernFix/]: Using cached upgraded version of quark:big_dungeon/corridors/t_cobweb
+[27Mar2025 02:01:32.619] [Worker-Main-198/DEBUG] [ModernFix/]: Using cached upgraded version of quark:big_dungeon/corridors/right_cobweb
+[27Mar2025 02:01:32.620] [Worker-Main-198/DEBUG] [ModernFix/]: Using cached upgraded version of quark:big_dungeon/corridors/left_plain
+[27Mar2025 02:01:32.632] [Worker-Main-198/DEBUG] [ModernFix/]: Using cached upgraded version of quark:big_dungeon/corridors/left_cobweb
+[27Mar2025 02:01:32.930] [Worker-Main-198/DEBUG] [ModernFix/]: Using cached upgraded version of quark:big_dungeon/corridors/right_plain
+[27Mar2025 02:01:32.931] [Worker-Main-198/DEBUG] [ModernFix/]: Using cached upgraded version of quark:big_dungeon/misc/endpoint
+[27Mar2025 02:01:32.933] [Worker-Main-198/DEBUG] [ModernFix/]: Using cached upgraded version of quark:big_dungeon/rooms/connector_bush
+[27Mar2025 02:01:32.940] [Worker-Main-198/DEBUG] [ModernFix/]: Using cached upgraded version of quark:big_dungeon/rooms/ascend_ruined
+[27Mar2025 02:01:32.949] [Worker-Main-198/DEBUG] [ModernFix/]: Using cached upgraded version of quark:big_dungeon/rooms/4room_plain
+[27Mar2025 02:01:32.955] [Worker-Main-198/DEBUG] [ModernFix/]: Using cached upgraded version of quark:big_dungeon/rooms/climb_redstone
+[27Mar2025 02:01:32.965] [Worker-Main-198/DEBUG] [ModernFix/]: Using cached upgraded version of quark:big_dungeon/rooms/laddered_bridge
+[27Mar2025 02:01:32.969] [Worker-Main-198/DEBUG] [ModernFix/]: Using cached upgraded version of quark:big_dungeon/rooms/triple_plain
+[27Mar2025 02:01:32.972] [Worker-Main-198/DEBUG] [ModernFix/]: Using cached upgraded version of quark:big_dungeon/rooms/ascend_intersection
+[27Mar2025 02:01:32.975] [Worker-Main-198/DEBUG] [ModernFix/]: Using cached upgraded version of quark:big_dungeon/rooms/ascend_plain
+[27Mar2025 02:01:32.977] [Worker-Main-198/DEBUG] [ModernFix/]: Using cached upgraded version of quark:big_dungeon/rooms/connector_room
+[27Mar2025 02:01:32.979] [Worker-Main-198/DEBUG] [ModernFix/]: Using cached upgraded version of quark:big_dungeon/rooms/climb_plain
+[27Mar2025 02:01:32.985] [Worker-Main-198/DEBUG] [ModernFix/]: Using cached upgraded version of quark:big_dungeon/rooms/double_hall_silverfish
+[27Mar2025 02:01:32.989] [Worker-Main-198/DEBUG] [ModernFix/]: Using cached upgraded version of quark:big_dungeon/rooms/connector_melon
+[27Mar2025 02:01:32.998] [Worker-Main-198/DEBUG] [ModernFix/]: Using cached upgraded version of quark:big_dungeon/rooms/4room_trapped
+[27Mar2025 02:01:33.015] [Worker-Main-198/DEBUG] [ModernFix/]: Using cached upgraded version of quark:big_dungeon/rooms/laddered_tnt
+[27Mar2025 02:01:33.019] [Worker-Main-198/DEBUG] [ModernFix/]: Using cached upgraded version of quark:big_dungeon/rooms/connector_base
+[27Mar2025 02:01:33.022] [Worker-Main-198/DEBUG] [ModernFix/]: Using cached upgraded version of quark:big_dungeon/rooms/climb_parkour
+[27Mar2025 02:01:33.032] [Worker-Main-198/DEBUG] [ModernFix/]: Using cached upgraded version of quark:big_dungeon/rooms/double_hall_plain
+[27Mar2025 02:01:33.043] [Worker-Main-198/DEBUG] [ModernFix/]: Using cached upgraded version of quark:big_dungeon/rooms/laddered_plain
+[27Mar2025 02:01:38.235] [Worker-Main-198/DEBUG] [betterdungeons/]: Small Dungeon at 855 14 3063
+[27Mar2025 02:01:39.739] [Worker-Main-198/DEBUG] [betterdungeons/]: Small Dungeon at 959 21 3071
+[27Mar2025 02:01:41.886] [Worker-Main-198/DEBUG] [betterdungeons/]: Small Dungeon at 1169 14 3089
+[27Mar2025 02:01:51.431] [Worker-Main-198/DEBUG] [betterdungeons/]: Small Dungeon at 1335 12 3079
+[27Mar2025 02:01:55.868] [Worker-Main-198/DEBUG] [betterdungeons/]: Small Dungeon at 973 35 3231
+[27Mar2025 02:02:08.059] [Server thread/DEBUG] [red.felnull.otyacraftengine.data.WorldDataManager/]: saveing data
+[27Mar2025 02:02:08.605] [Server thread/DEBUG] [red.felnull.otyacraftengine.data.WorldDataManager/]: saveing data
+[27Mar2025 02:02:08.608] [Server thread/DEBUG] [red.felnull.otyacraftengine.data.WorldDataManager/]: saveing data
+[27Mar2025 02:02:08.609] [Server thread/DEBUG] [red.felnull.otyacraftengine.data.WorldDataManager/]: saveing data
+[27Mar2025 02:02:08.611] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: Gathering id map for writing to world save world
+[27Mar2025 02:02:08.633] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: ID Map collection complete world
+[27Mar2025 02:02:08.713] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: Large Plane (vehicle of Crying_Prophet) moved too quickly! 7.735659724409061,0.2877111371091843,7.358973246959067
+[27Mar2025 02:02:08.714] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: Large Plane (vehicle of Crying_Prophet) moved too quickly! 8.162360451376571,0.4290915470588317,8.009647893996771
+[27Mar2025 02:02:08.717] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: Large Plane (vehicle of Crying_Prophet) moved too quickly! 8.562184290969526,0.5667742508755111,8.668639971353059
+[27Mar2025 02:02:08.717] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: Large Plane (vehicle of Crying_Prophet) moved too quickly! 8.935340693095213,0.6989326932066291,9.33553861968312
+[27Mar2025 02:02:15.355] [Worker-Main-198/DEBUG] [betterdungeons/]: Small Dungeon at 1495 41 3063
+[27Mar2025 02:02:17.085] [Worker-Main-198/DEBUG] [betterdungeons/]: Small Dungeon at 999 12 3389
+[27Mar2025 02:02:28.556] [Worker-Main-198/DEBUG] [betterdungeons/]: Skeleton Dungeon at 1497 20 3031
+[27Mar2025 02:03:01.538] [Server thread/INFO] [net.minecraft.entity.Entity/]: Villager VillagerEntity['Stefan'/32935, l='ServerLevel[world]', x=1199.26, y=69.00, z=3102.75] died, message: 'Stefan was slain by Fire Dragon'
+[27Mar2025 02:03:26.390] [Server thread/INFO] [net.minecraft.entity.Entity/]: Villager VillagerEntity['Tobie'/33149, l='ServerLevel[world]', x=1274.06, y=68.54, z=3082.98] died, message: 'Tobie was turned into KFC by Dylan_HHH'
+[27Mar2025 02:03:26.749] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Dylan_HHH has made the advancement [Dragonslayer]
+[27Mar2025 02:06:11.911] [Worker-Main-198/DEBUG] [betterdungeons/]: Small Dungeon at 1159 47 3535
+[27Mar2025 02:06:36.246] [Server thread/INFO] [morpheus/]: Dylan_HHH is now sleeping. 1/2 (50%)
+[27Mar2025 02:06:55.198] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Crying_Prophet has made the advancement [You Are A Pirate]
+[27Mar2025 02:06:56.599] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Dylan_HHH has made the advancement [You Are A Pirate]
+[27Mar2025 02:06:58.717] [Worker-Main-198/DEBUG] [betterdungeons/]: Small Dungeon at 967 31 3559
+[27Mar2025 02:07:07.993] [Server thread/DEBUG] [red.felnull.otyacraftengine.data.WorldDataManager/]: saveing data
+[27Mar2025 02:07:08.935] [Server thread/DEBUG] [red.felnull.otyacraftengine.data.WorldDataManager/]: saveing data
+[27Mar2025 02:07:08.937] [Server thread/DEBUG] [red.felnull.otyacraftengine.data.WorldDataManager/]: saveing data
+[27Mar2025 02:07:08.938] [Server thread/DEBUG] [red.felnull.otyacraftengine.data.WorldDataManager/]: saveing data
+[27Mar2025 02:07:08.940] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: Gathering id map for writing to world save world
+[27Mar2025 02:07:08.958] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: ID Map collection complete world
+[27Mar2025 02:07:25.749] [Worker-Main-198/DEBUG] [ModernFix/]: Using cached upgraded version of tetra:forged_4way
+[27Mar2025 02:07:25.765] [Worker-Main-198/DEBUG] [ModernFix/]: Using cached upgraded version of tetra:forged_hallway_1
+[27Mar2025 02:07:25.772] [Worker-Main-198/DEBUG] [ModernFix/]: Using cached upgraded version of tetra:forged_crate_2x1x2
+[27Mar2025 02:07:25.774] [Worker-Main-198/DEBUG] [ModernFix/]: Using cached upgraded version of tetra:forged_crate_2x1x1
+[27Mar2025 02:07:25.793] [Worker-Main-198/DEBUG] [ModernFix/]: Using cached upgraded version of tetra:forged_wall_1
+[27Mar2025 02:07:26.168] [Worker-Main-198/DEBUG] [ModernFix/]: Using cached upgraded version of tetra:forged_collapse_1
+[27Mar2025 02:07:26.654] [Worker-Main-198/DEBUG] [betterdungeons/]: Small Dungeon at 847 44 3535
