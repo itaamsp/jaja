@@ -292,3 +292,19 @@
 [27Mar2025 02:41:09.696] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Crying_Prophet was doomed to fall by Stymphalian Bird
 [27Mar2025 02:41:34.657] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Crying_Prophet: Teleported Crying_Prophet to 917.5, 77.0, 3026.5]
 [27Mar2025 03:00:05.644] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Crying_Prophet is bleeding...
+[27Mar2025 03:00:36.722] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Crying_Prophet: Teleported Crying_Prophet to 1173.5, 71.0, 3038.5]
+[27Mar2025 03:00:43.193] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Crying_Prophet fell from a high place
+[27Mar2025 03:06:00.572] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Crying_Prophet: Gave 1    [Large Plane] to Crying_Prophet]
+[27Mar2025 03:06:24.493] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Crying_Prophet: Gave 1    [Furnace Engine] to Crying_Prophet]
+[27Mar2025 03:07:09.151] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: Large Plane (vehicle of Crying_Prophet) moved too quickly! -7.883585607562964,1.792367055064176,-6.828741827252998
+[27Mar2025 03:07:09.152] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: Large Plane (vehicle of Crying_Prophet) moved too quickly! -8.598754521003002,1.9600347820265824,-7.447405484740557
+[27Mar2025 03:07:09.152] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: Large Plane (vehicle of Crying_Prophet) moved too quickly! -9.313650774996177,2.1283768920535096,-8.065708235261354
+[27Mar2025 03:07:09.152] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: Large Plane (vehicle of Crying_Prophet) moved too quickly! -10.028271078707576,2.2973836865433697,-8.683648666539739
+[27Mar2025 03:07:09.153] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: Large Plane (vehicle of Crying_Prophet) moved too quickly! -10.742612032458283,2.467047214610872,-9.301225596394943
+[27Mar2025 03:07:09.154] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: Large Plane (vehicle of Crying_Prophet) moved too quickly! -11.456670748543047,2.6373608211282544,-9.918437626934974
+[27Mar2025 03:07:09.154] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: Large Plane (vehicle of Crying_Prophet) moved too quickly! -12.170444461039096,2.8083188254606455,-10.535283472608626
+[27Mar2025 03:07:09.154] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: Large Plane (vehicle of Crying_Prophet) moved too quickly! -12.88393071684186,2.9799163272201667,-11.151761779759
+[27Mar2025 03:07:09.155] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: Large Plane (vehicle of Crying_Prophet) moved too quickly! -13.59712718759124,3.15214896530091,-11.767871309537895
+[27Mar2025 03:09:32.450] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: Crying_Prophet lost connection: Disconnected
+[27Mar2025 03:09:32.450] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Crying_Prophet left the game
+[27Mar2025 03:09:32.451] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Crying_Prophet

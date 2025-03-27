@@ -20137,3 +20137,36 @@ java.lang.NullPointerException: null
 [27Mar2025 02:57:08.342] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: Gathering id map for writing to world save world
 [27Mar2025 02:57:08.360] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: ID Map collection complete world
 [27Mar2025 03:00:05.644] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Crying_Prophet is bleeding...
+[27Mar2025 03:00:36.722] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Crying_Prophet: Teleported Crying_Prophet to 1173.5, 71.0, 3038.5]
+[27Mar2025 03:00:43.193] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Crying_Prophet fell from a high place
+[27Mar2025 03:02:07.966] [Server thread/DEBUG] [red.felnull.otyacraftengine.data.WorldDataManager/]: saveing data
+[27Mar2025 03:02:08.685] [Server thread/DEBUG] [red.felnull.otyacraftengine.data.WorldDataManager/]: saveing data
+[27Mar2025 03:02:08.687] [Server thread/DEBUG] [red.felnull.otyacraftengine.data.WorldDataManager/]: saveing data
+[27Mar2025 03:02:08.688] [Server thread/DEBUG] [red.felnull.otyacraftengine.data.WorldDataManager/]: saveing data
+[27Mar2025 03:02:08.689] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: Gathering id map for writing to world save world
+[27Mar2025 03:02:08.707] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: ID Map collection complete world
+[27Mar2025 03:04:02.336] [Worker-Main-1/DEBUG] [betterdungeons/]: Small Dungeon at 1647 36 3041
+[27Mar2025 03:06:00.572] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Crying_Prophet: Gave 1    [Large Plane] to Crying_Prophet]
+[27Mar2025 03:06:24.493] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Crying_Prophet: Gave 1    [Furnace Engine] to Crying_Prophet]
+[27Mar2025 03:07:08.303] [Server thread/DEBUG] [red.felnull.otyacraftengine.data.WorldDataManager/]: saveing data
+[27Mar2025 03:07:09.065] [Server thread/DEBUG] [red.felnull.otyacraftengine.data.WorldDataManager/]: saveing data
+[27Mar2025 03:07:09.066] [Server thread/DEBUG] [red.felnull.otyacraftengine.data.WorldDataManager/]: saveing data
+[27Mar2025 03:07:09.067] [Server thread/DEBUG] [red.felnull.otyacraftengine.data.WorldDataManager/]: saveing data
+[27Mar2025 03:07:09.068] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: Gathering id map for writing to world save world
+[27Mar2025 03:07:09.093] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: ID Map collection complete world
+[27Mar2025 03:07:09.151] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: Large Plane (vehicle of Crying_Prophet) moved too quickly! -7.883585607562964,1.792367055064176,-6.828741827252998
+[27Mar2025 03:07:09.152] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: Large Plane (vehicle of Crying_Prophet) moved too quickly! -8.598754521003002,1.9600347820265824,-7.447405484740557
+[27Mar2025 03:07:09.152] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: Large Plane (vehicle of Crying_Prophet) moved too quickly! -9.313650774996177,2.1283768920535096,-8.065708235261354
+[27Mar2025 03:07:09.152] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: Large Plane (vehicle of Crying_Prophet) moved too quickly! -10.028271078707576,2.2973836865433697,-8.683648666539739
+[27Mar2025 03:07:09.153] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: Large Plane (vehicle of Crying_Prophet) moved too quickly! -10.742612032458283,2.467047214610872,-9.301225596394943
+[27Mar2025 03:07:09.154] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: Large Plane (vehicle of Crying_Prophet) moved too quickly! -11.456670748543047,2.6373608211282544,-9.918437626934974
+[27Mar2025 03:07:09.154] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: Large Plane (vehicle of Crying_Prophet) moved too quickly! -12.170444461039096,2.8083188254606455,-10.535283472608626
+[27Mar2025 03:07:09.154] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: Large Plane (vehicle of Crying_Prophet) moved too quickly! -12.88393071684186,2.9799163272201667,-11.151761779759
+[27Mar2025 03:07:09.155] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: Large Plane (vehicle of Crying_Prophet) moved too quickly! -13.59712718759124,3.15214896530091,-11.767871309537895
+[27Mar2025 03:08:35.118] [Server thread/DEBUG] [se.mickelus.tetra.items.modular.IModularItem/]: Gathering properties for  (5a5344c5-ed5a-475b-a900-a694cb446275)
+[27Mar2025 03:09:32.450] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: Crying_Prophet lost connection: Disconnected
+[27Mar2025 03:09:32.450] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Crying_Prophet left the game
+[27Mar2025 03:09:32.451] [Thread-329/DEBUG] [red.felnull.otyacraftengine.data.WorldDataManager/]: saveing Crying_Prophet data
+[27Mar2025 03:09:32.451] [Server thread/DEBUG] [red.felnull.otyacraftengine.data.WorldDataManager/]: unloding Crying_Prophet data
+[27Mar2025 03:09:32.451] [Server thread/DEBUG] [voicechat/]: [voicechat] Removing state of Crying_Prophet
+[27Mar2025 03:09:32.451] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Crying_Prophet
