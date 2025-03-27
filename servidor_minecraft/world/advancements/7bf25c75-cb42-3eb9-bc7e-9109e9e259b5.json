@@ -2177,6 +2177,12 @@
     },
     "done": true
   },
+  "supplementaries:recipes/hanging_sign_cherry": {
+    "criteria": {
+      "has_plank": "2025-03-27 00:24:44 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/crimson_planks": {
     "criteria": {
       "has_the_recipe": "2025-03-24 14:47:17 +0000"
@@ -18771,6 +18777,12 @@
   "spartanweaponry:recipes/spartanweaponry.basic/tomahawk_diamond": {
     "criteria": {
       "has_the_recipe": "2025-03-24 14:47:15 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/sign_post_cherry": {
+    "criteria": {
+      "has_plank": "2025-03-27 00:24:44 +0000"
     },
     "done": true
   },
