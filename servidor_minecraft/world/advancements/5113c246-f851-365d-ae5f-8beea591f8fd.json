@@ -4077,6 +4077,12 @@
     },
     "done": true
   },
+  "iceandfire:iceandfire/dragon_meal": {
+    "criteria": {
+      "bestiary": "2025-03-27 01:33:25 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/red_carpet_from_white_carpet": {
     "criteria": {
       "has_the_recipe": "2025-03-24 22:27:33 +0000"
@@ -4626,6 +4632,7 @@
   "farmersdelight:main/plant_all_crops": {
     "criteria": {
       "tomato": "2025-03-24 23:52:02 +0000",
+      "sugar_cane": "2025-03-27 01:31:39 +0000",
       "wheat": "2025-03-24 23:41:21 +0000"
     },
     "done": false
@@ -5895,6 +5902,12 @@
   "tconstruct:recipes/tconstruct/world/world/wood/greenheart/door": {
     "criteria": {
       "has_the_recipe": "2025-03-24 22:27:34 +0000"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/tame_an_animal": {
+    "criteria": {
+      "tamed_animal": "2025-03-27 01:33:54 +0000"
     },
     "done": true
   },

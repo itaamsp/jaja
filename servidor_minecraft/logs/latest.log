@@ -119,3 +119,16 @@
 [27Mar2025 01:25:37.746] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: Dylan_HHH lost connection: Timed out
 [27Mar2025 01:25:37.746] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Dylan_HHH left the game
 [27Mar2025 01:25:37.747] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Dylan_HHH
+[27Mar2025 01:28:21.269] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.advancements.PlayerAdvancements@f44accb
+[27Mar2025 01:28:21.282] [Server thread/INFO] [net.minecraft.server.management.PlayerList/]: Dylan_HHH[/127.22.238.216:42521] logged in with entity id 19134 at (-475.8279972446008, 79.00133597911214, 1721.9077403650838)
+[27Mar2025 01:28:21.291] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Dylan_HHH joined the game
+[27Mar2025 01:28:21.349] [Server thread/INFO] [se.mickelus.tetra.data.DataManager/]: Sending data to client: Dylan_HHH
+[27Mar2025 01:28:21.358] [Server thread/INFO] [Waila/]: Syncing config to Dylan_HHH (7bf25c75-cb42-3eb9-bc7e-9109e9e259b5)
+[27Mar2025 01:28:25.195] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of Dylan_HHH (18)
+[27Mar2025 01:28:25.195] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to Dylan_HHH
+[27Mar2025 01:28:33.669] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 7bf25c75-cb42-3eb9-bc7e-9109e9e259b5
+[27Mar2025 01:28:34.670] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 7bf25c75-cb42-3eb9-bc7e-9109e9e259b5
+[27Mar2025 01:28:34.671] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player Dylan_HHH (7bf25c75-cb42-3eb9-bc7e-9109e9e259b5) successfully connected to voice chat
+[27Mar2025 01:33:19.256] [Server thread/INFO] [morpheus/]: Dylan_HHH is now sleeping. 1/2 (50%)
+[27Mar2025 01:33:25.387] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Crying_Prophet has made the advancement [Dragon Growth Hormone]
+[27Mar2025 01:33:54.760] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Crying_Prophet has made the advancement [Best Friends Forever]
