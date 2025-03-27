@@ -82,3 +82,16 @@
 [27Mar2025 01:03:24.243] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 7bf25c75-cb42-3eb9-bc7e-9109e9e259b5
 [27Mar2025 01:03:25.778] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 7bf25c75-cb42-3eb9-bc7e-9109e9e259b5
 [27Mar2025 01:03:25.778] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player Dylan_HHH (7bf25c75-cb42-3eb9-bc7e-9109e9e259b5) successfully connected to voice chat
+[27Mar2025 01:07:27.842] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Dylan_HHH is bleeding...
+[27Mar2025 01:08:21.286] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.advancements.PlayerAdvancements@265b6425
+[27Mar2025 01:08:21.308] [Server thread/INFO] [net.minecraft.server.management.PlayerList/]: Crying_Prophet[/127.90.218.78:33167] logged in with entity id 12387 at (-476.462777102718, 77.0, 1759.1202421176868)
+[27Mar2025 01:08:21.331] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Crying_Prophet joined the game
+[27Mar2025 01:08:21.403] [Server thread/INFO] [se.mickelus.tetra.data.DataManager/]: Sending data to client: Crying_Prophet
+[27Mar2025 01:08:21.430] [Server thread/INFO] [Waila/]: Syncing config to Crying_Prophet (5113c246-f851-365d-ae5f-8beea591f8fd)
+[27Mar2025 01:08:22.510] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of Crying_Prophet (18)
+[27Mar2025 01:08:22.511] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to Crying_Prophet
+[27Mar2025 01:08:25.904] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 5113c246-f851-365d-ae5f-8beea591f8fd
+[27Mar2025 01:08:26.905] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 5113c246-f851-365d-ae5f-8beea591f8fd
+[27Mar2025 01:08:26.906] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player Crying_Prophet (5113c246-f851-365d-ae5f-8beea591f8fd) successfully connected to voice chat
+[27Mar2025 01:08:27.879] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Dylan_HHH was slain by Ice Dragon
+[27Mar2025 01:09:19.694] [Server thread/INFO] [morpheus/]: Dylan_HHH is now sleeping. 1/2 (50%)
