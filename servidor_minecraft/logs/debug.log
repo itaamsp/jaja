@@ -20124,3 +20124,16 @@ java.lang.NullPointerException: null
 [27Mar2025 02:47:08.700] [Server thread/DEBUG] [red.felnull.otyacraftengine.data.WorldDataManager/]: saveing data
 [27Mar2025 02:47:08.702] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: Gathering id map for writing to world save world
 [27Mar2025 02:47:08.722] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: ID Map collection complete world
+[27Mar2025 02:52:07.967] [Server thread/DEBUG] [red.felnull.otyacraftengine.data.WorldDataManager/]: saveing data
+[27Mar2025 02:52:08.267] [Server thread/DEBUG] [red.felnull.otyacraftengine.data.WorldDataManager/]: saveing data
+[27Mar2025 02:52:08.268] [Server thread/DEBUG] [red.felnull.otyacraftengine.data.WorldDataManager/]: saveing data
+[27Mar2025 02:52:08.270] [Server thread/DEBUG] [red.felnull.otyacraftengine.data.WorldDataManager/]: saveing data
+[27Mar2025 02:52:08.272] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: Gathering id map for writing to world save world
+[27Mar2025 02:52:08.290] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: ID Map collection complete world
+[27Mar2025 02:57:07.965] [Server thread/DEBUG] [red.felnull.otyacraftengine.data.WorldDataManager/]: saveing data
+[27Mar2025 02:57:08.338] [Server thread/DEBUG] [red.felnull.otyacraftengine.data.WorldDataManager/]: saveing data
+[27Mar2025 02:57:08.340] [Server thread/DEBUG] [red.felnull.otyacraftengine.data.WorldDataManager/]: saveing data
+[27Mar2025 02:57:08.340] [Server thread/DEBUG] [red.felnull.otyacraftengine.data.WorldDataManager/]: saveing data
+[27Mar2025 02:57:08.342] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: Gathering id map for writing to world save world
+[27Mar2025 02:57:08.360] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: ID Map collection complete world
+[27Mar2025 03:00:05.644] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Crying_Prophet is bleeding...
