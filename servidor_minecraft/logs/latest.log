@@ -218,3 +218,17 @@
 [27Mar2025 02:06:36.246] [Server thread/INFO] [morpheus/]: Dylan_HHH is now sleeping. 1/2 (50%)
 [27Mar2025 02:06:55.198] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Crying_Prophet has made the advancement [You Are A Pirate]
 [27Mar2025 02:06:56.599] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Dylan_HHH has made the advancement [You Are A Pirate]
+[27Mar2025 02:08:54.146] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Dylan_HHH is bleeding...
+[27Mar2025 02:08:59.093] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Crying_Prophet is bleeding...
+[27Mar2025 02:09:36.800] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Crying_Prophet was slain by Vindicator
+[27Mar2025 02:09:44.305] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Dylan_HHH was slain by Vindicator
+[27Mar2025 02:09:58.873] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player 7bf25c75-cb42-3eb9-bc7e-9109e9e259b5 timed out
+[27Mar2025 02:09:58.874] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Reconnecting player Dylan_HHH
+[27Mar2025 02:09:58.874] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Sent secret to Dylan_HHH
+[27Mar2025 02:10:10.993] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: Dylan_HHH lost connection: Timed out
+[27Mar2025 02:10:10.994] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Dylan_HHH left the game
+[27Mar2025 02:10:10.995] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Dylan_HHH
+[27Mar2025 02:17:11.589] [Server thread/INFO] [net.minecraft.entity.Entity/]: Villager VillagerEntity['Monte'/39280, l='ServerLevel[world]', x=358.07, y=71.20, z=2412.90] died, message: 'Monte was slain by Cyclops'
+[27Mar2025 02:18:19.194] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: Crying_Prophet lost connection: Disconnected
+[27Mar2025 02:18:19.194] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Crying_Prophet left the game
+[27Mar2025 02:18:19.195] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Crying_Prophet

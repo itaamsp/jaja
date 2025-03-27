@@ -18148,3 +18148,46 @@ java.lang.NullPointerException: null
 [27Mar2025 02:07:25.793] [Worker-Main-198/DEBUG] [ModernFix/]: Using cached upgraded version of tetra:forged_wall_1
 [27Mar2025 02:07:26.168] [Worker-Main-198/DEBUG] [ModernFix/]: Using cached upgraded version of tetra:forged_collapse_1
 [27Mar2025 02:07:26.654] [Worker-Main-198/DEBUG] [betterdungeons/]: Small Dungeon at 847 44 3535
+[27Mar2025 02:08:54.146] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Dylan_HHH is bleeding...
+[27Mar2025 02:08:59.093] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Crying_Prophet is bleeding...
+[27Mar2025 02:09:36.800] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Crying_Prophet was slain by Vindicator
+[27Mar2025 02:09:38.380] [Server thread/DEBUG] [se.mickelus.tetra.items.modular.IModularItem/]: Gathering properties for  (5a5344c5-ed5a-475b-a900-a694cb446275)
+[27Mar2025 02:09:44.305] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Dylan_HHH was slain by Vindicator
+[27Mar2025 02:09:58.873] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player 7bf25c75-cb42-3eb9-bc7e-9109e9e259b5 timed out
+[27Mar2025 02:09:58.874] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Reconnecting player Dylan_HHH
+[27Mar2025 02:09:58.874] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Sending initial states to Dylan_HHH
+[27Mar2025 02:09:58.874] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Synchronizing 1 groups with Dylan_HHH
+[27Mar2025 02:09:58.874] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Synchronizing 0 volume categories with Dylan_HHH
+[27Mar2025 02:09:58.874] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Sent secret to Dylan_HHH
+[27Mar2025 02:09:58.874] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Set state of 7bf25c75-cb42-3eb9-bc7e-9109e9e259b5 to disconnected: {disabled=false, disconnected=true, uuid=7bf25c75-cb42-3eb9-bc7e-9109e9e259b5, name=Dylan_HHH, group=ccf36c95-c2e8-44f9-859a-a1ac057af3a7}
+[27Mar2025 02:10:10.993] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: Dylan_HHH lost connection: Timed out
+[27Mar2025 02:10:10.994] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Dylan_HHH left the game
+[27Mar2025 02:10:10.994] [Thread-253/DEBUG] [red.felnull.otyacraftengine.data.WorldDataManager/]: saveing Dylan_HHH data
+[27Mar2025 02:10:10.994] [Server thread/DEBUG] [red.felnull.otyacraftengine.data.WorldDataManager/]: unloding Dylan_HHH data
+[27Mar2025 02:10:10.994] [Server thread/DEBUG] [voicechat/]: [voicechat] Removing state of Dylan_HHH
+[27Mar2025 02:10:10.995] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Dylan_HHH
+[27Mar2025 02:12:08.012] [Server thread/DEBUG] [red.felnull.otyacraftengine.data.WorldDataManager/]: saveing data
+[27Mar2025 02:12:08.948] [Server thread/DEBUG] [red.felnull.otyacraftengine.data.WorldDataManager/]: saveing data
+[27Mar2025 02:12:08.950] [Server thread/DEBUG] [red.felnull.otyacraftengine.data.WorldDataManager/]: saveing data
+[27Mar2025 02:12:08.951] [Server thread/DEBUG] [red.felnull.otyacraftengine.data.WorldDataManager/]: saveing data
+[27Mar2025 02:12:08.953] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: Gathering id map for writing to world save world
+[27Mar2025 02:12:08.980] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: ID Map collection complete world
+[27Mar2025 02:15:55.200] [Worker-Main-198/DEBUG] [ModernFix/]: Using cached upgraded version of quark:big_dungeon/starts/plus_barricade
+[27Mar2025 02:16:45.855] [Worker-Main-198/DEBUG] [betterdungeons/]: Small Dungeon at 319 24 2615
+[27Mar2025 02:16:57.419] [Worker-Main-198/DEBUG] [ModernFix/]: Using cached upgraded version of iceandfire:graveyard/graveyard_1
+[27Mar2025 02:17:05.227] [Worker-Main-198/DEBUG] [betterdungeons/]: Zombie Dungeon at 247 49 2639
+[27Mar2025 02:17:08.014] [Server thread/DEBUG] [red.felnull.otyacraftengine.data.WorldDataManager/]: saveing data
+[27Mar2025 02:17:08.899] [Server thread/DEBUG] [red.felnull.otyacraftengine.data.WorldDataManager/]: saveing data
+[27Mar2025 02:17:08.900] [Server thread/DEBUG] [red.felnull.otyacraftengine.data.WorldDataManager/]: saveing data
+[27Mar2025 02:17:08.901] [Server thread/DEBUG] [red.felnull.otyacraftengine.data.WorldDataManager/]: saveing data
+[27Mar2025 02:17:08.903] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: Gathering id map for writing to world save world
+[27Mar2025 02:17:08.921] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: ID Map collection complete world
+[27Mar2025 02:17:11.589] [Server thread/INFO] [net.minecraft.entity.Entity/]: Villager VillagerEntity['Monte'/39280, l='ServerLevel[world]', x=358.07, y=71.20, z=2412.90] died, message: 'Monte was slain by Cyclops'
+[27Mar2025 02:18:10.247] [Worker-Main-198/DEBUG] [betterdungeons/]: Small Dungeon at 343 18 2733
+[27Mar2025 02:18:19.194] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: Crying_Prophet lost connection: Disconnected
+[27Mar2025 02:18:19.194] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Crying_Prophet left the game
+[27Mar2025 02:18:19.194] [Server thread/DEBUG] [red.felnull.otyacraftengine.data.WorldDataManager/]: unloding Crying_Prophet data
+[27Mar2025 02:18:19.194] [Thread-259/DEBUG] [red.felnull.otyacraftengine.data.WorldDataManager/]: saveing Crying_Prophet data
+[27Mar2025 02:18:19.195] [Server thread/DEBUG] [voicechat/]: [voicechat] Removing state of Crying_Prophet
+[27Mar2025 02:18:19.195] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Crying_Prophet
+[27Mar2025 02:18:19.199] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Player 5113c246-f851-365d-ae5f-8beea591f8fd does not have a secret
