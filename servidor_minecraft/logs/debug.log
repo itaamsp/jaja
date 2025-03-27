@@ -9782,3 +9782,22 @@ java.lang.NullPointerException: null
 [27Mar2025 00:12:04.482] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: Gathering id map for writing to world save world
 [27Mar2025 00:12:04.515] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: ID Map collection complete world
 [27Mar2025 00:12:29.319] [Server thread/INFO] [red.felnull.imp.IamMusicPlayer/]: Dylan_HHH Add PlayMusic(Skibidi Toilet Full Song Music Video) to PlayList(qlq)
+[27Mar2025 00:17:03.526] [Server thread/DEBUG] [red.felnull.otyacraftengine.data.WorldDataManager/]: saveing data
+[27Mar2025 00:17:04.207] [Server thread/DEBUG] [red.felnull.otyacraftengine.data.WorldDataManager/]: saveing data
+[27Mar2025 00:17:04.209] [Server thread/DEBUG] [red.felnull.otyacraftengine.data.WorldDataManager/]: saveing data
+[27Mar2025 00:17:04.210] [Server thread/DEBUG] [red.felnull.otyacraftengine.data.WorldDataManager/]: saveing data
+[27Mar2025 00:17:04.212] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: Gathering id map for writing to world save world
+[27Mar2025 00:17:04.256] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: ID Map collection complete world
+[27Mar2025 00:17:19.202] [Server thread/DEBUG] [se.mickelus.tetra.items.modular.IModularItem/]: Gathering properties for  ({"sword/basic_hilt_material":"basic_hilt/stick","sword/guard":"sword/makeshift_guard","sword/hilt":"sword/basic_hilt","sword/makeshift_guard_material":"makeshift_guard/iron","sword/blade":"sword/basic_blade","sword/basic_blade_material":"basic_blade/iron","sword/pommel":"sword/decorative_pommel","sword/decorative_pommel_material":"decorative_pommel/iron"})
+[27Mar2025 00:17:19.203] [Server thread/DEBUG] [se.mickelus.tetra.items.modular.IModularItem/]: Gathering properties for  ({"sword/basic_hilt_material":"basic_hilt/stick","sword/guard":"sword/makeshift_guard","sword/hilt":"sword/basic_hilt","sword/makeshift_guard_material":"makeshift_guard/iron","sword/blade":"sword/basic_blade","sword/basic_blade_material":"basic_blade/iron",Damage:76,"sword/pommel":"sword/decorative_pommel","sword/decorative_pommel_material":"decorative_pommel/iron"})
+[27Mar2025 00:17:19.204] [Server thread/DEBUG] [se.mickelus.tetra.items.modular.ModularItem/]: Gathering tool data for  ({"sword/basic_hilt_material":"basic_hilt/stick","sword/guard":"sword/makeshift_guard","sword/hilt":"sword/basic_hilt","sword/makeshift_guard_material":"makeshift_guard/iron","sword/blade":"sword/basic_blade","sword/basic_blade_material":"basic_blade/iron",Damage:76,"sword/pommel":"sword/decorative_pommel","sword/decorative_pommel_material":"decorative_pommel/iron"})
+[27Mar2025 00:18:11.667] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Crying_Prophet: Gave 1    [Cassette Deck] to Crying_Prophet]
+[27Mar2025 00:18:37.709] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Crying_Prophet: Gave 1    [Ikisugi Antenna] to Crying_Prophet]
+[27Mar2025 00:21:35.600] [Server thread/INFO] [red.felnull.imp.IamMusicPlayer/]: Crying_Prophet Join PlayList(SI)
+[27Mar2025 00:22:00.006] [Server thread/INFO] [red.felnull.imp.IamMusicPlayer/]: Crying_Prophet Add PlayMusic(Culo Con Caca - Sad Goldo - Ñejo - Jamsha y Gringo (Video Oficial)) to PlayList(SI)
+[27Mar2025 00:22:03.490] [Server thread/DEBUG] [red.felnull.otyacraftengine.data.WorldDataManager/]: saveing data
+[27Mar2025 00:22:03.966] [Server thread/DEBUG] [red.felnull.otyacraftengine.data.WorldDataManager/]: saveing data
+[27Mar2025 00:22:03.967] [Server thread/DEBUG] [red.felnull.otyacraftengine.data.WorldDataManager/]: saveing data
+[27Mar2025 00:22:03.969] [Server thread/DEBUG] [red.felnull.otyacraftengine.data.WorldDataManager/]: saveing data
+[27Mar2025 00:22:03.974] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: Gathering id map for writing to world save world
+[27Mar2025 00:22:04.023] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: ID Map collection complete world
