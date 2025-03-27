@@ -17951,3 +17951,101 @@ java.lang.NullPointerException: null
 [27Mar2025 01:47:08.427] [Server thread/DEBUG] [red.felnull.otyacraftengine.data.WorldDataManager/]: saveing data
 [27Mar2025 01:47:08.429] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: Gathering id map for writing to world save world
 [27Mar2025 01:47:08.448] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: ID Map collection complete world
+[27Mar2025 01:52:08.036] [Server thread/DEBUG] [red.felnull.otyacraftengine.data.WorldDataManager/]: saveing data
+[27Mar2025 01:52:08.616] [Server thread/DEBUG] [red.felnull.otyacraftengine.data.WorldDataManager/]: saveing data
+[27Mar2025 01:52:08.619] [Server thread/DEBUG] [red.felnull.otyacraftengine.data.WorldDataManager/]: saveing data
+[27Mar2025 01:52:08.622] [Server thread/DEBUG] [red.felnull.otyacraftengine.data.WorldDataManager/]: saveing data
+[27Mar2025 01:52:08.624] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: Gathering id map for writing to world save world
+[27Mar2025 01:52:08.643] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: ID Map collection complete world
+[27Mar2025 01:52:12.681] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: Large Plane (vehicle of Dylan_HHH) moved wrongly! 0.28826404744881984
+[27Mar2025 01:52:19.644] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: Large Plane (vehicle of Dylan_HHH) moved too quickly! -9.991839878670078,-3.373192409100085,-4.29572254724917
+[27Mar2025 01:52:19.644] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: Large Plane (vehicle of Dylan_HHH) moved too quickly! -9.547067475267681,-3.2434299556686597,-4.232462034149421
+[27Mar2025 01:52:19.644] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: Large Plane (vehicle of Dylan_HHH) moved too quickly! -9.104799863379071,-3.1163227111152167,-4.154378267729044
+[27Mar2025 01:52:19.645] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: Large Plane (vehicle of Dylan_HHH) moved too quickly! -8.664939474424898,-2.9917613992996195,-4.063964037056849
+[27Mar2025 01:52:35.146] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: Large Plane (vehicle of Dylan_HHH) moved too quickly! -12.164143214667888,-15.28382417652476,-36.760104839659334
+[27Mar2025 01:52:35.147] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: Large Plane (vehicle of Dylan_HHH) moved too quickly! -12.043267225597958,-15.216405363255134,-36.39388224365598
+[27Mar2025 01:52:35.147] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: Large Plane (vehicle of Dylan_HHH) moved too quickly! -11.920738667590342,-15.150948233801302,-36.02293321965567
+[27Mar2025 01:52:35.147] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: Large Plane (vehicle of Dylan_HHH) moved too quickly! -11.79657286191474,-15.087296104201243,-35.64725269429778
+[27Mar2025 01:52:35.161] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: Large Plane (vehicle of Dylan_HHH) moved too quickly! -11.6707843040096,-15.025328514591024,-35.26684154729219
+[27Mar2025 01:52:35.161] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: Large Plane (vehicle of Dylan_HHH) moved too quickly! -11.543386976574766,-14.964953328939814,-34.881706063041975
+[27Mar2025 01:52:35.161] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: Large Plane (vehicle of Dylan_HHH) moved too quickly! -11.41439451649046,-14.906100571134502,-34.49185730084878
+[27Mar2025 01:52:35.174] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: Large Plane (vehicle of Dylan_HHH) moved too quickly! -11.283820344930234,-14.848717607583126,-34.09731052568759
+[27Mar2025 01:52:35.174] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: Large Plane (vehicle of Dylan_HHH) moved too quickly! -11.151677815901166,-14.79276535140194,-33.698084728521735
+[27Mar2025 01:52:35.174] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: Large Plane (vehicle of Dylan_HHH) moved too quickly! -11.017980247102685,-14.73821528649431,-33.29420215551113
+[27Mar2025 01:52:35.264] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: Large Plane (vehicle of Dylan_HHH) moved too quickly! -11.146459038980652,-14.794910225751465,-33.6828132463595
+[27Mar2025 01:52:35.313] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: Large Plane (vehicle of Dylan_HHH) moved too quickly! -11.149819671973205,-14.790116442659851,-33.692428986404366
+[27Mar2025 01:52:35.313] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: Large Plane (vehicle of Dylan_HHH) moved too quickly! -11.022547376465354,-14.73665945146341,-33.306677912312125
+[27Mar2025 01:52:35.313] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: Large Plane (vehicle of Dylan_HHH) moved too quickly! -10.89338301060485,-14.687103241563122,-32.91532270899097
+[27Mar2025 01:52:35.314] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: Large Plane (vehicle of Dylan_HHH) moved too quickly! -10.762339791369186,-14.64080777534214,-32.518375253694785
+[27Mar2025 01:52:35.314] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: Large Plane (vehicle of Dylan_HHH) moved too quickly! -10.629432608217883,-14.597285369146547,-32.11585688570676
+[27Mar2025 01:52:35.314] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: Large Plane (vehicle of Dylan_HHH) moved too quickly! -10.494678410945482,-14.556164354830742,-31.70779890103836
+[27Mar2025 01:52:35.314] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: Large Plane (vehicle of Dylan_HHH) moved too quickly! -10.358096204954052,-14.517161871026332,-31.29424179772309
+[27Mar2025 01:52:35.315] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: Large Plane (vehicle of Dylan_HHH) moved too quickly! -10.219706733948044,-14.480063257240943,-30.87523396824804
+[27Mar2025 01:52:35.315] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: Large Plane (vehicle of Dylan_HHH) moved too quickly! -10.079532214272547,-14.44470635115438,-30.450830356182905
+[27Mar2025 01:52:47.930] [Worker-Main-1/INFO] [bettercaves/]: CREATING AND INIT'ING CARVER W DIMENSION minecraft:overworld...
+[27Mar2025 01:52:47.933] [Worker-Main-1/INFO] [bettercaves/]: Better Caves config file for dimension minecraft:overworld not found. Using global config...
+[27Mar2025 01:52:47.963] [Worker-Main-1/DEBUG] [bettercaves/]: CAVE INFORMATION
+[27Mar2025 01:52:47.963] [Worker-Main-1/DEBUG] [bettercaves/]: --> MAX POSSIBLE THRESHOLD: 1.0
+[27Mar2025 01:52:47.963] [Worker-Main-1/DEBUG] [bettercaves/]: --> TOTAL PRIORITY: 15
+[27Mar2025 01:52:47.963] [Worker-Main-1/DEBUG] [bettercaves/]: --> TOTAL RANGE LENGTH: 2.0
+[27Mar2025 01:52:47.963] [Worker-Main-1/DEBUG] [bettercaves/]: --> CARVER
+[27Mar2025 01:52:47.964] [Worker-Main-1/DEBUG] [bettercaves/]:     --> RANGE FOUND: [-1.00, 0.33] (0.7890%) -- smooth cutoffs: [-0.29, 0.05]
+[27Mar2025 01:52:47.964] [Worker-Main-1/DEBUG] [bettercaves/]: --> CARVER
+[27Mar2025 01:52:47.964] [Worker-Main-1/DEBUG] [bettercaves/]:     --> RANGE FOUND: [0.33, 1.00] (0.2110%) -- smooth cutoffs: [0.42, 0.56]
+[27Mar2025 01:52:47.967] [Worker-Main-1/DEBUG] [bettercaves/]: CAVERN INFORMATION
+[27Mar2025 01:52:47.967] [Worker-Main-1/DEBUG] [bettercaves/]: --> SPAWN CHANCE SET TO: 0.25
+[27Mar2025 01:52:47.967] [Worker-Main-1/DEBUG] [bettercaves/]: --> TOTAL PRIORITY: 20
+[27Mar2025 01:52:47.967] [Worker-Main-1/DEBUG] [bettercaves/]: --> DEADZONE PERCENT: 0.75(0.75 TOTAL)
+[27Mar2025 01:52:47.967] [Worker-Main-1/DEBUG] [bettercaves/]: --> CARVER
+[27Mar2025 01:52:47.968] [Worker-Main-1/DEBUG] [bettercaves/]:     --> RANGE PERCENT LENGTH WANTED: 0.125
+[27Mar2025 01:52:47.968] [Worker-Main-1/DEBUG] [bettercaves/]:     --> RANGE FOUND: [-1.00, -0.45] (0.1272%) -- smooth cutoffs: [-0.61, -0.52]
+[27Mar2025 01:52:47.968] [Worker-Main-1/DEBUG] [bettercaves/]: --> CARVER
+[27Mar2025 01:52:47.968] [Worker-Main-1/DEBUG] [bettercaves/]:     --> RANGE PERCENT LENGTH WANTED: 0.125
+[27Mar2025 01:52:47.969] [Worker-Main-1/DEBUG] [bettercaves/]:     --> RANGE FOUND: [0.46, 0.76] (0.1260%) -- smooth cutoffs: [0.53, 0.62]
+[27Mar2025 01:52:47.972] [Worker-Main-1/INFO] [bettercaves/]: Using block 'minecraft:lava' as lava in cave generation for dimension minecraft:overworld
+[27Mar2025 01:52:47.972] [Worker-Main-1/INFO] [bettercaves/]: Using block 'Block{minecraft:water}[level=0]' as water in cave generation for dimension minecraft:overworld
+[27Mar2025 01:52:47.974] [Worker-Main-1/DEBUG] [bettercaves/]: BETTER CAVES WORLD CARVER INITIALIZED WITH SEED 7514313397479565501 IN minecraft:overworld
+[27Mar2025 01:52:48.135] [Worker-Main-1/DEBUG] [mixin/]: Mixing access.WorldDecoratingHelperAccess from byg.mixins.json into net.minecraft.world.gen.feature.WorldDecoratingHelper
+[27Mar2025 01:52:48.192] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: Large Plane (vehicle of Dylan_HHH) moved wrongly! 0.5099313570070763
+[27Mar2025 01:52:48.193] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: Large Plane (vehicle of Dylan_HHH) moved wrongly! 1.516737021852009
+[27Mar2025 01:55:47.243] [Server thread/INFO] [morpheus/]: Crying_Prophet is now sleeping. 1/2 (50%)
+[27Mar2025 01:56:25.518] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of iceandfire:gorgon_temple/building
+[27Mar2025 01:56:25.527] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of iceandfire:gorgon_temple/basement
+[27Mar2025 01:56:47.115] [Worker-Main-1/DEBUG] [betterdungeons/]: Small Dungeon at 335 11 2241
+[27Mar2025 01:56:47.164] [Worker-Main-1/DEBUG] [betterdungeons/]: Small Dungeon at 333 30 2439
+[27Mar2025 01:56:47.186] [Worker-Main-1/DEBUG] [betterdungeons/]: Small Dungeon at 343 28 2077
+[27Mar2025 01:56:54.729] [Worker-Main-1/DEBUG] [betterdungeons/]: Small Dungeon at 479 47 2081
+[27Mar2025 01:56:58.121] [Worker-Main-1/DEBUG] [betterdungeons/]: Small Dungeon at 333 37 1969
+[27Mar2025 01:57:08.094] [Server thread/DEBUG] [red.felnull.otyacraftengine.data.WorldDataManager/]: saveing data
+[27Mar2025 01:57:08.832] [Server thread/DEBUG] [red.felnull.otyacraftengine.data.WorldDataManager/]: saveing data
+[27Mar2025 01:57:08.833] [Server thread/DEBUG] [red.felnull.otyacraftengine.data.WorldDataManager/]: saveing data
+[27Mar2025 01:57:08.835] [Server thread/DEBUG] [red.felnull.otyacraftengine.data.WorldDataManager/]: saveing data
+[27Mar2025 01:57:08.836] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: Gathering id map for writing to world save world
+[27Mar2025 01:57:08.853] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: ID Map collection complete world
+[27Mar2025 01:57:08.903] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: Large Plane (vehicle of Crying_Prophet) moved too quickly! 9.756210611181785,-4.123144032962827,-2.132882031936333
+[27Mar2025 01:57:08.904] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: Large Plane (vehicle of Crying_Prophet) moved too quickly! 10.546435431179958,-4.52201675135764,-2.524504720722689
+[27Mar2025 01:57:08.904] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: Large Plane (vehicle of Crying_Prophet) moved too quickly! 11.327145196109996,-4.9285723834612725,-2.949875615327983
+[27Mar2025 01:57:08.904] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: Large Plane (vehicle of Crying_Prophet) moved too quickly! 12.096963252013154,-5.342581087512315,-3.4090917138346413
+[27Mar2025 01:57:08.905] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: Large Plane (vehicle of Crying_Prophet) moved too quickly! 12.854485827839397,-5.76379066848132,-3.9021924793473772
+[27Mar2025 01:57:08.905] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: Large Plane (vehicle of Crying_Prophet) moved too quickly! 13.598284271925081,-6.191926614718184,-4.429157496871085
+[27Mar2025 01:57:08.906] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: Large Plane (vehicle of Crying_Prophet) moved too quickly! 14.327171342171084,-6.626633203142376,-4.989603607885783
+[27Mar2025 01:57:12.281] [Worker-Main-1/DEBUG] [betterdungeons/]: Small Dungeon at 535 23 2295
+[27Mar2025 01:57:12.284] [Worker-Main-1/DEBUG] [betterdungeons/]: Small Dungeon at 535 22 2397
+[27Mar2025 01:57:16.525] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a DUMMY block entity @ BlockPos{x=243, y=0, z=2044} but found not block entity block Block{minecraft:bedrock} at location
+[27Mar2025 01:57:16.525] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a block entity for block Block{minecraft:bedrock} but failed at location BlockPos{x=243, y=0, z=2044}
+[27Mar2025 01:57:16.526] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a DUMMY block entity @ BlockPos{x=243, y=0, z=2037} but found not block entity block Block{stacked_dimensions_warden:deeper_layer_1_portal} at location
+[27Mar2025 01:57:16.526] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a block entity for block Block{stacked_dimensions_warden:deeper_layer_1_portal} but failed at location BlockPos{x=243, y=0, z=2037}
+[27Mar2025 01:57:16.526] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a DUMMY block entity @ BlockPos{x=241, y=0, z=2032} but found not block entity block Block{minecraft:bedrock} at location
+[27Mar2025 01:57:16.526] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a block entity for block Block{minecraft:bedrock} but failed at location BlockPos{x=241, y=0, z=2032}
+[27Mar2025 01:57:21.776] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a DUMMY block entity @ BlockPos{x=223, y=0, z=2046} but found not block entity block Block{minecraft:bedrock} at location
+[27Mar2025 01:57:21.777] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a block entity for block Block{minecraft:bedrock} but failed at location BlockPos{x=223, y=0, z=2046}
+[27Mar2025 01:57:21.777] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a DUMMY block entity @ BlockPos{x=232, y=0, z=2046} but found not block entity block Block{stacked_dimensions_warden:deeper_layer_1_portal} at location
+[27Mar2025 01:57:21.777] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a block entity for block Block{stacked_dimensions_warden:deeper_layer_1_portal} but failed at location BlockPos{x=232, y=0, z=2046}
+[27Mar2025 01:57:21.779] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a DUMMY block entity @ BlockPos{x=143, y=0, z=2047} but found not block entity block Block{stacked_dimensions_warden:deeper_layer_1_portal} at location
+[27Mar2025 01:57:21.780] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a block entity for block Block{stacked_dimensions_warden:deeper_layer_1_portal} but failed at location BlockPos{x=143, y=0, z=2047}
+[27Mar2025 01:57:21.780] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a DUMMY block entity @ BlockPos{x=135, y=0, z=2042} but found not block entity block Block{stacked_dimensions_warden:deeper_layer_1_portal} at location
+[27Mar2025 01:57:21.780] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a block entity for block Block{stacked_dimensions_warden:deeper_layer_1_portal} but failed at location BlockPos{x=135, y=0, z=2042}
+[27Mar2025 01:57:36.637] [Worker-Main-1/DEBUG] [betterdungeons/]: Small Dungeon at 193 31 2567
+[27Mar2025 01:57:37.784] [Worker-Main-1/DEBUG] [betterdungeons/]: Small Dungeon at 535 11 2567
+[27Mar2025 01:58:12.883] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: Large Plane (vehicle of Crying_Prophet) moved wrongly! 0.472905257831826
+[27Mar2025 01:58:12.952] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: Large Plane (vehicle of Crying_Prophet) moved wrongly! 1.2426508683251996
