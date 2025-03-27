@@ -5644,6 +5644,12 @@
     },
     "done": true
   },
+  "tconstruct:world/slime_collector": {
+    "criteria": {
+      "earth": "2025-03-27 01:15:14 +0000"
+    },
+    "done": false
+  },
   "spartanweaponry:recipes/spartanweaponry.modded/longbow_copper": {
     "criteria": {
       "has_the_recipe": "2025-03-24 14:47:16 +0000"
@@ -9143,6 +9149,12 @@
   "biomesoplenty:recipes/redstone/jacaranda_door": {
     "criteria": {
       "has_the_recipe": "2025-03-24 14:47:17 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:iceandfire/dragon_egg": {
+    "criteria": {
+      "silver": "2025-03-27 01:19:11 +0000"
     },
     "done": true
   },

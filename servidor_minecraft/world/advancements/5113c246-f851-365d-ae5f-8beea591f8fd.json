@@ -9237,6 +9237,12 @@
     },
     "done": true
   },
+  "iceandfire:iceandfire/dragon_egg": {
+    "criteria": {
+      "silver": "2025-03-27 01:24:49 +0000"
+    },
+    "done": true
+  },
   "supplementaries:recipes/stone_tile": {
     "criteria": {
       "has_the_recipe": "2025-03-24 22:27:34 +0000"
