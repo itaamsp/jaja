@@ -8458,6 +8458,12 @@
     },
     "done": true
   },
+  "spartanweaponry:pike": {
+    "criteria": {
+      "has_pike": "2025-03-27 01:44:40 +0000"
+    },
+    "done": true
+  },
   "tconstruct:recipes/tconstruct/smeltery/smeltery/scorched/scorched_bricks_stairs_stonecutter": {
     "criteria": {
       "has_the_recipe": "2025-03-24 22:27:33 +0000"
@@ -11188,6 +11194,12 @@
   "biomesoplenty:recipes/misc/purple_dye_from_violet": {
     "criteria": {
       "has_the_recipe": "2025-03-24 22:27:32 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:katana": {
+    "criteria": {
+      "has_katana": "2025-03-27 01:45:19 +0000"
     },
     "done": true
   },
@@ -20439,6 +20451,12 @@
   "minecraft:recipes/travelersbackpack/standard_smithing_netherite": {
     "criteria": {
       "has_the_recipe": "2025-03-24 22:27:34 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:quarterstaff": {
+    "criteria": {
+      "has_quarterstaff": "2025-03-27 01:45:19 +0000"
     },
     "done": true
   },
