@@ -1013,6 +1013,12 @@
     },
     "done": true
   },
+  "alexsmobs:alexsmobs/orcas_might": {
+    "criteria": {
+      "all_effects": "2025-03-27 00:57:20 +0000"
+    },
+    "done": true
+  },
   "biomesoplenty:recipes/building_blocks/stripped_magic_wood": {
     "criteria": {
       "has_the_recipe": "2025-03-24 22:27:33 +0000"
