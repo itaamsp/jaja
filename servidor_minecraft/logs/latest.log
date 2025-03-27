@@ -260,3 +260,30 @@
 [27Mar2025 02:27:56.595] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: Crying_Prophet lost connection: Disconnected
 [27Mar2025 02:27:56.595] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Crying_Prophet left the game
 [27Mar2025 02:27:56.596] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Crying_Prophet
+[27Mar2025 02:29:54.207] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.advancements.PlayerAdvancements@69909f5d
+[27Mar2025 02:29:54.214] [Server thread/INFO] [net.minecraft.server.management.PlayerList/]: Crying_Prophet[/127.90.218.78:47079] logged in with entity id 41151 at (-476.28846627818484, 79.0, 1733.0084872408506)
+[27Mar2025 02:29:54.224] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Crying_Prophet joined the game
+[27Mar2025 02:29:54.245] [Server thread/INFO] [se.mickelus.tetra.data.DataManager/]: Sending data to client: Crying_Prophet
+[27Mar2025 02:29:54.261] [Server thread/INFO] [Waila/]: Syncing config to Crying_Prophet (5113c246-f851-365d-ae5f-8beea591f8fd)
+[27Mar2025 02:29:56.409] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of Crying_Prophet (18)
+[27Mar2025 02:29:56.410] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to Crying_Prophet
+[27Mar2025 02:29:58.473] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 5113c246-f851-365d-ae5f-8beea591f8fd
+[27Mar2025 02:29:59.473] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 5113c246-f851-365d-ae5f-8beea591f8fd
+[27Mar2025 02:29:59.473] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player Crying_Prophet (5113c246-f851-365d-ae5f-8beea591f8fd) successfully connected to voice chat
+[27Mar2025 02:30:50.357] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.advancements.PlayerAdvancements@44bd82b
+[27Mar2025 02:36:06.246] [Worker-Main-1/WARN] [net.minecraft.world.gen.feature.jigsaw.JigsawManager/]: Empty or none existent pool: dungeons_arise:underworld/foundry/foundry_corridor_gears
+[27Mar2025 02:36:06.246] [Worker-Main-1/WARN] [net.minecraft.world.gen.feature.jigsaw.JigsawManager/]: Empty or none existent pool: dungeons_arise:underworld/foundry/foundry_corridor_gears
+[27Mar2025 02:36:06.260] [Worker-Main-1/WARN] [net.minecraft.world.gen.feature.jigsaw.JigsawManager/]: Empty or none existent pool: dungeons_arise:underworld/foundry/foundry_corridor_gears
+[27Mar2025 02:36:06.265] [Worker-Main-1/WARN] [net.minecraft.world.gen.feature.jigsaw.JigsawManager/]: Empty or none existent pool: dungeons_arise:underworld/foundry/foundry_corridor_gears
+[27Mar2025 02:36:25.554] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a DUMMY block entity @ BlockPos{x=429, y=14, z=2642} but found not block entity block Block{quark:deepslate}[axis=y] at location
+[27Mar2025 02:36:25.555] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a block entity for block Block{quark:deepslate}[axis=y] but failed at location BlockPos{x=429, y=14, z=2642}
+[27Mar2025 02:36:25.555] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a DUMMY block entity @ BlockPos{x=425, y=14, z=2646} but found not block entity block Block{quark:deepslate}[axis=y] at location
+[27Mar2025 02:36:25.555] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a block entity for block Block{quark:deepslate}[axis=y] but failed at location BlockPos{x=425, y=14, z=2646}
+[27Mar2025 02:36:25.555] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a DUMMY block entity @ BlockPos{x=427, y=14, z=2642} but found not block entity block Block{quark:deepslate}[axis=y] at location
+[27Mar2025 02:36:25.555] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a block entity for block Block{quark:deepslate}[axis=y] but failed at location BlockPos{x=427, y=14, z=2642}
+[27Mar2025 02:36:25.555] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a DUMMY block entity @ BlockPos{x=420, y=14, z=2643} but found not block entity block Block{quark:deepslate}[axis=y] at location
+[27Mar2025 02:36:25.555] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a block entity for block Block{quark:deepslate}[axis=y] but failed at location BlockPos{x=420, y=14, z=2643}
+[27Mar2025 02:36:25.558] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a DUMMY block entity @ BlockPos{x=411, y=15, z=2642} but found not block entity block Block{minecraft:cave_air} at location
+[27Mar2025 02:36:25.558] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a block entity for block Block{minecraft:cave_air} but failed at location BlockPos{x=411, y=15, z=2642}
+[27Mar2025 02:36:25.558] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a DUMMY block entity @ BlockPos{x=412, y=15, z=2642} but found not block entity block Block{minecraft:cave_air} at location
+[27Mar2025 02:36:25.558] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a block entity for block Block{minecraft:cave_air} but failed at location BlockPos{x=412, y=15, z=2642}
