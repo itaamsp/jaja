@@ -9752,3 +9752,33 @@ java.lang.NullPointerException: null
 [27Mar2025 00:03:35.471] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player Dylan_HHH (7bf25c75-cb42-3eb9-bc7e-9109e9e259b5) successfully connected to voice chat
 [27Mar2025 00:03:35.576] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of Dylan_HHH: {disabled=false, disconnected=false, uuid=7bf25c75-cb42-3eb9-bc7e-9109e9e259b5, name=Dylan_HHH, group=null}
 [27Mar2025 00:03:59.215] [Server thread/DEBUG] [voicechat/]: [voicechat] Setting group of Dylan_HHH: {disabled=false, disconnected=false, uuid=7bf25c75-cb42-3eb9-bc7e-9109e9e259b5, name=Dylan_HHH, group=8d771d3e-f882-4ccb-97d2-1184640eb21b}
+[27Mar2025 00:05:08.558] [Server thread/DEBUG] [mixin/]: Mixing fastbench.MixinFastBenchUtil from polymorph_integrations.mixins.json into shadows.fastbench.util.FastBenchUtil
+[27Mar2025 00:05:11.518] [Netty Epoll Server IO #0/DEBUG] [se.mickelus.tetra.items.modular.IModularItem/]: Gathering properties for  (78b6924d-3506-43be-a1e7-9ae990c38570)
+[27Mar2025 00:05:12.156] [Server thread/DEBUG] [se.mickelus.tetra.items.modular.IModularItem/]: Gathering properties for  (5a5344c5-ed5a-475b-a900-a694cb446275)
+[27Mar2025 00:05:12.158] [Server thread/DEBUG] [se.mickelus.tetra.items.modular.IModularItem/]: Gathering attribute modifiers for  (5a5344c5-ed5a-475b-a900-a694cb446275)
+[27Mar2025 00:05:12.343] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Crying_Prophet has made the advancement [Basic Tinkering (Tetra)]
+[27Mar2025 00:05:24.304] [Server thread/INFO] [red.felnull.imp.IamMusicPlayer/]: Dylan_HHH Join PlayList(qlq)
+[27Mar2025 00:05:50.611] [Server thread/DEBUG] [se.mickelus.tetra.items.modular.impl.ModularDoubleHeadedItem/]: Gathering tool data for  (5a5344c5-ed5a-475b-a900-a694cb446275)
+[27Mar2025 00:05:51.718] [Server thread/DEBUG] [se.mickelus.tetra.items.modular.IModularItem/]: Gathering effect data for  (5a5344c5-ed5a-475b-a900-a694cb446275)
+[27Mar2025 00:06:56.818] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Crying_Prophet has made the advancement [Bench mk II]
+[27Mar2025 00:07:03.537] [Server thread/DEBUG] [red.felnull.otyacraftengine.data.WorldDataManager/]: saveing data
+[27Mar2025 00:07:03.919] [Server thread/DEBUG] [red.felnull.otyacraftengine.data.WorldDataManager/]: saveing data
+[27Mar2025 00:07:03.921] [Server thread/DEBUG] [red.felnull.otyacraftengine.data.WorldDataManager/]: saveing data
+[27Mar2025 00:07:03.922] [Server thread/DEBUG] [red.felnull.otyacraftengine.data.WorldDataManager/]: saveing data
+[27Mar2025 00:07:03.925] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: Gathering id map for writing to world save world
+[27Mar2025 00:07:03.954] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: ID Map collection complete world
+[27Mar2025 00:07:22.100] [Server thread/INFO] [red.felnull.imp.IamMusicPlayer/]: Dylan_HHH Add PlayMusic(Keyan - Pana Miguel (prod. snorkatje)) to PlayList(qlq)
+[27Mar2025 00:08:12.302] [Server thread/INFO] [red.felnull.imp.IamMusicPlayer/]: Dylan_HHH Add PlayMusic(SLAYTER, LUAR LA L, JAY WHEELER, PRESSURE 9X19 - no soy 2.0 🙅🏽‍♂️ (Official Video)) to PlayList(qlq)
+[27Mar2025 00:09:47.960] [Server thread/INFO] [red.felnull.imp.IamMusicPlayer/]: Dylan_HHH Add PlayMusic(Culo Con Caca) to PlayList(qlq)
+[27Mar2025 00:09:49.701] [Server thread/INFO] [morpheus/]: Crying_Prophet is now sleeping. 1/2 (50%)
+[27Mar2025 00:11:13.367] [Server thread/INFO] [red.felnull.imp.IamMusicPlayer/]: Dylan_HHH Add PlayMusic(Me Encanta el Fortnite) to PlayList(qlq)
+[27Mar2025 00:11:33.234] [Server thread/WARN] [net.minecraft.server.management.PlayerInteractionManager/]: Mismatch in destroy block pos: BlockPos{x=-444, y=58, z=1467} BlockPos{x=-444, y=59, z=1467}
+[27Mar2025 00:11:39.061] [Server thread/DEBUG] [se.mickelus.tetra.items.modular.IModularItem/]: Gathering properties for  (5a5344c5-ed5a-475b-a900-a694cb446275)
+[27Mar2025 00:11:39.062] [Server thread/DEBUG] [se.mickelus.tetra.items.modular.IModularItem/]: Gathering attribute modifiers for  (5a5344c5-ed5a-475b-a900-a694cb446275)
+[27Mar2025 00:12:03.589] [Server thread/DEBUG] [red.felnull.otyacraftengine.data.WorldDataManager/]: saveing data
+[27Mar2025 00:12:04.471] [Server thread/DEBUG] [red.felnull.otyacraftengine.data.WorldDataManager/]: saveing data
+[27Mar2025 00:12:04.475] [Server thread/DEBUG] [red.felnull.otyacraftengine.data.WorldDataManager/]: saveing data
+[27Mar2025 00:12:04.478] [Server thread/DEBUG] [red.felnull.otyacraftengine.data.WorldDataManager/]: saveing data
+[27Mar2025 00:12:04.482] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: Gathering id map for writing to world save world
+[27Mar2025 00:12:04.515] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: ID Map collection complete world
+[27Mar2025 00:12:29.319] [Server thread/INFO] [red.felnull.imp.IamMusicPlayer/]: Dylan_HHH Add PlayMusic(Skibidi Toilet Full Song Music Video) to PlayList(qlq)

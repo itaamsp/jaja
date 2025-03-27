@@ -3266,6 +3266,12 @@
     },
     "done": true
   },
+  "tetra:upgrades/workbench": {
+    "criteria": {
+      "hammer": "2025-03-27 00:06:56 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/polished_blackstone_bricks_from_blackstone_stonecutting": {
     "criteria": {
       "has_the_recipe": "2025-03-24 22:27:31 +0000"
@@ -4741,6 +4747,12 @@
   "securitycraft:recipes/securitycraft/reinforced_cobblestone_slab": {
     "criteria": {
       "has_the_recipe": "2025-03-24 22:27:31 +0000"
+    },
+    "done": true
+  },
+  "tetra:upgrades/double_headed": {
+    "criteria": {
+      "hammer": "2025-03-27 00:05:12 +0000"
     },
     "done": true
   },
@@ -13662,6 +13674,12 @@
     },
     "done": true
   },
+  "tetra:upgrades/root": {
+    "criteria": {
+      "hammer": "2025-03-27 00:05:12 +0000"
+    },
+    "done": true
+  },
   "tconstruct:recipes/tconstruct/general/common/materials/copper_block_from_ingots": {
     "criteria": {
       "has_the_recipe": "2025-03-24 22:27:33 +0000"
@@ -15423,6 +15441,12 @@
   "minecraft:recipes/redstone/jungle_fence_gate": {
     "criteria": {
       "has_the_recipe": "2025-03-24 22:27:34 +0000"
+    },
+    "done": true
+  },
+  "tetra:story/more_upgrades": {
+    "criteria": {
+      "hammer": "2025-03-27 00:05:12 +0000"
     },
     "done": true
   },
@@ -18625,6 +18649,12 @@
     },
     "done": true
   },
+  "tetra:recipes/workbench": {
+    "criteria": {
+      "hammer": "2025-03-27 00:06:56 +0000"
+    },
+    "done": true
+  },
   "tconstruct:recipes/tconstruct/general/common/glass/green_clear_stained_glass_pane": {
     "criteria": {
       "has_the_recipe": "2025-03-24 22:27:30 +0000"
@@ -19433,6 +19463,12 @@
   "create:recipes/create.palettes/paved_dolomite_stairs_from_paved_dolomite_stonecutting": {
     "criteria": {
       "has_the_recipe": "2025-03-24 22:27:34 +0000"
+    },
+    "done": true
+  },
+  "tetra:upgrades/repairs": {
+    "criteria": {
+      "hammer": "2025-03-27 00:05:12 +0000"
     },
     "done": true
   },
