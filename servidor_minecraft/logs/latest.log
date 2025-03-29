@@ -689,3 +689,4 @@ java.lang.NullPointerException: null
 [29Mar2025 02:06:50.551] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Dylan_HHH left the game
 [29Mar2025 02:06:50.552] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Dylan_HHH
 [29Mar2025 02:12:45.382] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Server] adios
+[29Mar2025 03:07:12.907] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.advancements.PlayerAdvancements@782695e4

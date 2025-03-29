@@ -15465,6 +15465,12 @@
     },
     "done": true
   },
+  "tetra:spelunking/find_scroll_efficiency": {
+    "criteria": {
+      "hammer_efficiency": "2025-03-29 03:13:10 +0000"
+    },
+    "done": false
+  },
   "netherdepthsupgrade:recipes/misc/bone_meal": {
     "criteria": {
       "has_bonefish": "2025-03-24 22:27:29 +0000"
