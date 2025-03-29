@@ -690,3 +690,12 @@ java.lang.NullPointerException: null
 [29Mar2025 02:06:50.552] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Dylan_HHH
 [29Mar2025 02:12:45.382] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Server] adios
 [29Mar2025 03:07:12.907] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.advancements.PlayerAdvancements@782695e4
+[29Mar2025 03:21:22.348] [Server thread/INFO] [net.minecraft.entity.Entity/]: Villager VillagerEntity['Inell'/21885, l='ServerLevel[world]', x=-473.70, y=77.56, z=1769.95] died, message: 'Inell was slain by Zombie'
+[29Mar2025 03:21:30.704] [Server thread/INFO] [net.minecraft.entity.Entity/]: Villager VillagerEntity['Leroy'/21881, l='ServerLevel[world]', x=-468.86, y=77.00, z=1772.47] died, message: 'Leroy was slain by Inell'
+[29Mar2025 03:21:36.202] [Server thread/INFO] [net.minecraft.entity.Entity/]: Villager VillagerEntity['Mitchel'/21884, l='ServerLevel[world]', x=-471.64, y=77.00, z=1767.57] died, message: 'Mitchel was slain by Inell'
+[29Mar2025 03:21:40.654] [Server thread/INFO] [net.minecraft.entity.Entity/]: Villager VillagerEntity['Carma'/21888, l='ServerLevel[world]', x=-467.95, y=77.82, z=1767.70] died, message: 'Carma was slain by Mitchel'
+[29Mar2025 03:21:41.900] [Server thread/INFO] [net.minecraft.entity.Entity/]: Villager VillagerEntity['Ahmad'/21882, l='ServerLevel[world]', x=-467.63, y=77.00, z=1766.09] died, message: 'Ahmad was slain by Mitchel'
+[29Mar2025 03:21:54.599] [Server thread/INFO] [net.minecraft.entity.Entity/]: Villager VillagerEntity['Kory'/21883, l='ServerLevel[world]', x=-473.06, y=77.56, z=1768.11] died, message: 'Kory was slain by Carma'
+[29Mar2025 03:22:04.145] [Server thread/INFO] [net.minecraft.entity.Entity/]: Villager VillagerEntity['Paula'/21887, l='ServerLevel[world]', x=-474.19, y=77.00, z=1772.40] died, message: 'Paula was slain by Inell'
+[29Mar2025 03:22:10.249] [Server thread/INFO] [net.minecraft.entity.Entity/]: Villager VillagerEntity['Isaac'/21886, l='ServerLevel[world]', x=-472.84, y=77.00, z=1772.70] died, message: 'Isaac was slain by Kory'
+[29Mar2025 03:24:27.601] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Crying_Prophet: Set own game mode to Creative Mode]
