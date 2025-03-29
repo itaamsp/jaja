@@ -653,3 +653,35 @@ java.lang.NullPointerException: null
 [29Mar2025 01:39:51.053] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Crying_Prophet left the game
 [29Mar2025 01:39:51.054] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Crying_Prophet
 [29Mar2025 01:40:43.752] [Server thread/WARN] [net.minecraft.server.management.PlayerInteractionManager/]: Mismatch in destroy block pos: BlockPos{x=-450, y=74, z=1763} BlockPos{x=-450, y=73, z=1762}
+[29Mar2025 01:55:40.349] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player 7bf25c75-cb42-3eb9-bc7e-9109e9e259b5 timed out
+[29Mar2025 01:55:40.349] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Reconnecting player Dylan_HHH
+[29Mar2025 01:55:40.350] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Sent secret to Dylan_HHH
+[29Mar2025 01:55:46.397] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: Dylan_HHH lost connection: Timed out
+[29Mar2025 01:55:46.397] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Dylan_HHH left the game
+[29Mar2025 01:55:46.399] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Dylan_HHH
+[29Mar2025 01:56:22.415] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.advancements.PlayerAdvancements@2c1972bd
+[29Mar2025 01:56:22.426] [Server thread/INFO] [net.minecraft.server.management.PlayerList/]: Crying_Prophet[/127.90.218.78:45943] logged in with entity id 21852 at (-469.8712681399438, 77.0, 1744.1449823874011)
+[29Mar2025 01:56:22.447] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Crying_Prophet joined the game
+[29Mar2025 01:56:22.502] [Server thread/INFO] [se.mickelus.tetra.data.DataManager/]: Sending data to client: Crying_Prophet
+[29Mar2025 01:56:22.519] [Server thread/INFO] [Waila/]: Syncing config to Crying_Prophet (5113c246-f851-365d-ae5f-8beea591f8fd)
+[29Mar2025 01:56:23.784] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of Crying_Prophet (18)
+[29Mar2025 01:56:23.785] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to Crying_Prophet
+[29Mar2025 01:56:27.556] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 5113c246-f851-365d-ae5f-8beea591f8fd
+[29Mar2025 01:56:28.556] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 5113c246-f851-365d-ae5f-8beea591f8fd
+[29Mar2025 01:56:28.557] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player Crying_Prophet (5113c246-f851-365d-ae5f-8beea591f8fd) successfully connected to voice chat
+[29Mar2025 02:03:14.978] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.advancements.PlayerAdvancements@3088d1fa
+[29Mar2025 02:03:14.991] [Server thread/INFO] [net.minecraft.server.management.PlayerList/]: Dylan_HHH[/127.22.238.216:47773] logged in with entity id 23011 at (-479.444325578527, 80.0, 1737.1429887025465)
+[29Mar2025 02:03:14.996] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Dylan_HHH joined the game
+[29Mar2025 02:03:15.041] [Server thread/INFO] [se.mickelus.tetra.data.DataManager/]: Sending data to client: Dylan_HHH
+[29Mar2025 02:03:15.051] [Server thread/INFO] [Waila/]: Syncing config to Dylan_HHH (7bf25c75-cb42-3eb9-bc7e-9109e9e259b5)
+[29Mar2025 02:03:39.003] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of Dylan_HHH (18)
+[29Mar2025 02:03:39.004] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to Dylan_HHH
+[29Mar2025 02:03:57.980] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 7bf25c75-cb42-3eb9-bc7e-9109e9e259b5
+[29Mar2025 02:03:58.980] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 7bf25c75-cb42-3eb9-bc7e-9109e9e259b5
+[29Mar2025 02:03:58.981] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player Dylan_HHH (7bf25c75-cb42-3eb9-bc7e-9109e9e259b5) successfully connected to voice chat
+[29Mar2025 02:04:57.182] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player 7bf25c75-cb42-3eb9-bc7e-9109e9e259b5 timed out
+[29Mar2025 02:04:57.183] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Reconnecting player Dylan_HHH
+[29Mar2025 02:04:57.183] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Sent secret to Dylan_HHH
+[29Mar2025 02:04:57.366] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 7bf25c75-cb42-3eb9-bc7e-9109e9e259b5
+[29Mar2025 02:04:58.366] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 7bf25c75-cb42-3eb9-bc7e-9109e9e259b5
+[29Mar2025 02:04:58.366] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player Dylan_HHH (7bf25c75-cb42-3eb9-bc7e-9109e9e259b5) successfully connected to voice chat
