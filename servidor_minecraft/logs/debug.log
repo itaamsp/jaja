@@ -10022,3 +10022,63 @@ java.lang.NullPointerException: null
 [29Mar2025 00:59:46.882] [Server thread/DEBUG] [red.felnull.otyacraftengine.data.WorldDataManager/]: saveing data
 [29Mar2025 00:59:46.887] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: Gathering id map for writing to world save world
 [29Mar2025 00:59:46.910] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: ID Map collection complete world
+[29Mar2025 01:03:50.754] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[29Mar2025 01:03:50.802] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[29Mar2025 01:03:50.852] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[29Mar2025 01:03:50.902] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[29Mar2025 01:03:50.959] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[29Mar2025 01:03:51.006] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[29Mar2025 01:04:46.502] [Server thread/DEBUG] [red.felnull.otyacraftengine.data.WorldDataManager/]: saveing data
+[29Mar2025 01:04:47.075] [Server thread/DEBUG] [red.felnull.otyacraftengine.data.WorldDataManager/]: saveing data
+[29Mar2025 01:04:47.076] [Server thread/DEBUG] [red.felnull.otyacraftengine.data.WorldDataManager/]: saveing data
+[29Mar2025 01:04:47.078] [Server thread/DEBUG] [red.felnull.otyacraftengine.data.WorldDataManager/]: saveing data
+[29Mar2025 01:04:47.079] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: Gathering id map for writing to world save world
+[29Mar2025 01:04:47.105] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: ID Map collection complete world
+[29Mar2025 01:06:28.710] [Server thread/INFO] [morpheus/]: Dylan_HHH is now sleeping. 1/2 (50%)
+[29Mar2025 01:06:29.708] [Server thread/INFO] [morpheus/]: Dylan_HHH is now sleeping. 1/2 (50%)
+[29Mar2025 01:09:46.476] [Server thread/DEBUG] [red.felnull.otyacraftengine.data.WorldDataManager/]: saveing data
+[29Mar2025 01:09:47.216] [Server thread/DEBUG] [red.felnull.otyacraftengine.data.WorldDataManager/]: saveing data
+[29Mar2025 01:09:47.219] [Server thread/DEBUG] [red.felnull.otyacraftengine.data.WorldDataManager/]: saveing data
+[29Mar2025 01:09:47.222] [Server thread/DEBUG] [red.felnull.otyacraftengine.data.WorldDataManager/]: saveing data
+[29Mar2025 01:09:47.230] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: Gathering id map for writing to world save world
+[29Mar2025 01:09:47.258] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: ID Map collection complete world
+[29Mar2025 01:11:24.800] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of iceandfire:gorgon_temple/building
+[29Mar2025 01:11:24.811] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of iceandfire:gorgon_temple/basement
+[29Mar2025 01:11:58.464] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of quark:big_dungeon/starts/plus_barricade
+[29Mar2025 01:11:58.496] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of quark:big_dungeon/rooms/double_hall_silverfish
+[29Mar2025 01:11:58.506] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of quark:big_dungeon/rooms/ascend_ruined
+[29Mar2025 01:11:58.509] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of quark:big_dungeon/misc/endpoint
+[29Mar2025 01:11:58.510] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of quark:big_dungeon/corridors/t_plain
+[29Mar2025 01:11:58.511] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of quark:big_dungeon/rooms/connector_fountain
+[29Mar2025 01:11:58.514] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of quark:big_dungeon/rooms/climb_parkour
+[29Mar2025 01:11:58.517] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of quark:big_dungeon/corridors/forward_plain
+[29Mar2025 01:11:58.519] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of quark:big_dungeon/rooms/connector_base
+[29Mar2025 01:11:58.520] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of quark:big_dungeon/rooms/connector_room
+[29Mar2025 01:11:58.522] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of quark:big_dungeon/corridors/left_plain
+[29Mar2025 01:11:58.524] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of quark:big_dungeon/rooms/ascend_intersection
+[29Mar2025 01:12:01.289] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of iceandfire:graveyard/graveyard_1
+[29Mar2025 01:12:08.185] [Worker-Main-1/INFO] [bettercaves/]: CREATING AND INIT'ING CARVER W DIMENSION minecraft:overworld...
+[29Mar2025 01:12:08.188] [Worker-Main-1/INFO] [bettercaves/]: Better Caves config file for dimension minecraft:overworld not found. Using global config...
+[29Mar2025 01:12:08.230] [Worker-Main-1/DEBUG] [bettercaves/]: CAVE INFORMATION
+[29Mar2025 01:12:08.230] [Worker-Main-1/DEBUG] [bettercaves/]: --> MAX POSSIBLE THRESHOLD: 1.0
+[29Mar2025 01:12:08.230] [Worker-Main-1/DEBUG] [bettercaves/]: --> TOTAL PRIORITY: 15
+[29Mar2025 01:12:08.230] [Worker-Main-1/DEBUG] [bettercaves/]: --> TOTAL RANGE LENGTH: 2.0
+[29Mar2025 01:12:08.230] [Worker-Main-1/DEBUG] [bettercaves/]: --> CARVER
+[29Mar2025 01:12:08.231] [Worker-Main-1/DEBUG] [bettercaves/]:     --> RANGE FOUND: [-1.00, 0.33] (0.7890%) -- smooth cutoffs: [-0.29, 0.05]
+[29Mar2025 01:12:08.231] [Worker-Main-1/DEBUG] [bettercaves/]: --> CARVER
+[29Mar2025 01:12:08.231] [Worker-Main-1/DEBUG] [bettercaves/]:     --> RANGE FOUND: [0.33, 1.00] (0.2110%) -- smooth cutoffs: [0.42, 0.56]
+[29Mar2025 01:12:08.238] [Worker-Main-1/DEBUG] [bettercaves/]: CAVERN INFORMATION
+[29Mar2025 01:12:08.238] [Worker-Main-1/DEBUG] [bettercaves/]: --> SPAWN CHANCE SET TO: 0.25
+[29Mar2025 01:12:08.238] [Worker-Main-1/DEBUG] [bettercaves/]: --> TOTAL PRIORITY: 20
+[29Mar2025 01:12:08.238] [Worker-Main-1/DEBUG] [bettercaves/]: --> DEADZONE PERCENT: 0.75(0.75 TOTAL)
+[29Mar2025 01:12:08.239] [Worker-Main-1/DEBUG] [bettercaves/]: --> CARVER
+[29Mar2025 01:12:08.239] [Worker-Main-1/DEBUG] [bettercaves/]:     --> RANGE PERCENT LENGTH WANTED: 0.125
+[29Mar2025 01:12:08.239] [Worker-Main-1/DEBUG] [bettercaves/]:     --> RANGE FOUND: [-1.00, -0.45] (0.1272%) -- smooth cutoffs: [-0.61, -0.52]
+[29Mar2025 01:12:08.239] [Worker-Main-1/DEBUG] [bettercaves/]: --> CARVER
+[29Mar2025 01:12:08.239] [Worker-Main-1/DEBUG] [bettercaves/]:     --> RANGE PERCENT LENGTH WANTED: 0.125
+[29Mar2025 01:12:08.239] [Worker-Main-1/DEBUG] [bettercaves/]:     --> RANGE FOUND: [0.46, 0.76] (0.1260%) -- smooth cutoffs: [0.53, 0.62]
+[29Mar2025 01:12:08.243] [Worker-Main-1/INFO] [bettercaves/]: Using block 'minecraft:lava' as lava in cave generation for dimension minecraft:overworld
+[29Mar2025 01:12:08.244] [Worker-Main-1/INFO] [bettercaves/]: Using block 'Block{minecraft:water}[level=0]' as water in cave generation for dimension minecraft:overworld
+[29Mar2025 01:12:08.250] [Worker-Main-1/DEBUG] [bettercaves/]: BETTER CAVES WORLD CARVER INITIALIZED WITH SEED 7514313397479565501 IN minecraft:overworld
+[29Mar2025 01:12:08.438] [Worker-Main-1/DEBUG] [mixin/]: Mixing access.WorldDecoratingHelperAccess from byg.mixins.json into net.minecraft.world.gen.feature.WorldDecoratingHelper
+[29Mar2025 01:12:55.223] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Crying_Prophet has made the advancement [My Name is Nobody]

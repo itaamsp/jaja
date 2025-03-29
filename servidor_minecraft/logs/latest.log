@@ -586,3 +586,10 @@ java.lang.NullPointerException: null
 [29Mar2025 00:59:00.344] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 7bf25c75-cb42-3eb9-bc7e-9109e9e259b5
 [29Mar2025 00:59:01.346] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 7bf25c75-cb42-3eb9-bc7e-9109e9e259b5
 [29Mar2025 00:59:01.352] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player Dylan_HHH (7bf25c75-cb42-3eb9-bc7e-9109e9e259b5) successfully connected to voice chat
+[29Mar2025 01:06:28.710] [Server thread/INFO] [morpheus/]: Dylan_HHH is now sleeping. 1/2 (50%)
+[29Mar2025 01:06:29.708] [Server thread/INFO] [morpheus/]: Dylan_HHH is now sleeping. 1/2 (50%)
+[29Mar2025 01:12:08.185] [Worker-Main-1/INFO] [bettercaves/]: CREATING AND INIT'ING CARVER W DIMENSION minecraft:overworld...
+[29Mar2025 01:12:08.188] [Worker-Main-1/INFO] [bettercaves/]: Better Caves config file for dimension minecraft:overworld not found. Using global config...
+[29Mar2025 01:12:08.243] [Worker-Main-1/INFO] [bettercaves/]: Using block 'minecraft:lava' as lava in cave generation for dimension minecraft:overworld
+[29Mar2025 01:12:08.244] [Worker-Main-1/INFO] [bettercaves/]: Using block 'Block{minecraft:water}[level=0]' as water in cave generation for dimension minecraft:overworld
+[29Mar2025 01:12:55.223] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Crying_Prophet has made the advancement [My Name is Nobody]
