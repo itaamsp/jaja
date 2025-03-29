@@ -685,3 +685,7 @@ java.lang.NullPointerException: null
 [29Mar2025 02:04:57.366] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 7bf25c75-cb42-3eb9-bc7e-9109e9e259b5
 [29Mar2025 02:04:58.366] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 7bf25c75-cb42-3eb9-bc7e-9109e9e259b5
 [29Mar2025 02:04:58.366] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player Dylan_HHH (7bf25c75-cb42-3eb9-bc7e-9109e9e259b5) successfully connected to voice chat
+[29Mar2025 02:06:50.551] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: Dylan_HHH lost connection: Disconnected
+[29Mar2025 02:06:50.551] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Dylan_HHH left the game
+[29Mar2025 02:06:50.552] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Dylan_HHH
+[29Mar2025 02:12:45.382] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Server] adios
