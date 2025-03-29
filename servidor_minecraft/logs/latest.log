@@ -648,3 +648,8 @@ java.lang.NullPointerException: null
 [29Mar2025 01:28:07.704] [Server thread/INFO] [morpheus/]: Crying_Prophet is now sleeping. 1/2 (50%)
 [29Mar2025 01:29:40.604] [Server thread/WARN] [cgm/]: Dylan_HHH(7bf25c75-cb42-3eb9-bc7e-9109e9e259b5) tried to fire before cooldown finished or server is lagging? Remaining milliseconds: 263
 [29Mar2025 01:29:51.448] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Dylan_HHH is bleeding...
+[29Mar2025 01:36:42.987] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: Large Plane (vehicle of Crying_Prophet) moved wrongly! 0.2653523278161174
+[29Mar2025 01:39:51.053] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: Crying_Prophet lost connection: Disconnected
+[29Mar2025 01:39:51.053] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Crying_Prophet left the game
+[29Mar2025 01:39:51.054] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Crying_Prophet
+[29Mar2025 01:40:43.752] [Server thread/WARN] [net.minecraft.server.management.PlayerInteractionManager/]: Mismatch in destroy block pos: BlockPos{x=-450, y=74, z=1763} BlockPos{x=-450, y=73, z=1762}

@@ -15950,3 +15950,43 @@ java.lang.NullPointerException: null
 [29Mar2025 01:33:33.851] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
 [29Mar2025 01:33:33.902] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
 [29Mar2025 01:33:33.951] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[29Mar2025 01:34:46.468] [Server thread/DEBUG] [red.felnull.otyacraftengine.data.WorldDataManager/]: saveing data
+[29Mar2025 01:34:46.915] [Server thread/DEBUG] [red.felnull.otyacraftengine.data.WorldDataManager/]: saveing data
+[29Mar2025 01:34:46.917] [Server thread/DEBUG] [red.felnull.otyacraftengine.data.WorldDataManager/]: saveing data
+[29Mar2025 01:34:46.918] [Server thread/DEBUG] [red.felnull.otyacraftengine.data.WorldDataManager/]: saveing data
+[29Mar2025 01:34:46.920] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: Gathering id map for writing to world save world
+[29Mar2025 01:34:46.937] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: ID Map collection complete world
+[29Mar2025 01:36:31.968] [Server thread/DEBUG] [se.mickelus.tetra.items.modular.IModularItem/]: Gathering properties for  (5a5344c5-ed5a-475b-a900-a694cb446275)
+[29Mar2025 01:36:42.987] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: Large Plane (vehicle of Crying_Prophet) moved wrongly! 0.2653523278161174
+[29Mar2025 01:39:46.460] [Server thread/DEBUG] [red.felnull.otyacraftengine.data.WorldDataManager/]: saveing data
+[29Mar2025 01:39:47.590] [Server thread/DEBUG] [red.felnull.otyacraftengine.data.WorldDataManager/]: saveing data
+[29Mar2025 01:39:47.593] [Server thread/DEBUG] [red.felnull.otyacraftengine.data.WorldDataManager/]: saveing data
+[29Mar2025 01:39:47.594] [Server thread/DEBUG] [red.felnull.otyacraftengine.data.WorldDataManager/]: saveing data
+[29Mar2025 01:39:47.597] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: Gathering id map for writing to world save world
+[29Mar2025 01:39:47.622] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: ID Map collection complete world
+[29Mar2025 01:39:51.053] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: Crying_Prophet lost connection: Disconnected
+[29Mar2025 01:39:51.053] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Crying_Prophet left the game
+[29Mar2025 01:39:51.054] [Server thread/DEBUG] [red.felnull.otyacraftengine.data.WorldDataManager/]: unloding Crying_Prophet data
+[29Mar2025 01:39:51.054] [Server thread/DEBUG] [voicechat/]: [voicechat] Removing state of Crying_Prophet
+[29Mar2025 01:39:51.054] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Crying_Prophet
+[29Mar2025 01:39:51.054] [Thread-127/DEBUG] [red.felnull.otyacraftengine.data.WorldDataManager/]: saveing Crying_Prophet data
+[29Mar2025 01:39:51.101] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Player 5113c246-f851-365d-ae5f-8beea591f8fd does not have a secret
+[29Mar2025 01:40:43.752] [Server thread/WARN] [net.minecraft.server.management.PlayerInteractionManager/]: Mismatch in destroy block pos: BlockPos{x=-450, y=74, z=1763} BlockPos{x=-450, y=73, z=1762}
+[29Mar2025 01:44:46.458] [Server thread/DEBUG] [red.felnull.otyacraftengine.data.WorldDataManager/]: saveing data
+[29Mar2025 01:44:47.683] [Server thread/DEBUG] [red.felnull.otyacraftengine.data.WorldDataManager/]: saveing data
+[29Mar2025 01:44:47.686] [Server thread/DEBUG] [red.felnull.otyacraftengine.data.WorldDataManager/]: saveing data
+[29Mar2025 01:44:47.687] [Server thread/DEBUG] [red.felnull.otyacraftengine.data.WorldDataManager/]: saveing data
+[29Mar2025 01:44:47.692] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: Gathering id map for writing to world save world
+[29Mar2025 01:44:47.740] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: ID Map collection complete world
+[29Mar2025 01:49:46.442] [Server thread/DEBUG] [red.felnull.otyacraftengine.data.WorldDataManager/]: saveing data
+[29Mar2025 01:49:46.723] [Server thread/DEBUG] [red.felnull.otyacraftengine.data.WorldDataManager/]: saveing data
+[29Mar2025 01:49:46.726] [Server thread/DEBUG] [red.felnull.otyacraftengine.data.WorldDataManager/]: saveing data
+[29Mar2025 01:49:46.728] [Server thread/DEBUG] [red.felnull.otyacraftengine.data.WorldDataManager/]: saveing data
+[29Mar2025 01:49:46.730] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: Gathering id map for writing to world save world
+[29Mar2025 01:49:46.752] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: ID Map collection complete world
+[29Mar2025 01:54:46.424] [Server thread/DEBUG] [red.felnull.otyacraftengine.data.WorldDataManager/]: saveing data
+[29Mar2025 01:54:46.687] [Server thread/DEBUG] [red.felnull.otyacraftengine.data.WorldDataManager/]: saveing data
+[29Mar2025 01:54:46.688] [Server thread/DEBUG] [red.felnull.otyacraftengine.data.WorldDataManager/]: saveing data
+[29Mar2025 01:54:46.690] [Server thread/DEBUG] [red.felnull.otyacraftengine.data.WorldDataManager/]: saveing data
+[29Mar2025 01:54:46.693] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: Gathering id map for writing to world save world
+[29Mar2025 01:54:46.711] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: ID Map collection complete world

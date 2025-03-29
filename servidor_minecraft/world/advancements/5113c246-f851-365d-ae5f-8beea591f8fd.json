@@ -19764,6 +19764,7 @@
   },
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
+      "honey_bottle": "2025-03-29 01:30:51 +0000",
       "cooked_mutton": "2025-03-27 02:12:04 +0000",
       "sweet_berries": "2025-03-27 02:43:10 +0000",
       "cooked_beef": "2025-03-26 01:30:29 +0000",
