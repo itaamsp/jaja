@@ -17274,3 +17274,29 @@ java.lang.NullPointerException: null
 [29Mar2025 03:24:46.809] [Server thread/DEBUG] [red.felnull.otyacraftengine.data.WorldDataManager/]: saveing data
 [29Mar2025 03:24:46.812] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: Gathering id map for writing to world save world
 [29Mar2025 03:24:46.840] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: ID Map collection complete world
+[29Mar2025 03:28:07.600] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Crying_Prophet: Set own game mode to Survival Mode]
+[29Mar2025 03:28:19.379] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Crying_Prophet: Set own game mode to Creative Mode]
+[29Mar2025 03:28:20.107] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Crying_Prophet: Set own game mode to Survival Mode]
+[29Mar2025 03:28:20.773] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Crying_Prophet: Set own game mode to Creative Mode]
+[29Mar2025 03:28:21.279] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Crying_Prophet: Set own game mode to Survival Mode]
+[29Mar2025 03:29:46.423] [Server thread/DEBUG] [red.felnull.otyacraftengine.data.WorldDataManager/]: saveing data
+[29Mar2025 03:29:46.687] [Server thread/DEBUG] [red.felnull.otyacraftengine.data.WorldDataManager/]: saveing data
+[29Mar2025 03:29:46.689] [Server thread/DEBUG] [red.felnull.otyacraftengine.data.WorldDataManager/]: saveing data
+[29Mar2025 03:29:46.690] [Server thread/DEBUG] [red.felnull.otyacraftengine.data.WorldDataManager/]: saveing data
+[29Mar2025 03:29:46.693] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: Gathering id map for writing to world save world
+[29Mar2025 03:29:46.710] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: ID Map collection complete world
+[29Mar2025 03:30:05.796] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Crying_Prophet has reached the goal [Zombie Doctor]
+[29Mar2025 03:34:46.435] [Server thread/DEBUG] [red.felnull.otyacraftengine.data.WorldDataManager/]: saveing data
+[29Mar2025 03:34:46.868] [Server thread/DEBUG] [red.felnull.otyacraftengine.data.WorldDataManager/]: saveing data
+[29Mar2025 03:34:46.870] [Server thread/DEBUG] [red.felnull.otyacraftengine.data.WorldDataManager/]: saveing data
+[29Mar2025 03:34:46.870] [Server thread/DEBUG] [red.felnull.otyacraftengine.data.WorldDataManager/]: saveing data
+[29Mar2025 03:34:46.872] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: Gathering id map for writing to world save world
+[29Mar2025 03:34:46.888] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: ID Map collection complete world
+[29Mar2025 03:35:08.700] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: Crying_Prophet lost connection: Disconnected
+[29Mar2025 03:35:08.701] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Crying_Prophet left the game
+[29Mar2025 03:35:08.701] [Server thread/DEBUG] [red.felnull.otyacraftengine.data.WorldDataManager/]: unloding Crying_Prophet data
+[29Mar2025 03:35:08.701] [Thread-306/DEBUG] [red.felnull.otyacraftengine.data.WorldDataManager/]: saveing Crying_Prophet data
+[29Mar2025 03:35:08.701] [Server thread/DEBUG] [voicechat/]: [voicechat] Removing state of Crying_Prophet
+[29Mar2025 03:35:08.701] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Crying_Prophet
+[29Mar2025 03:35:08.710] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Player 5113c246-f851-365d-ae5f-8beea591f8fd does not have a secret
+[29Mar2025 03:35:08.727] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Player 5113c246-f851-365d-ae5f-8beea591f8fd does not have a secret

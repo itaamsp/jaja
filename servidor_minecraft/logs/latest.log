@@ -699,3 +699,12 @@ java.lang.NullPointerException: null
 [29Mar2025 03:22:04.145] [Server thread/INFO] [net.minecraft.entity.Entity/]: Villager VillagerEntity['Paula'/21887, l='ServerLevel[world]', x=-474.19, y=77.00, z=1772.40] died, message: 'Paula was slain by Inell'
 [29Mar2025 03:22:10.249] [Server thread/INFO] [net.minecraft.entity.Entity/]: Villager VillagerEntity['Isaac'/21886, l='ServerLevel[world]', x=-472.84, y=77.00, z=1772.70] died, message: 'Isaac was slain by Kory'
 [29Mar2025 03:24:27.601] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Crying_Prophet: Set own game mode to Creative Mode]
+[29Mar2025 03:28:07.600] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Crying_Prophet: Set own game mode to Survival Mode]
+[29Mar2025 03:28:19.379] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Crying_Prophet: Set own game mode to Creative Mode]
+[29Mar2025 03:28:20.107] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Crying_Prophet: Set own game mode to Survival Mode]
+[29Mar2025 03:28:20.773] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Crying_Prophet: Set own game mode to Creative Mode]
+[29Mar2025 03:28:21.279] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Crying_Prophet: Set own game mode to Survival Mode]
+[29Mar2025 03:30:05.796] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Crying_Prophet has reached the goal [Zombie Doctor]
+[29Mar2025 03:35:08.700] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: Crying_Prophet lost connection: Disconnected
+[29Mar2025 03:35:08.701] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Crying_Prophet left the game
+[29Mar2025 03:35:08.701] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Crying_Prophet
