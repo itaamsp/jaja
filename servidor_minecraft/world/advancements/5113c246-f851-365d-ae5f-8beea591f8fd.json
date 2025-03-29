@@ -12938,6 +12938,12 @@
     },
     "done": true
   },
+  "iceandfire:iceandfire/kill_cyclops": {
+    "criteria": {
+      "killed_fire_dragon": "2025-03-29 01:12:55 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/andesite_wall_from_andesite_stonecutting": {
     "criteria": {
       "has_the_recipe": "2025-03-24 22:27:34 +0000"

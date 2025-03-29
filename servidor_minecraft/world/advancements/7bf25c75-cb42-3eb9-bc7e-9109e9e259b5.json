@@ -5381,6 +5381,12 @@
     },
     "done": true
   },
+  "supplementaries:recipes/sign_post_spruce": {
+    "criteria": {
+      "has_plank": "2025-03-29 01:15:33 +0000"
+    },
+    "done": true
+  },
   "biomesoplenty:recipes/building_blocks/mossy_cobblestone_from_willow_vine": {
     "criteria": {
       "has_the_recipe": "2025-03-24 14:47:15 +0000"
@@ -20124,6 +20130,12 @@
   "minecraft:recipes/misc/gold_ingot": {
     "criteria": {
       "has_the_recipe": "2025-03-24 14:47:17 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/hanging_sign_spruce": {
+    "criteria": {
+      "has_plank": "2025-03-29 01:15:33 +0000"
     },
     "done": true
   },
