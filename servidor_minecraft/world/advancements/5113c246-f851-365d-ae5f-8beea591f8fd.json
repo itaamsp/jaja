@@ -3201,6 +3201,7 @@
       "minecraft:witch": "2025-03-25 00:52:22 +0000",
       "minecraft:husk": "2025-03-24 22:33:06 +0000",
       "minecraft:cave_spider": "2025-03-26 02:15:42 +0000",
+      "minecraft:silverfish": "2025-03-29 01:23:14 +0000",
       "minecraft:zombie": "2025-03-25 02:55:38 +0000",
       "minecraft:drowned": "2025-03-26 02:21:09 +0000"
     },
@@ -10919,6 +10920,12 @@
   "minecraft:recipes/decorations/gray_stained_glass_pane": {
     "criteria": {
       "has_the_recipe": "2025-03-24 22:27:34 +0000"
+    },
+    "done": true
+  },
+  "dungeons_arise:find_undead_pirate_ship": {
+    "criteria": {
+      "location0": "2025-03-29 01:21:45 +0000"
     },
     "done": true
   },
